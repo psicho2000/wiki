@@ -17,12 +17,12 @@ set targetdir="C:\Program Files (x86)\tomcat 7\webapps"
 del /q %targetdir%\project.*
 for /d %%x in (%targetdir%\project.*) do @rd /s /q ^"%%x^"
 
-REM ###### Deploy AEF Frontend ######
+REM ###### Deploy Frontend ######
 set targetdir="C:\Program Files (x86)\liferay\deploy\"
 set sourcedir="C:\Workspaces\project"
 copy %sourcedir%\project.war %targetdir%
 
-REM ###### Deploy AEF Backend ######
+REM ###### Deploy Backend ######
 set targetdir="C:\Program Files (x86)\tomcat 7\webapps"
 set sourcedir="C:\Workspaces\project"
 copy %sourcedir%\project.war %targetdir%
