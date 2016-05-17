@@ -1,0 +1,18 @@
+# Inhalt eines Repos filtern
+git ls-tree --full-tree -r HEAD|grep .settings
+
+# Verzeichnis aus Repo entfernen (commit-Message wird mit vim bearbeitet)
+git rm --cached -r <directory>
+git commit
+
+# push an existing repository from the command line
+git remote add origin <remote-url>
+git push -u origin master
+
+# create a new repository on the command line
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin <remote-url>
+git push -u origin master

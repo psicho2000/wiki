@@ -1,0 +1,171 @@
+Plugins (Help > Eclipse Marketplace...)
+    JRebel
+    Mailsnag
+    More Clipboard
+    MoreUnit
+    Spring Tool Suite (STS)
+    SpringSource Tool Suite (STS)
+    Subclipse
+
+Preferences (Windows > Preferences)
+    Appearance
+            Members Sort Order
+                x Sort members in same category by visibility
+                    Public
+                    Package
+                    Protected
+                    Private
+        Build Path
+            x Folders
+                Source folder name: src/main/java
+                Output folder name: target
+    General
+        Editors
+            Size of recently opened files list: 15
+            Syntax Coloring > Java
+                Classes / Interfaces:    43/145/175
+                Methods:                248/128/  7
+            Text Editors
+                Displayed tab width: 4
+                x Insert spaces for tabs
+                Annotations
+                    Occurrences
+                        x Include in next/previous navigation
+        Keys
+            siehe Shortcuts.docx
+        Search
+            o Reuse editors to show matches (aus)
+        Startup and Shutdown
+            Workspaces
+                x Prompt for workspace on startup
+                Number of recent workspaces to remember: 20
+    Ant
+        Runtime
+            Properties
+                maven.home=D:\opt\maven\2.2.1
+    Checkstyle
+        New...
+            Type:   Internal Configuration
+            Name:   <Name>
+            Import: ...
+    Java
+        Code Style
+            Clean Up
+            Code Templates
+            Formatter
+        Editor
+            Matching brackets highlight: red
+            Save Actions
+                x Perform the selected actions on save
+                    x Format source code
+                        x Format edited lines
+                o Organize imports (aus)
+            Templates
+                Import...
+        Installed JREs
+            Add...
+                Default VM Arguments
+                    <SSL Args>
+    Maven
+        x Download Artifact Sources
+        x Download Artifact JavaDoc
+        x Download repository index updates on startup
+        x Update Maven projects on startup
+        x Automatically update Maven projects configuration
+        x Hide folders of physically nested modules
+        Discovery > Open Catalog
+            m2e-egit
+            m2e-subclipse
+            buildhelper
+        Errors/Warnings
+            "groupId" duplicate of parent groupId:  Ignore
+            "version" duplicate of parent version:  Ignore
+        Installation
+            <External vs. Embedded>
+        User Interface
+            x Open XML page in the POM editor by default
+        User Settings
+            User Settings
+    MoreUnit
+        Java
+            Pattern:    ${srcFile}(Test|IT)
+    Run/Debug
+        Console
+            o Limit Console output (aus)
+    Team
+        SVN
+            Menu Icons
+                x TortoiseSVN
+    XML
+        XML Files
+            Editor
+                Line width: 130
+                x Indent using spaces
+                Indentation size: 4
+
+Search (Ctrl+H)
+    Customize
+        x Remember last used page
+
+Find/Replace (Ctrl+F)
+    x Incremental
+                
+SVN Repository Exploring (Window > Open Perspective > Other... > SVN Repository Exploring)
+    <Repo einrichten>
+
+Servers (Window > Show View > Other... > Servers)
+    Rechtsklick > New > Server
+        Tomcat v7.0 Server
+        Hostname:   localhost
+    Doppelklick auf den neuen Server
+        General Information
+            Runtime Environment
+                Tomcat installation directory: <Tomcat Dir>
+            Open launch configuration
+                Arguments > VM arguments: [(${jrebel_args} wird von JRebel generiert durch "Enable JRebel agent", s.u.)]
+                    ${jrebel_args} -Drebel.remoting_plugin=true -Dcatalina.base="<Tomcat Dir>" -Dcatalina.home="<Tomcat Dir>" -Dwtp.deploy="<Tomcat Dir>\wtpwebapps" -Djava.endorsed.dirs="<Tomcat Dir>\endorsed" -Xms6144M -Xmx6144M -XX:MaxPermSize=256M -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:NewSize=1024M -XX:+DisableExplicitGC -XX:SurvivorRatio=10 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=10 -Xss1m -Djava.util.Arrays.useLegacyMergeSort=true -Djava.net.preferIPv4Stack=true -Djava.awt.headless=true -Dnet.sf.ehcache.skipUpdateCheck=true
+        Server Locations
+            Use Tomcat installation
+                (Falls ausgegraut: Rechtsklick auf Server > Publish)
+        Timeouts
+            Start:  999
+            Stop:   215
+        JRebel Integration
+            x Enable JRebel agent
+
+View Task Repositories
+(Trac Connector ggf. aus Eclipse Marketplace installieren)
+    Add Task Repository...
+        Task repository type:   Trac
+        Server:                 <Repo>
+        Label:                  Trac
+        User ID:                <User>
+        Password:               <Pass>
+        x Save Password
+View Task List
+    New Query...
+
+Perspective JRebel Configuration
+    Overview
+        Lizenz: <License>
+    Startup
+        x Run via IDE
+        x Tomcat v7.0 Server at localhost
+    Remote servers
+        Add server
+            Server name: Tomcat
+            Server URL:  http://localhost:8080
+    Advanced
+        JRebel agent
+            x JRebel 6 Agent
+        Eclipse Notifcations
+            o Allow popup notifications (aus)
+        Privacy Settings
+            o Report usage statistics to ZeroTurnaround (aus)
+
+eclipse.ini
+    -showlocation
+    -Xms512m
+    -Xmx2048m
+    -XX:MaxPermSize=256m
+    <SSL Args>

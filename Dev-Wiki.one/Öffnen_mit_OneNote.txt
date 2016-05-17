@@ -1,0 +1,10 @@
+Öffnen mit OneNote 2013
+    Dazu erst die Anwendung starten (auch "Öffnen mit" funktioniert nicht).
+
+    C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013
+    C:\Program Files\Microsoft Office 15\root\office15\ONENOTE.EXE
+
+Öffnen mit OneNote 2007
+    Dazu das jeweilige Notizbuch im 2007er-Format speichern:
+    
+    Datei > Informationen > Einstellungen Dev-Wiki > Eigenschaften > In 2007 konvertieren
