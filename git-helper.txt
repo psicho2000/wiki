@@ -1,7 +1,7 @@
-# Inhalt eines Repos filtern
+# Filter contents of a repository
 git ls-tree --full-tree -r HEAD|grep .settings
 
-# Verzeichnis aus Repo entfernen (commit-Message wird mit vim bearbeitet)
+# Remove directory from repository
 git rm --cached -r <directory>
 git commit
 
@@ -16,3 +16,13 @@ git add README.md
 git commit -m "first commit"
 git remote add origin <remote-url>
 git push -u origin master
+
+# switch to another existing branch
+git fetch                       # fetches new branch names
+git checkout <branch-name>
+# shorthand for git branch & git checkout
+git checkout -b <new-branch-name>
+
+##### REMARKS
+# git bash: editor for commit message is vim
+# <tab> <tab> enables auto-completion. Useful also to find out known repositories (which must have been fetched first).
