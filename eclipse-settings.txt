@@ -22,6 +22,14 @@ Preferences (Windows > Preferences)
     General
         Editors
             Size of recently opened files list: 15
+            Content Assist
+                Favorites
+                    New Type: org.hamcrest.CoreMatchers
+            Save Actions
+                x Perform the selected actions on save
+                    x Format source code
+                        x Format all lines
+                o Organize imports (aus)
             Syntax Coloring > Java
                 Classes / Interfaces:    43/145/175
                 Methods:                248/128/  7
