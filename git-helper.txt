@@ -1,7 +1,10 @@
-# Filter contents of a repository
+# stage and commit 
+git commit -am "commit message"
+
+# filter contents of a repository
 git ls-tree --full-tree -r HEAD|grep .settings
 
-# Remove directory from repository
+# remove directory from repository
 git rm --cached -r <directory>
 git commit
 
