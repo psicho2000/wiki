@@ -25,6 +25,8 @@ git fetch                       # fetches new branch names
 git checkout <branch-name>
 # shorthand for git branch & git checkout
 git checkout -b <new-branch-name>
+# revert (reset) a single file
+git checkout <filename>
 
 ##### REMARKS
 # git bash: editor for commit message is vim
