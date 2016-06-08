@@ -25,6 +25,8 @@ Preferences (Windows > Preferences)
             Content Assist
                 Favorites
                     New Type: org.hamcrest.CoreMatchers
+                              org.springframework.test.web.servlet.request.MockMvcRequestBuilders
+                              org.springframework.test.web.servlet.result.MockMvcResultMatchers
             Save Actions
                 x Perform the selected actions on save
                     x Format source code
