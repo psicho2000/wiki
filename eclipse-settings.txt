@@ -34,6 +34,7 @@ Preferences (Windows > Preferences)
                 o Organize imports (aus)
             Syntax Coloring > Java
                 Classes / Interfaces:    43/145/175
+                Enums:                   43/145/175 Bold
                 Methods:                248/128/  7
             Text Editors
                 Displayed tab width: 4
@@ -62,6 +63,7 @@ Preferences (Windows > Preferences)
         Code Style
             Clean Up
             Code Templates
+                x Automatically add comments for new methods and types
             Formatter
         Editor
             Matching brackets highlight: red
