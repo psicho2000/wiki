@@ -22,20 +22,6 @@ Preferences (Windows > Preferences)
     General
         Editors
             Size of recently opened files list: 15
-            Content Assist
-                Favorites
-                    New Type: org.hamcrest.CoreMatchers
-                              org.springframework.test.web.servlet.request.MockMvcRequestBuilders
-                              org.springframework.test.web.servlet.result.MockMvcResultMatchers
-            Save Actions
-                x Perform the selected actions on save
-                    x Format source code
-                        x Format all lines
-                o Organize imports (aus)
-            Syntax Coloring > Java
-                Classes / Interfaces:    43/145/175
-                Enums:                   43/145/175 Bold
-                Methods:                248/128/  7
             Text Editors
                 Displayed tab width: 4
                 x Insert spaces for tabs
@@ -68,6 +54,16 @@ Preferences (Windows > Preferences)
             Formatter
         Editor
             Matching brackets highlight: red
+            Content Assist
+                Favorites
+                    New Type: org.hamcrest.CoreMatchers
+                              org.hamcrest.Matchers
+                              org.springframework.test.web.servlet.request.MockMvcRequestBuilders
+                              org.springframework.test.web.servlet.result.MockMvcResultMatchers
+            Syntax Coloring > Java
+                Classes / Interfaces:    43/145/175
+                Enums:                   43/145/175 Bold
+                Methods:                248/128/  7
             Save Actions
                 x Perform the selected actions on save
                     x Format source code
