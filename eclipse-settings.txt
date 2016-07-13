@@ -58,6 +58,7 @@ Preferences (Windows > Preferences)
                 Favorites
                     New Type: org.hamcrest.CoreMatchers
                               org.hamcrest.Matchers
+                              org.junit.Assert
                               org.springframework.test.web.servlet.request.MockMvcRequestBuilders
                               org.springframework.test.web.servlet.result.MockMvcResultMatchers
             Syntax Coloring > Java
