@@ -1,5 +1,6 @@
 Plugins (Help > Eclipse Marketplace...)
     JRebel
+    JSON Editor Plugin
     Mailsnag
     More Clipboard
     MoreUnit
