@@ -44,4 +44,4 @@ git checkout <filename>
 # 3. Remove [credential] section from system config
 #    git config --system -e
 
-5
+6
