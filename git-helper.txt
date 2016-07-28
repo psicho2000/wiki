@@ -43,3 +43,11 @@ git checkout <filename>
 #    alias priv='git config --global credential.helper store'
 # 3. Remove [credential] section from system config
 #    git config --system -e
+# 4. Helper Function in C:/Users/<user>/.bashrc
+#    push_wiki() {
+#        priv
+#        cd /d/Eigenes/wiki
+#        git commit -am "$1"
+#        git push
+#        team
+#    }
