@@ -9,17 +9,6 @@ Plugins (Help > Eclipse Marketplace...)
     Subclipse
 
 Preferences (Windows > Preferences)
-    Appearance
-            Members Sort Order
-                x Sort members in same category by visibility
-                    Public
-                    Package
-                    Protected
-                    Private
-        Build Path
-            x Folders
-                Source folder name: src/main/java
-                Output folder name: target
     General
         Editors
             Size of recently opened files list: 15
@@ -47,12 +36,26 @@ Preferences (Windows > Preferences)
             Name:   <Name>
             Import: ...
     Java
+        Appearance
+                Members Sort Order
+                    x Sort members in same category by visibility
+                        Public
+                        Package
+                        Protected
+                        Private
+            Build Path
+                x Folders
+                    Source folder name: src/main/java
+                    Output folder name: target
         Code Style
             Exception variable name in catch blocks: ex
             Clean Up
             Code Templates
                 x Automatically add comments for new methods and types
             Formatter
+        Compiler
+            Compiler compliance level: 1.8
+            x Use default compliance settings
         Editor
             Matching brackets highlight: red
             Content Assist
