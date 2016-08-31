@@ -20,6 +20,10 @@ git commit -m "first commit"
 git remote add origin <remote-url>
 git push -u origin master
 
+# create and push a new branch
+git checkout -b <branch>
+git push -u origin <branch>
+
 # switch to another existing branch
 git fetch                       # fetches new branch names
 git checkout <branch-name>
