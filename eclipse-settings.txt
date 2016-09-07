@@ -18,6 +18,8 @@ Preferences (Windows > Preferences)
                 Annotations
                     Occurrences
                         x Include in next/previous navigation
+                    Errors
+                        x Include in next/previous navigation
         Keys
             siehe Shortcuts.docx
         Search
