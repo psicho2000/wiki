@@ -32,6 +32,9 @@ git checkout -b <new-branch-name>
 # revert (reset) a single file
 git checkout <filename>
 
+# show last 2 commits
+git log -2
+
 ##### REMARKS
 # git bash: editor for commit message is vim
 # <tab> <tab> enables auto-completion. Useful also to find out known repositories (which must have been fetched first).
