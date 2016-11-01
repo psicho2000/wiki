@@ -1,5 +1,6 @@
 Plugins (Help > Eclipse Marketplace...)
-    JRebel
+    EclEmma
+    EGit
     JSON Editor Plugin
     Mailsnag
     More Clipboard
@@ -138,16 +139,14 @@ Servers (Window > Show View > Other... > Servers)
             Runtime Environment
                 Tomcat installation directory: <Tomcat Dir>
             Open launch configuration
-                Arguments > VM arguments: [(${jrebel_args} wird von JRebel generiert durch "Enable JRebel agent", s.u.)]
-                    ${jrebel_args} -Drebel.remoting_plugin=true -Dcatalina.base="<Tomcat Dir>" -Dcatalina.home="<Tomcat Dir>" -Dwtp.deploy="<Tomcat Dir>\wtpwebapps" -Djava.endorsed.dirs="<Tomcat Dir>\endorsed" -Xms6144M -Xmx6144M -XX:MaxPermSize=256M -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:NewSize=1024M -XX:+DisableExplicitGC -XX:SurvivorRatio=10 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=10 -Xss1m -Djava.util.Arrays.useLegacyMergeSort=true -Djava.net.preferIPv4Stack=true -Djava.awt.headless=true -Dnet.sf.ehcache.skipUpdateCheck=true
+                Arguments > VM arguments:
+                    -Dcatalina.base="<Tomcat Dir>" -Dcatalina.home="<Tomcat Dir>" -Dwtp.deploy="<Tomcat Dir>\wtpwebapps" -Djava.endorsed.dirs="<Tomcat Dir>\endorsed" -Xms6144M -Xmx6144M -XX:MaxPermSize=256M -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:NewSize=1024M -XX:+DisableExplicitGC -XX:SurvivorRatio=10 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=10 -Xss1m -Djava.util.Arrays.useLegacyMergeSort=true -Djava.net.preferIPv4Stack=true -Djava.awt.headless=true -Dnet.sf.ehcache.skipUpdateCheck=true
         Server Locations
             Use Tomcat installation
                 (Falls ausgegraut: Rechtsklick auf Server > Publish)
         Timeouts
             Start:  999
             Stop:   215
-        JRebel Integration
-            x Enable JRebel agent
 
 View Task Repositories
 (Trac Connector ggf. aus Eclipse Marketplace installieren)
@@ -160,24 +159,6 @@ View Task Repositories
         x Save Password
 View Task List
     New Query...
-
-Perspective JRebel Configuration
-    Overview
-        Lizenz: <License>
-    Startup
-        x Run via IDE
-        x Tomcat v7.0 Server at localhost
-    Remote servers
-        Add server
-            Server name: Tomcat
-            Server URL:  http://localhost:8080
-    Advanced
-        JRebel agent
-            x JRebel 6 Agent
-        Eclipse Notifcations
-            o Allow popup notifications (aus)
-        Privacy Settings
-            o Report usage statistics to ZeroTurnaround (aus)
 
 eclipse.ini
     -showlocation
