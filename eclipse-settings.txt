@@ -68,15 +68,15 @@ Preferences (Windows > Preferences)
                               org.junit.Assert
                               org.springframework.test.web.servlet.request.MockMvcRequestBuilders
                               org.springframework.test.web.servlet.result.MockMvcResultMatchers
-            Syntax Coloring > Java
-                Classes / Interfaces:    43/145/175
-                Enums:                   43/145/175 Bold
-                Methods:                248/128/  7
             Save Actions
                 x Perform the selected actions on save
                     x Format source code
                         x Format edited lines
                 o Organize imports (aus)
+            Syntax Coloring > Java
+                Classes / Interfaces:    43/145/175
+                Enums:                   43/145/175 Bold
+                Methods:                248/128/  7
             Templates
                 Import...
         Installed JREs
