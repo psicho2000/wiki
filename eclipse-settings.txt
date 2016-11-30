@@ -110,6 +110,10 @@ Preferences (Windows > Preferences)
         Console
             o Limit Console output (aus)
     Team
+        Git
+            Label Decorations
+                Text Decorations
+                    Projects: {dirty:>} {name} [{branch}{ branch_status}]
         SVN
             Menu Icons
                 x TortoiseSVN
