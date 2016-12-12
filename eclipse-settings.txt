@@ -6,7 +6,6 @@ Plugins (Help > Eclipse Marketplace...)
     More Clipboard
     MoreUnit
     Spring Tool Suite (STS)
-    SpringSource Tool Suite (STS)
     Subclipse
 
 Preferences (Windows > Preferences)
@@ -72,7 +71,7 @@ Preferences (Windows > Preferences)
                 x Perform the selected actions on save
                     x Format source code
                         x Format edited lines
-                o Organize imports (aus)
+                x Organize imports
             Syntax Coloring > Java
                 Classes / Interfaces:    43/145/175
                 Enums:                   43/145/175 Bold
