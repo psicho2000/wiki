@@ -67,6 +67,9 @@ Preferences (Windows > Preferences)
                               org.junit.Assert
                               org.springframework.test.web.servlet.request.MockMvcRequestBuilders
                               org.springframework.test.web.servlet.result.MockMvcResultMatchers
+            Folding
+                x Enable folding
+                o (alle anderen Element aus)
             Save Actions
                 x Perform the selected actions on save
                     x Format source code
