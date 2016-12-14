@@ -61,6 +61,9 @@ Preferences (Windows > Preferences)
         Editor
             Matching brackets highlight: red
             Content Assist
+                Insertion
+                    x Complete overwrites
+            Content Assist
                 Favorites
                     New Type: org.hamcrest.CoreMatchers
                               org.hamcrest.Matchers
@@ -81,6 +84,10 @@ Preferences (Windows > Preferences)
                 Methods:                248/128/  7
             Templates
                 Import...
+            Typing
+                Automatically insert at correct position
+                    x Semicolons
+                    x Braces
         Installed JREs
             Add...
                 Default VM Arguments
