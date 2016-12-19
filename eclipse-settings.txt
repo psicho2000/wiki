@@ -63,7 +63,6 @@ Preferences (Windows > Preferences)
             Content Assist
                 Insertion
                     x Complete overwrites
-            Content Assist
                 Favorites
                     New Type: org.hamcrest.CoreMatchers
                               org.hamcrest.Matchers
