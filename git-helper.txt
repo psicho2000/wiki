@@ -35,6 +35,10 @@ git checkout <filename>
 # show last 2 commits
 git log -2
 
+# create tag
+git tag -a v1.0.1
+git push --tags
+
 ##### REMARKS
 # git bash: editor for commit message is vim
 # <tab> <tab> enables auto-completion. Useful also to find out known repositories (which must have been fetched first).
