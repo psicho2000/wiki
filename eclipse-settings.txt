@@ -17,12 +17,12 @@ Preferences (Windows > Preferences)
                 Displayed tab width: 4
                 x Insert spaces for tabs
                 Annotations
-                    Occurrences
-                        x Include in next/previous navigation
                     Errors
                         x Include in next/previous navigation
+                    Occurrences
+                        x Include in next/previous navigation
         Keys
-            siehe Shortcuts.docx
+            siehe Eclipse-Shortcuts.docx
         Search
             o Reuse editors to show matches (aus)
         Startup and Shutdown
