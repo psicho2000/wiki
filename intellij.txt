@@ -1,0 +1,35 @@
+Settings
+    Keymap
+        see IntelliJ-Shortcuts.xlsx
+    Editor
+        General
+            x Change font size (Zoom) with Ctrl+Mouse Wheel
+        Colors & Fonts
+            Java
+                ...
+        Code Style
+            Right margin (columns): 130
+            JSON
+                Tabs and Indents
+                    Indent: 4
+    Build, Execution, Deployment
+        Build Tools
+            Maven
+                User settings file: ...
+        Compiler
+            Java Compiler
+                Project bytecode version: 1.8
+                Target bytecode version: 1.8
+    Plugins
+        Browse Repositories
+            Eclipse Code Formatter
+            Lombok Plugin
+            Save Actions
+    Other Settings
+        Eclipse Code Formatter
+            x Use the Eclipse code formatter
+            Eclipse Java Formatter config file: ...
+
+Tool Windows "Project"
+    Settings
+        x Autoscroll from Source
