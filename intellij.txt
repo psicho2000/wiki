@@ -6,12 +6,27 @@ Settings
             x Change font size (Zoom) with Ctrl+Mouse Wheel
         Colors & Fonts
             Java
-                ...
+                Class Fields: 0000C0
+                    Final: Bold
+                    Static: Italic
+                Classes & Interfaces: 2B91AF
+                    Enum: Bold
+                Keyword: 7F0055
+                Methods: F57E07
+                    Static: Italic
+                Parameters: 6A3E3E
+                    Type Parameter: 2B91AF
+                Variables: 6A3E3E
         Code Style
             Right margin (columns): 130
             JSON
                 Tabs and Indents
                     Indent: 4
+    Plugins
+        Browse Repositories
+            Eclipse Code Formatter
+            Lombok Plugin
+            Save Actions
     Build, Execution, Deployment
         Build Tools
             Maven
@@ -20,11 +35,6 @@ Settings
             Java Compiler
                 Project bytecode version: 1.8
                 Target bytecode version: 1.8
-    Plugins
-        Browse Repositories
-            Eclipse Code Formatter
-            Lombok Plugin
-            Save Actions
     Other Settings
         Eclipse Code Formatter
             x Use the Eclipse code formatter
