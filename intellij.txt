@@ -1,10 +1,16 @@
 Settings
+    Appearance & Behaviour
+        Appearance
+            Tooltip initial delay (ms): 500
     Keymap
         see IntelliJ-Shortcuts.xlsx
     Editor
         General
             x Change font size (Zoom) with Ctrl+Mouse Wheel
         Colors & Fonts
+            Font
+                Colors & Fonts
+                    Primary font: Source Code Pro
             Java
                 Class Fields: 0000C0
                     Final: Bold
