@@ -49,6 +49,7 @@ Settings
     Tools
         Terminal
             Shell path: "C:\Program Files\Git\bin\sh.exe" --login -i
+            Tab name: Git Bash
     Other Settings
         Eclipse Code Formatter
             x Use the Eclipse code formatter
