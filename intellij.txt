@@ -9,8 +9,13 @@ Settings
             x Change font size (Zoom) with Ctrl+Mouse Wheel
         Colors & Fonts
             Font
-                Colors & Fonts
-                    Primary font: Source Code Pro
+                Primary font: Source Code Pro
+            Console Colors
+                Console
+                    Background: 464646
+                    Standard Output: FFFFFF
+            Console Font
+                Primary font: Source Code Pro
             Java
                 Class Fields: 0000C0
                     Final: Bold
@@ -41,6 +46,9 @@ Settings
             Java Compiler
                 Project bytecode version: 1.8
                 Target bytecode version: 1.8
+    Tools
+        Terminal
+            Shell path: "C:\Program Files\Git\bin\sh.exe" --login -i
     Other Settings
         Eclipse Code Formatter
             x Use the Eclipse code formatter
