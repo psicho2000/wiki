@@ -7,6 +7,8 @@ Settings
     Editor
         General
             x Change font size (Zoom) with Ctrl+Mouse Wheel
+            Smart Keys
+                x Use "CamelHumps" words
         Colors & Fonts
             Font
                 Primary font: Source Code Pro
