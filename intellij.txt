@@ -6,6 +6,7 @@ Settings
         see IntelliJ-Shortcuts.xlsx
     Editor
         General
+            o Honor "CamelHumps" words settings when selecting on double click
             x Change font size (Zoom) with Ctrl+Mouse Wheel
             Smart Keys
                 x Use "CamelHumps" words
