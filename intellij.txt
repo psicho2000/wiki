@@ -33,6 +33,10 @@ Settings
                 Variables: 6A3E3E
         Code Style
             Right margin (columns): 130
+            Java
+                Imports
+                    Class count to use import with '*': 9999
+                    Names count to use static import with '*': 9999
             JSON
                 Tabs and Indents
                     Indent: 4
