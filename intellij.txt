@@ -8,6 +8,7 @@ Settings
         General
             o Honor "CamelHumps" words settings when selecting on double click
             x Change font size (Zoom) with Ctrl+Mouse Wheel
+            Limits > Maximum number of contents to keep in clipboard: 20
             Smart Keys
                 x Use "CamelHumps" words
         Colors & Fonts
