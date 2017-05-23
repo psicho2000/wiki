@@ -41,6 +41,8 @@ Settings
             JSON
                 Tabs and Indents
                     Indent: 4
+            XML
+                o Wrap text
         Live Templates
             other
                 saw
