@@ -53,6 +53,7 @@ Settings
     Plugins
         Browse Repositories
             Eclipse Code Formatter
+            Git ToolBox
             Lombok Plugin
             Save Actions
     Build, Execution, Deployment
