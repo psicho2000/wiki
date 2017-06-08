@@ -47,11 +47,16 @@ Settings
                 o Wrap text
         Live Templates
             other
+                hamis
+                    Abbreviation: hamis
+                    Description: Static import for hamcrest is
+                    Template Text: import static org.hamcrest.CoreMatchers.is;
+                    Applicable in Java: Declaration
                 saw
                     Abbreviation: saw
                     Description: Lombok Setter with Autowired
                     Template Text: @Setter(onMethod = @__(@Autowired))
-                    Applicable in Java: declaration
+                    Applicable in Java: Declaration
     Plugins
         Browse Repositories
             Eclipse Code Formatter
