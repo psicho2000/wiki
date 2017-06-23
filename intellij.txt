@@ -13,13 +13,9 @@ Settings
                 x Override console cycle buffer size: 16384
             Smart Keys
                 x Use "CamelHumps" words
-        Colors & Fonts
+        Colors & Fonts (for Default Scheme)
             Font
                 Primary font: Source Code Pro
-            Console Colors
-                Console
-                    Background: 464646
-                    Standard Output: FFFFFF
             Console Font
                 Primary font: Source Code Pro
             Java
@@ -44,7 +40,8 @@ Settings
                 Tabs and Indents
                     Indent: 4
             XML
-                o Wrap text
+                Other
+                    o Wrap text
         Live Templates
             other
                 hamis
