@@ -57,6 +57,7 @@ Settings
     Plugins
         Browse Repositories
             Eclipse Code Formatter
+            JSON Utils
             Git ToolBox
             Lombok Plugin
             Save Actions
