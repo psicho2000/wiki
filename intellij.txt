@@ -57,6 +57,7 @@ Settings
     Plugins
         Browse Repositories
             Eclipse Code Formatter
+            Java Stream Debugger
             JSON Utils
             Git ToolBox
             Lombok Plugin
