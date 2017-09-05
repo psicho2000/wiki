@@ -59,7 +59,7 @@ Settings
             Eclipse Code Formatter
             Java Stream Debugger
             JSON Utils
-            Git ToolBox
+            GitToolBox
             Lombok Plugin
             Save Actions
     Build, Execution, Deployment
