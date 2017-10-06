@@ -1,0 +1,13 @@
+WinZip, WinRAR, WinAce
+    o Temp-Dir = D:\Temp
+    -> WinAce kopiert dennoch; WinRAR und WinZip zeigen nicht dieses Problem
+WinRAR
+    Themes drauf
+    Compression
+        Remove duplicate filename from path
+    Paths
+        Folder for temporary Files: D:\Temp (x Use only for removable disks)
+    Coole Optionen
+        Ctrl+H (Flat Folders)
+        Ctrl+T (Tree View)
+        Options/File List/List View

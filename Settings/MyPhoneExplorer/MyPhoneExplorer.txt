@@ -1,0 +1,21 @@
+Einstellungen:
+    Verbindung
+        x Handy mit Android
+    Startvorgang
+        x Beim Start automatisch verbinden
+        x Multi-Sync ausführen
+    Verhalten
+        o Terminerinnerung anzeigen
+
+Verbindung per USB:
+1. ADB installieren:
+    http://www.handy-faq.de/forum/samsung_i9100_galaxy_s2_forum/197013-samsung_galaxy_s2_adb_android_sdk_windows_installieren.html
+2. USB Debugging einschalten
+    (Systemeinstellungen > Anwendungen > Entwicklung)
+    (Systemeinstellungen > Entwickleroptionen)
+
+s. auch: http://www.fjsoft.at/forum/viewtopic.php?t=11455
+    
+Falls Verbindung per WLAN nicht funktioniert:
+- 5 Ghz Netz an der FritzBox ausschalten
+

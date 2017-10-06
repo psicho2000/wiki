@@ -1,0 +1,31 @@
+Suchmaschinen:
+	Auf die jeweilige Seite gehen, Rechtsklick in das Suchformular, "Als Suchmaschine hinzufügen..."
+		Bibleserver.com
+		Chefkoch.de
+		duden.de
+		dict.leo.org
+		evendi.de
+		geizhals.de
+		idealo.de
+		de.wikipedia.org
+		en.wikipedia.org
+		youtube.com
+	Manpages: Einstellungen > Suchmaschinen verwalten...
+		javascript:document.write('<form name="f" action="http://unixhelp.ed.ac.uk/CGI/man-cgi?00+00" method="POST"><input type="hidden" name="command" value="%s"><input type="hidden" name="section" value="ANY"></form><script>f.submit();</script>');
+
+Allgemeine Einstellungen
+	Beim Start: Zuletzt angesehene Seiten öffnen
+	Downloads:	Vor dem Download von Dateien nach dem Speicherort fragen
+
+Experten-Einstellungen: chrome://flags/
+	Suche nach "mhtml" > Aktivieren
+	chrome://flags/#enable-tab-audio-muting > Aktivieren
+		
+Erweiterungen
+	crxMouse Chrome Gestures
+	Duplicate Tab Shortcut Key
+	Evernote Web Clipper
+	ChromeIPass (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis speichern)
+	ProxFlow
+	Adblock Plus
+	Chrometana (Google als Suchmaschine)

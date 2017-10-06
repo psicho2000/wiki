@@ -1,0 +1,44 @@
+Add to Search Bar 2.5
+    Beliebige Suchen hinzufügen (Rechtsklick in Suchfeld > "Zur Suchleiste hinzfügen")
+DownloadHelper 4.9.22
+    YouTube Downloader etc.
+FireGestures 1.8.6
+    MouseGestures
+Tab Mix Plus 0.4.1.3.1
+    Strg+Alt+T verdoppelt Browserfenster
+Mozilla Archive Format 3.0.1
+    Öffnet und speichert MHT
+Evernote Web Clipper 5.9.1
+    Webseiten für Evernote erfassen
+KeeFox 1.4.2
+
+Suchmaschinen
+    g  Google.de
+    l  dict.leo.de
+    d  Duden.de
+    w  Wikipedia.org (de)
+    we Wikipedia.org (en)
+    p  Geizhals.de
+    pi idealo.de
+    pe evendi.de
+    b  Bibleserver.com
+    (m  Magiccards.info)
+    c  chefkoch.de
+    m  manpages
+
+Settings
+    PasteAndGo
+    MouseGestures
+        Allgemein
+            Gesten bearbeiten
+                : bezeichnet Klickgeste
+                +/- bezeichnet Mausrad
+                * bezeichnet eine beliebige Folge (d.h. *RO sind Gesten, die auf RO enden)
+                
+                U  Neuer Browser Tab
+                O  Stopp
+                RL Dokument schließen
+        Erweitert
+            x Mausrad-Gesten aktivieren
+    FlashGot
+    TabbrowserPreferences

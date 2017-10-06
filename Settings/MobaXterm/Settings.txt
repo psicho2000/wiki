@@ -1,0 +1,2 @@
+Quick Connect:  Ctrl+Shift+S
+Exit:           Ctrl+Q

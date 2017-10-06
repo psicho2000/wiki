@@ -1,0 +1,4 @@
+PuTTY:
+    Window/Behaviour (für alle Sessions)
+	o System menu appears on Alt-Space
+        o Full screen on Alt-Enter

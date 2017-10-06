@@ -1,0 +1,6 @@
+Acrobat Reader
+    Bearbeiten/Grundeinstellungen
+        Allgemein (leider deprecated)
+            o Dokumente in Taskleiste anzeigen (aus)
+        Internet
+            o PDF in Browser anzeigen (aus)

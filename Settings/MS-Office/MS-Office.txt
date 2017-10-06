@@ -1,0 +1,45 @@
+Word
+    Optionen
+        Häufig verwendet
+            x Entwicklerregisterkarte in Multifunktionsleiste anzeigen
+        Erweitert
+            o Automatisch ganze Wörter markieren
+            o Drag & Drop
+            x Einfg für Überschreiben
+        Speichern
+            Standardspeicherort: <Desktop>
+
+Excel
+    Optionen
+        Häufig verwendet
+            x Entwicklerregisterkarte in Multifunktionsleiste anzeigen
+        Formeln
+            o Fehlerüberprüfung
+        Speichern
+            Standardspeicherort: <Desktop>
+        Erweitert
+            Anzeige
+                o Alle Fenster in der Taskleiste anzeigen
+            
+PowerPoint
+    Optionen
+        Speichern
+            Standardspeicherort: <Desktop>
+        Erweitert
+            Anzeige
+                o Alle Fenster in der Taskleiste anzeigen
+
+Outlook
+    Datendatei verschieben (outlook.pst)
+        1. Datei > Datenteiverwaltung > Ordner öffnen
+        2. Outlook schließen
+        3. outlook.pst an den gewünschten Ort schieben
+        4. Beim Neustart von Outlook fragt das Programm nach dem Ort der pst
+
+OneNote
+    Symbol immer anzeigen
+        Rechtsklick auf Taskleiste > Eigenschaften > Taskleiste > Infobereich anpassen > Benachrichtigungen und Aktionen > Symbole für die Anzeige auf der Taskleiste auswählen
+            OneNote: ein
+    Rechtsklick auf Symbol > Optionen
+        Standardwert für OneNote-Symbol: Bildschirmausschnitt erstellen
+        Standardwert für Bildschirmausschnitt: Nur in Zwischenablage kopieren

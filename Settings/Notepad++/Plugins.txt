@@ -1,0 +1,21 @@
+Zusätzlich:
+- XML Tools
+- Compare
+- TextFX Characters
+- MultiClipboard
+
+Bereits installiert:
+- Convertert
+- DSpellCheck
+- MIME Tools
+- NppExport
+- NppFTP
+- Plugin Manager
+
+Außerdem interessant (ungetestet)
+- JSON Viewer
+- HTML Tag
+- Bookmark Manager
+- Poor Man's T-Sql Formatter
+- ToolBucket
+- XPatherizerNPP
