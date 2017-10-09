@@ -47,7 +47,7 @@ Settings
                 hamis
                     Abbreviation: hamis
                     Description: Static import for hamcrest is
-                    Template Text: import static org.hamcrest.CoreMatchers.is;
+                    Template Text: import static org.hamcrest.Matchers.is;
                     Applicable in Java: Declaration
                 saw
                     Abbreviation: saw
