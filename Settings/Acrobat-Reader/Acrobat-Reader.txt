@@ -1,6 +1,10 @@
-Acrobat Reader
-    Bearbeiten/Grundeinstellungen
-        Allgemein (leider deprecated)
-            o Dokumente in Taskleiste anzeigen (aus)
-        Internet
-            o PDF in Browser anzeigen (aus)
+Bearbeiten > Voreinstellungen (Strg+K)
+    Allgemein
+        x Dokumente als neue Registerkarten im selben Fenster öffnen
+        Mitteilungen von Adobe
+            o Mitteilungen beim Starten von Adobe Acrobat Reader anzeigen
+    Dokumente
+        Öffnen-Einstellungen
+            x Aktuellen Status des Werkzeugfensters speichern
+    Internet
+        o PDF in Browser anzeigen

@@ -11,6 +11,7 @@ Mozilla Archive Format 3.0.1
 Evernote Web Clipper 5.9.1
     Webseiten für Evernote erfassen
 KeeFox 1.4.2
+JSONView
 
 Suchmaschinen
     g  Google.de

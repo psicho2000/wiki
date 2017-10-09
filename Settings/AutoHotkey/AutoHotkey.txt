@@ -1,3 +1,0 @@
-; Insert into AutoHotkey.ahk:
-
-#e::run explorer.exe D:

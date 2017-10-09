@@ -35,6 +35,16 @@ Outlook
         2. Outlook schließen
         3. outlook.pst an den gewünschten Ort schieben
         4. Beim Neustart von Outlook fragt das Programm nach dem Ort der pst
+    Adressbücher
+        Ribbon "Start" > Adressbuch > Extras > Optionen
+            Benutzerdefiniert
+                Hinzufügen... > Globale Adressliste
+                Globale Adressliste ganz nach oben bewegen
+            Beim Öffnen des Adressbuchs diese Adressliste zuerst anzeigen: Globale Adressliste
+    Ribbon "Datei" > Optionen > E-Mail > Outlook-Bereiche > Lesebereich
+        o Element als gelesen markieren, wenn neue Auswahl erfolgt
+    Systray > Outlook > Rechtsklick
+        x Ausblenden, wenn minimiert
 
 OneNote
     Symbol immer anzeigen
@@ -43,3 +53,6 @@ OneNote
     Rechtsklick auf Symbol > Optionen
         Standardwert für OneNote-Symbol: Bildschirmausschnitt erstellen
         Standardwert für Bildschirmausschnitt: Nur in Zwischenablage kopieren
+    Datei > Optionen
+        Dokumentenprüfung
+            o Rechtschreibung während der Eingabe überprüfen (aus)
