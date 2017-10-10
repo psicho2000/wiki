@@ -1,0 +1,7 @@
+Settings > Configuration
+    General > MobaXterm keyboard shortcuts
+        Exit MobaXterm: Ctrl + Q
+    Terminal > Default colors scheme: "Solarized dark"
+        (This will NOT touch already defined sessions, but only newly defined ones.)
+
+Buttons bar > right click > Customize buttons > Replace "X server" with "Systray"

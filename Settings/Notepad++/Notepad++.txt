@@ -1,0 +1,32 @@
+Einstellungen > Optionen > Sprache
+    Tabulatoren
+        Tabulatorbreite: 4
+        x Durch Leerzeichen ersetzen
+
+Erweiterungen > Plugin Manager > Show Plugin Manager
+    - Compare
+    - HEX-Editor
+    - JSTool
+    - MultiClipboard
+    - TextFX Characters
+    - XML Tools
+
+    Bereits installiert:
+    - Converter
+    - DSpellCheck
+    - MIME Tools
+    - NppExport
+    - NppFTP
+    - Plugin Manager
+
+    Außerdem interessant (ungetestet)
+    - JSON Viewer
+    - HTML Tag
+    - Bookmark Manager
+    - Poor Man's T-Sql Formatter
+    - ToolBucket
+    - XPatherizerNPP
+
+Erweiterungen (manuell)
+    https://sourceforge.net/projects/nppjsonviewer/
+    Ins Plugin-Verzeichnis kopieren und neustarten
