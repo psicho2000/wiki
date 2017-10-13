@@ -13,11 +13,9 @@ Settings
                 x Override console cycle buffer size: 16384
             Smart Keys
                 x Use "CamelHumps" words
-        Colors & Fonts (for Default Scheme)
-            Font
-                Primary font: Source Code Pro
-            Console Font
-                Primary font: Source Code Pro
+        Font
+            Font: Source Code Pro
+        Colors Scheme (Duplicate... > "Markus")
             Java
                 Class Fields: 0000C0
                     Final: Bold
@@ -31,7 +29,7 @@ Settings
                     Type Parameter: 2B91AF
                 Variables: 6A3E3E
         Code Style
-            Right margin (columns): 130
+            Visual guides: 130
             Java
                 Imports
                     Class count to use import with '*': 9999
