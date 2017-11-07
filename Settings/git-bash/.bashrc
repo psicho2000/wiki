@@ -6,6 +6,7 @@ alias debian='docker exec -it debian'
 alias d='docker'
 alias dc='docker-compose'
 alias log="docker-compose logs -f"
+alias dps="docker ps --format 'table {{.ID}}\t{{.Image}}\t{{.RunningFor}}\t{{.Status}}\t{{.Ports}}'"
 de() {
     winpty docker exec -it "$1" bash
 }
