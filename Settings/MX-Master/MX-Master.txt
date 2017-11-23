@@ -1,0 +1,44 @@
+Ggf. Gestenschalter > Gestenschalter > Benutzerdefiniert
+
+Belegung der unteren Taste: Mausempfindlichkeit
+    Master: maximal
+    Benutzerdefiniert: 2. Stufe
+
+Daumenradrichtung: Invertiert
+
+AutoHotkey
+    WheelRight::FastForward()
+    WheelLeft::Rewind()
+
+    FastForward()
+    {
+        WinGetActiveTitle, Title
+        IfInString, Title, VLC media player
+        {
+            Send +{Right}
+        }
+        IfInString, Title, Microsoft Edge
+        {
+            Send {Right}
+        }
+        IfInString, Title, Google Chrome
+        {
+            Send {Right}
+        }
+    }
+    Rewind()
+    {
+        WinGetActiveTitle, Title
+        IfInString, Title, VLC media player
+        {
+            Send +{Left}
+        }
+        IfInString, Title, Microsoft Edge
+        {
+            Send {Left}
+        }
+        IfInString, Title, Google Chrome
+        {
+            Send {Left}
+        }
+    }
