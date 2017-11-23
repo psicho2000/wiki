@@ -7,38 +7,27 @@ Belegung der unteren Taste: Mausempfindlichkeit
 Daumenradrichtung: Invertiert
 
 AutoHotkey
-    WheelRight::FastForward()
-    WheelLeft::Rewind()
+    $WheelRight::FastForward()
+    $WheelLeft::Rewind()
 
-    FastForward()
-    {
+    FastForward() {
         WinGetActiveTitle, Title
-        IfInString, Title, VLC media player
-        {
+        if (InStr(Title, "VLC media player")) {
             Send +{Right}
-        }
-        IfInString, Title, Microsoft Edge
-        {
+        } else if (InStr(Title, "Microsoft Edge") or InStr(Title, "Google Chrome")) {
             Send {Right}
-        }
-        IfInString, Title, Google Chrome
-        {
-            Send {Right}
+        } else {
+            Send {WheelRight}
         }
     }
-    Rewind()
-    {
+
+    Rewind() {
         WinGetActiveTitle, Title
-        IfInString, Title, VLC media player
-        {
+        if (InStr(Title, "VLC media player")) {
             Send +{Left}
-        }
-        IfInString, Title, Microsoft Edge
-        {
+        } else if (InStr(Title, "Microsoft Edge") or InStr(Title, "Google Chrome")) {
             Send {Left}
-        }
-        IfInString, Title, Google Chrome
-        {
-            Send {Left}
-        }
+        } else {
+            Send {WheelLeft}
+        }  
     }
