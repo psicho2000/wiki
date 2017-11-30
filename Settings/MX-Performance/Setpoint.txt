@@ -1,0 +1,1 @@
+Zoom = Mausempfindlichkeit (800 / 1500 DPI)
