@@ -56,8 +56,8 @@ Settings
         Browse Repositories
             Eclipse Code Formatter
             Java Stream Debugger
-            JSON Utils
-            GitToolBox
+            JSON Utils (z.B. für JSON Path)
+            GitToolBox (z.B. für Anzeige vom aktuellen Branch im Project Tree)
             Lombok Plugin
             Save Actions
     Build, Execution, Deployment
