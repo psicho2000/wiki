@@ -65,6 +65,8 @@ Settings
         Build Tools
             Maven
                 User settings file: ...
+                Importing
+                    Automatically download: x Sources x Documentation
         Compiler
             Java Compiler
                 Project bytecode version: 1.8
