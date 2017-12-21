@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# 1. download and unpack http://www.nano-editor.org/dist/v2.2/NT/nano-2.2.6.zip (sadly, no newer version available)
+# 2. put this file into path
+
+exec winpty /c/Program\ Files\ \(x86\)/nano/nano.exe "$@"
