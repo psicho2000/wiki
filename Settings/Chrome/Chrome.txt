@@ -30,3 +30,4 @@ Erweiterungen
 	Adblock Plus
 	Chrometana (Google als Suchmaschine)
     JSON Formatter
+    Stylish ([Solarized] Dark Styles for GitHub, JIRA, ...)

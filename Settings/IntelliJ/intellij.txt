@@ -29,6 +29,7 @@ Settings
                     Type Parameter: 2B91AF
                 Variables: 6A3E3E
         Code Style
+            Hard wrap at: 130
             Visual guides: 130
             Java
                 Imports
