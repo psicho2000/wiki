@@ -1,1 +1,1 @@
-# On windows, put this into C:\Benutzer\m.meier
+# On windows, put this into C:\Users\<username>

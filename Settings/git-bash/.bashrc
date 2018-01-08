@@ -7,8 +7,14 @@ alias d='docker'
 alias dc='docker-compose'
 alias log="docker-compose logs -f"
 alias dps="docker ps --format 'table {{.ID}}\t{{.Image}}\t{{.RunningFor}}\t{{.Status}}\t{{.Ports}}'"
-de() {
+alias de="docker-exec"
+alias dce="docker-compose-exec"
+docker-exec() {
     winpty docker exec -it "$1" bash
+}
+docker-compose-exec ()
+{
+    winpty docker-compose exec "$1" bash
 }
 push_wiki() {
     priv
