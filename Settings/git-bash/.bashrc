@@ -18,9 +18,9 @@ docker-compose-exec ()
     winpty docker-compose exec "$1" bash
 }
 function docker-compose-update() {
-    docker-compose stop "$*"
-    docker-compose pull "$*"
-    docker-compose up -d "$*"
+    docker-compose stop $*
+    docker-compose pull $*
+    docker-compose up -d $*
 }
 push_wiki() {
     priv
