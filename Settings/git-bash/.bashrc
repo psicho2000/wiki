@@ -6,14 +6,23 @@ alias debian='docker exec -it debian'
 alias d='docker'
 alias dc='docker-compose'
 alias log="docker-compose logs -f"
-alias dps="docker ps --format 'table {{.ID}}\t{{.Image}}\t{{.RunningFor}}\t{{.Status}}\t{{.Ports}}'"
+alias dps="docker-ps-format"
+alias dpsn="docker-ps-format-sort-by-name"
 alias de="docker-exec"
 alias dce="docker-compose-exec"
 alias dcu="docker-compose-update"
-docker-exec() {
+
+function docker-ps-format-sort-by-name() {
+    docker-ps-format $*|awk 'NR<2{print $0;next}{print $0| "sort -k2"}'
+}
+
+function docker-ps-format() {
+    docker ps $* --format 'table {{.ID}}\t{{.Image}}\t{{.RunningFor}}\t{{.Status}}\t{{.Ports}}'
+}
+function docker-exec() {
     winpty docker exec -it "$1" bash
 }
-docker-compose-exec ()
+function docker-compose-exec ()
 {
     winpty docker-compose exec "$1" bash
 }
@@ -22,7 +31,7 @@ function docker-compose-update() {
     docker-compose pull $*
     docker-compose up -d $*
 }
-push_wiki() {
+function push_wiki() {
     priv
     cd /d/Eigenes/wiki
     git commit -am "$1"
