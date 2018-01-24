@@ -3,9 +3,9 @@ alias training='cd /d/Eigenes/Prog/Code/Java_2015/workspaces/training'
 alias redmine='cd /d/Eigenes/Prog/Code/Java_2015/workspaces/redmine-protocol'
 alias busybox='docker run -it --rm busybox'
 alias debian='docker exec -it debian'
-alias d='docker'
-alias dc='docker-compose'
-alias log="docker-compose logs -f"
+alias d='winpty docker'
+alias dc='winpty docker-compose'
+alias log="winpty docker-compose logs -f"
 alias dps="docker-ps-format"
 alias dpsn="docker-ps-format-sort-by-name"
 alias de="docker-exec"
@@ -27,9 +27,9 @@ function docker-compose-exec ()
     winpty docker-compose exec "$1" bash
 }
 function docker-compose-update() {
-    docker-compose stop $*
-    docker-compose pull $*
-    docker-compose up -d $*
+    winpty docker-compose stop $*
+    winpty docker-compose pull $*
+    winpty docker-compose up -d $*
 }
 function push_wiki() {
     priv
