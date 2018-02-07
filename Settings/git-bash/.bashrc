@@ -1,3 +1,4 @@
+alias ll='ls -lA'
 alias wiki='cd /d/Eigenes/Prog/Code/Java_2015/wiki'
 alias training='cd /d/Eigenes/Prog/Code/Java_2015/workspaces/training'
 alias redmine='cd /d/Eigenes/Prog/Code/Java_2015/workspaces/redmine-protocol'
