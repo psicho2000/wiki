@@ -60,6 +60,7 @@ Settings
             JSON Utils (z.B. für JSON Path)
             GitToolBox (z.B. für Anzeige vom aktuellen Branch im Project Tree)
             Lombok Plugin
+            Open Terminal Here
             Save Actions
     Build, Execution, Deployment
         Build Tools
