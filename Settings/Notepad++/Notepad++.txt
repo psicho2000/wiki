@@ -1,7 +1,13 @@
+32-bit (wegen Kompatibilität mit einigen Plugins, z.B. HEX-Editor, MultiClipboard, TextFX)
+
 Einstellungen > Optionen > Sprache
     Tabulatoren
         Tabulatorbreite: 4
         x Durch Leerzeichen ersetzen
+
+https://github.com/bruderstein/nppPluginManager/releases
+	x32.zip herunterladen
+	Ins Notepad++ Installations-Verzeichnis entpacken
 
 Erweiterungen > Plugin Manager > Show Plugin Manager
     - Compare

@@ -1,0 +1,8 @@
+Tools > Options
+    Interface
+        x Minimize to tray instead of taskbar
+    Integration
+        x Run KeePass at Windows startup
+
+Chrome Integration
+    siehe Chrome Install Notes

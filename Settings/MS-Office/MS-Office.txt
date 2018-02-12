@@ -2,12 +2,12 @@ Word
     Optionen
         Häufig verwendet
             x Entwicklerregisterkarte in Multifunktionsleiste anzeigen
+        Speichern
+            Standardspeicherort: <Desktop>
         Erweitert
             o Automatisch ganze Wörter markieren
             o Drag & Drop
             x Einfg für Überschreiben
-        Speichern
-            Standardspeicherort: <Desktop>
 
 Excel
     Optionen
@@ -20,7 +20,7 @@ Excel
         Erweitert
             Anzeige
                 o Alle Fenster in der Taskleiste anzeigen
-            
+
 PowerPoint
     Optionen
         Speichern
@@ -31,7 +31,7 @@ PowerPoint
 
 Outlook
     Datendatei verschieben (outlook.pst)
-        1. Datei > Datenteiverwaltung > Ordner öffnen
+        1. Datei > Datendateiverwaltung > Ordner öffnen
         2. Outlook schließen
         3. outlook.pst an den gewünschten Ort schieben
         4. Beim Neustart von Outlook fragt das Programm nach dem Ort der pst
