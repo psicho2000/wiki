@@ -60,7 +60,6 @@ Settings
             JSON Utils (z.B. für JSON Path)
             GitToolBox (z.B. für Anzeige vom aktuellen Branch im Project Tree)
             Lombok Plugin
-            Open Terminal Here
             Save Actions
     Build, Execution, Deployment
         Build Tools
@@ -73,6 +72,13 @@ Settings
                 Project bytecode version: 1.8
                 Target bytecode version: 1.8
     Tools
+        External Tools > Add...
+            Name: Git Bash
+            Program: C:\Progra~1\Git\git-bash.exe
+            Working directory: $ModuleFileDir$
+            Advanced Options
+                o Synchronize files after execution
+                o Open console for tool output
         Terminal
             Shell path: "C:\Program Files\Git\bin\sh.exe" --login -i
             Tab name: Git Bash
