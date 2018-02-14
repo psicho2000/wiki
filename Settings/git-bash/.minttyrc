@@ -26,5 +26,3 @@ CursorColour=133,153,0
 CursorType=block
 Transparency=low
 CtrlAltIsAltGr=yes
-OpaqueWhenFocused=no
-ClicksPlaceCursor=no
