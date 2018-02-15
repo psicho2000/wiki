@@ -7,5 +7,5 @@ Capslock::Shift
 ; Win-E starts Explorer with drive D: active and brings it to front
 #e::
     run explorer.exe D:
-    WinActivate, D:\
-return
+;    WinActivate, D:\
+;return
