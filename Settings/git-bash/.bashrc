@@ -21,11 +21,11 @@ function docker-ps-format() {
     docker ps $* --format 'table {{.ID}}\t{{.Image}}\t{{.RunningFor}}\t{{.Status}}\t{{.Ports}}'
 }
 function docker-exec() {
-    docker exec -it "$1" bash
+    winpty docker exec -it "$1" bash
 }
 function docker-compose-exec ()
 {
-    docker-compose exec "$1" bash
+    winpty docker-compose exec "$1" bash
 }
 function docker-compose-update() {
     docker-compose stop $*
