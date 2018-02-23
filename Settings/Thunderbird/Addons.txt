@@ -1,6 +1,7 @@
 ﻿Google OAuth2 ist in Thunderbird integriert
 	(Two-Factor-Auth geht nur für IMAP und SMTP, nicht für POP3)
 
+minimizetotray-revived
 GMailUI
 ReFwdFormatter
 SmartTemplate
