@@ -1,0 +1,19 @@
+Photoshop
+  Einstellungen/Maßeinheiten und Lineal
+    Lineal: Pixel / Art: Pixel
+    
+  Einstellung > Leistung > OGL aktivieren
+
+  Bild ausdocken (Drag&Drop auf Dateiname) > Doppelklick (vergrößern)
+    => beim Schieben mit der Hand gibt es einen Auto-Zoom, falls Bild größer als Bildschirm und OGL aktiv ist (GEIL)
+
+Photoshop Elements
+  Starten mit Editor
+  Ebenen + Rückgängig Protokoll in einen Reiter
+  Effekt + Inhalt in einen Reiter
+  Information + Histogramm + Navigator in einen Reiter
+  Alle Reiter auf 2. Monitor
+  Projektbereich und Palettenbereich ausblenden
+
+Weiteres:
+  D:\Res\eBook\Programme\Photoshop
