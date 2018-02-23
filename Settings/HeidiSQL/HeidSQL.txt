@@ -1,0 +1,2 @@
+Einstellungen > Allgemein > Schnipsel-Verzeichnis
+    D:\Eigenes\Dokumente\HeidiSQL-Snippets

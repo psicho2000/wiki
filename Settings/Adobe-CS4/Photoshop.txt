@@ -1,8 +1,9 @@
 Photoshop
-  Einstellungen/Maßeinheiten und Lineal
-    Lineal: Pixel / Art: Pixel
-    
-  Einstellung > Leistung > OGL aktivieren
+  Einstellungen
+    Leistung
+        OGL aktivieren
+    Maßeinheiten und Lineal
+        Lineal: Pixel / Art: Pixel
 
   Bild ausdocken (Drag&Drop auf Dateiname) > Doppelklick (vergrößern)
     => beim Schieben mit der Hand gibt es einen Auto-Zoom, falls Bild größer als Bildschirm und OGL aktiv ist (GEIL)
