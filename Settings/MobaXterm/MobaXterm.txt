@@ -1,6 +1,8 @@
 Settings > Configuration
     General > MobaXterm keyboard shortcuts
         Exit MobaXterm: Ctrl + Q
+        Show MobaXterm / hide to systray: Ctrl + Shift + X (to prevent clash with IntelliJ)
+        Show / hide popup terminal: none (to prevent clash with IntelliJ)
     Terminal > Default colors scheme: "Solarized dark"
         (This will NOT touch already defined sessions, but only newly defined ones.)
 
