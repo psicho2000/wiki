@@ -2,6 +2,7 @@ Tools > Options
     Interface
         x Minimize to tray instead of taskbar
     Integration
+        Show KeePass window: Ctrl, Alt + Oem6 (i.e. AltGr + ´) (to prevent clash with IntelliJ)
         x Run KeePass at Windows startup
 
 Chrome Integration
