@@ -52,4 +52,4 @@ function push_wiki() {
 
 # Set directory colors
 eval `dircolors ~/.dircolors`
-. ~/docker-compose-completion.sh
+. ~/.docker-compose-completion.sh
