@@ -25,8 +25,7 @@ function explain() {
     fi
     declare -f $1
 }
-function docker-compose-exec ()
-{
+function docker-compose-exec () {
     winpty docker-compose exec "$1" bash
 }
 function docker-compose-update() {
