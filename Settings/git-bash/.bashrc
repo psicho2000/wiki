@@ -6,6 +6,7 @@ alias dcl='winpty docker-compose logs -f'
 alias dcu='docker-compose-update'
 alias de='docker-exec'
 alias debian='docker exec -it debian'
+alias di='docker-inspect'
 alias dps='docker-ps-format'
 alias dpsn='docker-ps-format-sort-by-name'
 alias ll='ls -lAh'
@@ -35,6 +36,9 @@ function docker-compose-update() {
 }
 function docker-exec() {
     winpty docker exec -it "$1" bash
+}
+function docker-inspect() {
+  docker ps|grep $1|awk -F'[[:space:]]+' '{print $1}'|xargs docker inspect|less
 }
 function docker-ps-format() {
     docker ps $* --format 'table {{.ID}}\t{{.Image}}\t{{.RunningFor}}\t{{.Status}}\t{{.Ports}}'
