@@ -32,3 +32,6 @@ Erweiterungen
     JSON Formatter
     Stylish ([Solarized] Dark Styles for GitHub, JIRA, ...)
     Google Search Navigator
+    I dont care about Cookies
+    ZenMate (VPN)
+    Hotspot Shield (VPN)
