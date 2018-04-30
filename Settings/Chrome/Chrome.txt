@@ -1,37 +1,42 @@
-Suchmaschinen:
-	Auf die jeweilige Seite gehen, Rechtsklick in das Suchformular, "Als Suchmaschine hinzufügen..."
-		Bibleserver.com
-		Chefkoch.de
-		duden.de
-		evendi.de
-		geizhals.de
-		idealo.de
-		youtube.com
-    Hinzufügen
+... > Einstellungen
+    Suchmaschine > Suchmaschinen verwalten > Hinzufügen
         Google          g
         Leo             l   https://dict.leo.org/ende?lang=de&search=%s
         Wikipedia (de)  w   https://de.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
         Wikipedia (en)  we  https://en.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
-
-Allgemeine Einstellungen
 	Beim Start: Zuletzt angesehene Seiten öffnen
-	Downloads:	Vor dem Download von Dateien nach dem Speicherort fragen
+	Erweitert
+        Sicherheit und Datenschutz > Inhaltseinstellungen > Benachrichtigungen: Blockiert
+        Downloads: Vor dem Download von Dateien nach dem Speicherort fragen
+
+Weitere Suchmaschinen
+    Auf die jeweilige Seite gehen, Rechtsklick in das Suchformular, "Als Suchmaschine hinzufügen..."
+        Bibleserver.com b
+        Chefkoch.de     c
+        duden.de        d
+        evendi.de       pe
+        geizhals.de     p
+        idealo.de       pi
+        youtube.com     y
+
 
 Experten-Einstellungen: chrome://flags/
 	Suche nach "mhtml" > Aktivieren
 	chrome://flags/#enable-tab-audio-muting > Aktivieren
 		
-Erweiterungen
-	crxMouse Chrome Gestures
-	Duplicate Tab Shortcut Key
-	Evernote Web Clipper
-	ChromeIPass (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis speichern)
-	ProxFlow
-	Adblock Plus
-	Chrometana (Google als Suchmaschine)
-    JSON Formatter
-    Stylish ([Solarized] Dark Styles for GitHub, JIRA, ...)
-    Google Search Navigator
-    I dont care about Cookies
-    ZenMate (VPN)
-    Hotspot Shield (VPN)
+... > Weitere Tools > Erweiterungen > Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
+    Top
+        ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern)
+        Google Search Navigator     (Shortcuts für Google Suchergebnisseite)
+        I dont care about Cookies
+    Backlog
+        Adblock Plus
+        Chrometana                  (Google als Suchmaschine)
+        crxMouse Chrome Gestures
+        Duplicate Tab Shortcut Key  (bessere Alternative ohne Plugin: Alt+D, Alt+Return)
+        Evernote Web Clipper
+        Hotspot Shield              (VPN)
+        JSON Formatter
+        ProxFlow                    (Ländersperren für Youtube und weitere umgehen)
+        Stylish                     ([Solarized] Dark Styles for GitHub, JIRA, ...)
+        ZenMate                     (VPN)
