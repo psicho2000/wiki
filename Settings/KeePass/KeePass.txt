@@ -1,9 +1,15 @@
 Tools > Options
     Interface
-        x Minimize to tray instead of taskbar
+        Main Window
+            x Minimize to tray instead of taskbar
+            x Minimize main window after performing auto-type
     Integration
+        Global auto-type: None (to prevent clash with IntelliJ)
         Show KeePass window: Ctrl, Alt + Oem6 (i.e. AltGr + ´) (to prevent clash with IntelliJ)
         x Run KeePass at Windows startup
+    Advanced
+        Start and Exit
+            x Automatically save after modifying an entry using the entry editing dialog
 
 Chrome Integration
     siehe Chrome Install Notes
