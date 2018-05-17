@@ -2,6 +2,12 @@ Settings
     Appearance & Behaviour
         Appearance
             Tooltip initial delay (ms): 500
+        Quick Lists > Add
+            Tool Windows
+                Maven Projects
+                Database
+                REST Client
+                Gradle
     Keymap
         see IntelliJ-Shortcuts.xlsx
     Editor
