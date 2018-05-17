@@ -71,6 +71,9 @@ Settings
             Java Compiler
                 Project bytecode version: 1.8
                 Target bytecode version: 1.8
+    Languages & Frameworks
+        SQL Dialects
+            Global SQL Dialect: PostgreSQL / MySQL
     Tools
         External Tools > Add...
             Name: Git Bash
