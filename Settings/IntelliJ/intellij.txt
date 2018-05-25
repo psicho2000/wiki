@@ -1,3 +1,10 @@
+Installation
+    Install Toolbox App
+    Via Toolbox App, install IntelliJ IDEA
+    Toolbox > Cog > Settings > Edit Virtual Machine Options > Notepad++
+    Jetbrains Toolbox.
+    Add "-Dproject.tree.structure.show.url=false" at the end in a new line and save the file
+
 Settings
     Appearance & Behaviour
         Appearance
