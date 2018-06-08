@@ -1,0 +1,23 @@
+Move Caret to String > Alt + Return > Inject Language or Reference > Return > Choose language
+Alt + Return > Edit [language] Fragment
+RegExp: Alt + Return > Check RegExp
+
+Smart Completion! (Ctrl + Shift + Space)
+Postfix complete: Variable. oder Variable wählen > Ctrl + Space > Choose a completion from bottom (not dotted ones)
+
+Switch Window > Editor Tabs > Tabs Placement to none
+Switch View > Navigation Bar off (and use Alt + Home instead)
+
+Plugin "MetricsReloaded"
+Structural Search/Replace
+    Templates können als Inspections verwendet werden
+
+Debugger:
+    Drop Frame
+    Group Breakpoints
+
+REST Client (anstelle von Postman!)
+
+Eigene Quick Lists (konfigurierbar, wie "Switch" und "VCS Operations")
+
+Find Symbol > Bean Name or Endpoint starting with "/"
