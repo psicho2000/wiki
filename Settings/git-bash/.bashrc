@@ -11,8 +11,8 @@ alias dps='docker-ps-format'
 alias dpsn='docker-ps-format-sort-by-name'
 alias ll='ls -lAh'
 alias log='winpty docker-compose logs -f'
-alias redmine='cd /d/Eigenes/Prog/Code/Java_2015/workspaces/redmine-protocol'
-alias training='cd /d/Eigenes/Prog/Code/Java_2015/workspaces/training'
+alias redmine='cd /d/Eigenes/Prog/Code/Java_2015/intellij/redmine-protocol'
+alias training='cd /d/Eigenes/Prog/Code/Java_2015/intellij/training'
 alias wiki='cd /d/Eigenes/Prog/Code/Java_2015/wiki'
 
 function explain() {
