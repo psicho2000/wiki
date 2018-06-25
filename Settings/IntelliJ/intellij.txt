@@ -1,9 +1,14 @@
 Installation
     Install Toolbox App
     Via Toolbox App, install IntelliJ IDEA
-    Toolbox > Cog > Settings > Edit Virtual Machine Options > Notepad++
-    Jetbrains Toolbox.
-    Add "-Dproject.tree.structure.show.url=false" at the end in a new line and save the file
+    Toolbox > Cog
+        x Update Toolbox automatically
+        Global shortcut to open Toolbox: Win+Ctrl+J
+    Toolbox > IntelliJ > Cog > Settings > Edit Virtual Machine Options > Notepad++
+        Add "-Dproject.tree.structure.show.url=false" at the end in a new line and save the file
+    %userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\JetBrains Toolbox
+        Make a copy of IntelliJ shortcut for each project
+        Rightclick Shortcut > Properties > Link > Target: append root directory of desired project
 
 Settings
     Appearance & Behaviour
