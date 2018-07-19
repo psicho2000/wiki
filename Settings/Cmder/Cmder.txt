@@ -1,0 +1,33 @@
+Installation
+    d:\opt
+
+Aliases (for cmd::Cmder, which is Windows cmd shell)
+    Can be set alternatively with alias command directly (is persistent!)
+    <install-dir>\config\user-aliases.cmd
+        ..=cd ..
+        ...=cd ../..
+        ....=cd ../../..
+        .....=cd ../../../..
+        d=docker $*
+        dc=docker-compose $*
+        ll=ls -lAhF --show-control-chars --color $*
+
+Settings (Win+Alt+P)
+    Startup
+        Tasks
+            cmd::Cmder
+                Startup dir...
+            +
+                Group name: Git Bash
+                x Default task nor new console
+                x Taskbar jump lists
+                Task Parameters: /icon "C:\Program Files\Git\git-bash.exe" /dir "d:\projects\cloud"
+                Commands: "C:\Program Files\Git\bin\sh.exe" --login -i
+
+General
+    Choose your startup task / shell: {Git Bash}
+
+Shortcuts
+    Ctrl+T              New Console
+    Win+Alt+P           Settings
+    Ctrl+ö (global)     Hide/Unhide
