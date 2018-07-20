@@ -10,7 +10,7 @@ Settings
                 Group name: Git Bash
                 x Default task nor new console
                 x Taskbar jump lists
-                Task Parameters: /icon "C:\Program Files\Git\git-bash.exe" /dir "d:\projects\cloud"
+                Task Parameters: /icon "C:\Program Files\Git\git-bash.exe" /dir "d:\Eigenes\Prog\Code\Java_2015\Wiki"
                 Commands: "C:\Program Files\Git\bin\sh.exe" --login -i
 
 General
