@@ -30,4 +30,4 @@ General
 Shortcuts
     Ctrl+T              New Console
     Win+Alt+P           Settings
-    Ctrl+ö (global)     Hide/Unhide
+    Ctrl+? (global)     Hide/Unhide
