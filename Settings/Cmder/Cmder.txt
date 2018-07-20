@@ -1,18 +1,7 @@
-Installation
-    d:\opt
+﻿Installation
+    d:\opt (does not work under c:\)
 
-Aliases (for cmd::Cmder, which is Windows cmd shell)
-    Can be set alternatively with alias command directly (is persistent!)
-    <install-dir>\config\user-aliases.cmd
-        ..=cd ..
-        ...=cd ../..
-        ....=cd ../../..
-        .....=cd ../../../..
-        d=docker $*
-        dc=docker-compose $*
-        ll=ls -lAhF --show-control-chars --color $*
-
-Settings (Win+Alt+P)
+Settings
     Startup
         Tasks
             cmd::Cmder
@@ -27,7 +16,13 @@ Settings (Win+Alt+P)
 General
     Choose your startup task / shell: {Git Bash}
 
-Shortcuts
-    Ctrl+T              New Console
-    Win+Alt+P           Settings
-    Ctrl+? (global)     Hide/Unhide
+Alternative: Setup Aliases for cmd::Cmder, which is Windows cmd shell
+    Can be set alternatively with alias command directly (is persistent!)
+    <install-dir>\config\user-aliases.cmd
+        ..=cd ..
+        ...=cd ../..
+        ....=cd ../../..
+        .....=cd ../../../..
+        d=docker $*
+        dc=docker-compose $*
+        ll=ls -lAhF --show-control-chars --color $*
