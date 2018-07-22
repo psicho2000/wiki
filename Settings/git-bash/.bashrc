@@ -1,3 +1,6 @@
+# Includes
+. ~/.project_dir_completion.sh
+
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..='cd ..'
 alias ...='cd ../..'
@@ -19,21 +22,12 @@ alias dps='docker-ps-format'
 alias dpsn='docker-ps-format-sort-by-name'
 alias ll='ls -lAh'
 alias log='winpty docker-compose logs -f'
-alias redmine='cd /d/Eigenes/Prog/Code/Java_2015/intellij/redmine-protocol'
-alias training='cd /d/Eigenes/Prog/Code/Java_2015/intellij/training'
+alias redmine='cd $project_base_dir/redmine-protocol'
+alias reload='exec bash'
+alias training='cd $project_base_dir/training'
 alias wiki='cd /d/Eigenes/Prog/Code/Java_2015/wiki'
 
-function explain() {
-    alias_result=$(alias $1 2>&1)
-    if [[ ! $alias_result =~ "not found" ]]; then
-        echo $alias_result
-        alias_part=${alias_result#*\'}
-        alias_part=${alias_part:0:${#alias_part}-1}
-        declare -f $alias_part
-    fi
-    declare -f $1
-}
-function docker-compose-exec () {
+function docker-compose-exec() {
     winpty docker-compose exec "$1" bash
 }
 function docker-compose-update() {
@@ -53,6 +47,16 @@ function docker-ps-format() {
 function docker-ps-format-sort-by-name() {
     docker-ps-format $*|awk 'NR<2{print $0;next}{print $0| "sort -k2"}'
 }
+function explain() {
+    alias_result=$(alias $1 2>&1)
+    if [[ ! $alias_result =~ "not found" ]]; then
+        echo $alias_result
+        alias_part=${alias_result#*\'}
+        alias_part=${alias_part:0:${#alias_part}-1}
+        declare -f $alias_part
+    fi
+    declare -f $1
+}
 function push_wiki() {
     priv
     wiki
@@ -63,4 +67,3 @@ function push_wiki() {
 
 # Set directory colors
 eval `dircolors ~/.dircolors`
-. ~/.docker-compose-completion.sh
