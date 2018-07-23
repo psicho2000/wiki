@@ -21,10 +21,19 @@ EOF
     elif [ "$dircount" -eq "1" ]; then
         cd $project_base_dir/${subdirs[0]}
     else
+        # in case of an exact match, change dir
+        for i in "${subdirs[@]}"
+        do
+            if [ "$i" = "$1" ]; then
+                cd $project_base_dir/$1
+                return
+            fi
+        done
+
         echo "Found multiple directories matching '$1':"
         for i in "${subdirs[@]}"
         do
-           echo "$i"
+            echo "$i"
         done
     fi
 }
