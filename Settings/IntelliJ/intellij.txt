@@ -100,6 +100,10 @@ Settings
         Terminal
             Shell path: "C:\Program Files\Git\bin\sh.exe" --login -i
             Tab name: Git Bash
+        Database
+            Excecute in Console
+                Excecute
+                    When inside a statement execute: Smallest statement
     Other Settings
         Eclipse Code Formatter
             x Use the Eclipse code formatter
