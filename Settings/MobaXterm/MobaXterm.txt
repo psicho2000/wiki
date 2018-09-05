@@ -5,5 +5,13 @@ Settings > Configuration
         Show / hide popup terminal: none (to prevent clash with IntelliJ)
     Terminal > Default colors scheme: "Solarized dark"
         (This will NOT touch already defined sessions, but only newly defined ones.)
+    X11
+        o Automatically start X server at MobaXterm start up
+    SSH
+        x Enable graphical SSH-browser
+        o Automatically switch to SSH-browser tab after login
+    Misc
+        x Home tab is replaced when starting new tab
+        x Do not exit MobaXterm when last tab is closed
 
 Buttons bar > right click > Customize buttons > Replace "X server" with "Systray"

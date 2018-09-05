@@ -12,12 +12,16 @@ Settings
                 x Taskbar jump lists
                 Task Parameters: /icon "C:\Program Files\Git\git-bash.exe" /dir "d:\Eigenes\Prog\Code\Java_2015\Wiki"
                 Commands: "C:\Program Files\Git\bin\sh.exe" --login -i
+    Keys & Macro
+        Remove Ctrl+W hotkey
 
 General
     Choose your startup task / shell: {Git Bash}
+    x Quake-style slide down from the top of the screen
     Task bar
         x Auto minimize to TSA
 
+        
 Alternative: Setup Aliases for cmd::Cmder, which is Windows cmd shell
     Can be set alternatively with alias command directly (is persistent!)
     <install-dir>\config\user-aliases.cmd
