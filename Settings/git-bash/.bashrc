@@ -10,6 +10,7 @@ alias ~='cd ~' # `cd` is probably faster to type though
 alias -- -='cd -'
 
 alias busybox='docker run -it --rm busybox'
+alias ci='choco install -y' # requires https://chocolatey.org/
 alias d='winpty docker'
 alias dc='winpty docker-compose'
 alias dce='docker-compose-exec'
@@ -20,6 +21,7 @@ alias debian='docker exec -it debian'
 alias di='docker-inspect'
 alias dps='docker-ps-format'
 alias dpsn='docker-ps-format-sort-by-name'
+alias g='./gradlew' # requires gradle and gradle wrapped projects
 alias ll='ls -lAh'
 alias redmine='cd $project_base_dir/redmine-protocol'
 alias reload='exec bash'
