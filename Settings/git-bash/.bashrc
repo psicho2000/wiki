@@ -14,7 +14,7 @@ alias ci='choco install -y' # requires https://chocolatey.org/
 alias d='winpty docker'
 alias dc='winpty docker-compose'
 alias dce='docker-compose-exec'
-alias dcl='winpty docker-compose logs -f --tail 100'
+alias dcl='winpty docker-compose logs -f --tail 500'
 alias dcu='docker-compose-update'
 alias de='docker-exec'
 alias debian='docker exec -it debian'
@@ -24,7 +24,7 @@ alias dpsn='docker-ps-format-sort-by-name'
 alias g='./gradlew' # requires gradle and gradle wrapped projects
 alias ll='ls -lAh'
 alias redmine='cd $project_base_dir/redmine-protocol'
-alias reload='exec bash'
+alias reload='exec bash -l'
 alias training='cd $project_base_dir/training'
 alias wiki='cd /d/Eigenes/Prog/Code/Java_2015/wiki'
 
