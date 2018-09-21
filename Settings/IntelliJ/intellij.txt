@@ -30,7 +30,7 @@ Settings
                 x Use "CamelHumps" words
         Font
             Font: Source Code Pro
-        Colors Scheme (Duplicate... > "Markus")
+        Color Scheme (Duplicate... > "Markus")
             Java
                 Class Fields: 0000C0
                     Final: Bold
