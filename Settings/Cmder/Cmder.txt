@@ -17,7 +17,7 @@ Settings
 
 General
     Choose your startup task / shell: {Git Bash}
-    x Quake-style slide down from the top of the screen
+    (x Quake-style slide down from the top of the screen)
     Task bar
         x Auto minimize to TSA
 
