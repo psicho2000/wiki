@@ -27,7 +27,7 @@ Experten-Einstellungen: chrome://flags/
 ... > Weitere Tools > Erweiterungen > Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
     Top
         ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern)
-        Google Search Navigator     (Shortcuts für Google Suchergebnisseite)
+        Google Search Navigator     (Shortcuts für Google Suchergebnisseite) --> Workaround: siehe unten
         I dont care about Cookies
     Backlog
         Adblock Plus
@@ -40,3 +40,10 @@ Experten-Einstellungen: chrome://flags/
         ProxFlow                    (Ländersperren für Youtube und weitere umgehen)
         Stylish                     ([Solarized] Dark Styles for GitHub, JIRA, ...)
         ZenMate                     (VPN)
+
+
+Workaround for Google Search Navigator
+    https://github.com/infokiller/web-search-navigator/releases
+    - In ein Verzeichnis auf D: entpacken (C: geht nicht)
+    - manifest.json: Objekt "applications" entfernen
+    - Addon im Entwickler-Modus in Chrome importieren
