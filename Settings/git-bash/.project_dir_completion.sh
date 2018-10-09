@@ -1,12 +1,13 @@
 #!/usr/bin/env bash
 
 # Definitions
-export project_base_dir='/d/Eigenes/Prog/Code/Java_2015/intellij'
+export project_base_dir='/d/projects/cloud'
 
 alias pj='project-dir'
 
 function project-dir() {
     if [ -z "$1" ]; then
+        cd $project_base_dir
         cat << EOF
 Usage: project-dir [directory]
     directory will be searched in defined project_base_dir (currently being '$project_base_dir')
@@ -33,7 +34,7 @@ EOF
         echo "Found multiple directories matching '$1':"
         for i in "${subdirs[@]}"
         do
-            echo "$i"
+            echo "    $i"
         done
     fi
 }
