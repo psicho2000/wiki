@@ -1,4 +1,5 @@
 # Includes
+. ~/.fzf-completion.sh
 . ~/.project_dir_completion.sh
 
 # Easier navigation: .., ..., ...., ....., ~ and -
