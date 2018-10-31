@@ -1,5 +1,5 @@
 # Includes
-. ~/.fzf-completion.sh
+. ~/.fzf-completion.sh # requires https://github.com/junegunn/fzf/
 . ~/.project_dir_completion.sh
 
 # Easier navigation: .., ..., ...., ....., ~ and -
