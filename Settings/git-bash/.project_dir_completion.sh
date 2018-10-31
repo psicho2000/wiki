@@ -40,7 +40,7 @@ EOF
 }
 
 _project_dir() {
-    local cur test subdirs
+    local cur subdirs
     COMPREPLY=()
     cur="${COMP_WORDS[COMP_CWORD]}"
 
