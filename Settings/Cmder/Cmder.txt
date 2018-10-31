@@ -11,7 +11,10 @@ Settings
                 x Default task nor new console
                 x Taskbar jump lists
                 Task Parameters: /icon "C:\Program Files\Git\git-bash.exe" /dir "d:\Eigenes\Prog\Code\Java_2015\Wiki"
-                Commands: "C:\Program Files\Git\bin\sh.exe" --login -i
+                Commands: set "PATH=%ProgramFiles%\Git\usr\bin;%PATH%" & "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=%ConEmuBaseDirShort%\conemu-msys2-64.exe /usr/bin/bash.exe -l -i -new_console:t:git-bash
+                          opt. add to Commands: -cur_console:h0
+                              (disable buffering/scrolling in order for 256 colours to work, https://github.com/cmderdev/cmder/issues/379)
+            Add/refresh default tasks... > Refresh (optionally)
     Keys & Macro
         Remove Ctrl+W hotkey
 
