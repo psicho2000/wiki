@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Definitions
-export project_base_dir='/d/projects/cloud'
+export project_base_dir='/d/projects/'
 
 alias pj='project-dir'
 
