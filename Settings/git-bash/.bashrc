@@ -1,6 +1,7 @@
 # Includes
 . ~/.fzf-completion.sh # requires https://github.com/junegunn/fzf/
-. ~/.project_dir_completion.sh
+. ~/.project_dir_completion.sh # requires configuration
+. ~/.login.sh # requires configuration
 
 # Easier navigation: .., ..., ...., ....., ~ and -
 alias ..='cd ..'
@@ -11,7 +12,6 @@ alias ~='cd ~' # `cd` is probably faster to type though
 alias -- -='cd -'
 
 alias busybox='docker run -it --rm busybox'
-alias ci='choco install -y' # requires https://chocolatey.org/
 alias d='winpty docker'
 alias dc='winpty docker-compose'
 alias dce='docker-compose-exec'
@@ -19,6 +19,7 @@ alias dcl='winpty docker-compose logs -f --tail 500'
 alias dcu='docker-compose-update'
 alias de='docker-exec'
 alias debian='docker exec -it debian'
+alias desktop='cd /d/Eigenes/Desktop'
 alias di='docker-inspect'
 alias dps='docker-ps-format'
 alias dpsn='docker-ps-format-sort-by-name'
