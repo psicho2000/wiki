@@ -1,37 +1,15 @@
 ﻿Installation
-    d:\opt (does not work under c:\)
+    c:\tools (does not work under c:\program*)
 
 Settings
     Startup
         Tasks
-            cmd::Cmder
-                Startup dir...
-            +
-                Group name: Git Bash
-                x Default task nor new console
-                x Taskbar jump lists
-                Task Parameters: /icon "C:\Program Files\Git\git-bash.exe" /dir "d:\Eigenes\Prog\Code\Java_2015\Wiki"
-                Commands: set "PATH=%ProgramFiles%\Git\usr\bin;%PATH%" & "%ProgramFiles%\Git\git-cmd.exe" --no-cd --command=%ConEmuBaseDirShort%\conemu-msys2-64.exe /usr/bin/bash.exe -l -i -new_console:t:git-bash
-                          opt. add to Commands: -cur_console:h0
-                              (disable buffering/scrolling in order for 256 colours to work, https://github.com/cmderdev/cmder/issues/379)
-            Add/refresh default tasks... > Refresh (optionally)
+            Add/refresh default tasks... > Refresh (will install Git Bash, if it is installed already)
     Keys & Macro
         Remove Ctrl+W hotkey
 
 General
     Choose your startup task / shell: {Git Bash}
-    (x Quake-style slide down from the top of the screen)
     Task bar
         x Auto minimize to TSA
 
-        
-Alternative: Setup Aliases for cmd::Cmder, which is Windows cmd shell
-    Can be set alternatively with alias command directly (is persistent!)
-    <install-dir>\config\user-aliases.cmd
-        ..=cd ..
-        ...=cd ../..
-        ....=cd ../../..
-        .....=cd ../../../..
-        d=docker $*
-        dc=docker-compose $*
-        ll=ls -lAhF --show-control-chars --color $*
