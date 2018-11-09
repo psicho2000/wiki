@@ -10,10 +10,33 @@ Einstellungen:
     Verbindung
         x Handy mit Android
     Startvorgang
+        x Minimiert starten
+        o Startbildschirm anzeigen
+        x Mit Windows starten
+        o Beim Start auf neue Version überprüfen
         x Beim Start automatisch verbinden
         x Multi-Sync ausführen
     Verhalten
         o Terminerinnerung anzeigen
+    Synchronisierung
+        Synchronisieren mit: FritzBox
+            Erweitert
+                Passwort angeben
+                Synchronisierungsmodus
+                    Erzwinge Handy -> FritzBox
+                o Bestätigungsfenster vor dem Datenabgleich anzeigen
+    Multi-Sync
+        x bei Programmstart
+        x wenn Verbindung manuell hergestellt wurde
+        x wenn Verbindung automatisch hergestellt wurde
+        o bevor Programm beendet wird
+        x Dateien abgleichen > Anpassen
+            Titel:       Keepass
+            Richtung:    PC -> Handy
+            Quellordner: D:\Eigenes\Dokumente\Keepass\
+            Zielordner:  \Interner Speicher\My Documents\
+            Modus:       Ordner spiegeln
+            Filter (einbeziehen): keys.kdbx
 
 Verbindung per USB:
 1. ADB installieren:
