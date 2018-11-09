@@ -12,6 +12,17 @@ Windows 10
   6. Windows auf C: installieren.
   7. Konfiguration "manuell", alle Privatsphäre-Einstellungen aktivieren (d.h. Optionen deaktivieren)
   8. Für die Erstkonfiguration das Gast-Netzwerk wählen (einfacher Schlüssel). Hinterher wieder löschen. WLAN-Einstellungen > WLAN-Einstellungen verwalten > Bekannte Netzwerke verwalten > Gast-Netzwerk "Nicht speichern"
+  9. Aktivierung:
+        cmd > slui 4 > Land wählen > Anrufen
+            1 (Windows Aktivierung)
+            1 (Windows 10)
+            2 (kein Upgrade)
+            2 (kein Product Key)
+            2 (kein Fehler)
+            1 (Aktivierungsbildschirm geöffnet)
+            1 (internetfähiges Mobiltelefon)
+        SMS > Link aufrufen
+            "Software ist bisher auf 0 Computern installiert"
   
 Windows Settings
     Desktop Ort anpassen auf D:\Eigenes\Desktop
