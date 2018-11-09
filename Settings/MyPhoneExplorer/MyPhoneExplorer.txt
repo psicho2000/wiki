@@ -30,6 +30,13 @@ Einstellungen:
         x wenn Verbindung manuell hergestellt wurde
         x wenn Verbindung automatisch hergestellt wurde
         o bevor Programm beendet wird
+        x Telefonbuch synchronisieren
+        x Organizer synchronisieren
+        o Notizen synchronisieren
+        o Anruflisten aktualisieren
+        x SMS-Ordner aktualisieren
+        o Dateilisten laden
+        o Fotos synchronisieren
         x Dateien abgleichen > Anpassen
             Titel:       Keepass
             Richtung:    PC -> Handy
