@@ -49,25 +49,4 @@ git tag -a v1.0.1
 git push --tags
 
 ##### REMARKS
-# git bash: editor for commit message is vim
 # <tab> <tab> enables auto-completion. Useful also to find out known repositories (which must have been fetched first).
-
-# Enabling multiple GitHub credentials
-# Normally, it should be possible to configure local credentials, which overwrite global (which override system).
-# This however does not work.
-# Workaround: use store for private credentials, manager for team credentials, swap using aliases:
-# 1. Create C:/Users/<user>/.git-credentials (containing private credentials)
-#    https://<user>:<password>@github.com
-# 2. Create C:/Users/<user>/.bashrc
-#    alias team='git config --global credential.helper manager'
-#    alias priv='git config --global credential.helper store'
-# 3. Remove [credential] section from system config
-#    git config --system -e
-# 4. Helper Function in C:/Users/<user>/.bashrc
-#    push_wiki() {
-#        priv
-#        cd /d/Eigenes/wiki
-#        git commit -am "$1"
-#        git push
-#        team
-#    }
