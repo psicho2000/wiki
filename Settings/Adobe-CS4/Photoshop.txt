@@ -1,9 +1,11 @@
+Zur Aktivierung muss Photoshop 32 Bit gestartet werden.
+
 Photoshop
   Einstellungen
     Leistung
         OGL aktivieren
     Maßeinheiten und Lineal
-        Lineal: Pixel / Art: Pixel
+        Lineal: Pixel / Text: Pixel
 
   Bild ausdocken (Drag&Drop auf Dateiname) > Doppelklick (vergrößern)
     => beim Schieben mit der Hand gibt es einen Auto-Zoom, falls Bild größer als Bildschirm und OGL aktiv ist (GEIL)

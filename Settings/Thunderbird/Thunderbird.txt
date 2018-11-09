@@ -1,0 +1,37 @@
+﻿Google OAuth2 ist in Thunderbird integriert
+	(Two-Factor-Auth geht nur für IMAP und SMTP, nicht für POP3)
+
+1. Konto einrichten
+2. Bevor Thunderbird Mails abholt, Internet-Verbindung trennen
+3. Verzeichnisse und Abholverhalten konfigurieren
+    Rechtsklick auf Konto > Einstellungen
+        Server-Einstellungen
+            x Alle 1 Minuten auf neue Nachrichten überprüfen
+            x Nachrichten auf dem Server belassen
+                o Löschen Nachrichten vom Server nach ... Tagen
+                o Nachrichten vom Server löschen, wenn sie aus dem Posteingang gelöscht werden
+            Lokaler Ordner: D:\Eigenes\_Archiv\Mail\Thunderbird\pop.googlemail.com
+        Lokaler Ordner
+            Lokaler Ordner: D:\Eigenes\_Archiv\Mail\Thunderbird\Local Folders
+5. Einstellungen
+    Allgemein
+        o Beim Aufrufen von Thunderbird die Startseite anzeigen
+    Ansicht
+        Erweitert
+            o Nachrichten automatisch als gelesen markieren
+
+Addons
+    minimizetotray-revived
+    GMailUI
+    ReFwdFormatter
+    SmartTemplate
+        für Antworten- und Weiterleiten-Templates
+            x Standard Thunderbird Kopfzeilen deaktivieren
+            Nachrichtenvorlagen
+                <hr>
+                <b>Von:</b> %from%<br>
+                <b>Gesendet:</b> %X:=sent% %A%, %d%. %B% %Y%, %H%:%M%<br>
+                [[<b>An:</b> %to%<br>]]
+                [[<b>Cc:</b> %cc%<br>]]
+                <b>Betreff:</b> %subject%<br>
+            x HTML Tags verwenden

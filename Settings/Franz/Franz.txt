@@ -1,0 +1,8 @@
+Dienste
+    Slack
+    Threema
+    WhatsApp
+
+Einstellungen
+    Allgemeines
+        Franz in die Systemleiste minimieren

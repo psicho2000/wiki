@@ -1,5 +1,5 @@
 WinZip, WinRAR, WinAce
-    o Temp-Dir = D:\Temp
+    Temp-Dir = D:\Temp
     -> WinAce kopiert dennoch; WinRAR und WinZip zeigen nicht dieses Problem
 WinRAR
     Themes drauf

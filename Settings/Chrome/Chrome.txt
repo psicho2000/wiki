@@ -1,3 +1,8 @@
+Mit eigenem Account einloggen: alle Erweiterungen werden installiert und Settings gesetzt.
+Anschließend nur noch Settings in chrome://flags setzen.
+
+----
+
 ... > Einstellungen
     Suchmaschine > Suchmaschinen verwalten > Hinzufügen
         Google          g

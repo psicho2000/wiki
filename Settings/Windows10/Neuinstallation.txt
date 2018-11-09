@@ -1,67 +1,39 @@
-[ DEPRECATED
-    Sicherung:
-      - ATNotes.dat
-      - Mysql\Data
-      - Trillian\users
-      - Opera: persönliche Leiste
-      - Outlook.pst
-      - Opera Sessions (opera:config > Suche nach Opera Directory)
-]
-
-    Sicherung:
-      - MobaXterm / putty
-      - WinSCP
-      - HeidiSQL
+Sicherung:
+  - Bookmarks
+  - MobaXterm
+  - HeidiSQL
 
 Windows 10
-  1. Windows10Home64Bit.iso mit unetbootin (D:\Installs\OS\Tools\) auf einen USB-Stick bringen.
-  2. Serial notieren und Festplatte für C: herausfinden.
-  3. Von USB booten (ggf. im UEFI/BIOS freischalten) und Windows neu installieren.
-  4. Zu C: zugehörige Festplatte formatieren.
-  5. Windows auf C: installieren.
-  6. Konfiguration "manuell", alle Privatsphäre-Einstellungen aktivieren (d.h. Optionen deaktivieren)
-  7. Für die Erstkonfiguration das Gast-Netzwerk wählen (einfacher Schlüssel). Hinterher wieder löschen. WLAN-Einstellungen > WLAN-Einstellungen verwalten > Bekannte Netzwerke verwalten > Gast-Netzwerk "Nicht speichern"
+  1. Neuestes Image von Windows10[Home,Pro]64Bit.iso mit MediaCreationTool herunterladen
+  2. Image mit Universal-USB-Installer auf einen USB-Stick bringen.
+  3. Serial besorgen und Festplatte für C: herausfinden.
+  4. Von USB booten (ggf. im UEFI/BIOS freischalten) und Windows neu installieren.
+  5. Zu C: zugehörige Festplatte formatieren.
+  6. Windows auf C: installieren.
+  7. Konfiguration "manuell", alle Privatsphäre-Einstellungen aktivieren (d.h. Optionen deaktivieren)
+  8. Für die Erstkonfiguration das Gast-Netzwerk wählen (einfacher Schlüssel). Hinterher wieder löschen. WLAN-Einstellungen > WLAN-Einstellungen verwalten > Bekannte Netzwerke verwalten > Gast-Netzwerk "Nicht speichern"
   
 Windows Settings
     Desktop Ort anpassen auf D:\Eigenes\Desktop
         C:\Benutzer\<user> > Rechtsklick auf Desktop > Eigenschaften > Pfad
-    Rechtsklick auf Desktop > Anzeigeeinstellungen > Bildschirm > Größe von Text, Apps und anderen Elementen
-        100%
-    
-Software - Prio 1
-  - Avira
-  - Chrome (Settings s. Installs)
-        Mit Account markus.d.meier@gmail einloggen: alle Erweiterungen werden installiert und Settings gesetzt.
-        Anschließend nur noch Settings in chrome://flags setzen.
-  - MyPhoneExplorer. Settings befinden sich unter D:\Eigenes\Dokumente\MyPhoneExplorer:
-        Datei > Einstellungen > Erweitert 2 > Datenbank = D:\Eigenes\Dokumente
-  - Thunderbird (Settings s. Installs)
-  - Notepad++ (Settings s. Installs)
-  - Daemon Tools Lite
-  - Microsoft Office (Settings s. Installs)
-  - XnView
-  - Acrobat Reader
-  - KeePass 2
-        Datenbank unter D:\Eigenes\Dokumente\Keepass
-        Autostart
-  - Autohotkey
-        Autostart mit Skript "D:\Eigenes\Dokumente\AutoHotkey.ahk"
+    Dokumente anpassen auf D:\Eigenes\Dokumente
 
-Software - Prio 2
-  - Evernote
+Software
+  - chocolatey (https://chocolatey.org) installieren
+  - Mit choco:
+        cinst cmder git notepadplusplus 7zip GoogleChrome WinCDEmu adobereader keepass winrar 7zip fsviewer thunderbird
+  - In Cmder:
+        $ cd
+        $ git clone https://github.com/psicho2000/git-bash
+        $ git-bash/symlink-dotfiles.sh
+  - Settings laut wiki/Settings konfigurieren
+
+Restliche Software aus chocolatey.xlsx
+
+Manuelle Installation
+  - Microsoft Office
+  - Adobe Creative Suite CS 4
   - Easy CD-DA Extractor
-  - VLC
-  - Personal Backup
-        Jobs aus D:\Eigenes\Dokumente\PersBackup laden und den Zahlen 1,2,3 zuweisen
-  - Adobe Creative Suite CS 4 (Settings s. Installs)
-  - DisplayLink (Treiber Kensington Dock)
-  - WhatsApp
-  - Wire
+  - Franz
 
-Software - IDE
-  - Git
-  - MobaXterm
-  - HeidiSQL
-  - JDK
-  - IntelliJ
-  - Docker Toolbox
+Restliche Settings laut wiki/Settings konfigurieren

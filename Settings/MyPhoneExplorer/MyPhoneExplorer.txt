@@ -1,3 +1,11 @@
+Settings befinden sich unter D:\Eigenes\Dokumente\MyPhoneExplorer. Zum importieren:
+    1. Bisheriges Verzeichnis D:\Eigenes\Dokumente\MyPhoneExplorer umbenennen
+    2. Datei > Einstellungen > Erweitert 2 > Datenbank = D:\Eigenes\Dokumente
+    3. MyPhoneExplorer beenden
+    4. Dateien aus umbenannten Verzeichnis an den alten Ort verschieben
+
+----
+
 Einstellungen:
     Verbindung
         x Handy mit Android
@@ -18,4 +26,3 @@ s. auch: http://www.fjsoft.at/forum/viewtopic.php?t=11455
     
 Falls Verbindung per WLAN nicht funktioniert:
 - 5 Ghz Netz an der FritzBox ausschalten
-

@@ -56,6 +56,6 @@ OneNote
     Rechtsklick auf Symbol > Optionen
         Standardwert für OneNote-Symbol: Bildschirmausschnitt erstellen
         Standardwert für Bildschirmausschnitt: Nur in Zwischenablage kopieren
-    Datei > Optionen
+    Datei > Optionen (in neueren Versionen)
         Dokumentenprüfung
             o Rechtschreibung während der Eingabe überprüfen (aus)

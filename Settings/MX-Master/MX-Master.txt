@@ -1,8 +1,8 @@
 Ggf. Gestenschalter > Gestenschalter > Benutzerdefiniert
 
-Belegung der unteren Taste: Mausempfindlichkeit
-    Master: maximal
-    Benutzerdefiniert: 2. Stufe
+Belegung Taste unter dem Mausrad: Zeiger-Geschwindigkeit
+    1: maximal
+    2: mittel
 
 Daumenradrichtung: Invertiert
 
