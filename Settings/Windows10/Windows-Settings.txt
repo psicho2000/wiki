@@ -1,3 +1,6 @@
+Datenträgerverwaltung
+    Rechtsklick auf Partition > Laufwerkbuchstaben und -pfade ändern
+
 Verzeichnisse anpassen
     C:\Benutzer\<user>
         Rechtsklick auf Desktop > Eigenschaften > Pfad: D:\Eigenes\Desktop > Verschieben
@@ -14,12 +17,12 @@ Explorer > Ansicht > Optionen
         x Vollständigen Pfad in der Titelleiste anzeigen
         x Vorherige Ordnerfenster bei der Anmeldung wiederherstellen
 
-SysTray > Rechtsklick auf OneDrive
+OneDrive deinstallieren
+Alternativ: SysTray > Rechtsklick auf OneDrive
     Einstellungen
         Einstellungen
             o OneDrive beim Anmelden bei Windows automatisch starten
     OneDrive beenden
-Alternativ: OneDrive deinstallieren
 
 Mauseinstellungen > Weitere Mausoptionen
     Zeiger
@@ -39,6 +42,19 @@ Touchpad
     Scrollrichtung: Zum Abwärtsscrollen nach unten bewegen
     Drei-Finger-Gesten
         Tippeingaben: Info-Center
+
+Sound > Sounds
+    Alle Sounds auf [kein] außer
+        Alarm bei kritischen Akkustand: Windows-Akku kritisch.wav
+        Alarm bei niedrigem Akkustand:  Windows-Akku niedrig.wav
+
+Energieoptionen
+    Auswählen, was beim Drücken von Netzschaltern geschehen soll
+        Einige Einstellungen sind momentan nicht verfügbar
+        Beim Drücken des Netzschalters: Ruhezustand
+        Beim Drücken der Energiespartaste: Energie sparen
+        Beim Zuklappen: Nichts unternehmen
+            x Ruhezustand
 
 ggf. Bibliotheken konfigurieren
 

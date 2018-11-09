@@ -4,7 +4,7 @@ Sicherung:
   - HeidiSQL
 
 Windows 10
-  1. Neuestes Image von Windows10[Home,Pro]64Bit.iso mit MediaCreationTool herunterladen
+  1. *Neuestes* Image von Windows10[Home,Pro]64Bit.iso mit MediaCreationTool herunterladen
   2. Image mit Universal-USB-Installer auf einen USB-Stick bringen.
   3. Serial besorgen und Festplatte für C: herausfinden.
   4. Von USB booten (ggf. im UEFI/BIOS freischalten) und Windows neu installieren.
@@ -23,8 +23,10 @@ Windows 10
             1 (internetfähiges Mobiltelefon)
         SMS > Link aufrufen
             "Software ist bisher auf 0 Computern installiert"
+   10. Windows Updates
 
 Software
+  - Treiber
   - chocolatey (https://chocolatey.org) installieren
   - Mit choco:
         cinst cmder git notepadplusplus 7zip GoogleChrome WinCDEmu adobereader keepass winrar 7zip fsviewer thunderbird
