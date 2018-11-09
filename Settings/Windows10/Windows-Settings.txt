@@ -60,3 +60,6 @@ ggf. Bibliotheken konfigurieren
 
 ggf. Unnötige Verzeichnisse in "Dieser PC" ausblenden
     s. Windows10.docx
+
+ggf. weitere Benutzer hinzufügen
+    Konten > Famile & weitere Kontakte > Diesem PC eine andere Person hinzufügen > Ich kenne die Anmeldeinformationen für diese Person nicht > Benutzer ohne Microsoft-Konto hinzufügen
