@@ -1,0 +1,39 @@
+Verzeichnisse anpassen
+    C:\Benutzer\<user>
+        Rechtsklick auf Desktop > Eigenschaften > Pfad: D:\Eigenes\Desktop > Verschieben
+        Rechtsklick auf Dokumente > Eigenschaften > Pfad: D:\Eigenes\Dokumente > Verschieben
+
+Explorer > Ansicht > Optionen
+    Allgemein
+        Datei-Explorer öffnen für: Dieser PC
+        Datenschutz: ... im Schnellzugriff anzeigen (aus)
+    Ansicht
+        o Erweiterungen bei bekannten Dateitypen ausblenden
+        o Leere Laufwerke ausblenden
+        x Ordnerfenster in einem eigenen Prozess starten
+        x Vollständigen Pfad in der Titelleiste anzeigen
+        x Vorherige Ordnerfenster bei der Anmeldung wiederherstellen
+
+Mauseinstellungen > Weitere Mausoptionen
+    Zeiger
+        Windows Invertiert (Systemschema)
+        x Zeigerschatten aktivieren
+    Zeigeroptionen
+        o Zeiger bei Tastatureingaben ausblenden
+
+Touchpad
+    x Touchpad ein
+    x Touchpad eingeschaltet lassen, wenn eine Maus angeschlossen ist
+    Cursorgeschwindigkeit: maximal
+    o Für einfaches Klicke mit einem Finger tippen
+    o Zum Rechtsklicken mit zwei Fingern tippen
+    o Zur Mehrfachauswahl zweimal tippen und ziehen
+    o Zum Rechtsklicken auf die untere rechte Eckee des Touchpads drücken
+    Scrollrichtung: Zum Abwärtsscrollen nach unten bewegen
+    Drei-Finger-Gesten
+        Tippeingaben: Info-Center
+
+ggf. Bibliotheken konfigurieren
+
+ggf. Unnötige Verzeichnisse in "Dieser PC" ausblenden
+    s. Windows10.docx

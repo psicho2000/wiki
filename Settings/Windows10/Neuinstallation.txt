@@ -23,11 +23,6 @@ Windows 10
             1 (internetfähiges Mobiltelefon)
         SMS > Link aufrufen
             "Software ist bisher auf 0 Computern installiert"
-  
-Windows Settings
-    Desktop Ort anpassen auf D:\Eigenes\Desktop
-        C:\Benutzer\<user> > Rechtsklick auf Desktop > Eigenschaften > Pfad
-    Dokumente anpassen auf D:\Eigenes\Dokumente
 
 Software
   - chocolatey (https://chocolatey.org) installieren
