@@ -12,7 +12,7 @@ Settings
         Appearance
             Tooltip initial delay (ms): 500
         Quick Lists > Add
-            Tool Windows
+            Tool Windows (Tool Windows will be available only when they first have been used!)
                 Maven Projects
                 Database
                 REST Client

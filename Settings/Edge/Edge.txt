@@ -1,0 +1,10 @@
+Einstellungen
+    Microsoft Edge öffnen mit: Bestimmte Seite "https://google.de"
+    Neue Tabs öffnen mit: Leere Seite
+    Erweiterte Einstellungen
+        o Schaltfläche "Startseite" anzeigen
+        o Adobe Flash Player verwenden
+        Downloads: D:\Eigenes\Desktop
+        Suchmaschine ändern
+            Google (dafür muss einmal google besucht werden)
+            Als Standard
