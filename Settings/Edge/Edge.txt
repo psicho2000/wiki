@@ -1,10 +1,11 @@
 Einstellungen
-    Microsoft Edge öffnen mit: Bestimmte Seite "https://google.de"
+    Microsoft Edge öffnen mit: Vorherige Seiten
     Neue Tabs öffnen mit: Leere Seite
     Erweiterte Einstellungen
         o Schaltfläche "Startseite" anzeigen
         o Adobe Flash Player verwenden
         Downloads: D:\Eigenes\Desktop
+        o Bei jedem Download nach dem Speicherort fragen
         Suchmaschine ändern
             Google (dafür muss einmal google besucht werden)
             Als Standard
