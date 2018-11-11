@@ -1,0 +1,12 @@
+# Configuration
+export desktop_dir='/d/Eigenes/Desktop'
+export project_base_dir='/d/Projects/'
+
+export login_identity_base_path="~/.ssh"
+declare -A login_machines=( [lifeline]="markus@lifeline-herne.de" 
+                            [mybooklive]=root@mybooklive )
+
+# Environment specific commands/aliases/exports
+alias debian='winpty docker exec -it mydebian bash'
+alias redmine='cd $project_base_dir/redmine-protocol'
+alias upproto="scp $project_base_dir/redmine-protocol/redmine.protocol/target/redmine.protocol-1.2.0.jar markus@lifeline-herne.de:~"

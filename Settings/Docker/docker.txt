@@ -1,0 +1,4 @@
+General
+    o Start Docker when you log in
+    o Automatically check for updates
+    o Send usage statistics
