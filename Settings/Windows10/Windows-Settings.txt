@@ -41,7 +41,7 @@ Touchpad
     o Zum Rechtsklicken auf die untere rechte Eckee des Touchpads drücken
     Scrollrichtung: Zum Abwärtsscrollen nach unten bewegen
     Drei-Finger-Gesten
-        Tippeingaben: Info-Center
+        Tippeingaben: Wiedergabe/Pause
 
 Sound > Sounds
     Alle Sounds auf [kein] außer
