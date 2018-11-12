@@ -1,0 +1,17 @@
+IntelliJ Ultimate Edition
+    Spring (Spring MVC, Spring Boot, Spring Integration, Spring Security and others)
+        Debugging Spring Boot Application with given Profile
+    Database Tools/SQL (all the functionality of DataGrip)
+    JPA
+    Detecting Duplicates
+    Maven Dependency Graph & Dependency Structure Matrix
+    Thymeleaf, Freemarker
+    XPath Expression Evaluation
+    JaCoCo (Code Coverage): https://stackoverflow.com/questions/21420621/open-jacoco-report-in-intellij-idea
+
+My arguments
+    Consistency
+    Configurability, e. g. Shortcuts
+    Inspections - learning
+    Features, e. g. Database
+    Lizenz tauschen gegen JRebel, ersetzt Db-Tool (z.B. Navicat €200)
