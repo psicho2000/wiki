@@ -9,3 +9,8 @@ Einstellungen
         Suchmaschine ändern
             Google (dafür muss einmal google besucht werden)
             Als Standard
+
+Erweiterungen
+    Web Search Navigator        (Shortcuts für Google Suchergebnisseite)
+        https://github.com/infokiller/web-search-navigator
+        https://www.microsoft.com/de-de/p/web-search-navigator/9p0ptv58knd9
