@@ -56,6 +56,11 @@ Energieoptionen
         Beim Zuklappen: Nichts unternehmen
             x Ruhezustand
 
+Standard-Apps (nach deren Installation)
+    E-Mail: Thunderbird
+    Bildanzeige: FastStone Image Viewer
+    Webbrowser: Firefox/Chrome
+
 ggf. Bibliotheken konfigurieren
 
 ggf. Unnötige Verzeichnisse in "Dieser PC" ausblenden
