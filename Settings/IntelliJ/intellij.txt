@@ -58,6 +58,11 @@ Settings
             XML
                 Other
                     o Wrap text
+        Live Templates
+            Java
+                Abbreviation:   call
+                Descritpion:    Surround with method call
+                Template text:  $METHOD$($SELECTION$)
     Plugins
         Browse Repositories
             Eclipse Code Formatter
