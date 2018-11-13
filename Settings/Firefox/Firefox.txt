@@ -1,3 +1,38 @@
+Addons
+    Firefox Multi-Account Containers
+    KeePassHttp-Connector
+
+Rechtsklick auf Bereich neben Adressleiste
+    x Lesezeichen-Symbolleiste
+    Anpassen
+        o Startseite
+        x Privates Fenster
+
+Einstellungen
+    Allgemein
+        Startseite
+            x Vorherige Sitzung wiederherstellen
+        Tabs
+            x Bei Strg+Tab die Tabs nach letzter Nutzung in absteigender Reihenfolge anzeigen
+        Downloads
+            x Alle Dateien in folgendem Ordner abspeichern: Desktop
+    Startseite
+        Neue Fenster und Tabs
+            Startseite und neue Fenster: Leere Seite
+            Neue Tabs:                   Leere Seite
+        Inhalte des Firefox-Startbildschirms
+            o Internetsuche
+            x Wichtige Seiten: 3 Zeilen
+            o Empfohlen von Pocket
+            x Überblick:       3 Zeilen
+                x Besuchte Seiten
+                x Lesezeichen
+                x Neueste Downloads
+                o bei Pocket gespeicherte Seiten
+            o Kurzinformationen
+
+===================================
+
 Add to Search Bar 2.5
     Beliebige Suchen hinzufügen (Rechtsklick in Suchfeld > "Zur Suchleiste hinzfügen")
 DownloadHelper 4.9.22

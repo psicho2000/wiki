@@ -21,7 +21,10 @@
             o Nachrichten automatisch als gelesen markieren
 
 Addons
-    minimizetotray-revived
+    minimizetotray-reanimated
+        https://github.com/nmaier/mintrayr/issues/188#issuecomment-420648690
+        https://github.com/ysard/mintrayr/tree/dev_thunderbird_60+
+        https://addons.thunderbird.net/en-US/thunderbird/addon/minimizetotray-reanimated/
     GMailUI
     ReFwdFormatter
     SmartTemplate

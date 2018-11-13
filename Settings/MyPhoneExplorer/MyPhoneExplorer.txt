@@ -1,3 +1,14 @@
+Thunderbird-Addon mit Thunderbird 60 (https://www.fjsoft.at/forum/viewtopic.php?p=133032#133032):
+    1. Thunderbird v60.0 aufrufen. Unter Extras/Einstellungen/Add-ons das MyPhoneExplorer-Plugin entfernen, Thunderbird neustarten.
+    2. Mit dem nachfolgenden Link die aktuelle Beta-Version (2.0.22) für den MyPhoneExplorer runterladen und nach der Installation MPE starten.
+       https://www.fjsoft.at/files/MyPhoneExplorer_DebugUpdate.exe
+    3. MPE meldet nach dem vergeblichen Verbindungsaufbau mit dem Smartphone:
+       "MPE-Plugin für ThunderBird ist nicht installiert oder veraltet. Soll die aktuelle Version des Plugins installiert werden?"
+       Mit OK bestätigen und auch die weiteren Abfragen mit ja bestätigen.
+       Nicht vergessen, Thunderbird bei Aufforderung zu beenden, damit das Plugin installiert werden kann. Nun müsste die Synchronisierung klappen.
+
+----
+
 Settings befinden sich unter D:\Eigenes\Dokumente\MyPhoneExplorer. Zum importieren:
     1. Bisheriges Verzeichnis D:\Eigenes\Dokumente\MyPhoneExplorer umbenennen
     2. Datei > Einstellungen > Erweitert 2 > Datenbank = D:\Eigenes\Dokumente
@@ -24,6 +35,11 @@ Einstellungen:
                 Passwort angeben
                 Synchronisierungsmodus
                     Erzwinge Handy -> FritzBox
+                o Bestätigungsfenster vor dem Datenabgleich anzeigen
+        Synchronisierung mit: Thunderbird
+            Erweitert
+                Synchronisierungsmodus
+                    Erzwinge Handy -> Thunderbird
                 o Bestätigungsfenster vor dem Datenabgleich anzeigen
     Multi-Sync
         x bei Programmstart
