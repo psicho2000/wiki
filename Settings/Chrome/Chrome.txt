@@ -15,7 +15,7 @@ Anschließend nur noch Settings in chrome://flags setzen.
         Downloads: Vor dem Download von Dateien nach dem Speicherort fragen
 
 Weitere Suchmaschinen
-    Auf die jeweilige Seite gehen, Rechtsklick in das Suchformular, "Als Suchmaschine hinzufügen..."
+    Auf die jeweilige Seite gehen, Einstellungen > Suchmaschine > Suchmaschinen verwalten > Andere Suchmaschinen > Suchkürzel und Name für die automatisch erzeugte Suchmaschine anpassen
         Bibleserver.com b
         Chefkoch.de     c
         duden.de        d
