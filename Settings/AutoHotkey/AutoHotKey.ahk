@@ -17,7 +17,7 @@ FastForward() {
     WinGetActiveTitle, Title
     if (InStr(Title, "VLC media player")) {
         Send +{Right}
-    } else if (InStr(Title, "Microsoft Edge") or InStr(Title, "Google Chrome")) {
+    } else if (InStr(Title, "Microsoft Edge") or InStr(Title, "Google Chrome") or InStr(Title, "Firefox")) {
         Send {Right}
     } else {
         Send {WheelRight}
@@ -28,7 +28,7 @@ Rewind() {
     WinGetActiveTitle, Title
     if (InStr(Title, "VLC media player")) {
         Send +{Left}
-    } else if (InStr(Title, "Microsoft Edge") or InStr(Title, "Google Chrome")) {
+    } else if (InStr(Title, "Microsoft Edge") or InStr(Title, "Google Chrome") or InStr(Title, "Firefox")) {
         Send {Left}
     } else {
         Send {WheelLeft}
