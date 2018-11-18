@@ -1,0 +1,67 @@
+Für die Einstellung in der jeweiligen App, die App öffnen, und dann SpaceMouse konfigurieren (linker Button der SpaceMouse).
+
+Adobe Acrobat
+    Navigation
+        x Bewegen / Zoomen
+        o Rotation
+        o Dominant
+    Zoom-Richtung
+        o Vorwärts / Rückwärts
+        o Hoch / Runter
+    Geschwindigkeit
+               Aktiv   Umkehren
+        Li/Re: x     | x
+        Vo/Hi: x     | x
+        Ob/Un: x     | o
+               o     | o
+               o     | o
+               o     | o
+Adobe Reader
+    Navigation
+        x Bewegen / Zoomen
+        o Rotation
+        o Dominant
+    Zoom-Richtung
+        o Vorwärts / Rückwärts
+        o Hoch / Runter
+    Geschwindigkeit
+               Aktiv   Umkehren
+        Li/Re: x     | x
+        Vo/Hi: x     | x
+        Ob/Un: x     | o
+               o     | o
+               o     | o
+               o     | o
+GoogleEarth
+    Navigation
+        x Bewegen / Zoomen
+        x Rotation
+        o Dominant
+    Zoom-Richtung
+        o Vorwärts / Rückwärts
+        x Hoch / Runter
+    Geschwindigkeit
+               Aktiv   Umkehren
+        Li/Re: x     | o
+        Vo/Hi: x     | o
+        Ob/Un: x     | x
+               x     | o
+               x     | o
+               x     | x
+    Zus. in GoogleEarth: Tools > Optionen > Navigation > Anderer Controller (keine Maus) > Controller aktivieren
+Photoshop
+    Navigation
+        x Bewegen / Zoomen
+        o Rotation
+        o Dominant
+    Zoom-Richtung
+        o Vorwärts / Rückwärts
+        o Hoch / Runter
+    Geschwindigkeit
+               Aktiv   Umkehren
+        Li/Re: x     | x
+        Vo/Hi: x     | x
+        Ob/Un: x     | o
+               o     | o
+               o     | o
+               o     | o
