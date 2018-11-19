@@ -2,6 +2,8 @@ Addons
     KeePassHttp-Connector
     Web Search Navigator
     I don't care about cookies
+    uBlock Origin
+    NoScript
     [Firefox Multi-Account Containers] - dann gehen Webseiten nicht mehr
 
 Rechtsklick auf Bereich neben Adressleiste

@@ -36,6 +36,8 @@ Experten-Einstellungen: chrome://flags/
             https://github.com/infokiller/web-search-navigator
             https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek
         I dont care about Cookies
+        uBlock Origin
+        ScriptSafe
     Backlog
         Adblock Plus
         Chrometana                  (Google als Suchmaschine)
