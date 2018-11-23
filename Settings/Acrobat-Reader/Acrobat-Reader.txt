@@ -8,3 +8,17 @@ Bearbeiten > Voreinstellungen (Strg+K)
             x Aktuellen Status des Werkzeugfensters speichern
     Internet
         o PDF in Browser anzeigen
+
+Anzeige > Ein-/Ausblenden > Werkzeugleistenelemente (oder Rechtsklick auf Werkzeugleiste)
+    Datei Werkzeuge: alles aus
+    Bearbeiten Werkzeuge: nur Schnappschuss an
+    Seitennavigation: nur Seitenzahl an
+    Seitenanzeige:
+        x Bildlauf aktivieren
+        x Einzelseitenansicht
+        x Bildlauf in Zweiseitenansicht
+        x Zweiseitenansicht
+        o Vollbildmodus
+        x Drehen im UZS
+        x Drehen gegen UZS
+    Auswählen und Zoomen: alle an
