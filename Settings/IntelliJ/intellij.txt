@@ -61,7 +61,7 @@ Settings
         Live Templates
             Java
                 Abbreviation:   call
-                Descritpion:    Surround with method call
+                Description:    Surround with method call
                 Template text:  $METHOD$($SELECTION$)
                 Applicable in:  Java
     Plugins
