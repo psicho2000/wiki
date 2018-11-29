@@ -79,10 +79,10 @@ Settings
                 Importing
                     Automatically download: x Sources x Documentation
                 Runner
-                    o Delegate IDE build actions to maven (as long as it is experimental, don't do it)
+                    x Delegate IDE build/run actions to maven
             Gradle
                 Runner
-                    [x Delegate IDE build/run actions to gradle] does not exist anymore since 2018.2.5?
+                    x Delegate IDE build/run actions to gradle
         Compiler
             Java Compiler
                 Project bytecode version: 1.8
