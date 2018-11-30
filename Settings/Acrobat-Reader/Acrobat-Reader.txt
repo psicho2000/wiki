@@ -19,6 +19,7 @@ Anzeige > Ein-/Ausblenden > Werkzeugleistenelemente (oder Rechtsklick auf Werkze
         x Bildlauf in Zweiseitenansicht
         x Zweiseitenansicht
         o Vollbildmodus
+		o Linienstärken
         x Drehen im UZS
         x Drehen gegen UZS
     Auswählen und Zoomen: alle an
