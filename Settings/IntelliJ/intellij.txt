@@ -109,6 +109,9 @@ Settings
         Eclipse Code Formatter
             x Use the Eclipse code formatter
             Eclipse Java Formatter config file: ...
+        Git ToolBox Global
+            General
+                o Show 'Git Stat' in status bar
         Save Actions
             x Activate save actions on save
             x Optimize imports
