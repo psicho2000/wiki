@@ -79,7 +79,7 @@ Settings
                 Importing
                     Automatically download: x Sources x Documentation
                 Runner
-                    x Delegate IDE build/run actions to maven
+                    o Delegate IDE build/run actions to maven (Unit tests take much longer if activated)
             Gradle
                 Runner
                     x Delegate IDE build/run actions to gradle
