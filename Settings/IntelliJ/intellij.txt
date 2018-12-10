@@ -58,6 +58,10 @@ Settings
             XML
                 Other
                     o Wrap text
+        Inspections
+            Java
+                Serialization issues
+                    x Serializable class without 'serialVersionUID'
         Live Templates
             Java
                 Abbreviation:   call
