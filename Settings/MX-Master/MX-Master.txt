@@ -1,11 +1,9 @@
 Windows Settings > Bluetooth > Bluetooth- oder anderes Gerät hinzufügen > Bluetooth...
     mit MX-Master verbinden (langer Druck auf den Umschalter 1,2,3)
 
-Ggf. Gestenschalter > Gestenschalter > Benutzerdefiniert
-
-Belegung Taste unter dem Mausrad: Zeiger-Geschwindigkeit
-    1: maximal
-    2: mittel
+Tastenbelegung
+    Daumentaste: Funktionsansicht
+    Taste unter dem Mausrad: Zeiger-Geschwindigkeit (1: maximal, 2: mittel)
 
 Daumenradrichtung: Invertiert
 
