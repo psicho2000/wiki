@@ -4,8 +4,9 @@ Installation
     Toolbox > Cog
         x Update Toolbox automatically
         Global shortcut to open Toolbox: Win+Ctrl+J
+    [DEPRECATED:
     Toolbox > IntelliJ > Cog > Settings > Edit Virtual Machine Options > Notepad++
-        Add "-Dproject.tree.structure.show.url=false" at the end in a new line and save the file
+        Add "-Dproject.tree.structure.show.url=false" at the end in a new line and save the file]
 
 Help > Edit Custom Properties
     project.tree.structure.show.url=false
