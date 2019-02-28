@@ -44,6 +44,9 @@ git checkout <filename>
 # show last 2 commits
 git log -2
 
+# show last diff
+git show
+
 # create tag
 git tag -a v1.0.1
 git push --tags
