@@ -63,6 +63,8 @@ Settings
             XML
                 Other
                     o Wrap text
+        File Types
+            Ignore files and folders: Add ";*.iml"
         Inspections
             Java
                 Serialization issues
