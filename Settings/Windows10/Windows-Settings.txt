@@ -48,13 +48,16 @@ Sound > Sounds
         Alarm bei kritischen Akkustand: Windows-Akku kritisch.wav
         Alarm bei niedrigem Akkustand:  Windows-Akku niedrig.wav
 
-Energieoptionen
+Energieoptionen (Win+X, N)
     Auswählen, was beim Drücken von Netzschaltern geschehen soll
         Einige Einstellungen sind momentan nicht verfügbar
         Beim Drücken des Netzschalters: Ruhezustand
         Beim Drücken der Energiespartaste: Energie sparen
         Beim Zuklappen: Nichts unternehmen
             x Ruhezustand
+
+Mobilitätscenter (Win+X, M)
+    Präsentationseinstellungen > Diesen Hintergrund anzeigen: (Kein)
 
 Standard-Apps (nach deren Installation)
     E-Mail: Thunderbird
