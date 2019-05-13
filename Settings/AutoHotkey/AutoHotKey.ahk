@@ -13,6 +13,7 @@ Capslock::Shift
 $WheelRight::FastForward()
 $WheelLeft::Rewind()
 
+
 FastForward() {
     WinGetActiveTitle, Title
     if (InStr(Title, "VLC media player")) {
@@ -32,5 +33,9 @@ Rewind() {
         Send {Left}
     } else {
         Send {WheelLeft}
-    }  
+    }
 }
+
+#IfWinActive ahk_class OpusApp
+    ^w::SendInput ^{Left}+^{Right}
+#IfWinActive
