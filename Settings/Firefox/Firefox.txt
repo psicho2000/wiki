@@ -4,6 +4,7 @@ Addons
     I don't care about cookies
     uBlock Origin
     NoScript
+    Octotree
     [Firefox Multi-Account Containers] - dann gehen Webseiten nicht mehr
 
 Rechtsklick auf Bereich neben Adressleiste
