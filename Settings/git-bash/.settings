@@ -3,10 +3,7 @@ export desktop_dir='/d/Eigenes/Desktop'
 export project_base_dir='/d/Projects/'
 export wiki_dir='/d/Projects/Wiki'
 
-export login_identity_base_path="~/.ssh"
-declare -A login_machines=( [lifeline]="markus@lifeline-herne.de" )
-
 # Environment specific commands/aliases/exports
 alias debian='winpty docker exec -it mydebian bash'
 alias redmine='cd $project_base_dir/redmine-protocol'
-alias upproto="scp $project_base_dir/redmine-protocol/redmine.protocol/target/redmine.protocol-1.2.0.jar markus@lifeline-herne.de:~"
+alias upproto="scp $project_base_dir/redmine-protocol/redmine.protocol/target/redmine.protocol-1.2.1.jar lifeline:~"
