@@ -6,4 +6,4 @@ export wiki_dir='/d/Projects/Wiki'
 # Environment specific commands/aliases/exports
 alias debian='winpty docker exec -it mydebian bash'
 alias redmine='cd $project_base_dir/redmine-protocol'
-alias upproto="scp $project_base_dir/redmine-protocol/redmine.protocol/target/redmine.protocol-1.2.1.jar lifeline:~"
+alias upproto="scp $project_base_dir/redmine-protocol/redmine.protocol/target/redmine.protocol-*.jar lifeline:~"
