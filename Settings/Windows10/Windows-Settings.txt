@@ -71,3 +71,17 @@ ggf. Unnötige Verzeichnisse in "Dieser PC" ausblenden
 
 ggf. weitere Benutzer hinzufügen
     Konten > Famile & weitere Kontakte > Diesem PC eine andere Person hinzufügen > Ich kenne die Anmeldeinformationen für diese Person nicht > Benutzer ohne Microsoft-Konto hinzufügen
+
+Windows Settings (Win+I)
+    System > Benachrichtigungen und Aktionen > Schnelle Aktionen bearbeiten
+    Telefon
+        ggf. Handy verbinden
+    Personalisierung
+        Hintergrund: Diashow
+        Farben
+            Dunkel
+            Transparenz: Ein
+            Akzent: Auto
+            Akzent zeigen auf: Start, Taskleiste, Info-Center
+    Suche > Windows durchsuchen
+        Erweitert
