@@ -48,6 +48,8 @@ Outlook
         o Element als gelesen markieren, wenn neue Auswahl erfolgt
     Systray > Outlook > Rechtsklick
         x Ausblenden, wenn minimiert
+    Datei > Optionen > Erweitert > Outlook-Bereiche > Lesebereich
+        o Element als gelesen markieren, wenn neue Auswahl erfolgt
 
 OneNote
     Symbol immer anzeigen
