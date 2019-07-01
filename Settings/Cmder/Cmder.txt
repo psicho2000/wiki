@@ -3,12 +3,12 @@
 
 Settings
     General
-        Task bar
+        Tab bar
             Console: %m💧 m%n%m 💧m
     Startup
         Tasks
             Add/refresh default tasks... > Refresh (will install Git Bash, if it is installed already)
-            Git Bash: Change param new_console to: -new_console:t:git-bash
+            Git Bash: Change param -new_console to: -new_console:t:git-bash
     Keys & Macro
         Remove Ctrl+W hotkey
 
