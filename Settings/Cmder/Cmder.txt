@@ -2,20 +2,18 @@
     c:\tools (does not work under c:\program*)
 
 Settings
-    General
-        Tab bar
-            Console: %m💧 m%n%m 💧m
     Startup
         Tasks
             Add/refresh default tasks... > Refresh (will install Git Bash, if it is installed already)
             Git Bash: Change param -new_console to: -new_console:t:git-bash
+    General
+        Choose your startup task / shell: {Git Bash}
+        Tab bar
+            Console: %m💧 m%n%m 💧m
+        Task bar
+            x Auto minimize to TSA
     Keys & Macro
         Remove Ctrl+W hotkey
-
-General
-    Choose your startup task / shell: {Git Bash}
-    Task bar
-        x Auto minimize to TSA
 
 ----
 
