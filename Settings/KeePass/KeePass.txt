@@ -19,5 +19,5 @@ Chrome Integration
     siehe Chrome Install Notes
 
 Plugins (https://keepass.info/plugins.html)
-    * KeePassHttp
+    * KeePassHttp (install via Chocolatey)
     * QuickSearch
