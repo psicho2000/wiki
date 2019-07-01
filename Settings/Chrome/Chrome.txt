@@ -31,7 +31,8 @@ Experten-Einstellungen: chrome://flags/
 		
 ... > Weitere Tools > Erweiterungen > Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
     Top
-        ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern)
+        ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern; 
+                                     alternativ über Chocolatey installieren)
         Web Search Navigator        (Shortcuts für Google Suchergebnisseite)
             https://github.com/infokiller/web-search-navigator
             https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek
