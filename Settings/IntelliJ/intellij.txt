@@ -8,7 +8,7 @@ Installation
     Toolbox > IntelliJ > Cog > Settings > Edit Virtual Machine Options > Notepad++
         Add "-Dproject.tree.structure.show.url=false" at the end in a new line and save the file]
 
-Help > Edit Custom Properties
+Actions (Ctrl+Shift+A) > Registry... (alternatively: Help > Edit Custom Properties)
     project.tree.structure.show.url=false
     ide.tree.horizontal.default.autoscrolling=false
 
