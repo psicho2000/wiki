@@ -26,7 +26,7 @@ Weitere Suchmaschinen
 
 
 Experten-Einstellungen: chrome://flags/
-	Suche nach "mhtml" > Aktivieren
+	[Suche nach "mhtml" > Aktivieren] deaktiviert, nutze --save-page-as-mhtml in der Chrome-Verknüpfung
 	chrome://flags/#enable-tab-audio-muting > Aktivieren
 		
 ... > Weitere Tools > Erweiterungen > Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
