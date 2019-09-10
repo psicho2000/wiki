@@ -47,6 +47,12 @@ git log -2
 # show last diff
 git show
 
+# show specific diff
+git show <commit>
+
+# show statis of a specific diff
+git show --stat <commit>
+
 # create tag
 git tag -a v1.0.1
 git push --tags
