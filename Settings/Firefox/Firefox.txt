@@ -1,5 +1,6 @@
 Addons
     KeePassHttp-Connector
+    Kee - Password Manager (alternativ)
     Web Search Navigator
     I don't care about cookies
     uBlock Origin
