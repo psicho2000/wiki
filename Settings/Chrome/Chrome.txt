@@ -26,7 +26,6 @@ Weitere Suchmaschinen
 
 
 Experten-Einstellungen: chrome://flags/
-	[Suche nach "mhtml" > Aktivieren] deaktiviert, nutze --save-page-as-mhtml in der Chrome-Verknüpfung
 	chrome://flags/#enable-tab-audio-muting > Aktivieren
 		
 ... > Weitere Tools > Erweiterungen > Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
@@ -37,6 +36,7 @@ Experten-Einstellungen: chrome://flags/
             https://github.com/infokiller/web-search-navigator
             https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek
         I dont care about Cookies
+        SingleFile
         uBlock Origin
         ScriptSafe
     Backlog
