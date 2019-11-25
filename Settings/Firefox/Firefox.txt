@@ -6,7 +6,7 @@ Addons
     SingleFile
     uBlock Origin
     NoScript
-    Octotree
+    [Octotree]
     [Firefox Multi-Account Containers] - dann gehen Webseiten nicht mehr
 
 Rechtsklick auf Bereich neben Adressleiste
