@@ -7,16 +7,21 @@
 
     "defaultProfile": "{b83172ad-0032-4752-97f5-b7203afe36ee}",
 
+    "copyOnSelect": true,
+
+
+
     "profiles":
     [
         {
+            "guid" : "{b83172ad-0032-4752-97f5-b7203afe36ee}",
+            "name" : "Git Bash",
+            "commandline" : "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
             "acrylicOpacity" : 0.75,
             "colorScheme" : "One Half Dark",
-            "commandline" : "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
             "cursorColor" : "#FFFFFF",
-            "guid" : "{b83172ad-0032-4752-97f5-b7203afe36ee}",
+            "icon": "D:/Projects/wiki/Settings/Windows-Terminal/git-bash.png",
             "historySize" : 9001,
-            "name" : "Git Bash",
             "padding" : "5, 2, 5, 2",
             "snapOnInput" : true,
             "useAcrylic" : true,
@@ -54,12 +59,8 @@
     // To unbind a default keybinding, set the command to "unbound"
     "keybindings":
     [
-        {
-            "command" : "newTab",
-            "keys" : 
-            [
-                "ctrl+t"
-            ]
-        }
+        { "command" : "newTab", "keys" : [ "ctrl+t" ] },
+        { "command" : "paste", "keys" : [ "shift+insert" ] },
+        { "command": "increaseFontSize", "keys": [ "ctrl+plus" ] }
     ]
 }

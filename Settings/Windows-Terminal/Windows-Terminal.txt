@@ -1,0 +1,9 @@
+Wünsche
+* Global Shortcut (like Ctrl+ö)
+* Minimize to Tray
+* Forward colors from remote ssh
+* Terminal here
+
+Preview
+* Install from choco
+* Add to taskbar
