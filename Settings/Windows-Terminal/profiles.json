@@ -16,7 +16,7 @@
             "name" : "Git Bash",
             "commandline" : "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
             "acrylicOpacity" : 0.75,
-            "colorScheme" : "One Half Dark",
+            "colorScheme" : "Solarized Dark",
             "cursorColor" : "#FFFFFF",
             "icon": "D:/Projects/wiki/Settings/Windows-Terminal/git-bash.png",
             "historySize" : 9001,
@@ -24,6 +24,13 @@
             "snapOnInput" : true,
             "useAcrylic" : true,
             "startingDirectory": "%userprofile%"
+        },
+        {
+            // Make changes here to the cmd.exe profile
+            "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+            "name": "cmd",
+            "commandline": "cmd.exe",
+            "hidden": false
         },
         {
             // Make changes here to the powershell.exe profile
@@ -34,13 +41,6 @@
             "useAcrylic": true,
             "acrylicOpacity": 0.6,
             "colorScheme": "Campbell"
-        },
-        {
-            // Make changes here to the cmd.exe profile
-            "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-            "name": "cmd",
-            "commandline": "cmd.exe",
-            "hidden": false
         },
         {
             "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
@@ -57,8 +57,9 @@
     // To unbind a default keybinding, set the command to "unbound"
     "keybindings":
     [
-        { "command" : "newTab", "keys" : [ "ctrl+t" ] },
-        { "command" : "paste", "keys" : [ "shift+insert" ] },
-        { "command": "increaseFontSize", "keys": [ "ctrl+plus" ] }
+        { "command": "newTab", "keys" : [ "ctrl+t" ] },
+        { "command": "paste", "keys" : [ "shift+insert" ] },
+        { "command": "increaseFontSize", "keys": [ "ctrl+plus" ] },
+        { "command": "duplicateTab", "keys": [ "ctrl+alt+d" ] }
     ]
 }
