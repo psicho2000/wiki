@@ -17,13 +17,8 @@
             "commandline" : "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
             "icon": "D:/Projects/wiki/Settings/Windows-Terminal/git-bash.png",
             "colorScheme" : "Campbell",
-            "cursorColor" : "#ffffff",
             "backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/Background.png",
-            "historySize" : 9001,
-            "padding" : "5, 2, 5, 2",
-            "snapOnInput" : true,
-            "useAcrylic" : false,
-            "acrylicOpacity" : 0.75,
+            "historySize" : 16000,
             "startingDirectory": "%userprofile%"
         },
         {
@@ -31,6 +26,10 @@
             "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
             "name": "cmd",
             "commandline": "cmd.exe",
+            "colorScheme" : "Campbell",
+            "backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/Background.png",
+            "historySize" : 16000,
+            "startingDirectory": "%userprofile%",
             "hidden": false
         },
         {
