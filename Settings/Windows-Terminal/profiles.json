@@ -5,18 +5,16 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
 
-    "defaultProfile": "{b83172ad-0032-4752-97f5-b7203afe36ee}",
+    "defaultProfile": "{c8ed0f78-8d9d-4332-828a-d4719fc1e2a8}",
 
     "copyOnSelect": true,
-
-
 
     "profiles":
     [
         {
-            "guid" : "{b83172ad-0032-4752-97f5-b7203afe36ee}",
+            "guid" : "{c8ed0f78-8d9d-4332-828a-d4719fc1e2a8}",
             "name" : "Git Bash",
-            "commandline" : "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
+            "commandline" : "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
             "acrylicOpacity" : 0.75,
             "colorScheme" : "One Half Dark",
             "cursorColor" : "#FFFFFF",
