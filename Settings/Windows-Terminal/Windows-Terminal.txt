@@ -1,8 +1,8 @@
 Wünsche
 * Global Shortcut (like Ctrl+ö)
 * Minimize to Tray
-* Forward colors from remote ssh
 * Terminal here
+* Forward colors from remote ssh --> works for Alex
 
 Preview
 * Install from choco (microsoft-windows-terminal)
