@@ -5,5 +5,5 @@ Wünsche
 * Terminal here
 
 Preview
-* Install from choco
+* Install from choco (microsoft-windows-terminal)
 * Add to taskbar
