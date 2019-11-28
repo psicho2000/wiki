@@ -27,7 +27,8 @@
             "name": "cmd",
             "commandline": "cmd.exe",
             "colorScheme" : "Campbell",
-            "backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/Background2.jpg",
+            "backgroundImage": "D:/Projects/Wiki/Settings/Windows-Terminal/more_background/336342-free-blue-grunge-background-2560x1540-ipad-retina.jpg",
+            "backgroundImageOpacity": 0.6,
             "historySize" : 16000,
             "startingDirectory": "%userprofile%",
             "hidden": false
