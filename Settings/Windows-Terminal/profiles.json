@@ -16,8 +16,10 @@
             "name" : "Git Bash",
             "commandline" : "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
             "icon": "D:/Projects/wiki/Settings/Windows-Terminal/git-bash.png",
-            "colorScheme" : "Campbell",
-            "backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/Background2.jpg",
+            "colorScheme" : "Markus",
+            "background": "#002B36",
+            //"backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/more_background/336342-free-blue-grunge-background-2560x1540-ipad-retina.jpg",
+            //"backgroundImageOpacity": 0.4,
             "historySize" : 16000,
             "startingDirectory": "%userprofile%"
         },
@@ -26,9 +28,8 @@
             "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
             "name": "cmd",
             "commandline": "cmd.exe",
-            "colorScheme" : "Campbell",
-            "backgroundImage": "D:/Projects/Wiki/Settings/Windows-Terminal/more_background/336342-free-blue-grunge-background-2560x1540-ipad-retina.jpg",
-            "backgroundImageOpacity": 0.6,
+            "colorScheme" : "Markus",
+            "backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/Background2.jpg",
             "historySize" : 16000,
             "startingDirectory": "%userprofile%",
             "hidden": false
@@ -52,7 +53,29 @@
     ],
 
     // Add custom color schemes to this array
-    "schemes": [],
+    "schemes": [
+        {
+            "name": "Markus",
+            "foreground": "#CCCCCC",
+            "background": "#0C0C0C",
+            "black": "#0C0C0C",
+            "red": "#dc322f",
+            "green": "#859900",
+            "yellow": "#b58900",
+            "blue": "#268bd2",
+            "purple": "#881798",
+            "cyan": "#24a198",
+            "white": "#CCCCCC",
+            "brightBlack": "#767676",
+            "brightRed": "#E74856",
+            "brightGreen": "#16C60C",
+            "brightYellow": "#F9F1A5",
+            "brightBlue": "#3B78FF",
+            "brightPurple": "#B4009E",
+            "brightCyan": "#61D6D6",
+            "brightWhite": "#F2F2F2"
+        }
+    ],
 
     // Add any keybinding overrides to this array.
     // To unbind a default keybinding, set the command to "unbound"
