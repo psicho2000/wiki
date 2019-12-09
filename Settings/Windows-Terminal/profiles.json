@@ -16,7 +16,7 @@
             "name" : "Git Bash",
             "commandline" : "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
             "icon": "D:/Projects/wiki/Settings/Windows-Terminal/git-bash.png",
-            "colorScheme" : "Markus",
+            "colorScheme" : "git-bash",
             "background": "#002B36",
             //"backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/more_background/336342-free-blue-grunge-background-2560x1540-ipad-retina.jpg",
             //"backgroundImageOpacity": 0.4,
@@ -28,7 +28,7 @@
             "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
             "name": "cmd",
             "commandline": "cmd.exe",
-            "colorScheme" : "Markus",
+            "colorScheme" : "git-bash",
             "backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/Background2.jpg",
             "historySize" : 16000,
             "startingDirectory": "%userprofile%",
@@ -55,7 +55,7 @@
     // Add custom color schemes to this array
     "schemes": [
         {
-            "name": "Markus",
+            "name": "git-bash",
             "foreground": "#CCCCCC",
             "background": "#0C0C0C",
             "black": "#0C0C0C",
