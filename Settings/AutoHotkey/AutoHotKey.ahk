@@ -2,7 +2,7 @@
 ; Place Shortcut to this file in Autostart (Win+R: "shell:startup")
 
 ; Remap Capslock to Shift
-Capslock::Shift
+Capslock::Esc
 
 ; Win-E starts Explorer with drive D: active and brings it to front
 #e::
