@@ -80,8 +80,10 @@ Settings
     Plugins
         Browse Repositories
             Eclipse Code Formatter
+            Extra Icons
             GitToolBox (z.B. für Anzeige vom aktuellen Branch im Project Tree)
             JSON Utils (z.B. für JSON Path)
+            Key Promoter X
             Lombok Plugin
             Maven Helper (pom.xml > Dependency Analyzer / Quick Run Maven Goal)
             Save Actions
