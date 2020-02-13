@@ -83,7 +83,12 @@ Windows Settings (Win+I)
             Transparenz: Ein
             Akzent: Auto
             Akzent zeigen auf: Start, Taskleiste, Info-Center
-    Zeit und Sprache > Sprache > Erweitert ("Wählen Sie eine Eingabemethode aus, die immer als Standard verwendet werden soll") > Tastenkombiniationen für Eingabesprachen
-        Tastenkombination ändern > Eingabesprache wechseln > Nicht zugewiesen
+    Zeit und Sprache > Sprache > Erweitert ("Wählen Sie eine Eingabemethode aus, die immer als Standard verwendet werden soll")
+        Außerkraftsetzen für Standardeingabemethode
+            Englisch - US (optional; in diese Eingabemethode wird nach jedem Login gewechselt)
+        Bevorzugte Sprache hinzufügen: Englisch (US)
+            alle Checkboxen aus (d.h. ohne Sprachpaket, Spracherkennung, Sprachausgabe, Handschrift)
+        Tastenkombinationen für Eingabesprachen > Tastenkombination ändern
+            Eingabesprache wechseln: Nicht zugewiesen
     Suche > Windows durchsuchen
         Erweitert
