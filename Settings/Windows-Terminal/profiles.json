@@ -16,8 +16,9 @@
             "name" : "Git Bash",
             "commandline" : "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
             "icon": "D:/Projects/wiki/Settings/Windows-Terminal/git-bash.png",
-            "colorScheme" : "git-bash",
+            "colorScheme" : "Markus",
             "background": "#002B36",
+            "fontFace": "Cascadia Code PL",
             //"backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/more_background/336342-free-blue-grunge-background-2560x1540-ipad-retina.jpg",
             //"backgroundImageOpacity": 0.4,
             "historySize" : 16000,
@@ -28,8 +29,9 @@
             "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
             "name": "cmd",
             "commandline": "cmd.exe",
-            "colorScheme" : "git-bash",
+            "colorScheme" : "Markus",
             "backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/Background2.jpg",
+            "fontFace": "Consolas",
             "historySize" : 16000,
             "startingDirectory": "%userprofile%",
             "hidden": false
@@ -55,7 +57,7 @@
     // Add custom color schemes to this array
     "schemes": [
         {
-            "name": "git-bash",
+            "name": "Markus",
             "foreground": "#CCCCCC",
             "background": "#0C0C0C",
             "black": "#0C0C0C",
@@ -63,7 +65,7 @@
             "green": "#859900",
             "yellow": "#B58900",
             "blue": "#268BD2",
-            "purple": "#D6438A",
+            "purple": "#6c71c4",
             "cyan": "#24A198",
             "white": "#CCCCCC",
             "brightBlack": "#767676",
@@ -82,7 +84,6 @@
     "keybindings":
     [
         { "command": "newTab", "keys" : [ "ctrl+t" ] },
-        { "command": "paste", "keys" : [ "shift+insert" ] },
         { "command": "increaseFontSize", "keys": [ "ctrl+plus" ] },
         { "command": "duplicateTab", "keys": [ "ctrl+alt+d" ] }
     ]

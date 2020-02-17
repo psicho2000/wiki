@@ -7,7 +7,7 @@ Capslock::Esc
 ; Win-E starts Explorer with drive D: active and brings it to front
 #e::
     run explorer.exe D:
-;    WinActivate, D:\
+    WinActivate, D:\
 ;return
 
 $WheelRight::FastForward()
