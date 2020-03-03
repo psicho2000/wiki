@@ -9,8 +9,8 @@ Anschließend nur noch Settings in chrome://flags setzen.
         Leo             l   https://dict.leo.org/ende?lang=de&search=%s
         Wikipedia (de)  w   https://de.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
         Wikipedia (en)  we  https://en.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
-	Beim Start: Zuletzt angesehene Seiten öffnen
-	Erweitert
+    Beim Start: Zuletzt angesehene Seiten öffnen
+    Erweitert
         Sicherheit und Datenschutz > Inhaltseinstellungen > Benachrichtigungen: Blockiert
         Downloads: Vor dem Download von Dateien nach dem Speicherort fragen
 
@@ -26,28 +26,30 @@ Weitere Suchmaschinen
 
 
 Experten-Einstellungen: chrome://flags/
-	chrome://flags/#enable-tab-audio-muting > Aktivieren
-		
-... > Weitere Tools > Erweiterungen > Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
-    Top
-        ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern; 
-                                     alternativ über Chocolatey installieren)
-        Web Search Navigator        (Shortcuts für Google Suchergebnisseite)
-            https://github.com/infokiller/web-search-navigator
-            https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek
-        I dont care about Cookies
-        SingleFile
-        uBlock Origin
-        ScriptSafe
-    Backlog
-        Adblock Plus
-        Chrometana                  (Google als Suchmaschine)
-        crxMouse Chrome Gestures
-        Duplicate Tab Shortcut Key  (bessere Alternative ohne Plugin: Alt+D, Alt+Return)
-        Evernote Web Clipper
-        Hotspot Shield              (VPN)
-        JSON Formatter
-        ProxFlow                    (Ländersperren für Youtube und weitere umgehen)
-        Stylish                     ([Solarized] Dark Styles for GitHub, JIRA, ...)
-        ZenMate                     (VPN)
+    chrome://flags/#enable-tab-audio-muting > Aktivieren
 
+... > Weitere Tools > Erweiterungen
+    Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
+        Top
+            ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern;
+                                         alternativ über Chocolatey installieren)
+            Web Search Navigator        (Shortcuts für Google Suchergebnisseite)
+                https://github.com/infokiller/web-search-navigator
+                https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek
+            I dont care about Cookies
+            SingleFile
+            uBlock Origin
+            ScriptSafe
+        Backlog
+            Adblock Plus
+            Chrometana                  (Google als Suchmaschine)
+            crxMouse Chrome Gestures
+            Duplicate Tab Shortcut Key  (bessere Alternative ohne Plugin: Alt+D, Alt+Return)
+            Evernote Web Clipper
+            Hotspot Shield              (VPN)
+            JSON Formatter
+            ProxFlow                    (Ländersperren für Youtube und weitere umgehen)
+            Stylish                     ([Solarized] Dark Styles for GitHub, JIRA, ...)
+            ZenMate                     (VPN)
+    Für jede gewünschte Erweiterung
+        Details > Im Inkognitomodules zulassen
