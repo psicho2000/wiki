@@ -36,7 +36,7 @@ Settings
         Font
             Font: Source Code Pro
         Color Scheme (Duplicate... > "Markus")
-            Java
+            Java (Scheme: Default)
                 Class Fields: 0000C0
                     Final: Bold
                     Static: Italic
@@ -50,6 +50,9 @@ Settings
                     Reassigned: Underscore
                 Variables: 6A3E3E
                     Reassigned: Underscore
+            Java (Scheme: Default)
+                Classes & Interfaces: C60278
+                    Enum: Bold
         Code Style
             Hard wrap at: 130
             Visual guides: 130
