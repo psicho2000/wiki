@@ -50,7 +50,7 @@ Settings
                     Reassigned: Underscore
                 Variables: 6A3E3E
                     Reassigned: Underscore
-            Java (Scheme: Default)
+            Java (Scheme: Darcula)
                 Classes & Interfaces: C60278
                     Enum: Bold
         Code Style
