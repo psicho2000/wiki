@@ -53,3 +53,9 @@ Experten-Einstellungen: chrome://flags/
             ZenMate                     (VPN)
     Für jede gewünschte Erweiterung
         Details > Im Inkognitomodules zulassen
+
+Experimental
+    chrome://flags
+        Force Dark Mode for Web Contents: Enabled
+        Tab Groups: Enabled
+
