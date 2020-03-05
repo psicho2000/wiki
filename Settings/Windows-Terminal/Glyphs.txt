@@ -1,0 +1,22 @@
+Use these Glyphs with Font Cascadia Code (https://github.com/microsoft/cascadia-code/). Best experience in Windows Terminal.
+Math
+==	===
+!=	!==
+~=	~~
+<=	>=
+<<	>>
+Arrows
+<-	->
+<--	-->
+	=>
+<==	==>
+<=<	>=>
+=<<	>>=
+<~	~>
+<~~	~~>
+<>	<->
+<=>	<==>
+Extra
+***	!!
+##	###	####
+</  />  </>
