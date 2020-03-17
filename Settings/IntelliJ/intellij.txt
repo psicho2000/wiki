@@ -34,7 +34,9 @@ Settings
             Smart Keys
                 x Use "CamelHumps" words
         Font
-            Font: Source Code Pro
+            Font: Cascadia Code [ex: Source Code Pro]
+            Fallback Font: Consolas
+            x Enable font ligatures
         Color Scheme (Duplicate... > "Markus")
             Java (Scheme: Default)
                 Class Fields: 0000C0
