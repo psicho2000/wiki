@@ -85,6 +85,6 @@
     [
         { "command": "newTab", "keys" : [ "ctrl+t" ] },
         { "command": "increaseFontSize", "keys": [ "ctrl+plus" ] },
-        { "command": "duplicateTab", "keys": [ "ctrl+alt+d" ] }
+        { "command": {"action": "splitPane", "split": "auto", "splitMode": "duplicate"}, "keys": [ "ctrl+alt+d" ] }
     ]
 }
