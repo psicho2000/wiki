@@ -36,3 +36,6 @@ Erweiterungen > Plugin Manager > Show Plugin Manager
 Erweiterungen (manuell)
     https://sourceforge.net/projects/nppjsonviewer/
     Ins Plugin-Verzeichnis kopieren und neustarten
+
+Themes:
+    Verzeichnis themes nach %appdata%\notepad++ kopieren

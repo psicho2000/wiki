@@ -6,6 +6,8 @@ Addons
     SingleFile
     uBlock Origin
     NoScript
+    Stylus              ([Solarized] Dark Styles for GitHub, JIRA, ...) https://github.com/openstyles/stylus
+                        Note! Do not use Stylish, it shares data! Security risk.
     [Octotree]
     [Firefox Multi-Account Containers] - dann gehen Webseiten nicht mehr
 

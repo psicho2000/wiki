@@ -49,7 +49,8 @@ Experten-Einstellungen: chrome://flags/
             Hotspot Shield              (VPN)
             JSON Formatter
             ProxFlow                    (Ländersperren für Youtube und weitere umgehen)
-            Stylish                     ([Solarized] Dark Styles for GitHub, JIRA, ...)
+            Stylus                      ([Solarized] Dark Styles for GitHub, JIRA, ...) https://github.com/openstyles/stylus
+                                        Note! Do not use Stylish, it shares data! Security risk.
             ZenMate                     (VPN)
     Für jede gewünschte Erweiterung
         Details > Im Inkognitomodules zulassen
