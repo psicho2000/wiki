@@ -13,12 +13,12 @@ Options\Preferences
   Global Hotkeys
     x Enabled
     Playback: Forward/Rewind löschen
-    Playback: Open file dialog -> STRG + UMSCHALT + L
+    Playback: Open file dialog   -> STRG + UMSCHALT + L
     Playback: Open folder dialog -> STRG + UMSCHALT + ALT + L
-    Playback: Play      -> STRG + ALT + POS1
-    Playback: Pause     -> STRG + ALT + EINFG
-    Playback: Toogle Shuffle -> STRG + ALT + Backspace
-    UI: Toggle Playlist -> STRG + ALT + Ü / CTRL + ALT + [
+    Playback: Play               -> STRG + ALT + POS1
+    Playback: Pause              -> STRG + ALT + EINFG
+    Playback: Toogle Shuffle     -> STRG + ALT + Backspace
+    UI: Toggle Playlist          -> STRG + ALT + Ü / CTRL + ALT + [
 
 Doppelklick auf Titelleiste (WINAMP) -> schmale Leiste
 
