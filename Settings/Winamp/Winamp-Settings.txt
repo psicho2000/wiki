@@ -1,0 +1,34 @@
+Options\Preferences
+  General
+    o Check for newer versions (aus)
+    o Tasbar (aus)
+    x Notifcation area (ggf. aus, wenn Slider seinen an hat)
+  Titles
+    x Use advanced title formatting when possible
+      $filepart(%filename%)
+    oder:
+      [%artist% - ][%album% - ]$filepart(%filename%)
+  Global Hotkeys
+    x Enabled
+    Playback: Forward/Rewind löschen
+    Playback: Open file dialog -> STRG + UMSCHALT + L
+    Playback: Open folder dialog -> STRG + UMSCHALT + ALT + L
+    Playback: Play      -> STRG + ALT + POS1
+    Playback: Pause     -> STRG + ALT + EINFG
+    Playback: Toogle Shuffle -> STRG + ALT + Backspace
+    UI: Toggle Playlist -> STRG + ALT + Ü / CTRL + ALT + [
+
+Doppelklick auf Titelleiste (WINAMP) -> schmale Leiste
+
+kleines Menü (links oben)
+  Options
+    x Always on top
+  Windows Settings\Docked Toolbar
+    o Auto-Hide (aus)
+    x Always on top
+    x Top
+    ggf. Dock/Undock Windows by Dragging
+
+Windows Settings > App > Standard-Apps > Musikplayer: Winamp
+
+Free version 5.8 can be downloaded at https://www.winamp.com/
