@@ -1,3 +1,5 @@
+Free version 5.8 can be downloaded at https://www.winamp.com/
+
 Options\Preferences
   General
     o Check for newer versions (aus)
@@ -30,5 +32,3 @@ kleines Menü (links oben)
     ggf. Dock/Undock Windows by Dragging
 
 Windows Settings > App > Standard-Apps > Musikplayer: Winamp
-
-Free version 5.8 can be downloaded at https://www.winamp.com/
