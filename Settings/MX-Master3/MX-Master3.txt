@@ -1,0 +1,4 @@
+Tastenbelegung
+    Taste unter dem Mausrad: Zeiger-Geschwindigkeit (1: maximal, 2: mittel)
+
+Daumenradrichtung: Invertiert
