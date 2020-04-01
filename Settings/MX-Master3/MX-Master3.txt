@@ -2,3 +2,9 @@ Tastenbelegung
     Taste unter dem Mausrad: Zeiger-Geschwindigkeit (1: maximal, 2: mittel)
 
 Daumenradrichtung: Invertiert
+
+Falls via Bluetooth verbunden: beim Wechsel 
+    Maus
+        Taste unterhalb Mausrad: <kein> Mausrad-Moduls-Wechsel
+    Mauszeiger & Bildlauf
+        Smartshift: Deaktiviert
