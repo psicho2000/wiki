@@ -2,3 +2,11 @@ General
     o Start Docker when you log in
     o Automatically check for updates
     o Send usage statistics
+Resources
+    Advanced
+        CPUs: 4
+        Memory: 8 GB
+        Disk image location: D:\Temp\Hyper-V\VMs\DockerDesktop
+    File Sharing
+        x C
+        x D
