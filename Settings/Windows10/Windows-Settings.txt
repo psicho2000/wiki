@@ -72,6 +72,9 @@ ggf. Unnötige Verzeichnisse in "Dieser PC" ausblenden
 ggf. weitere Benutzer hinzufügen
     Konten > Famile & weitere Kontakte > Diesem PC eine andere Person hinzufügen > Ich kenne die Anmeldeinformationen für diese Person nicht > Benutzer ohne Microsoft-Konto hinzufügen
 
+US-International-Undead.rar > setup.exe ausführen
+    löschen: setup.exe erneut ausführen; falls das nicht klappt: regedit > HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts\ > gewünschtes Layout entfernen
+
 Windows Settings (Win+I)
     System > Benachrichtigungen und Aktionen > Schnelle Aktionen bearbeiten
     Telefon
@@ -84,10 +87,13 @@ Windows Settings (Win+I)
             Akzent: Auto
             Akzent zeigen auf: Start, Taskleiste, Info-Center
     Zeit und Sprache > Sprache > Erweitert ("Wählen Sie eine Eingabemethode aus, die immer als Standard verwendet werden soll")
-        Außerkraftsetzen für Standardeingabemethode
-            Englisch - US (optional; in diese Eingabemethode wird nach jedem Login gewechselt)
         Bevorzugte Sprache hinzufügen: Englisch (US)
             alle Checkboxen aus (d.h. ohne Sprachpaket, Spracherkennung, Sprachausgabe, Handschrift)
+        Englisch (United States) > Optionen
+            Tastatur hinzufügen: Englisch (USA, International) - Undead
+            Englisch QWERTY > entfernen
+        Außerkraftsetzen für Standardeingabemethode
+            Englisch (USA, International) - Undead (in diese Eingabemethode wird nach jedem Login gewechselt)
         Tastenkombinationen für Eingabesprachen > Tastenkombination ändern
             Eingabesprache wechseln: Nicht zugewiesen
     Suche > Windows durchsuchen
