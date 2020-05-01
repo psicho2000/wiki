@@ -1,11 +1,3 @@
-Datenträgerverwaltung
-    Rechtsklick auf Partition > Laufwerkbuchstaben und -pfade ändern
-
-Verzeichnisse anpassen
-    C:\Benutzer\<user>
-        Rechtsklick auf Desktop > Eigenschaften > Pfad: D:\Eigenes\Desktop > Verschieben
-        Rechtsklick auf Dokumente > Eigenschaften > Pfad: D:\Eigenes\Dokumente > Verschieben
-
 Explorer > Ansicht > Optionen
     Allgemein
         Datei-Explorer öffnen für: Dieser PC
@@ -17,12 +9,15 @@ Explorer > Ansicht > Optionen
         x Vollständigen Pfad in der Titelleiste anzeigen
         x Vorherige Ordnerfenster bei der Anmeldung wiederherstellen
 
+Datenträgerverwaltung
+    Rechtsklick auf Partition > Laufwerkbuchstaben und -pfade ändern
+
+Verzeichnisse anpassen
+    C:\Benutzer\<user>
+        Rechtsklick auf Desktop > Eigenschaften > Pfad: D:\Eigenes\Desktop > Verschieben
+        Rechtsklick auf Dokumente > Eigenschaften > Pfad: D:\Eigenes\Dokumente > Verschieben
+
 OneDrive deinstallieren
-Alternativ: SysTray > Rechtsklick auf OneDrive
-    Einstellungen
-        Einstellungen
-            o OneDrive beim Anmelden bei Windows automatisch starten
-    OneDrive beenden
 
 Mauseinstellungen > Weitere Mausoptionen
     Zeiger
@@ -60,17 +55,11 @@ Mobilitätscenter (Win+X, M)
     Präsentationseinstellungen > Diesen Hintergrund anzeigen: (Kein)
 
 Standard-Apps (nach deren Installation)
-    E-Mail: Thunderbird
-    Bildanzeige: FastStone Image Viewer
+    E-Mail: Thunderbird/Outlook
+    Musikplayer: Winamp
+    Bildanzeige: FastStone Image Viewer/qView
+    Videoplayer: VLC
     Webbrowser: Firefox/Chrome
-
-ggf. Bibliotheken konfigurieren
-
-ggf. Unnötige Verzeichnisse in "Dieser PC" ausblenden
-    s. Windows10.docx
-
-ggf. weitere Benutzer hinzufügen
-    Konten > Famile & weitere Kontakte > Diesem PC eine andere Person hinzufügen > Ich kenne die Anmeldeinformationen für diese Person nicht > Benutzer ohne Microsoft-Konto hinzufügen
 
 US-International-Undead.rar > setup.exe ausführen
     löschen: setup.exe erneut ausführen; falls das nicht klappt: regedit > HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts\ > gewünschtes Layout entfernen
@@ -98,3 +87,12 @@ Windows Settings (Win+I)
             Eingabesprache wechseln: Nicht zugewiesen
     Suche > Windows durchsuchen
         Erweitert
+
+Disable-all.reg ausführen
+
+Optional
+    Bibliotheken konfigurieren
+
+    weitere Benutzer hinzufügen
+        Konten > Famile & weitere Kontakte > Diesem PC eine andere Person hinzufügen >
+            Ich kenne die Anmeldeinformationen für diese Person nicht > Benutzer ohne Microsoft-Konto hinzufügen
