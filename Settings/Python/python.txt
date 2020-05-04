@@ -1,0 +1,6 @@
+cinst python3
+ln -s /c/Python38/python /c/Python38/python3
+IntelliJ with Plugin Python from JetBrains (instead of PyCharm), Python Interpreter konfigurieren
+Python Skript zu Projekt hinzufügen, Invalidate Caches and Restart
+Shebang #!/usr/bin/env python3
+Module müssen sowohl im Container als auch in Windows hinzugefügt werden
