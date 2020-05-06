@@ -140,3 +140,6 @@ Settings
 Tool Windows "Project"
     Settings
         x Autoscroll from Source
+
+Browser (Firefox/Chrome)
+    Add JetBrains Toolbox Extension
