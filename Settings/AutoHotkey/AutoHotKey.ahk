@@ -4,6 +4,9 @@
 ; Remap Capslock to Shift
 Capslock::Esc
 
+; Remap left \| (<>|) to AltGR
+SC056::RAlt
+
 ; Win-E starts Explorer with drive D: active and brings it to front
 #e::
     run explorer.exe D:
