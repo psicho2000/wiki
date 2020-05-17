@@ -1,7 +1,6 @@
 Wünsche
 * Global Shortcut (like Ctrl+ö)
 * Minimize to Tray
-* Terminal here
 * Forward colors from remote ssh in Git Bash (only works in cmd)
 
 Preview
