@@ -1,0 +1,45 @@
+## Raspbian
+
+Raspbian mit balenaEtcher auf einen Stick bringen
+Datei ssh zur Root-Partition hinzu
+Raspi starten
+
+# VNC aktivieren
+`sudo raspi-config` > Interfacing Options > VNC (& SSH)
+
+# SSH Zugriff konfigurieren
+## Laptop
+scp ~/.ssh/id_rsa.pub pi@<ip>:~/.ssh
+## Pi
+cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys &&rm ~/.ssh/id_rsa.pub
+
+# Unifying Receiver
+sudo apt install -y solaar
+App > Zubehör > Solaar
+Maus syncen
+
+# Dotfiles installieren
+https://gitlab.com/psicho/dotfiles
+
+Tastatur per Bluetooth syncen
+
+Einstellungen > Raspberry PI Konfiguration > Schnittstellen > Kamera: aktiviert
+
+# Zoom nutzen
+https://www.raspberrypi.org/forums/viewtopic.php?t=254367
+
+# Docker installation
+https://www.docker.com/blog/happy-pi-day-docker-raspberry-pi/
+https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl
+
+===========================================================================
+
+## Ubuntu
+
+# Wifi installieren
+## Pi
+sudo apt install -y network-manager net-tools
+nmcli d wifi connect IchWillRein password <password>
+
+# Desktop installieren
+sudo apt install -y kubuntu-desktop
