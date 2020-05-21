@@ -2,6 +2,8 @@ Dienste
     Slack
     Threema
     WhatsApp
+    Trello
+    [Twitter]
 
 Einstellungen
     Allgemeines
