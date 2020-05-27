@@ -1,7 +1,6 @@
 Wünsche
 * Global Shortcut (like Ctrl+ö)
 * Minimize to Tray
-* Forward colors from remote ssh in Git Bash (only works in cmd)
 
 Preview
 * Install from choco (microsoft-windows-terminal)
