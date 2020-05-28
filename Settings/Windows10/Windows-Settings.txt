@@ -87,6 +87,8 @@ Windows Settings (Win+I)
             Eingabesprache wechseln: Nicht zugewiesen
     Suche > Windows durchsuchen
         Erweitert
+    Konten > Anmeldeoptionen
+        Apps neu starten: Ein
 
 Disable-all.reg ausführen
 
