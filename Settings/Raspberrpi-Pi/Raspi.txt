@@ -25,8 +25,12 @@ Tastatur per Bluetooth syncen
 
 Einstellungen > Raspberry PI Konfiguration > Schnittstellen > Kamera: aktiviert
 
+# vim installieren
+Es ist eine Version drauf, die aber nicht vollständig ist, obwohl "Huge version" angegeben ist.
+`sudo apt update && sudo apt install vim -y`
+
 # Zoom nutzen
-https://www.raspberrypi.org/forums/viewtopic.php?t=254367
+[https://www.raspberrypi.org/forums/viewtopic.php?t=254367]
 
 # Docker installation
 https://www.docker.com/blog/happy-pi-day-docker-raspberry-pi/
