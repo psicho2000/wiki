@@ -39,7 +39,7 @@
                 "commandline": "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
                 "icon": "D:/Projects/wiki/Settings/Windows-Terminal/git-bash.png",
                 "colorScheme": "Markus",
-                "background": "#002B36"
+                "background": "#350719"
                 //"backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/more_background/336342-free-blue-grunge-background-2560x1540-ipad-retina.jpg",
                 //"backgroundImageOpacity": 0.4,
             },
