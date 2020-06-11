@@ -37,10 +37,10 @@
                 "guid": "{c8ed0f78-8d9d-4332-828a-d4719fc1e2a8}",
                 "name": "Git Bash",
                 "commandline": "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
-                "icon": "D:/Projects/wiki/Settings/Windows-Terminal/git-bash.png",
+                "icon": "D:/Projects/wiki/Settings/Terminal/git-bash.png",
                 "colorScheme": "Markus",
                 "background": "#350719"
-                //"backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/more_background/336342-free-blue-grunge-background-2560x1540-ipad-retina.jpg",
+                //"backgroundImage": "D:/Projects/wiki/Settings/Terminal/more_background/336342-free-blue-grunge-background-2560x1540-ipad-retina.jpg",
                 //"backgroundImageOpacity": 0.4,
             },
             {
@@ -49,7 +49,7 @@
                 "name": "cmd",
                 "commandline": "cmd.exe",
                 "colorScheme": "Markus",
-                "backgroundImage": "D:/Projects/wiki/Settings/Windows-Terminal/Background2.jpg"
+                "backgroundImage": "D:/Projects/wiki/Settings/Terminal/Background2.jpg"
             },
             {
                 // Make changes here to the powershell.exe profile.
