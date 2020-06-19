@@ -52,6 +52,7 @@ Weitere Suchmaschinen
         Wikipedia (de)  w 
         Wikipedia (en)  we
         youtube.com     y
+        tldr.ostera.io  t
 
 =================================== Alt ===================================
 
