@@ -53,6 +53,7 @@ Weitere Suchmaschinen
         Wikipedia (en)  we
         youtube.com     y
         tldr.ostera.io  t
+        mankier.com/?q=%s man
 
 =================================== Alt ===================================
 

@@ -10,6 +10,7 @@ Anschließend nur noch Settings in chrome://flags setzen.
         tldr            r   https://tldr.ostera.io/%s
         Wikipedia (de)  w   https://de.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
         Wikipedia (en)  we  https://en.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
+        ManKier         man https://www.mankier.com/?q=%s
     Beim Start: Zuletzt angesehene Seiten öffnen
     Erweitert
         Sicherheit und Datenschutz > Inhaltseinstellungen > Benachrichtigungen: Blockiert
@@ -24,7 +25,6 @@ Weitere Suchmaschinen
         geizhals.de     p
         idealo.de       pi
         youtube.com     y
-
 
 Experten-Einstellungen: chrome://flags/
     chrome://flags/#enable-tab-audio-muting > Aktivieren
