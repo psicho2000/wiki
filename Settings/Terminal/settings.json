@@ -31,7 +31,8 @@
                 "name": "Ubuntu",
                 "source": "Windows.Terminal.Wsl",
                 "colorScheme": "Markus",
-                "background": "#002B36"
+                "background": "#002B36" // dark mode
+                //"background": "#fdf6e3" // light mode
             },
             {
                 "guid": "{c8ed0f78-8d9d-4332-828a-d4719fc1e2a8}",
