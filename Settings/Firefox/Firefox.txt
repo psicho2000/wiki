@@ -42,18 +42,18 @@ Einstellungen
 
 Weitere Suchmaschinen
     Auf die jeweilige Seite gehen, Rechtsklick in das Suchformular, "Ein Schlüsselwort für diese Suche hinzufügen..."
-        Bibleserver.com b
-        Chefkoch.de     c
-        duden.de        d
-        evendi.de       pe
-        Leo             l
-        geizhals.de     p
-        idealo.de       pi
-        Wikipedia (de)  w 
-        Wikipedia (en)  we
-        youtube.com     y
-        tldr.ostera.io  t
-        mankier.com/?q=%s man
+        Bibleserver.com  b
+        Chefkoch.de      c
+        duden.de         d
+        evendi.de        pe
+        Leo              l
+        geizhals.de      p
+        idealo.de        pi
+        Wikipedia (de)   w 
+        Wikipedia (en)   we
+        youtube.com      y
+        tldr.ostera.io   t
+        mankier.com/1/%s man
 
 =================================== Alt ===================================
 
