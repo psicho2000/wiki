@@ -1,6 +1,28 @@
+# Windows
 cinst python3
 ln -s /c/Python38/python /c/Python38/python3
 IntelliJ with Plugin Python from JetBrains (instead of PyCharm), Python Interpreter konfigurieren
 Python Skript zu Projekt hinzufügen, Invalidate Caches and Restart
 Shebang #!/usr/bin/env python3
 Module müssen sowohl im Container als auch in Windows hinzugefügt werden
+
+# Ubuntu
+
+One time installation:
+```
+apt update
+apt install -y python3-pip pylint python3-venv
+```
+
+VS Code Settings (Ctrl+,)
+    Python > Linting > Pylint path: /usr/bin/pylint
+
+---
+One time in project directory:
+```
+python3 -m venv env
+
+Before each run in project directory:
+```
+source ./env/bin/activate
+```
