@@ -1,0 +1,16 @@
+{
+    "editor.largeFileOptimizations": false,
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.startupEditor": "newUntitledFile",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "python.linting.pylintPath": "/usr/bin/pylint",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "black",
+    "editor.fontFamily": "Cascadia Code PL",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true
+}
