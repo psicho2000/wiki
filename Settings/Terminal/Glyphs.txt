@@ -1,4 +1,7 @@
-Use these Glyphs with Font Cascadia Code (https://github.com/microsoft/cascadia-code/). Best experience in Windows Terminal.
+Use these Glyphs with a compatible font. Best experience in Windows Terminal.
+* Cascadia Code (https://github.com/microsoft/cascadia-code/)
+* Caskaydia Cove Nerd Font Complete (https://www.nerdfonts.com/font-downloads)
+
 Math
 ==	===
 !=	!==

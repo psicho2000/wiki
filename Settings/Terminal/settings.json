@@ -20,7 +20,8 @@
     "profiles": {
         "defaults": {
             // Put settings here that you want to apply to all profiles.
-            "fontFace": "Cascadia Code PL",
+            //"fontFace": "Cascadia Code PL",
+            "fontFace": "CaskaydiaCove Nerd Font",
             "historySize": 16000,
             "startingDirectory": "%userprofile%"
         },
