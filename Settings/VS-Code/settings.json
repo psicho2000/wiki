@@ -1,6 +1,6 @@
 {
     "editor.largeFileOptimizations": false,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "workbench.colorTheme": "Solarized Dark",
     "workbench.startupEditor": "newUntitledFile",
     "git.enableSmartCommit": true,
@@ -12,5 +12,8 @@
     "python.formatting.provider": "black",
     "editor.fontFamily": "Cascadia Code PL",
     "editor.fontLigatures": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "python.formatting.blackArgs": [
+        "--line-length 130"
+    ]
 }
