@@ -24,7 +24,7 @@ Einstellungen
         Tabs
             x Bei Strg+Tab die Tabs nach letzter Nutzung in absteigender Reihenfolge anzeigen
         Downloads
-            x Alle Dateien in folgendem Ordner abspeichern: Desktop
+            x Jedes Mal nachfragen, wo gespeichert werden soll
     Startseite
         Neue Fenster und Tabs
             Startseite und neue Fenster: Leere Seite

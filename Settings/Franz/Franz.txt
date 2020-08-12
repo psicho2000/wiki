@@ -1,10 +1,10 @@
 Dienste
-    Slack
-    Threema
     WhatsApp
+    Threema
     Trello
+    [Slack]
     [Twitter]
 
 Einstellungen
     Allgemeines
-        Franz in die Systemleiste minimieren
+        Franz in den Infobereich minimieren
