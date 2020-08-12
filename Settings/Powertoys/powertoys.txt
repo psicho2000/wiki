@@ -1,0 +1,3 @@
+PowerToys Run
+	Open PowerToys Run: Ctrl + Alt + / 
+	Maximum number of results: 10
