@@ -15,8 +15,6 @@ Actions (Ctrl+Shift+A) > Registry... (alternatively: Help > Edit Custom Properti
 
 Settings
     Appearance & Behaviour
-        Appearance
-            Tooltip initial delay (ms): 500
         Quick Lists > Add
             Tool Windows (Tool Windows will be available only when they first have been used!)
                 Maven Projects
@@ -27,18 +25,25 @@ Settings
         see IntelliJ-Shortcuts.xlsx
     Editor
         General
-            o Honor "CamelHumps" words settings when selecting on double click
             x Change font size (Zoom) with Ctrl+Mouse Wheel
             Limits > Maximum number of contents to keep in clipboard: 20
             Console
                 x Override console cycle buffer size: 16384
             Smart Keys
                 x Use "CamelHumps" words
+                o Honor "CamelHumps" words settings when selecting on double click
+        Code Editing
+            Editor Tooltips
+                Tooltip delay: 500 ms
         Font
-            Font: Cascadia Code [ex: Source Code Pro]
+            Font: CaskaydiaCove Nerd Font [ex: Source Code Pro]
             Fallback Font: Consolas
             x Enable font ligatures
         Color Scheme (Duplicate... > "Markus")
+            Color Scheme Font
+                o Use color scheme font instead of the default
+            Console Font
+                o Use console font instead of the default
             Java (Scheme: Default)
                 Class Fields: 0000C0
                     Final: Bold
@@ -106,8 +111,8 @@ Settings
                     x Delegate IDE build/run actions to gradle
         Compiler
             Java Compiler
-                Project bytecode version: 1.8
-                Target bytecode version: 1.8
+                Project bytecode version: 1.8 / 14
+                Target bytecode version: 1.8 / 14
     Languages & Frameworks
         SQL Dialects
             Global SQL Dialect: PostgreSQL / MySQL
