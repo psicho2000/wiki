@@ -9,7 +9,7 @@ Tools > Options
             x Minimize main window after performing auto-type
     Integration
         Global auto-type: None (to prevent clash with IntelliJ)
-        Show KeePass window: Ctrl, Alt + Oem6 (i.e. AltGr + ´) (to prevent clash with IntelliJ)
+        Show KeePass window: Ctrl, Alt + Oem6 (i.e. AltGr + ´ on German Keyboard / AltGr + ] on English Keyboard) (to prevent clash with IntelliJ)
         x Run KeePass at Windows startup
     Advanced
         Start and Exit
