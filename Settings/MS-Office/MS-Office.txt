@@ -3,8 +3,12 @@ Plugins
 
 Word
     Optionen
-        Häufig verwendet
-            x Entwicklerregisterkarte in Multifunktionsleiste anzeigen
+        Dokumentenprüfung
+            Autokorrektur-Optionen
+                Autokorrektur
+                    o ZWei GRoßbuchstaben am WOrtanfang korrigieren
+                    o Jeden Satz mit einem Großbuchstaben beginnen
+                    o Jede Tabellenzelle mit einem Großbuchstaben beginnen
         Speichern
             Standardspeicherort: <Desktop>
         Erweitert
@@ -14,10 +18,15 @@ Word
 
 Excel
     Optionen
-        Häufig verwendet
-            x Entwicklerregisterkarte in Multifunktionsleiste anzeigen
         Formeln
-            o Fehlerüberprüfung
+            o Fehlerüberprüfung im Hintergrund aktivieren
+        Dokumentenprüfung
+            Autokorrektur-Optionen
+                Autokorrektur
+                    o ZWei GRoßbuchstaben am WOrtanfang korrigieren
+                    o Jeden Satz mit einem Großbuchstaben beginnen
+                Autoformat während der Eingabe
+                    o Internet- und Netzwerkpfade durch Links
         Speichern
             Standardspeicherort: <Desktop>
         Erweitert
@@ -26,6 +35,11 @@ Excel
 
 PowerPoint
     Optionen
+        Dokumentenprüfung
+            Autokorrektur-Optionen
+                Autokorrektur
+                    o ZWei GRoßbuchstaben am WOrtanfang korrigieren
+                    o Jeden Satz mit einem Großbuchstaben beginnen
         Speichern
             Standardspeicherort: <Desktop>
         Erweitert
@@ -44,12 +58,10 @@ Outlook
                 Hinzufügen... > Globale Adressliste
                 Globale Adressliste ganz nach oben bewegen
             Beim Öffnen des Adressbuchs diese Adressliste zuerst anzeigen: Globale Adressliste
-    Ribbon "Datei" > Optionen > E-Mail > Outlook-Bereiche > Lesebereich
+    Datei > Optionen > E-Mail > Outlook-Bereiche > Lesebereich
         o Element als gelesen markieren, wenn neue Auswahl erfolgt
     Systray > Outlook > Rechtsklick
         x Ausblenden, wenn minimiert
-    Datei > Optionen > Erweitert > Outlook-Bereiche > Lesebereich
-        o Element als gelesen markieren, wenn neue Auswahl erfolgt
 
 OneNote
     Symbol immer anzeigen

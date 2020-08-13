@@ -4,7 +4,7 @@ Options\Preferences
   General
     o Check for newer versions (aus)
     o Tasbar (aus)
-    x Notifcation area (ggf. aus, wenn Slider seinen an hat)
+    x Notification area (ggf. aus, wenn Slider seinen an hat)
   Titles
     x Use advanced title formatting when possible
       $filepart(%filename%)
