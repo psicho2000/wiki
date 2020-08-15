@@ -1,6 +1,6 @@
 Free version 5.8 can be downloaded at https://www.winamp.com/
 
-Options\Preferences
+Options\Preferences (Ctrl+P)
   General
     o Check for newer versions (aus)
     o Tasbar (aus)

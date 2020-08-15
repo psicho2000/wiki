@@ -75,13 +75,13 @@ Windows Settings (Win+I)
             Transparenz: Ein
             Akzent: Auto
             Akzent zeigen auf: Start, Taskleiste, Info-Center
-    Zeit und Sprache > Sprache > Erweitert ("Wählen Sie eine Eingabemethode aus, die immer als Standard verwendet werden soll")
+    Zeit und Sprache > Sprache
         Bevorzugte Sprache hinzufügen: Englisch (US)
             alle Checkboxen aus (d.h. ohne Sprachpaket, Spracherkennung, Sprachausgabe, Handschrift)
         Englisch (United States) > Optionen
             Tastatur hinzufügen: Englisch (USA, International) - Undead
             Englisch QWERTY > entfernen
-        Außerkraftsetzen für Standardeingabemethode
+        Tastatur > Außerkraftsetzen für Standardeingabemethode
             Englisch (USA, International) - Undead (in diese Eingabemethode wird nach jedem Login gewechselt)
         Tastenkombinationen für Eingabesprachen > Tastenkombination ändern
             Eingabesprache wechseln: Nicht zugewiesen

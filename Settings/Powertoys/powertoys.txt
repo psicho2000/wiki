@@ -1,3 +1,5 @@
+General
+    Run at startup: Ein
 PowerToys Run
-	Open PowerToys Run: Ctrl + Alt + / 
-	Maximum number of results: 10
+    Open PowerToys Run: Ctrl + Alt + /
+    Maximum number of results: 10
