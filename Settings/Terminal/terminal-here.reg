@@ -7,11 +7,11 @@ Windows Registry Editor Version 5.00
 "Icon"="cmd.exe"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\wt\command]
-@="C:\\Users\\Markus\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe -d \"%V.\""
+@="C:\\Users\\Markus\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe -p \"Git Bash\" -d \"%V.\""
 
 [HKEY_CLASSES_ROOT\Directory\shell\wt]
 @="Terminal Here"
 "Icon"="cmd.exe"
 
 [HKEY_CLASSES_ROOT\Directory\shell\wt\command]
-@="C:\\Users\\Markus\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe -d \"%V.\""
+@="C:\\Users\\Markus\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe -p \"Git Bash\" -d \"%V.\""
