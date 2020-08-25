@@ -1,0 +1,5 @@
+alias zip=7z
+sdkman laut Webseite installieren
+Pfad auf sdkman/current setzen
+    /d/opt/sdkman/candidates/java/current
+Helper Skript im sdkman korrigieren: rm -rf --> rekursiv fehlt (wird ggf. gefixt)
