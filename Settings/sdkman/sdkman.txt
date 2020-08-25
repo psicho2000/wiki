@@ -1,3 +1,5 @@
+### sdkman unter Windows
+git bash nutzen
 alias zip=7z
 sdkman laut Webseite installieren
 Pfad auf sdkman/current setzen
