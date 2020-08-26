@@ -14,7 +14,6 @@ Options\Preferences (Ctrl+P)
     x Enabled
     Playback: Forward/Rewind löschen
     Playback: Open file dialog   -> STRG + UMSCHALT + L
-    Playback: Open folder dialog -> STRG + UMSCHALT + ALT + L
     Playback: Play               -> STRG + ALT + POS1
     Playback: Pause              -> STRG + ALT + EINFG
     Playback: Toogle Shuffle     -> STRG + ALT + Backspace
@@ -24,11 +23,11 @@ Doppelklick auf Titelleiste (WINAMP) -> schmale Leiste
 
 kleines Menü (links oben)
   Options
-    x Always on top
+    x Always on top (Ctrl+A)
   Windows Settings\Docked Toolbar
     o Auto-Hide (aus)
     x Always on top
     x Top
-    ggf. Dock/Undock Windows by Dragging
+    x Dock/Undock Windows by Dragging
 
 Windows Settings > App > Standard-Apps > Musikplayer: Winamp
