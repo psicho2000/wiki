@@ -8,7 +8,6 @@ Anschließend nur noch Settings in chrome://flags setzen.
         Google          g
         Google Maps     gm  https://www.google.de/maps?q=%s
         Leo             l   https://dict.leo.org/ende?lang=de&search=%s
-        tldr            r   https://tldr.ostera.io/%s
         Wikipedia (de)  w   https://de.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
         Wikipedia (en)  we  https://en.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
         ManKier         man https://www.mankier.com/1/%s
