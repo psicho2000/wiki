@@ -1,5 +1,7 @@
 Free version 5.8 can be downloaded at https://www.winamp.com/
 
+Copy color-presets.xml to C:\Program Files (x86)\Winamp\Skins\Winamp Modern\xml\color-presets.xml
+
 Options\Preferences (Ctrl+P)
   General
     o Check for newer versions (aus)
@@ -18,6 +20,9 @@ Options\Preferences (Ctrl+P)
     Playback: Pause              -> STRG + ALT + EINFG
     Playback: Toogle Shuffle     -> STRG + ALT + Backspace
     UI: Toggle Playlist          -> STRG + ALT + Ü / CTRL + ALT + [
+  Skins
+    Modern Skins
+        Color Themes: Solarized
 
 Doppelklick auf Titelleiste (WINAMP) -> schmale Leiste
 
