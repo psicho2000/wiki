@@ -3,7 +3,7 @@
   <gammagroup id="Backgrounds2" value="-4096,-2080,-1536" gray="0" boost="0" />
   <gammagroup id="Bolt" value="0,0,0" gray="0" boost="0" />
   <gammagroup id="Menubar" value="-4096,-2080,-1536" gray="2" boost="0" />
-  <gammagroup id="MenubarText" value="3872,3616,1184" gray="1" boost="0" />
+  <gammagroup id="MenubarText" value="0,0,0" gray="1" boost="0" />
   <gammagroup id="Titlebar" value="-4096,-2720,-2368" gray="1" boost="0" />
   <gammagroup id="TitlebarText" value="0,0,0" gray="0" boost="0" />
   <gammagroup id="TitlebarElements" value="448,608,256" gray="2" boost="0" />
@@ -17,20 +17,20 @@
   <gammagroup id="ButtonGlow" value="3456,-256,-3264" gray="1" boost="0" />
   <gammagroup id="ButtonsActive" value="3456,-256,-3264" gray="1" boost="0" />
   <gammagroup id="ButtonStatus" value="3456,-256,-3264" gray="1" boost="0" />
-  <gammagroup id="ButtonText" value="3872,3616,1184" gray="2" boost="1" />
+  <gammagroup id="ButtonText" value="-4096,-4096,-4096" gray="2" boost="1" />
   <gammagroup id="Scrollbar Buttons" value="0,0,0" gray="0" boost="0" />
-  <gammagroup id="Scrollbar Hover" value="333,333,333" gray="0" boost="0" />
+  <gammagroup id="Scrollbar Hover" value="-2048,-650,-650" gray="2" boost="0" />
   <gammagroup id="Led" value="3456,-256,-3264" gray="1" boost="0" />
   <gammagroup id="Display" value="-2880,352,2624" gray="2" boost="0" />
   <gammagroup id="DisplaySongtickerBG" value="-1632,1152,3040" gray="1" boost="0" />
   <gammagroup id="DisplayElements" value="4064,2208,2080" gray="1" boost="0" />
-  <gammagroup id="DisplayVis" value="4064,2208,2080" gray="1" boost="0" />
-  <gammagroup id="DisplayBeatVis" value="4064,2208,2080" gray="1" boost="0" />
-  <gammagroup id="DisplayS`ongticker" value="3872,3616,1184" gray="1" boost="0" />
+  <gammagroup id="DisplayVis" value="0,0,0" gray="0" boost="0" />
+  <gammagroup id="DisplayBeatVis" value="0,0,0" gray="0" boost="0" />
+  <gammagroup id="DisplaySongticker" value="3872,3616,1184" gray="1" boost="0" />
   <gammagroup id="DisplaySongtickerShade" value="3456,-256,-3264" gray="1" boost="0" />
   <gammagroup id="ProgressBar" value="3456,-256,-3264" gray="2" boost="0" />
-  <gammagroup id="BGOverlayDark" value="2060,2789,4096" gray="0" boost="1" />
-  <gammagroup id="BGOverlayBright" value="2016,2944,896" gray="2" boost="0" />
+  <gammagroup id="BGOverlayDark" value="0,0,0" gray="0" boost="1" />
+  <gammagroup id="BGOverlayBright" value="0,0,0" gray="0" boost="0" />
   <gammagroup id="BG2Textoverlay" value="0,0,0" gray="0" boost="0" />
   <gammagroup id="TextDark" value="2060,2789,4096" gray="0" boost="1" />
   <gammagroup id="ListText" value="2016,2944,896" gray="2" boost="0" />
