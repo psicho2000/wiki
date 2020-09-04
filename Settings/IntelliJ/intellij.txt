@@ -132,6 +132,10 @@ Settings
             Excecute in Console
                 Excecute
                     When inside a statement execute: Smallest statement
+        SSH Configurations > Add
+            git@github-priv:22 key
+            git@github-work:22 key
+            git@gitlab.com:22 key
     Other Settings
         Eclipse Code Formatter
             x Use the Eclipse code formatter

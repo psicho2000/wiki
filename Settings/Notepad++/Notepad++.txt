@@ -11,8 +11,8 @@ Einstellungen
         x Schriftart als Standard setzen
 
 https://github.com/bruderstein/nppPluginManager/releases
-	x32.zip herunterladen
-	Ins Notepad++ Installations-Verzeichnis entpacken
+    x32.zip herunterladen
+    Ins Notepad++ Installations-Verzeichnis entpacken
 
 Erweiterungen > Plugin Manager > Show Plugin Manager
     - Compare
