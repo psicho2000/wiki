@@ -1,3 +1,6 @@
+Öffnen mit OneNote 2019
+    Dazu OneNote 2016 installieren: https://www.onenote.com/download?omkt=de-DE
+
 Öffnen mit OneNote 2013
     Dazu erst die Anwendung starten (auch "Öffnen mit" funktioniert nicht).
 
