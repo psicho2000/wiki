@@ -7,6 +7,10 @@ Tools > Options
         Main Window
             x Minimize to tray instead of taskbar
             x Minimize main window after performing auto-type
+        Select Password Font
+            Cascadia Mono
+            Regular
+            14
     Integration
         Global auto-type: None (to prevent clash with IntelliJ)
         Show KeePass window: Ctrl, Alt + Oem6 (i.e. AltGr + ´ on German Keyboard / AltGr + ] on English Keyboard) (to prevent clash with IntelliJ)
