@@ -1,18 +1,20 @@
 {
     "editor.largeFileOptimizations": false,
-    "window.zoomLevel": 2,
-    "workbench.colorTheme": "Solarized Dark",
-    "workbench.startupEditor": "newUntitledFile",
-    "git.enableSmartCommit": true,
-    "git.autofetch": true,
-    "python.linting.pylintPath": "/usr/bin/pylint",
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.python"
-    },
-    "python.formatting.provider": "black",
     "editor.fontFamily": "CaskaydiaCove Nerd Font",
     "editor.fontLigatures": true,
     "editor.formatOnSave": true,
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.startupEditor": "newUntitledFile",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "python.linting.pylintPath": "/usr/bin/pylint",
+    "[python]": {
+        "editor.defaultFormatter": "vscode.python"
+    },
+    "python.formatting.provider": "black",
     "python.formatting.blackArgs": [
         "--line-length=130"
     ]
