@@ -1,7 +1,0 @@
-Wünsche
-* Global Shortcut (like Ctrl+ö)
-* Minimize to Tray
-
-Preview
-* Install from choco (microsoft-windows-terminal)
-* Add to taskbar

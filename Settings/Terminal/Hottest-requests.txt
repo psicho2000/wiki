@@ -1,0 +1,3 @@
+Wünsche
+* Global Shortcut (like Ctrl+ö): https://github.com/microsoft/terminal/issues/653
+* Minimize to Tray: https://github.com/microsoft/terminal/issues/5727
