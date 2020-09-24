@@ -11,7 +11,7 @@ Module müssen sowohl im Container als auch in Windows hinzugefügt werden
 One time installation:
 ```
 apt update
-apt install -y python3-pip pylint python3-venv
+apt install -y python3-pip python3-venv pylint black
 ```
 
 VS Code Settings (Ctrl+,)
