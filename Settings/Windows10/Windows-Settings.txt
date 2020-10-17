@@ -30,11 +30,11 @@ Touchpad
     x Touchpad ein
     x Touchpad eingeschaltet lassen, wenn eine Maus angeschlossen ist
     Cursorgeschwindigkeit: maximal
-    o Für einfaches Klicke mit einem Finger tippen
+    o Für einfaches Klicken mit einem Finger tippen
     o Zum Rechtsklicken mit zwei Fingern tippen
     o Zur Mehrfachauswahl zweimal tippen und ziehen
-    o Zum Rechtsklicken auf die untere rechte Eckee des Touchpads drücken
-    Scrollrichtung: Zum Abwärtsscrollen nach unten bewegen
+    x Zum Rechtsklicken auf die untere rechte Eckee des Touchpads drücken
+    Scrollrichtung: Zum Aufwärtsscrollen nach unten bewegen
     Drei-Finger-Gesten
         Tippeingaben: Wiedergabe/Pause
 
