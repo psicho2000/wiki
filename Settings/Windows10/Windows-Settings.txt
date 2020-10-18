@@ -1,3 +1,6 @@
+### User-Einstellungen
+======================
+
 Explorer > Ansicht > Optionen
     Allgemein
         Datei-Explorer öffnen für: Dieser PC
@@ -5,12 +8,9 @@ Explorer > Ansicht > Optionen
     Ansicht
         o Erweiterungen bei bekannten Dateitypen ausblenden
         o Leere Laufwerke ausblenden
-        x Ordnerfenster in einem eigenen Prozess starten
+        x Ordnerfenster in einem eige×nen Prozess starten
         x Vollständigen Pfad in der Titelleiste anzeigen
         x Vorherige Ordnerfenster bei der Anmeldung wiederherstellen
-
-Datenträgerverwaltung
-    Rechtsklick auf Partition > Laufwerkbuchstaben und -pfade ändern
 
 Verzeichnisse anpassen
     C:\Benutzer\<user>
@@ -19,52 +19,34 @@ Verzeichnisse anpassen
 
 OneDrive deinstallieren
 
-Mauseinstellungen > Weitere Mausoptionen
-    Zeiger
-        Windows Invertiert (Systemschema)
-        x Zeigerschatten aktivieren
-    Zeigeroptionen
-        o Zeiger bei Tastatureingaben ausblenden
-
-Touchpad
-    x Touchpad ein
-    x Touchpad eingeschaltet lassen, wenn eine Maus angeschlossen ist
-    Cursorgeschwindigkeit: maximal
-    o Für einfaches Klicken mit einem Finger tippen
-    o Zum Rechtsklicken mit zwei Fingern tippen
-    o Zur Mehrfachauswahl zweimal tippen und ziehen
-    x Zum Rechtsklicken auf die untere rechte Eckee des Touchpads drücken
-    Scrollrichtung: Zum Aufwärtsscrollen nach unten bewegen
-    Drei-Finger-Gesten
-        Tippeingaben: Wiedergabe/Pause
-
 Sound > Sounds
     Alle Sounds auf [kein] außer
         Alarm bei kritischen Akkustand: Windows-Akku kritisch.wav
         Alarm bei niedrigem Akkustand:  Windows-Akku niedrig.wav
 
-Energieoptionen (Win+X, N)
-    Auswählen, was beim Drücken von Netzschaltern geschehen soll
-        Einige Einstellungen sind momentan nicht verfügbar
-        Beim Drücken des Netzschalters: Ruhezustand
-        Beim Drücken der Energiespartaste: Energie sparen
-        Beim Zuklappen: Nichts unternehmen
-            x Ruhezustand
-
 Mobilitätscenter (Win+X, M)
     Präsentationseinstellungen > Diesen Hintergrund anzeigen: (Kein)
 
-Standard-Apps (nach deren Installation)
-    E-Mail: Thunderbird/Outlook
-    Musikplayer: Winamp
-    Bildanzeige: FastStone Image Viewer/qView
-    Videoplayer: VLC
-    Webbrowser: Firefox/Chrome
-
-US-International-Undead.rar > setup.exe ausführen
-    löschen: setup.exe erneut ausführen; falls das nicht klappt: regedit > HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts\ > gewünschtes Layout entfernen
-
 Windows Settings (Win+I)
+    Apps > Standard-Apps (nach deren Installation)
+        E-Mail: Thunderbird/Outlook
+        Musikplayer: Winamp
+        Bildanzeige: FastStone Image Viewer/qView
+        Videoplayer: VLC
+        Webbrowser: Firefox/Chrome
+    Geräte
+        Maus > Maus- und Cursorgröße anpassen
+        Touchpad
+            x Touchpad ein
+            x Touchpad eingeschaltet lassen, wenn eine Maus angeschlossen ist
+            Cursorgeschwindigkeit: maximal
+            o Für einfaches Klicken mit einem Finger tippen
+            o Zum Rechtsklicken mit zwei Fingern tippen
+            o Zur Mehrfachauswahl zweimal tippen und ziehen
+            x Zum Rechtsklicken auf die untere rechte Eckee des Touchpads drücken
+            Scrollrichtung: Zum Aufwärtsscrollen nach unten bewegen
+            Drei-Finger-Gesten
+                Tippeingaben: Wiedergabe/Pause
     System > Benachrichtigungen und Aktionen > Schnelle Aktionen bearbeiten
     Telefon
         ggf. Handy verbinden
@@ -75,26 +57,48 @@ Windows Settings (Win+I)
             Transparenz: Ein
             Akzent: Auto
             Akzent zeigen auf: Start, Taskleiste, Info-Center
-    Zeit und Sprache > Sprache
-        Bevorzugte Sprache hinzufügen: Englisch (US)
-            alle Checkboxen aus (d.h. ohne Sprachpaket, Spracherkennung, Sprachausgabe, Handschrift)
-        Englisch (United States) > Optionen
-            Tastatur hinzufügen: Englisch (USA, International) - Undead
-            Englisch QWERTY > entfernen
-        Tastatur > Außerkraftsetzen für Standardeingabemethode
-            Englisch (USA, International) - Undead (in diese Eingabemethode wird nach jedem Login gewechselt)
-        Tastenkombinationen für Eingabesprachen > Tastenkombination ändern
-            Eingabesprache wechseln: Nicht zugewiesen
     Suche > Windows durchsuchen
         Erweitert
     Konten > Anmeldeoptionen
         Apps neu starten: Ein
 
+### Sprache und Keyboard
+========================
+
+US-International-Undead.rar > setup.exe ausführen
+    löschen: setup.exe erneut ausführen; falls das nicht klappt: regedit > HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts\ > gewünschtes Layout entfernen
+
+Windows Settings > Zeit und Sprache > Sprache
+    Bevorzugte Sprache hinzufügen: Englisch (US)
+        alle Checkboxen aus (d.h. ohne Sprachpaket, Spracherkennung, Sprachausgabe, Handschrift)
+    Englisch (United States) > Optionen
+        Tastatur hinzufügen: Englisch (USA, International) - Undead
+        Englisch QWERTY > entfernen
+    Tastatur > Außerkraftsetzen für Standardeingabemethode
+        Englisch (USA, International) - Undead (in diese Eingabemethode wird nach jedem Login gewechselt)
+    Tastenkombinationen für Eingabesprachen > Tastenkombination ändern
+        Eingabesprache wechseln: Nicht zugewiesen
+
+### Computerkonfiguration
+=========================
+
+Datenträgerverwaltung
+    Rechtsklick auf Partition > Laufwerkbuchstaben und -pfade ändern
+
 Disable-all.reg ausführen
 
-Optional
-    Bibliotheken konfigurieren
+Energieoptionen (Win+X, N)
+    Auswählen, was beim Drücken von Netzschaltern geschehen soll
+        Einige Einstellungen sind momentan nicht verfügbar
+        Beim Drücken des Netzschalters: Ruhezustand
+        Beim Drücken der Energiespartaste: Energie sparen
+        Beim Zuklappen: Nichts unternehmen
+            x Ruhezustand
 
-    weitere Benutzer hinzufügen
-        Konten > Famile & weitere Kontakte > Diesem PC eine andere Person hinzufügen >
-            Ich kenne die Anmeldeinformationen für diese Person nicht > Benutzer ohne Microsoft-Konto hinzufügen
+### Optional
+============
+Bibliotheken konfigurieren
+
+weitere Benutzer hinzufügen
+    Konten > Famile & weitere Kontakte > Diesem PC eine andere Person hinzufügen >
+        Ich kenne die Anmeldeinformationen für diese Person nicht > Benutzer ohne Microsoft-Konto hinzufügen
