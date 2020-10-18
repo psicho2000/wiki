@@ -1,7 +1,7 @@
 ; Autostart:
 ; Place Shortcut to this file in Autostart (Win+R: "shell:startup")
 
-; Remap Capslock to Shift
+; Remap Capslock to Escape
 Capslock::Esc
 
 ; Remap left \| (<>|) to AltGR
@@ -39,6 +39,7 @@ SC056::RAlt
 ;    }
 ;}
 
+; Map Ctrl+W to select whole word in Microsoft Word
 #IfWinActive ahk_class OpusApp
     ^w::SendInput ^{Left}+^{Right}
 #IfWinActive
