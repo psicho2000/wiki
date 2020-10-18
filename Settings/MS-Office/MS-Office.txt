@@ -40,6 +40,7 @@ PowerPoint
                 Autokorrektur
                     o ZWei GRoﬂbuchstaben am WOrtanfang korrigieren
                     o Jeden Satz mit einem Groﬂbuchstaben beginnen
+                    o Jede Tabellenzelle mit einem Groﬂbuchstaben beginnen
         Speichern
             Standardspeicherort: <Desktop>
         Erweitert

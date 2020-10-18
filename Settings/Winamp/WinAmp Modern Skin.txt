@@ -5,3 +5,5 @@ gray="1" makes the images in that group grayscale before applying the colour cha
 boost blends with 50% white.
 
 C:\Program Files (x86)\Winamp\Skins\Winamp Modern\xml\color-presets.xml
+
+D:\Installs\Musik\Player\WinAmp.psd is source for WinAmp.jpg
