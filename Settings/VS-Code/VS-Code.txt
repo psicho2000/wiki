@@ -1,0 +1,6 @@
+Copy keybindings.json and settings.json to
+    %appdata%\Code\User
+
+Plugins
+    flesler.url-encode
+    adamhartford.vscode-base64
