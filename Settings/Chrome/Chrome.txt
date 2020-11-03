@@ -4,27 +4,27 @@ Anschließend nur noch Settings in chrome://flags setzen.
 ----
 
 ... > Einstellungen
-    Suchmaschine > Suchmaschinen verwalten > Hinzufügen
-        Google          g
-        Google Maps     gm  https://www.google.de/maps?q=%s
-        Leo             l   https://dict.leo.org/ende?lang=de&search=%s
-        Wikipedia (de)  w   https://de.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
-        Wikipedia (en)  we  https://en.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
-        ManKier         man https://www.mankier.com/1/%s
+    Suchmaschine > Suchmaschinen verwalten
+        Hinzufügen
+            Bibleserver     b   https://www.bibleserver.com/LUT/%s
+            Chefkoch        c   https://www.chefkoch.de/rs/s0/%s/Rezepte.html
+            Duden           d   https://www.duden.de/suchen/dudenonline/%s
+            Geizhals        p   https://geizhals.de/?fs=%s
+            Idealo          pi  https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=%s
+            Google          g
+            Google Maps     gm  https://www.google.de/maps?q=%s
+            Leo             l   https://dict.leo.org/ende?lang=de&search=%s
+            Redmine         r   https://redmine.lifeline-herne.de/issues/%s
+            Wikipedia (de)  w   https://de.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
+            Wikipedia (en)  we  https://en.wikipedia.org/w/index.php?title=Spezial:Suche&search=%s
+            ManKier         man https://www.mankier.com/1/%s
+            Youtube         y   https://www.youtube.com/results?search_query=%s
+        Alternativ: Andere Suchmaschinen > Suchkürzel und Name für die automatisch erzeugte Suchmaschine anpassen
     Beim Start: Zuletzt angesehene Seiten öffnen
     Erweitert
         Datenschutz und Sicherheit > Inhaltseinstellungen > Benachrichtigungen: Blockiert
         Downloads: Vor dem Download von Dateien nach dem Speicherort fragen
 
-Weitere Suchmaschinen
-    Auf die jeweilige Seite gehen, Einstellungen > Suchmaschine > Suchmaschinen verwalten > Andere Suchmaschinen > Suchkürzel und Name für die automatisch erzeugte Suchmaschine anpassen
-        Bibleserver.com b
-        Chefkoch.de     c
-        duden.de        d
-        evendi.de       pe
-        geizhals.de     p
-        idealo.de       pi
-        youtube.com     y
 
 ... > Weitere Tools > Erweiterungen
     Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
