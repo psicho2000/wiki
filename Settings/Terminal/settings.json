@@ -20,7 +20,8 @@
     "profiles": {
         "defaults": {
             // Put settings here that you want to apply to all profiles.
-            "fontFace": "CaskaydiaCove NF",
+            //"fontFace": "Cascadia Code PL",
+            "fontFace": "CaskaydiaCove Nerd Font",
             "historySize": 16000,
             "startingDirectory": "%userprofile%"
         },
@@ -55,7 +56,7 @@
             {
                 // Make changes here to the powershell.exe profile.
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-                "name": "Windows PowerShell",
+                "name": "PowerShell",
                 "commandline": "powershell.exe"
             },
             {
@@ -78,7 +79,7 @@
             "green": "#859900",
             "yellow": "#B58900",
             "blue": "#268BD2",
-            "purple": "#6c71c4",
+            "purple": "#6C71C4",
             "cyan": "#24A198",
             "white": "#CCCCCC",
             "brightBlack": "#767676",
