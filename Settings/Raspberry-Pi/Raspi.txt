@@ -39,11 +39,27 @@ https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry
 ===========================================================================
 
 ## Ubuntu
+1. Download Ubuntu Desktop for ARM 20.10 from https://ubuntu.com/download/raspberry-pi
+2. Flash on Micro SD with rufus
+3. Wifi: Security > WPA & WPA2 Personal (WPA3 Personal does not work)
 
-# Wifi installieren
-## Pi
-sudo apt install -y network-manager net-tools
-nmcli d wifi connect IchWillRein password <password>
+# Unifying Receiver
+sudo apt install -y solaar
+Solaar > Maus syncen
 
-# Desktop installieren
-sudo apt install -y kubuntu-desktop
+# Install
+`sudo apt install -y ssh vlc chromium-browser`
+
+# VNC
+Settings > Sharing > Screen Sharing
+    x Active
+    x Allow connections to control the Screen
+    x Require a password
+    x Networks: [your network]
+Terminal: `gsettings set org.gnome.Vino require-encryption false`
+Android > RealVNC Viewer
+    Address: Computer Name (=hostname)
+
+# Cascadia Code Nerd Fonts (=Caskaydia Cove Nerd Fonts)
+https://github.com/ryanoasis/nerd-fonts/releases
+Terminal > Settings > Profile > Text > Custom Font
