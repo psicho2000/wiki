@@ -116,6 +116,10 @@
         {
             "command": "newTab",
             "keys": "ctrl+t"
+        },
+        {
+            "command": "togglePaneZoom",
+            "keys": "alt+shift+z"
         }
     ]
 }
