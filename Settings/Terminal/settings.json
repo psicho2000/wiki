@@ -120,6 +120,14 @@
         {
             "command": "togglePaneZoom",
             "keys": "alt+shift+z"
+        },
+        {
+            "command": "prevTab",
+            "keys": "ctrl+pageup"
+        },
+        {
+            "command": "nextTab",
+            "keys": "ctrl+pagedown"
         }
     ]
 }

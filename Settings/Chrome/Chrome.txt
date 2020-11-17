@@ -35,6 +35,19 @@ Anschließend nur noch Settings in chrome://flags setzen.
                 https://github.com/infokiller/web-search-navigator
                 https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek
             I dont care about Cookies
+            Recent Tabs: https://chrome.google.com/webstore/detail/recent-tabs/ocllfmhjhfmogablefmibmjcodggknml
+                Einstellungen > Erweiterungen > Hamburger-Menu > Tastenkombinationen
+                    Toggle between the last 2 recent tabs: Ctrl+Z
+                Close Chrome (all instances (!) - e.g. Chrometana, etc. See Taskmanager, if unsure).
+                Open C:\Users\User\AppData\Local\Google\Chrome\User Data\Default\Preferences
+                    Search for Ctrl+Z and replace by Ctrl+Tab
+                Open Chrome and enjoy
+            Rearrange Tabs: https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga
+                Einstellungen > Erweiterungen > Hamburger-Menu > Tastenkombinationen
+                    Move selected tabs(s) left: Ctrl+Shift+PageUp
+                    Move selected tabs(s) right: Ctrl+Shift+PageDown
+                    Move selected tabs(s) to the end: Ctrl+Shift+End
+                    Move selected tabs(s) to the front: Ctrl+Shift+Home
         Backlog
             SingleFile                  (nicht mehr nötig, Chrome unterstützt wieder mhtml)
             uBlock Origin
