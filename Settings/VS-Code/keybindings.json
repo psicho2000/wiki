@@ -29,5 +29,13 @@
         "key": "ctrl+shift+delete",
         "command": "deleteWordPartRight",
         "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+k tab",
+        "command": "type",
+        "args": {
+            "text": "\t"
+        },
+        "when": "editorTextFocus"
     }
 ]
