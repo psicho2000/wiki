@@ -26,7 +26,7 @@
         "when": "textInputFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+shift+delete",
+        "key": "ctrl+delete",
         "command": "deleteWordPartRight",
         "when": "textInputFocus && !editorReadonly"
     },
