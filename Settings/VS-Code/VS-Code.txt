@@ -4,3 +4,4 @@ Copy keybindings.json and settings.json to
 Plugins
     flesler.url-encode
     adamhartford.vscode-base64
+    timonwong.shellcheck
