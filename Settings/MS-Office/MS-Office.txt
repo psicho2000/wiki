@@ -3,62 +3,60 @@ Plugins
 
 Word
     Optionen
-        Dokumentenprüfung
+        DokumentenprÃ¼fung
             Autokorrektur-Optionen
                 Autokorrektur
-                    o ZWei GRoßbuchstaben am WOrtanfang korrigieren
-                    o Jeden Satz mit einem Großbuchstaben beginnen
-                    o Jede Tabellenzelle mit einem Großbuchstaben beginnen
-        Speichern
-            Standardspeicherort: <Desktop>
+                    o ZWei GRoÃŸbuchstaben am WOrtanfang korrigieren
+                    o Jeden Satz mit einem GroÃŸbuchstaben beginnen
+                    o Jede Tabellenzelle mit einem GroÃŸbuchstaben beginnen
+        Speichern > Dokumente Speichern (applies to all Office programs)
+            x Backstage beim Ã–ffnen oder speichern von Dateien mithilfe von TastenkÃ¼rzeln nicht anzeigen
+            o ZusÃ¤tzliche Speicherorte anzeigne, auch wenn eine Anmeldung erforderlich ist
+            x StandardmÃ¤ÃŸig auf COmputer speichern
         Erweitert
-            o Automatisch ganze Wörter markieren
+            o Automatisch ganze WÃ¶rter markieren
             o Drag & Drop
-            x Einfg für Überschreiben
+            x Einfg fÃ¼r Ãœberschreiben
 
 Excel
     Optionen
         Formeln
-            o Fehlerüberprüfung im Hintergrund aktivieren
-        Dokumentenprüfung
+            o FehlerÃ¼berprÃ¼fung im Hintergrund aktivieren
+        DokumentenprÃ¼fung
             Autokorrektur-Optionen
                 Autokorrektur
-                    o ZWei GRoßbuchstaben am WOrtanfang korrigieren
-                    o Jeden Satz mit einem Großbuchstaben beginnen
-                Autoformat während der Eingabe
+                    o ZWei GRoÃŸbuchstaben am WOrtanfang korrigieren
+                    o Jeden Satz mit einem GroÃŸbuchstaben beginnen
+                Autoformat wÃ¤hrend der Eingabe
                     o Internet- und Netzwerkpfade durch Links
-        Speichern
-            Standardspeicherort: <Desktop>
         Erweitert
             Anzeige
                 o Alle Fenster in der Taskleiste anzeigen
 
 PowerPoint
     Optionen
-        Dokumentenprüfung
+        DokumentenprÃ¼fung
             Autokorrektur-Optionen
                 Autokorrektur
-                    o ZWei GRoßbuchstaben am WOrtanfang korrigieren
-                    o Jeden Satz mit einem Großbuchstaben beginnen
-                    o Jede Tabellenzelle mit einem Großbuchstaben beginnen
-        Speichern
-            Standardspeicherort: <Desktop>
+                    o ZWei GRoÃŸbuchstaben am WOrtanfang korrigieren
+                    o Jeden Satz mit einem GroÃŸbuchstaben beginnen
+                    o Jede Tabellenzelle mit einem GroÃŸbuchstaben beginnen
         Erweitert
             Anzeige
                 o Alle Fenster in der Taskleiste anzeigen
 
 Outlook
     Datendatei verschieben (outlook.pst)
-        1. Datei > Datendateiverwaltung > Ordner öffnen
-        2. Outlook schließen
-        3. outlook.pst an den gewünschten Ort schieben
+        1. Datei > Datendateiverwaltung > Ordner Ã¶ffnen
+        2. Outlook schlieÃŸen
+        3. outlook.pst an den gewÃ¼nschten Ort schieben
         4. Beim Neustart von Outlook fragt das Programm nach dem Ort der pst
-    Adressbücher
+    AdressbÃ¼cher
         Ribbon "Start" > Adressbuch > Extras > Optionen
             Benutzerdefiniert
-                Hinzufügen... > Globale Adressliste
+                HinzufÃ¼gen... > Globale Adressliste
                 Globale Adressliste ganz nach oben bewegen
-            Beim Öffnen des Adressbuchs diese Adressliste zuerst anzeigen: Globale Adressliste
+            Beim Ã–ffnen des Adressbuchs diese Adressliste zuerst anzeigen: Globale Adressliste
     Datei > Optionen > E-Mail > Outlook-Bereiche > Lesebereich
         o Element als gelesen markieren, wenn neue Auswahl erfolgt
     Systray > Outlook > Rechtsklick
@@ -66,11 +64,11 @@ Outlook
 
 OneNote
     Symbol immer anzeigen
-        Rechtsklick auf Taskleiste > Eigenschaften > Taskleiste > Infobereich anpassen > Benachrichtigungen und Aktionen > Symbole für die Anzeige auf der Taskleiste auswählen
+        Rechtsklick auf Taskleiste > Eigenschaften > Taskleiste > Infobereich anpassen > Benachrichtigungen und Aktionen > Symbole fÃ¼r die Anzeige auf der Taskleiste auswÃ¤hlen
             OneNote: ein
     Rechtsklick auf Symbol > Optionen
-        Standardwert für OneNote-Symbol: Bildschirmausschnitt erstellen
-        Standardwert für Bildschirmausschnitt: Nur in Zwischenablage kopieren
+        Standardwert fÃ¼r OneNote-Symbol: Bildschirmausschnitt erstellen
+        Standardwert fÃ¼r Bildschirmausschnitt: Nur in Zwischenablage kopieren
     Datei > Optionen (in neueren Versionen)
-        Dokumentenprüfung
-            o Rechtschreibung während der Eingabe überprüfen (aus)
+        DokumentenprÃ¼fung
+            o Rechtschreibung wÃ¤hrend der Eingabe Ã¼berprÃ¼fen (aus)
