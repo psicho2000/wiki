@@ -65,7 +65,7 @@ Windows Settings (Win+I)
 ### Sprache und Keyboard
 ========================
 
-US-International-Undead.rar > setup.exe ausführen
+US-International-Undead.7z > setup.exe ausführen
     löschen: setup.exe erneut ausführen; falls das nicht klappt: regedit > HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts\ > gewünschtes Layout entfernen
 
 Windows Settings > Zeit und Sprache > Sprache
