@@ -5,3 +5,4 @@ Plugins
     flesler.url-encode
     adamhartford.vscode-base64
     timonwong.shellcheck
+    johnpapa.vscode-peacock
