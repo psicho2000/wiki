@@ -25,6 +25,7 @@ Anschließend nur noch Settings in chrome://flags setzen.
         Datenschutz und Sicherheit > Inhaltseinstellungen > Benachrichtigungen: Blockiert
         Downloads: Vor dem Download von Dateien nach dem Speicherort fragen
 
+chrome://flags/#omnibox-keyword-search-button: Disable
 
 ... > Weitere Tools > Erweiterungen
     Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)

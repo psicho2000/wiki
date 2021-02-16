@@ -25,7 +25,8 @@
             //"fontFace": "Cascadia Code PL",
             "fontFace": "CaskaydiaCove Nerd Font",
             "historySize": 16000,
-            "startingDirectory": "%userprofile%"
+            "startingDirectory": "%userprofile%",
+            "bellStyle": "none"
         },
         "list": [
             {
