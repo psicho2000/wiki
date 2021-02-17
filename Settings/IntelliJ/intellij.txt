@@ -140,14 +140,14 @@ Settings (Ctrl+Alt+S)
         SQL Dialects
             Global SQL Dialect: PostgreSQL / MySQL
     Tools
-        External Tools > Add...
+        External Tools > Add... (DEPRECATED)
             Name: Git Bash
             Program: C:\Progra~1\Git\git-bash.exe
             Working directory: $ModuleFileDir$
             Advanced Options
                 o Synchronize files after execution
                 o Open console for tool output
-        Terminal
+        Terminal (DEPRECATED)
             Shell path: "C:\Program Files\Git\bin\sh.exe" --login -i
             Tab name: Git Bash
         Database
