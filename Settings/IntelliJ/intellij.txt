@@ -13,7 +13,74 @@ Actions (Ctrl+Shift+A) > Registry... (alternatively: Help > Edit Custom Properti
     project.tree.structure.show.url=false
     ide.tree.horizontal.default.autoscrolling=false
 
-Settings
+File > New Project Settings > Settings for New Projects...
+    Editor
+        Code Style
+            Hard wrap at: 130
+            Visual guides: 130
+            Java
+                Imports
+                    Class count to use import with '*': 9999
+                    Names count to use static import with '*': 9999
+            JSON
+                Tabs and Indents
+                    Indent: 4
+            Shell Script
+                Indent: 4
+            XML
+                Other
+                    o Wrap text
+        Inspections
+            Java
+                Serialization issues
+                    x Serializable class without 'serialVersionUID'
+    Plugins
+        Browse Repositories
+            Eclipse Code Formatter
+            Extra Icons
+            GitToolBox (z.B. für Anzeige vom aktuellen Branch im Project Tree)
+            JSON Utils (z.B. für JSON Path)
+            Material Theme UI
+            Maven Helper (pom.xml > Dependency Analyzer / Quick Run Maven Goal)
+            Save Actions
+            Themes: Cyan Light, Dark Purple, Gray, Material
+    Version Control
+        Commit
+            o Perform code analysis
+            o Check TODO (Show All)
+    Build, Execution, Deployment
+        Build Tools
+            Maven
+                User settings file: ... (or save settings.xml in %userprofile%\.m2\)
+                Importing
+                    Automatically download: x Sources x Documentation
+                Runner
+                    o Delegate IDE build/run actions to maven (Unit tests take much longer if activated)
+        Compiler
+            Java Compiler
+                Project bytecode version: 1.8 / 11 / 15
+                Target bytecode version: 1.8 / 11 / 15
+            Annotation Processors
+                x Enable annotation processing
+    Other Settings
+        Eclipse Code Formatter
+            x Use the Eclipse code formatter
+            Eclipse Java Formatter config file: ...
+            x Optimize Imports
+                x From file: ...
+    Tools
+        SSH Configurations > Add
+            git@github-priv:22 key
+            git@github-work:22 key
+            git@github.com
+            git@gitlab.com:22 key
+    Other Settings
+        Save Actions
+            x Activate save actions on save
+            x Optimize imports
+            x Reformat file    
+
+Settings (Ctrl+Alt+S)
     Appearance & Behaviour
         Quick Lists > Add
             Tool Windows (Tool Windows will be available only when they first have been used!)
@@ -61,59 +128,14 @@ Settings
             Java (Scheme: Darcula)
                 Classes & Interfaces: C60278
                     Enum: Bold
-        Code Style
-            Hard wrap at: 130
-            Visual guides: 130
-            Java
-                Imports
-                    Class count to use import with '*': 9999
-                    Names count to use static import with '*': 9999
-            JSON
-                Tabs and Indents
-                    Indent: 4
-            Shell Script
-                Indent: 4
-            XML
-                Other
-                    o Wrap text
-        File Types
-            Ignore files and folders: Add ";*.iml"
-        Inspections
-            Java
-                Serialization issues
-                    x Serializable class without 'serialVersionUID'
         Live Templates
             Java
                 Abbreviation:   call
                 Description:    Surround with method call
                 Template text:  $METHOD$($SELECTION$)
                 Applicable in:  Java
-    Plugins
-        Browse Repositories
-            Eclipse Code Formatter
-            Extra Icons
-            GitToolBox (z.B. für Anzeige vom aktuellen Branch im Project Tree)
-            JSON Utils (z.B. für JSON Path)
-            Lombok Plugin
-            Material Theme UI
-            Maven Helper (pom.xml > Dependency Analyzer / Quick Run Maven Goal)
-            Save Actions
-            Themes: Cyan Light, Dark Purple, Gray, Material
-    Build, Execution, Deployment
-        Build Tools
-            Maven
-                User settings file: ...
-                Importing
-                    Automatically download: x Sources x Documentation
-                Runner
-                    o Delegate IDE build/run actions to maven (Unit tests take much longer if activated)
-            Gradle
-                Runner
-                    x Delegate IDE build/run actions to gradle
-        Compiler
-            Java Compiler
-                Project bytecode version: 1.8 / 14
-                Target bytecode version: 1.8 / 14
+        File Types
+            Ignore files and folders: Add ";*.iml"
     Languages & Frameworks
         SQL Dialects
             Global SQL Dialect: PostgreSQL / MySQL
@@ -129,24 +151,13 @@ Settings
             Shell path: "C:\Program Files\Git\bin\sh.exe" --login -i
             Tab name: Git Bash
         Database
-            Excecute in Console
+            Query Execution
                 Excecute
                     When inside a statement execute: Smallest statement
-        SSH Configurations > Add
-            git@github-priv:22 key
-            git@github-work:22 key
-            git@gitlab.com:22 key
     Other Settings
-        Eclipse Code Formatter
-            x Use the Eclipse code formatter
-            Eclipse Java Formatter config file: ...
         Git ToolBox Global
             General
                 o Show 'Git Stat' in status bar
-        Save Actions
-            x Activate save actions on save
-            x Optimize imports
-            x Reformat file
 
 Tool Windows "Project"
     Settings
