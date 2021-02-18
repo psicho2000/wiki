@@ -12,6 +12,9 @@ Installation
 Actions (Ctrl+Shift+A) > Registry... (alternatively: Help > Edit Custom Properties)
     project.tree.structure.show.url=false
     ide.tree.horizontal.default.autoscrolling=false
+Help > Edit Custom Properties
+    # Maximum file size (kilobytes) IDE should provide code assistance for.
+    idea.max.intellisense.filesize=10000
 
 File > New Project Settings > Settings for New Projects...
     Editor
