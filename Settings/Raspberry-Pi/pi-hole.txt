@@ -1,0 +1,16 @@
+Annahme: fritz.box nutzt die IP 192.168.180.1
+
+FritzBox
+ * Heimnetz > Mesh
+    * Feste IP 192.168.180.10 für Raspi over LAN
+    * Feste IPs für fritz.box, mybooklive und Samsung-Drucker
+ * Heimnetz > Netzwerk > Netzwerkeinstellungen > IP-Adressen
+    IPv4-Konfiguration > Lokaler DNS-Server:   192.168.180.10
+    IPv6-Konfiguration > Lokaler DNSv6-Server: fe80::dea6:32ff:fe32:2757
+
+http://raspi/admin
+ * Local DNS > Records für fritz.box, mybooklive und Samsung-Drucker
+ * Settings > Use Conditional Forwarding
+    Local network: 192.168.180.0/24
+    IP address of your DHCP server: 192.168.180.1
+    LOcal domain name: fritz.box
