@@ -13,4 +13,4 @@ http://raspi/admin
  * Settings > Use Conditional Forwarding
     Local network: 192.168.180.0/24
     IP address of your DHCP server: 192.168.180.1
-    LOcal domain name: fritz.box
+    Local domain name: fritz.box
