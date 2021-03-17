@@ -37,6 +37,9 @@ File > New Project Settings > Settings for New Projects...
             Java
                 Serialization issues
                     x Serializable class without 'serialVersionUID'
+        File Types
+            Groovy
+                File name patterns: Add "Jenkinsfile"
     Plugins
         Browse Repositories
             Eclipse Code Formatter
