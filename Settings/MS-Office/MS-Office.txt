@@ -11,8 +11,8 @@ Word
                     o Jede Tabellenzelle mit einem Großbuchstaben beginnen
         Speichern > Dokumente Speichern (applies to all Office programs)
             x Backstage beim Öffnen oder speichern von Dateien mithilfe von Tastenkürzeln nicht anzeigen
-            o Zusätzliche Speicherorte anzeigne, auch wenn eine Anmeldung erforderlich ist
-            x Standardmäßig auf COmputer speichern
+            o Zusätzliche Speicherorte anzeigen, auch wenn eine Anmeldung erforderlich ist
+            x Standardmäßig auf Computer speichern
         Erweitert
             o Automatisch ganze Wörter markieren
             o Drag & Drop
@@ -21,7 +21,8 @@ Word
 Excel
     Optionen
         Formeln
-            o Fehlerüberprüfung im Hintergrund aktivieren
+            Fehlerüberprüfung
+                o Fehlerüberprüfung im Hintergrund aktivieren
         Dokumentenprüfung
             Autokorrektur-Optionen
                 Autokorrektur
