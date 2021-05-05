@@ -58,8 +58,11 @@ Outlook
                 Hinzufügen... > Globale Adressliste
                 Globale Adressliste ganz nach oben bewegen
             Beim Öffnen des Adressbuchs diese Adressliste zuerst anzeigen: Globale Adressliste
-    Datei > Optionen > E-Mail > Outlook-Bereiche > Lesebereich
-        o Element als gelesen markieren, wenn neue Auswahl erfolgt
+    Datei > Optionen
+        E-Mail > Outlook-Bereiche > Lesebereich
+            o Element als gelesen markieren, wenn neue Auswahl erfolgt
+        Kalender > Anzeigeoptionen
+            x Wochennummern in der Monatsansicht und im Datumsnavigator anzeigen
     Systray > Outlook > Rechtsklick
         x Ausblenden, wenn minimiert
 
