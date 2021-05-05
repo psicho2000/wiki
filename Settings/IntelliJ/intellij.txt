@@ -4,15 +4,10 @@ Installation
     Toolbox > Cog
         x Update Toolbox automatically
         Global shortcut to open Toolbox: Win+Ctrl+J
-    [DEPRECATED:
-    Toolbox > IntelliJ > Cog > Settings > Edit Virtual Machine Options > Notepad++
-        Add "-Dproject.tree.structure.show.url=false" at the end in a new line and save the file]
 
-[DEPRECATED]
-Actions (Ctrl+Shift+A) > Registry... (alternatively: Help > Edit Custom Properties)
+Help > Edit Custom Properties (alternatively: Actions (Ctrl+Shift+A) > Registry...)
     project.tree.structure.show.url=false
     ide.tree.horizontal.default.autoscrolling=false
-Help > Edit Custom Properties
     # Maximum file size (kilobytes) IDE should provide code assistance for.
     idea.max.intellisense.filesize=10000
 
@@ -33,13 +28,6 @@ File > New Project Settings > Settings for New Projects...
             XML
                 Other
                     o Wrap text
-        Inspections
-            Java
-                Serialization issues
-                    x Serializable class without 'serialVersionUID'
-        File Types
-            Groovy
-                File name patterns: Add "Jenkinsfile"
     Plugins
         Browse Repositories
             Eclipse Code Formatter
@@ -50,22 +38,19 @@ File > New Project Settings > Settings for New Projects...
             Maven Helper (pom.xml > Dependency Analyzer / Quick Run Maven Goal)
             Save Actions
             Themes: Cyan Light, Dark Purple, Gray, Material
-    Version Control
-        Commit
-            o Perform code analysis
-            o Check TODO (Show All)
+    #Version Control
+    #    Commit
+    #        o Perform code analysis
+    #        o Check TODO (Show All)
     Build, Execution, Deployment
         Build Tools
             Maven
                 User settings file: ... (or save settings.xml in %userprofile%\.m2\)
                 Importing
-                    Automatically download: x Sources x Documentation
+                    Automatically download: x Sources x Documentation x Annotations
                 Runner
                     o Delegate IDE build/run actions to maven (Unit tests take much longer if activated)
         Compiler
-            Java Compiler
-                Project bytecode version: 1.8 / 11 / 15
-                Target bytecode version: 1.8 / 11 / 15
             Annotation Processors
                 x Enable annotation processing
     Other Settings
@@ -76,15 +61,18 @@ File > New Project Settings > Settings for New Projects...
                 x From file: ...
     Tools
         SSH Configurations > Add
+            # Note: SSH cloning does not work with PR integration. PR integration needs HTTPS cloning!
             git@github-priv:22 key
             git@github-work:22 key
             git@github.com
             git@gitlab.com:22 key
     Other Settings
         Save Actions
-            x Activate save actions on save
-            x Optimize imports
-            x Reformat file    
+            General
+                x Activate save actions on save
+            Formatting Actions
+                x Optimize imports
+                x Reformat file
 
 Settings (Ctrl+Alt+S)
     Appearance & Behaviour
@@ -99,7 +87,6 @@ Settings (Ctrl+Alt+S)
     Editor
         General
             x Change font size (Zoom) with Ctrl+Mouse Wheel
-            Limits > Maximum number of contents to keep in clipboard: 20
             Console
                 x Override console cycle buffer size: 16384
             Smart Keys
@@ -141,7 +128,11 @@ Settings (Ctrl+Alt+S)
                 Template text:  $METHOD$($SELECTION$)
                 Applicable in:  Java
         File Types
-            Ignore files and folders: Add ";*.iml"
+            Recognized File Types
+                Groovy
+                    File name patterns: Add "Jenkinsfile"
+            Ignore files and folders
+                Add "*.iml"
     Languages & Frameworks
         SQL Dialects
             Global SQL Dialect: PostgreSQL / MySQL
@@ -160,14 +151,10 @@ Settings (Ctrl+Alt+S)
             Query Execution
                 Excecute
                     When inside a statement execute: Smallest statement
-    Other Settings
-        Git ToolBox Global
-            General
-                o Show 'Git Stat' in status bar
-
+ß
 Tool Windows "Project"
     Settings
-        x Autoscroll from Source
+        x Always Select Opened File
 
 Browser (Firefox/Chrome)
     Add JetBrains Toolbox Extension
