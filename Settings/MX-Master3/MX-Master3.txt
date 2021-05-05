@@ -1,10 +1,9 @@
 Tastenbelegung
     Taste unter dem Mausrad: Zeiger-Geschwindigkeit (1: maximal, 2: mittel)
 
-Daumenradrichtung: Invertiert
+Mauszeiger & Bildlauf
+    Daumenradrichtung: Invertiert
+    Smartshift: Deaktiviert (sonst verliert die Maus beim Modus-Wechsel kurz die Verbindung!)
 
-Falls via Bluetooth verbunden: beim Wechsel 
-    Maus
-        Taste unterhalb Mausrad: <kein> Mausrad-Moduls-Wechsel
-    Mauszeiger & Bildlauf
-        Smartshift: Deaktiviert
+Allgemein:
+    SmartShift sowie Mausrad-Modus-Wechsel ist bei der MX Master 3 defekt! Bei jedem Modus-Wechsel verliert sie kurz die Verbindung. Sowohl per Bluetooth als auch per Unifying Receiver.
