@@ -43,3 +43,6 @@ SC056::RAlt
 #IfWinActive ahk_class OpusApp
     ^w::SendInput ^{Left}+^{Right}
 #IfWinActive
+
+; Map Ctrl+Alt+] to KeePassXC
+^!]::run "C:\Program Files\KeePassXC\KeePassXC.exe"
