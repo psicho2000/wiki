@@ -6,3 +6,7 @@ Plugins
     adamhartford.vscode-base64
     timonwong.shellcheck
     johnpapa.vscode-peacock
+
+Evaluate, if necessary:
+    "window.closeWhenEmpty": true // settings.json
+    Alternative: Ctrl+Shift+W to close App
