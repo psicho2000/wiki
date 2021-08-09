@@ -38,7 +38,6 @@ File > New Project Settings > Settings for New Projects...
             Material Theme UI
             Maven Helper (pom.xml > Dependency Analyzer / Quick Run Maven Goal)
             Rainbow Brackets
-            Save Actions
             Themes: Cyan Light, Dark Purple, Gray, Material
     #Version Control
     #    Commit
@@ -62,19 +61,15 @@ File > New Project Settings > Settings for New Projects...
             x Optimize Imports
                 x From file: ...
     Tools
+        Actions on Save
+            x Reformat code
+            x Optimize imports
         SSH Configurations > Add
             # Note: SSH cloning does not work with PR integration. PR integration needs HTTPS cloning!
             git@github-priv:22 key
             git@github-work:22 key
             git@github.com
             git@gitlab.com:22 key
-    Other Settings
-        Save Actions
-            General
-                x Activate save actions on save
-            Formatting Actions
-                x Optimize imports
-                x Reformat file
 
 Settings (Ctrl+Alt+S)
     Appearance & Behaviour
