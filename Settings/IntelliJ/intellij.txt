@@ -148,7 +148,7 @@ Settings (Ctrl+Alt+S)
             Query Execution
                 Excecute
                     When inside a statement execute: Smallest statement
-ß
+
 Tool Windows "Project"
     Settings
         x Always Select Opened File
