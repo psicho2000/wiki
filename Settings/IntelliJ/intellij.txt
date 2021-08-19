@@ -27,6 +27,7 @@ File > New Project Settings > Settings for New Projects...
                 Indent: 4
             XML
                 Other
+                    Wrap attributes: Do not wrap
                     o Wrap text
     Plugins
         Browse Repositories
