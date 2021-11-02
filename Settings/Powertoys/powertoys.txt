@@ -3,3 +3,9 @@ General
 PowerToys Run
     Open PowerToys Run: Ctrl + Alt + /
     Maximum number of results: 10
+VideoConference Mute
+    Kamera stumm schalten: Win+Shift+V
+    Kamera: HD Pro Webcam C920
+    Überlagerungsbild: Bildverhältnis 16:9
+    Position der Symbolleiste: Links oben
+    Teams > Einstellungen > Geräte > Kamera: PowerToys VideoConference Mute
