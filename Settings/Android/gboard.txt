@@ -1,0 +1,7 @@
+﻿Einstellungen
+    Tasten
+        x Zifferntastenzeile
+        x Emoji-Wechseltasten anzeigen
+        x Auf Symboltastatur Emojis anzeigen
+    Tastendruck
+        x Langer Tastendruck fügt Symbole ein
