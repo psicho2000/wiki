@@ -9,6 +9,7 @@ Plugins
     fr43nk.seito-openfile
     clemenspeters.format-json
     esbenp.prettier-vscode
+    eamodio.gitlens
 
 Evaluate, if necessary:
     "window.closeWhenEmpty": true // settings.json
