@@ -6,6 +6,9 @@ Plugins
     adamhartford.vscode-base64
     timonwong.shellcheck
     johnpapa.vscode-peacock
+    fr43nk.seito-openfile
+    clemenspeters.format-json
+    esbenp.prettier-vscode
 
 Evaluate, if necessary:
     "window.closeWhenEmpty": true // settings.json
