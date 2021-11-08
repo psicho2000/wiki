@@ -8,8 +8,8 @@ Plugins
     johnpapa.vscode-peacock
     fr43nk.seito-openfile
     clemenspeters.format-json
-    esbenp.prettier-vscode
     eamodio.gitlens
+    esbenp.prettier-vscode // breaks a lot of files, do not use!
 
 Evaluate, if necessary:
     "window.closeWhenEmpty": true // settings.json
