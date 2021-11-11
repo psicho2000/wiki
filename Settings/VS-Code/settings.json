@@ -11,6 +11,8 @@
     "git.enableSmartCommit": true,
     "git.autofetch": true,
     "git.confirmSync": false,
+    // https://thoughtbot.com/blog/no-newline-at-end-of-file
+    "files.insertFinalNewline": true,
     "editor.bracketPairColorization.enabled": true,
     "python.linting.pylintPath": "/usr/bin/pylint",
     "[python]": {
