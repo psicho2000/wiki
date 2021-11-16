@@ -21,7 +21,8 @@
             {
                 "background": "#002B36",
                 "colorScheme": "Markus",
-                "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+                // "guid": "{07b52e3e-de2c-5db4-bd2d-ba144ed6c273}", // Dell
+                "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}", // Schenker
                 "hidden": false,
                 "name": "Ubuntu",
                 "source": "Windows.Terminal.Wsl"
