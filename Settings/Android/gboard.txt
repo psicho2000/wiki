@@ -5,3 +5,5 @@
         x Auf Symboltastatur Emojis anzeigen
     Tastendruck
         x Langer Tastendruck fügt Symbole ein
+Drei-Punkte-Menü > Umsortieren
+    Textbearbeitung | Zwischenablage | Einhändiger Modus | Übersetzen
