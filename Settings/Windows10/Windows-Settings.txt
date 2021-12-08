@@ -47,6 +47,8 @@ Windows Settings (Win+I)
             Scrollrichtung: Zum Aufwärtsscrollen nach unten bewegen
             Drei-Finger-Gesten
                 Tippeingaben: Wiedergabe/Pause
+    Netzerk und Internet > Proxy
+        o Einstellungen automatisch erkennen (aus)
     System > Benachrichtigungen und Aktionen > Schnelle Aktionen bearbeiten
     Telefon
         ggf. Handy verbinden
