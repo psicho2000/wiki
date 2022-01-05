@@ -39,6 +39,7 @@ File > New Project Settings > Settings for New Projects...
             Material Theme UI
             Maven Helper (pom.xml > Dependency Analyzer / Quick Run Maven Goal)
             Rainbow Brackets
+            String Manipulation
             Themes: Cyan Light, Dark Purple, Gray, Material
     #Version Control
     #    Commit
