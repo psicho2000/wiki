@@ -1,10 +1,10 @@
 # Windows
-cinst python3
-ln -s /c/Python38/python /c/Python38/python3
+Powershell Admin: `cinst python3`
+Ubuntu: `ln -s /c/Python310/python /c/Python310/python3`
 IntelliJ with Plugin Python from JetBrains (instead of PyCharm), Python Interpreter konfigurieren
-Python Skript zu Projekt hinzufügen, Invalidate Caches and Restart
+Add Python script to projekt, Invalidate Caches and Restart
 Shebang #!/usr/bin/env python3
-Module müssen sowohl im Container als auch in Windows hinzugefügt werden
+Modules must be added in Container and in Windows
 
 # Ubuntu
 
