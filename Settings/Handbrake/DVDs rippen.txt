@@ -1,0 +1,7 @@
+Voreinstellung: H.265 MKV 576
+Audio: Spuren hinzufügen
+Untertitel: hinzufügen
+
+DVD Auflösung:
+    720x480 (NTSC)
+    720x576 (PAL)
