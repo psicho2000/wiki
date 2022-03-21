@@ -1,8 +1,10 @@
 {
+    "editor.bracketPairColorization.enabled": true,
     "editor.largeFileOptimizations": false,
     "editor.fontFamily": "Cascadia Mono",
     "editor.fontLigatures": true,
     "editor.formatOnSave": true,
+    "editor.mouseWheelZoom": true,
     "window.zoomLevel": 2,
     "workbench.colorTheme": "Solarized Dark",
     "workbench.editor.enablePreview": false,
@@ -13,7 +15,6 @@
     "git.confirmSync": false,
     // https://thoughtbot.com/blog/no-newline-at-end-of-file
     "files.insertFinalNewline": true,
-    "editor.bracketPairColorization.enabled": true,
     "python.linting.pylintPath": "/usr/bin/pylint",
     "[python]": {
         "editor.defaultFormatter": "vscode.python"
