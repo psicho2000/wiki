@@ -29,5 +29,8 @@
     "terminal.integrated.shell.linux": "/bin/zsh",
     "terminal.integrated.shellArgs.linux": [
         "--login"
+    ],
+    "shellcheck.customArgs": [
+        "-x"
     ]
 }
