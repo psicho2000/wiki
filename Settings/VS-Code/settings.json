@@ -1,7 +1,7 @@
 {
     "editor.bracketPairColorization.enabled": true,
     "editor.largeFileOptimizations": false,
-    "editor.fontFamily": "Cascadia Mono",
+    "editor.fontFamily": "CaskaydiaCove Nerd Font",
     "editor.fontLigatures": true,
     "editor.formatOnSave": true,
     "editor.mouseWheelZoom": true,
