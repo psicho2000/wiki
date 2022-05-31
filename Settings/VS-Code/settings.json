@@ -1,6 +1,9 @@
 {
     "editor.bracketPairColorization.enabled": true,
     "editor.largeFileOptimizations": false,
+    // ## CaskaydiaCove Nerd Font supports more ligatures and special characters
+    // ## Cascadia Code PL works better with README.md from dotfiles
+    //"editor.fontFamily": "CaskaydiaCove Nerd Font",
     "editor.fontFamily": "Cascadia Code PL",
     "editor.fontLigatures": true,
     "editor.formatOnSave": true,
