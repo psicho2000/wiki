@@ -1,40 +1,44 @@
 Use these Glyphs with a compatible font. Best experience in Windows Terminal.
 * Cascadia Code (https://github.com/microsoft/cascadia-code/)
 * Caskaydia Cove Nerd Font Complete (https://www.nerdfonts.com/font-downloads)
+* https://youtu.be/_mZBa3sqTrI?t=3050
 
-Math
-==	===
-!=	!==
-~=	~~
-<=	>=
-<<	>>
-:=	|=
-Arrows
-<-	->
-<--	-->
-<<-	->>
-<<=	=>>
-	=>
-<==	==>
-<=<	>=>
--<	>-
-=<<	>>=
-<~	~>
-<~~	~~>
-<>	<->
-<=>	<==>
-<|	|>
-<||	||>
-<|||	|||>
-Extra
-***	!!	www
-##	###	####
-</	/>	</>
-<!--|-	<$>
-<+	+>	<+>
-#[	~@
-//	///	||
---	---	__
-.-	.=
+Math            Brackets        Extra
+==  ===         </  />  </>     //  /// ||
+!=  !==         <~> <|>         --  --- __
+~=  ~~          <$  $>  <$>     ++  +++
+^=              <*  *>  <*>     **  ***
+<=  >=          <+  +>  <+>     #=  #!  #:
+<<  >>          {|  |}          .-  .=
+<<< >>>         [|  |]          !!  ??  %%
+:=  ::=         :<  >:          &&  ||
+::  :::         :>  <:          www
+..  ...         ..<             ##  ### ####
+=:= /==         #[  ]#          ~@
+=!=             /*  */
+
+Arrows and Boxes (most of them repeatable, or any longer, or combinable)
+-<      >-      ==<     >==
+-<<     >>-     =<<     >>==
+<-      ->      <==     =>
+<<-     ->>     <<==    =>>
+<-<     >->     <=<     >=>
+<<-<    >->>    <<=<    >=>>
+<<-<<   >>->>   <<=<<   >>=>>
+<~      ~>      <~~     ~~>
+<>      <->     <=>     <==>
+----            ====
+<-|     |->     <=|    |=>
+<-|->           <=|=>
+<!--
+
+|-      -|      |==     =|
+||-     -||     ||=     =||
+-|-     _|_     =|=     |=|
+<|      |>
+<||     ||>
+<|||    |||>
+/\      \/
+
 Characters
-Il1	oO0Q	qg	G6	5S	2Z
+Il1  oO0Q  qg  G6  5S  2Z
