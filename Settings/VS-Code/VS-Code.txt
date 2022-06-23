@@ -9,8 +9,3 @@ Plugins
     fr43nk.seito-openfile
     clemenspeters.format-json
     eamodio.gitlens
-    esbenp.prettier-vscode // breaks a lot of files, do not use!
-
-Evaluate, if necessary:
-    "window.closeWhenEmpty": true // settings.json
-    Alternative: Ctrl+Shift+W to close App
