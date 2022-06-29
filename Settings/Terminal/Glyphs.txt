@@ -1,6 +1,8 @@
 Use these Glyphs with a compatible font. Best experience in Windows Terminal.
 * Cascadia Code (https://github.com/microsoft/cascadia-code/)
+    * Support for programming ligatures, glyphs, unicode icons
 * Caskaydia Cove Nerd Font Complete (https://www.nerdfonts.com/font-downloads)
+    * Broad support for programming ligatures, glyphs, unicode icons
 * https://youtu.be/_mZBa3sqTrI?t=3050
 
 Math            Brackets        Extra
@@ -41,4 +43,4 @@ Arrows and Boxes (most of them repeatable, or any longer, or combinable)
 /\      \/
 
 Characters
-Il1  oO0Q  qg  G6  5S  2Z
+iIlL1  oO08 CGQ  qg9  G6  5S  2Z
