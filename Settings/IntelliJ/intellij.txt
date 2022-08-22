@@ -32,11 +32,10 @@ File > New Project Settings > Settings for New Projects...
     Plugins
         Browse Repositories
             Eclipse Code Formatter
-            Extra Icons
             GitToolBox (z.B. für Anzeige vom aktuellen Branch im Project Tree)
             JSON Utils (z.B. für JSON Path)
             Jump to Line (https://plugins.jetbrains.com/plugin/14877-jump-to-line)
-            Material Theme UI
+            Material Theme UI (Freemium)
             Maven Helper (pom.xml > Dependency Analyzer / Quick Run Maven Goal)
             Rainbow Brackets
             String Manipulation
