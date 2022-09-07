@@ -47,8 +47,8 @@ chrome://flags/#omnibox-keyword-search-button: Disable
                 Einstellungen > Erweiterungen > Hamburger-Menu > Tastenkombinationen
                     Move selected tabs(s) left: Ctrl+Shift+PageUp
                     Move selected tabs(s) right: Ctrl+Shift+PageDown
-                    Move selected tabs(s) to the end: Ctrl+Shift+End
-                    Move selected tabs(s) to the front: Ctrl+Shift+Home
+                    Move selected tabs(s) to the end: <empty>
+                    Move selected tabs(s) to the front: <empty>
         Backlog
             SingleFile                  (nicht mehr nötig, Chrome unterstützt wieder mhtml)
             uBlock Origin
