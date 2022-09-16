@@ -1,15 +1,17 @@
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": 
-    [
+    "actions": [
         {
-            "command": "find",
-            "keys": "ctrl+shift+f"
+            "command": "switchSelectionEndpoint",
+            "keys": "ctrl+shift+o"
         },
         {
-            "command": 
-            {
+            "command": "toggleBlockSelection",
+            "keys": "ctrl+shift+b"
+        },
+        {
+            "command": {
                 "action": "splitPane",
                 "split": "auto",
                 "splitMode": "duplicate"
@@ -17,8 +19,7 @@
             "keys": "alt+shift+d"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "newTab"
             },
             "keys": "ctrl+t"
@@ -28,8 +29,7 @@
             "keys": "alt+shift+z"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "swapPane",
                 "direction": "down"
             },
@@ -40,24 +40,21 @@
             "keys": "alt+enter"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "swapPane",
                 "direction": "left"
             },
             "keys": "ctrl+alt+left"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "swapPane",
                 "direction": "right"
             },
             "keys": "ctrl+alt+right"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "swapPane",
                 "direction": "up"
             },
@@ -69,21 +66,17 @@
     "copyOnSelect": false,
     "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
     "minimizeToNotificationArea": true,
-    "profiles": 
-    {
-        "defaults": 
-        {
+    "profiles": {
+        "defaults": {
             "bellStyle": "none",
             "closeOnExit": "always",
-            "font": 
-            {
+            "font": {
                 "face": "CaskaydiaCove Nerd Font"
             },
             "historySize": 16000,
             "startingDirectory": "%userprofile%"
         },
-        "list": 
-        [
+        "list": [
             {
                 "background": "#002B36",
                 "colorScheme": "Markus",
@@ -127,8 +120,7 @@
             }
         ]
     },
-    "schemes": 
-    [
+    "schemes": [
         {
             "background": "#0C0C0C",
             "black": "#0C0C0C",
