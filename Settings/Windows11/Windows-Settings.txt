@@ -97,6 +97,10 @@ Energieoptionen (Win+X, N)
         Beim Zuklappen: Nichts unternehmen
             x Ruhezustand
 
+### Dienste
+===========
+Windows-Fehlerberichterstattungsdienst: deaktivieren
+
 ### Optional
 ============
 Bibliotheken konfigurieren
