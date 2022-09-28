@@ -44,6 +44,7 @@ chrome://flags/#omnibox-keyword-search-button: Disable
                     Search for Ctrl+Z and replace by Ctrl+Tab
                 Open Chrome and enjoy
             Rearrange Tabs: https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga
+                // Update 2022-09-08: Seems to be deprecated, as this might be builtin now
                 Einstellungen > Erweiterungen > Hamburger-Menu > Tastenkombinationen
                     Move selected tabs(s) left: Ctrl+Shift+PageUp
                     Move selected tabs(s) right: Ctrl+Shift+PageDown
