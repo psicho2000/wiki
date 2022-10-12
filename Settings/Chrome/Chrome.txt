@@ -43,6 +43,7 @@ chrome://flags/#omnibox-keyword-search-button: Disable
                 Open C:\Users\User\AppData\Local\Google\Chrome\User Data\Default\Preferences
                     Search for Ctrl+Z and replace by Ctrl+Tab
                 Open Chrome and enjoy
+        Backlog
             Rearrange Tabs: https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga
                 // Update 2022-09-08: Seems to be deprecated, as this might be builtin now
                 Einstellungen > Erweiterungen > Hamburger-Menu > Tastenkombinationen
@@ -50,7 +51,6 @@ chrome://flags/#omnibox-keyword-search-button: Disable
                     Move selected tabs(s) right: Ctrl+Shift+PageDown
                     Move selected tabs(s) to the end: <empty>
                     Move selected tabs(s) to the front: <empty>
-        Backlog
             SingleFile                  (nicht mehr nötig, Chrome unterstützt wieder mhtml)
             uBlock Origin
             ScriptSafe
