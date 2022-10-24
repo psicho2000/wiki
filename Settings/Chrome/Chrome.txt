@@ -12,6 +12,7 @@ Anschließend nur noch Settings in chrome://flags setzen.
             Geizhals        p   https://geizhals.de/?fs=%s
             Idealo          pi  https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=%s
             Google          g
+            GitHub Repo     ghr https://github.com/%s
             Google Maps     gm  https://www.google.de/maps?q=%s
             Leo             l   https://dict.leo.org/ende?lang=de&search=%s
             Redmine         r   https://redmine.lifeline-herne.de/issues/%s
