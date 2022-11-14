@@ -9,3 +9,4 @@ Plugins
     fr43nk.seito-openfile
     clemenspeters.format-json
     eamodio.gitlens
+    tamasfe.even-better-toml
