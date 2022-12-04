@@ -44,3 +44,22 @@ Arrows and Boxes (most of them repeatable, or any longer, or combinable)
 
 Characters
 iIlL1  oO08 CGQ  qg9  G6  5S  2Z
+
+Nerd Font / Powerline Glyphs
+\ue0b0: 
+\ue0b1: 
+\ue0b2: 
+\ue0b3: 
+\ue0b4: 
+\ue0b5: 
+\ue0b6: 
+\ue0b7: 
+\ue0b8: 
+\ue0b9: 
+\ue0ba: 
+\ue0bb: 
+\ue0bc: 
+\ue0bd: 
+\ue0be: 
+\ue0bf: 
+\ue285: 
