@@ -11,7 +11,7 @@ Modules must be added in Container and in Windows
 One time installation:
 ```bash
 apt update
-apt install -y python3-pip pylint
+apt install -y python3-pip python3-venv pylint
 curl -sSL https://install.python-poetry.org | python3 -
 ```
 
