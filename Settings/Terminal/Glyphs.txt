@@ -1,9 +1,18 @@
-Use these Glyphs with a compatible font. Best experience in Windows Terminal.
+# General Info
+
+Use these Glyphs and Ligatures with a compatible font. Best experience in Windows Terminal.
 * Cascadia Code (https://github.com/microsoft/cascadia-code/)
     * Support for programming ligatures, glyphs, unicode icons
 * Caskaydia Cove Nerd Font Complete (https://www.nerdfonts.com/font-downloads)
+    * Patched variant of Cascadia Code
     * Broad support for programming ligatures, glyphs, unicode icons
-* https://youtu.be/_mZBa3sqTrI?t=3050
+* Definition of Glyph and Ligature: https://luthert.web.illinois.edu/blog/posts/163.html
+* Example: https://youtu.be/_mZBa3sqTrI?t=3050
+
+## Characters
+iIlL1  oO08 CGQ  qg9  G6  5S  2Z
+
+## Ligatures
 
 Math            Brackets        Extra
 ==  ===         </  />  </>     //  /// ||
@@ -42,8 +51,7 @@ Arrows and Boxes (most of them repeatable, or any longer, or combinable)
 <|||    |||>
 /\      \/
 
-Characters
-iIlL1  oO08 CGQ  qg9  G6  5S  2Z
+## Glyphs
 
 Nerd Font / Powerline Glyphs
 \ue0b0: 
