@@ -10,3 +10,4 @@ Plugins
     clemenspeters.format-json
     eamodio.gitlens
     tamasfe.even-better-toml
+    matangover.mypy

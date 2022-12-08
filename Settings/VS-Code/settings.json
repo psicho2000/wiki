@@ -18,14 +18,29 @@
     "git.confirmSync": false,
     // https://thoughtbot.com/blog/no-newline-at-end-of-file
     "files.insertFinalNewline": true,
-    "python.linting.pylintPath": "/usr/bin/pylint",
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
     "[python]": {
-        "editor.defaultFormatter": "vscode.python"
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
     },
     "python.formatting.provider": "black",
     "python.formatting.blackArgs": [
         "--line-length=130"
     ],
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintPath": "/usr/bin/pylint",
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
     "terminal.explorerKind": "external",
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": true,
