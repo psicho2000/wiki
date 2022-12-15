@@ -24,7 +24,9 @@ poetry completions zsh | sudo tee /usr/local/share/zsh/site-functions/_poetry >/
 poetry completions bash | sudo tee /usr/share/bash-completion/completions/poetry >/dev/null
 ```
 
-Remark: autoflake, black, isort, pylint and mypy should be managed by poetry.
+Remarks:
+ * autoflake, black, isort, pylint and mypy should be managed by poetry.
+ * after setting the poetry config for venv (see above), the following `poetry install` will use the project's venv, which will be acknowledged by VS Code
 
 VS Code Settings (Ctrl+,)
     Python > Linting > Pylint path: /usr/bin/pylint
