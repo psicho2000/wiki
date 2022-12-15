@@ -36,6 +36,9 @@
     "python.linting.mypyEnabled": true,
     "python.linting.pylintEnabled": true,
     "python.linting.pylintPath": "/usr/bin/pylint",
+    "python.linting.pylintArgs": [
+        "--max-line-length=130"
+    ],
     "python.testing.pytestArgs": [
         "tests"
     ],
