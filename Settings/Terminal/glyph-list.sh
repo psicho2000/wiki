@@ -1,3695 +1,3695 @@
 #!/usr/bin/env bash
 # Adapted from https://gitlab.com/jake.gillberg/nerd-fonts-glyph-list
 
-echo -e "\ue700 e700 dev bing small"
-echo -e "\ue701 e701 dev css tricks"
-echo -e "\ue702 e702 dev git"
-echo -e "\ue703 e703 dev bitbucket"
-echo -e "\ue704 e704 dev mysql"
-echo -e "\ue705 e705 dev streamline"
-echo -e "\ue706 e706 dev database"
-echo -e "\ue707 e707 dev dropbox"
-echo -e "\ue708 e708 dev github alt"
-echo -e "\ue709 e709 dev github badge"
-echo -e "\ue70a e70a dev github"
-echo -e "\ue70b e70b dev wordpress"
-echo -e "\ue70c e70c dev visualstudio"
-echo -e "\ue70d e70d dev jekyll small"
-echo -e "\ue70e e70e dev android"
-echo -e "\ue70f e70f dev windows"
-echo -e "\ue710 e710 dev stackoverflow"
-echo -e "\ue711 e711 dev apple"
-echo -e "\ue712 e712 dev linux"
-echo -e "\ue713 e713 dev appstore"
-echo -e "\ue714 e714 dev ghost small"
-echo -e "\ue715 e715 dev yahoo"
-echo -e "\ue716 e716 dev codepen"
-echo -e "\ue717 e717 dev github full"
-echo -e "\ue718 e718 dev nodejs small"
-echo -e "\ue719 e719 dev nodejs"
-echo -e "\ue71a e71a dev hackernews"
-echo -e "\ue71b e71b dev ember"
-echo -e "\ue71c e71c dev dojo"
-echo -e "\ue71d e71d dev django"
-echo -e "\ue71e e71e dev npm"
-echo -e "\ue71f e71f dev ghost"
-echo -e "\ue720 e720 dev modernizr"
-echo -e "\ue721 e721 dev unity small"
-echo -e "\ue722 e722 dev rasberry pi"
-echo -e "\ue723 e723 dev blackberry"
-echo -e "\ue724 e724 dev go"
-echo -e "\ue725 e725 dev git branch"
-echo -e "\ue726 e726 dev git pull request"
-echo -e "\ue727 e727 dev git merge"
-echo -e "\ue728 e728 dev git compare"
-echo -e "\ue729 e729 dev git commit"
-echo -e "\ue72a e72a dev cssdeck"
-echo -e "\ue72b e72b dev yahoo small"
-echo -e "\ue72c e72c dev techcrunch"
-echo -e "\ue72d e72d dev smashing magazine"
-echo -e "\ue72e e72e dev netmagazine"
-echo -e "\ue72f e72f dev codrops"
-echo -e "\ue730 e730 dev phonegap"
-echo -e "\ue731 e731 dev google drive"
-echo -e "\ue732 e732 dev html5 multimedia"
-echo -e "\ue733 e733 dev html5 device access"
-echo -e "\ue734 e734 dev html5 connectivity"
-echo -e "\ue735 e735 dev html5 3d effects"
-echo -e "\ue736 e736 dev html5"
-echo -e "\ue737 e737 dev scala"
-echo -e "\ue738 e738 dev java"
-echo -e "\ue739 e739 dev ruby"
-echo -e "\ue73a e73a dev ubuntu"
-echo -e "\ue73b e73b dev ruby on rails"
-echo -e "\ue73c e73c dev python"
-echo -e "\ue73d e73d dev php"
-echo -e "\ue73e e73e dev markdown"
-echo -e "\ue73f e73f dev laravel"
-echo -e "\ue740 e740 dev magento"
-echo -e "\ue741 e741 dev joomla"
-echo -e "\ue742 e742 dev drupal"
-echo -e "\ue743 e743 dev chrome"
-echo -e "\ue744 e744 dev ie"
-echo -e "\ue745 e745 dev firefox"
-echo -e "\ue746 e746 dev opera"
-echo -e "\ue747 e747 dev bootstrap"
-echo -e "\ue748 e748 dev safari"
-echo -e "\ue749 e749 dev css3"
-echo -e "\ue74a e74a dev css3 full"
-echo -e "\ue74b e74b dev sass"
-echo -e "\ue74c e74c dev grunt"
-echo -e "\ue74d e74d dev bower"
-echo -e "\ue74e e74e dev javascript"
-echo -e "\ue74f e74f dev javascript shield"
-echo -e "\ue750 e750 dev jquery"
-echo -e "\ue751 e751 dev coffeescript"
-echo -e "\ue752 e752 dev backbone"
-echo -e "\ue753 e753 dev angular"
-echo -e "\ue754 e754 dev jquery ui"
-echo -e "\ue755 e755 dev swift"
-echo -e "\ue756 e756 dev symfony"
-echo -e "\ue757 e757 dev symfony badge"
-echo -e "\ue758 e758 dev less"
-echo -e "\ue759 e759 dev stylus"
-echo -e "\ue75a e75a dev trello"
-echo -e "\ue75b e75b dev atlassian"
-echo -e "\ue75c e75c dev jira"
-echo -e "\ue75d e75d dev envato"
-echo -e "\ue75e e75e dev snap svg"
-echo -e "\ue75f e75f dev raphael"
-echo -e "\ue760 e760 dev chart"
-echo -e "\ue761 e761 dev compass"
-echo -e "\ue762 e762 dev onedrive"
-echo -e "\ue763 e763 dev gulp"
-echo -e "\ue764 e764 dev atom"
-echo -e "\ue765 e765 dev cisco"
-echo -e "\ue766 e766 dev nancy"
-echo -e "\ue767 e767 dev jenkins"
-echo -e "\ue768 e768 dev clojure"
-echo -e "\ue769 e769 dev perl"
-echo -e "\ue76a e76a dev clojure alt"
-echo -e "\ue76b e76b dev celluloid"
-echo -e "\ue76c e76c dev w3c"
-echo -e "\ue76d e76d dev redis"
-echo -e "\ue76e e76e dev postgresql"
-echo -e "\ue76f e76f dev webplatform"
-echo -e "\ue770 e770 dev requirejs"
-echo -e "\ue771 e771 dev opensource"
-echo -e "\ue772 e772 dev typo3"
-echo -e "\ue773 e773 dev uikit"
-echo -e "\ue774 e774 dev doctrine"
-echo -e "\ue775 e775 dev groovy"
-echo -e "\ue776 e776 dev nginx"
-echo -e "\ue777 e777 dev haskell"
-echo -e "\ue778 e778 dev zend"
-echo -e "\ue779 e779 dev gnu"
-echo -e "\ue77a e77a dev yeoman"
-echo -e "\ue77b e77b dev heroku"
-echo -e "\ue77c e77c dev msql server"
-echo -e "\ue77d e77d dev debian"
-echo -e "\ue77e e77e dev travis"
-echo -e "\ue77f e77f dev dotnet"
-echo -e "\ue780 e780 dev codeigniter"
-echo -e "\ue781 e781 dev javascript badge"
-echo -e "\ue782 e782 dev yii"
-echo -e "\ue783 e783 dev composer"
-echo -e "\ue784 e784 dev krakenjs badge"
-echo -e "\ue785 e785 dev krakenjs"
-echo -e "\ue786 e786 dev mozilla"
-echo -e "\ue787 e787 dev firebase"
-echo -e "\ue788 e788 dev sizzlejs"
-echo -e "\ue789 e789 dev creativecommons"
-echo -e "\ue78a e78a dev creativecommons badge"
-echo -e "\ue78b e78b dev mitlicence"
-echo -e "\ue78c e78c dev senchatouch"
-echo -e "\ue78d e78d dev bugsense"
-echo -e "\ue78e e78e dev extjs"
-echo -e "\ue78f e78f dev mootools badge"
-echo -e "\ue790 e790 dev mootools"
-echo -e "\ue791 e791 dev ruby rough"
-echo -e "\ue792 e792 dev komodo"
-echo -e "\ue793 e793 dev coda"
-echo -e "\ue794 e794 dev bintray"
-echo -e "\ue795 e795 dev terminal"
-echo -e "\ue796 e796 dev code"
-echo -e "\ue797 e797 dev responsive"
-echo -e "\ue798 e798 dev dart"
-echo -e "\ue799 e799 dev aptana"
-echo -e "\ue79a e79a dev mailchimp"
-echo -e "\ue79b e79b dev netbeans"
-echo -e "\ue79c e79c dev dreamweaver"
-echo -e "\ue79d e79d dev brackets"
-echo -e "\ue79e e79e dev eclipse"
-echo -e "\ue79f e79f dev cloud9"
-echo -e "\ue7a0 e7a0 dev scrum"
-echo -e "\ue7a1 e7a1 dev prolog"
-echo -e "\ue7a2 e7a2 dev terminal badge"
-echo -e "\ue7a3 e7a3 dev code badge"
-echo -e "\ue7a4 e7a4 dev mongodb"
-echo -e "\ue7a5 e7a5 dev meteor"
-echo -e "\ue7a6 e7a6 dev meteorfull"
-echo -e "\ue7a7 e7a7 dev fsharp"
-echo -e "\ue7a8 e7a8 dev rust"
-echo -e "\ue7a9 e7a9 dev ionic"
-echo -e "\ue7aa e7aa dev sublime"
-echo -e "\ue7ab e7ab dev appcelerator"
-echo -e "\ue7ac e7ac dev asterisk"
-echo -e "\ue7ad e7ad dev aws"
-echo -e "\ue7ae e7ae dev digital ocean"
-echo -e "\ue7af e7af dev dlang"
-echo -e "\ue7b0 e7b0 dev docker"
-echo -e "\ue7b1 e7b1 dev erlang"
-echo -e "\ue7b2 e7b2 dev google cloud platform"
-echo -e "\ue7b3 e7b3 dev grails"
-echo -e "\ue7b4 e7b4 dev illustrator"
-echo -e "\ue7b5 e7b5 dev intellij"
-echo -e "\ue7b6 e7b6 dev materializecss"
-echo -e "\ue7b7 e7b7 dev openshift"
-echo -e "\ue7b8 e7b8 dev photoshop"
-echo -e "\ue7b9 e7b9 dev rackspace"
-echo -e "\ue7ba e7ba dev react"
-echo -e "\ue7bb e7bb dev redhat"
-echo -e "\ue7bc e7bc dev scriptcs"
-echo -e "\ue7c4 e7c4 dev sqllite"
-echo -e "\ue7c5 e7c5 dev vim"
-echo -e "\ue200 e200 fae smaller"
-echo -e "\ue201 e201 fae snowing"
-echo -e "\ue202 e202 fae soda"
-echo -e "\ue203 e203 fae sofa"
-echo -e "\ue204 e204 fae soup"
-echo -e "\ue205 e205 fae spermatozoon"
-echo -e "\ue206 e206 fae spin double"
-echo -e "\ue207 e207 fae stomach"
-echo -e "\ue208 e208 fae storm"
-echo -e "\ue209 e209 fae telescope"
-echo -e "\ue20a e20a fae thermometer"
-echo -e "\ue20b e20b fae thermometer high"
-echo -e "\ue20c e20c fae thermometer low"
-echo -e "\ue20d e20d fae thin close"
-echo -e "\ue20e e20e fae toilet"
-echo -e "\ue20f e20f fae tools"
-echo -e "\ue210 e210 fae tooth"
-echo -e "\ue211 e211 fae uterus"
-echo -e "\ue212 e212 fae w3c"
-echo -e "\ue213 e213 fae walking"
-echo -e "\ue214 e214 fae virus"
-echo -e "\ue215 e215 fae telegram circle"
-echo -e "\ue216 e216 fae slash"
-echo -e "\ue217 e217 fae telegram"
-echo -e "\ue218 e218 fae shirt"
-echo -e "\ue219 e219 fae tacos"
-echo -e "\ue21a e21a fae sushi"
-echo -e "\ue21b e21b fae triangle ruler"
-echo -e "\ue21c e21c fae tree"
-echo -e "\ue21d e21d fae sun cloud"
-echo -e "\ue21e e21e fae ruby o"
-echo -e "\ue21f e21f fae ruler"
-echo -e "\ue220 e220 fae umbrella"
-echo -e "\ue221 e221 fae medicine"
-echo -e "\ue222 e222 fae microscope"
-echo -e "\ue223 e223 fae milk bottle"
-echo -e "\ue224 e224 fae minimize"
-echo -e "\ue225 e225 fae molecule"
-echo -e "\ue226 e226 fae moon cloud"
-echo -e "\ue227 e227 fae mushroom"
-echo -e "\ue228 e228 fae mustache"
-echo -e "\ue229 e229 fae mysql"
-echo -e "\ue22a e22a fae nintendo"
-echo -e "\ue22b e22b fae palette color"
-echo -e "\ue22c e22c fae pi"
-echo -e "\ue22d e22d fae pizza"
-echo -e "\ue22e e22e fae planet"
-echo -e "\ue22f e22f fae plant"
-echo -e "\ue230 e230 fae playstation"
-echo -e "\ue231 e231 fae poison"
-echo -e "\ue232 e232 fae popcorn"
-echo -e "\ue233 e233 fae popsicle"
-echo -e "\ue234 e234 fae pulse"
-echo -e "\ue235 e235 fae python"
-echo -e "\ue236 e236 fae quora circle"
-echo -e "\ue237 e237 fae quora square"
-echo -e "\ue238 e238 fae radioactive"
-echo -e "\ue239 e239 fae raining"
-echo -e "\ue23a e23a fae real heart"
-echo -e "\ue23b e23b fae refrigerator"
-echo -e "\ue23c e23c fae restore"
-echo -e "\ue23d e23d fae ring"
-echo -e "\ue23e e23e fae ruby"
-echo -e "\ue23f e23f fae fingerprint"
-echo -e "\ue240 e240 fae floppy"
-echo -e "\ue241 e241 fae footprint"
-echo -e "\ue242 e242 fae freecodecamp"
-echo -e "\ue243 e243 fae galaxy"
-echo -e "\ue244 e244 fae galery"
-echo -e "\ue245 e245 fae glass"
-echo -e "\ue246 e246 fae google drive"
-echo -e "\ue247 e247 fae google play"
-echo -e "\ue248 e248 fae gps"
-echo -e "\ue249 e249 fae grav"
-echo -e "\ue24a e24a fae guitar"
-echo -e "\ue24b e24b fae gut"
-echo -e "\ue24c e24c fae halter"
-echo -e "\ue24d e24d fae hamburger"
-echo -e "\ue24e e24e fae hat"
-echo -e "\ue24f e24f fae hexagon"
-echo -e "\ue250 e250 fae high heel"
-echo -e "\ue251 e251 fae hotdog"
-echo -e "\ue252 e252 fae ice cream"
-echo -e "\ue253 e253 fae id card"
-echo -e "\ue254 e254 fae imdb"
-echo -e "\ue255 e255 fae infinity"
-echo -e "\ue256 e256 fae java"
-echo -e "\ue257 e257 fae layers"
-echo -e "\ue258 e258 fae lips"
-echo -e "\ue259 e259 fae lipstick"
-echo -e "\ue25a e25a fae liver"
-echo -e "\ue25b e25b fae lung"
-echo -e "\ue25c e25c fae makeup brushes"
-echo -e "\ue25d e25d fae maximize"
-echo -e "\ue25e e25e fae wallet"
-echo -e "\ue25f e25f fae chess horse"
-echo -e "\ue260 e260 fae chess king"
-echo -e "\ue261 e261 fae chess pawn"
-echo -e "\ue262 e262 fae chess queen"
-echo -e "\ue263 e263 fae chess tower"
-echo -e "\ue264 e264 fae cheese"
-echo -e "\ue265 e265 fae chilli"
-echo -e "\ue266 e266 fae chip"
-echo -e "\ue267 e267 fae cicling"
-echo -e "\ue268 e268 fae cloud"
-echo -e "\ue269 e269 fae cockroach"
-echo -e "\ue26a e26a fae coffe beans"
-echo -e "\ue26b e26b fae coins"
-echo -e "\ue26c e26c fae comb"
-echo -e "\ue26d e26d fae comet"
-echo -e "\ue26e e26e fae crown"
-echo -e "\ue26f e26f fae cup coffe"
-echo -e "\ue270 e270 fae dice"
-echo -e "\ue271 e271 fae disco"
-echo -e "\ue272 e272 fae dna"
-echo -e "\ue273 e273 fae donut"
-echo -e "\ue274 e274 fae dress"
-echo -e "\ue275 e275 fae drop"
-echo -e "\ue276 e276 fae ello"
-echo -e "\ue277 e277 fae envelope open"
-echo -e "\ue278 e278 fae envelope open o"
-echo -e "\ue279 e279 fae equal"
-echo -e "\ue27a e27a fae equal bigger"
-echo -e "\ue27b e27b fae feedly"
-echo -e "\ue27c e27c fae file export"
-echo -e "\ue27d e27d fae file import"
-echo -e "\ue27e e27e fae wind"
-echo -e "\ue27f e27f fae atom"
-echo -e "\ue280 e280 fae bacteria"
-echo -e "\ue281 e281 fae banana"
-echo -e "\ue282 e282 fae bath"
-echo -e "\ue283 e283 fae bed"
-echo -e "\ue284 e284 fae benzene"
-echo -e "\ue285 e285 fae bigger"
-echo -e "\ue286 e286 fae biohazard"
-echo -e "\ue287 e287 fae blogger circle"
-echo -e "\ue288 e288 fae blogger square"
-echo -e "\ue289 e289 fae bones"
-echo -e "\ue28a e28a fae book open"
-echo -e "\ue28b e28b fae book open o"
-echo -e "\ue28c e28c fae brain"
-echo -e "\ue28d e28d fae bread"
-echo -e "\ue28e e28e fae butterfly"
-echo -e "\ue28f e28f fae carot"
-echo -e "\ue290 e290 fae cc by"
-echo -e "\ue291 e291 fae cc cc"
-echo -e "\ue292 e292 fae cc nc"
-echo -e "\ue293 e293 fae cc nc eu"
-echo -e "\ue294 e294 fae cc nc jp"
-echo -e "\ue295 e295 fae cc nd"
-echo -e "\ue296 e296 fae cc remix"
-echo -e "\ue297 e297 fae cc sa"
-echo -e "\ue298 e298 fae cc share"
-echo -e "\ue299 e299 fae cc zero"
-echo -e "\ue29a e29a fae checklist o"
-echo -e "\ue29b e29b fae cherry"
-echo -e "\ue29c e29c fae chess bishop"
-echo -e "\ue29d e29d fae xbox"
-echo -e "\ue29e e29e fae apple fruit"
-echo -e "\ue29f e29f fae chicken thigh"
-echo -e "\ue2a0 e2a0 fae gift card"
-echo -e "\ue2a1 e2a1 fae injection"
-echo -e "\ue2a2 e2a2 fae isle"
-echo -e "\ue2a3 e2a3 fae lollipop"
-echo -e "\ue2a4 e2a4 fae loyalty card"
-echo -e "\ue2a5 e2a5 fae meat"
-echo -e "\ue2a6 e2a6 fae mountains"
-echo -e "\ue2a7 e2a7 fae orange"
-echo -e "\ue2a8 e2a8 fae peach"
-echo -e "\ue2a9 e2a9 fae pear"
-echo -e "\uf000 f000 fa glass"
-echo -e "\uf001 f001 fa music"
-echo -e "\uf002 f002 fa search"
-echo -e "\uf003 f003 fa envelope o"
-echo -e "\uf004 f004 fa heart"
-echo -e "\uf005 f005 fa star"
-echo -e "\uf006 f006 fa star o"
-echo -e "\uf007 f007 fa user"
-echo -e "\uf008 f008 fa film"
-echo -e "\uf009 f009 fa th large"
-echo -e "\uf00a f00a fa th"
-echo -e "\uf00b f00b fa th list"
-echo -e "\uf00c f00c fa check"
-echo -e "\uf00d f00d fa times"
-echo -e "\uf00e f00e fa search plus"
-echo -e "\uf010 f010 fa search minus"
-echo -e "\uf011 f011 fa power off"
-echo -e "\uf012 f012 fa signal"
-echo -e "\uf013 f013 fa cog"
-echo -e "\uf014 f014 fa trash o"
-echo -e "\uf015 f015 fa home"
-echo -e "\uf016 f016 fa file o"
-echo -e "\uf017 f017 fa clock o"
-echo -e "\uf018 f018 fa road"
-echo -e "\uf019 f019 fa download"
-echo -e "\uf01a f01a fa arrow circle o down"
-echo -e "\uf01b f01b fa arrow circle o up"
-echo -e "\uf01c f01c fa inbox"
-echo -e "\uf01d f01d fa play circle o"
-echo -e "\uf01e f01e fa repeat"
-echo -e "\uf021 f021 fa refresh"
-echo -e "\uf022 f022 fa list alt"
-echo -e "\uf023 f023 fa lock"
-echo -e "\uf024 f024 fa flag"
-echo -e "\uf025 f025 fa headphones"
-echo -e "\uf026 f026 fa volume off"
-echo -e "\uf027 f027 fa volume down"
-echo -e "\uf028 f028 fa volume up"
-echo -e "\uf029 f029 fa qrcode"
-echo -e "\uf02a f02a fa barcode"
-echo -e "\uf02b f02b fa tag"
-echo -e "\uf02c f02c fa tags"
-echo -e "\uf02d f02d fa book"
-echo -e "\uf02e f02e fa bookmark"
-echo -e "\uf02f f02f fa print"
-echo -e "\uf030 f030 fa camera"
-echo -e "\uf031 f031 fa font"
-echo -e "\uf032 f032 fa bold"
-echo -e "\uf033 f033 fa italic"
-echo -e "\uf034 f034 fa text height"
-echo -e "\uf035 f035 fa text width"
-echo -e "\uf036 f036 fa align left"
-echo -e "\uf037 f037 fa align center"
-echo -e "\uf038 f038 fa align right"
-echo -e "\uf039 f039 fa align justify"
-echo -e "\uf03a f03a fa list"
-echo -e "\uf03b f03b fa outdent"
-echo -e "\uf03c f03c fa indent"
-echo -e "\uf03d f03d fa video camera"
-echo -e "\uf03e f03e fa picture o"
-echo -e "\uf040 f040 fa pencil"
-echo -e "\uf041 f041 fa map marker"
-echo -e "\uf042 f042 fa adjust"
-echo -e "\uf043 f043 fa tint"
-echo -e "\uf044 f044 fa pencil square o"
-echo -e "\uf045 f045 fa share square o"
-echo -e "\uf046 f046 fa check square o"
-echo -e "\uf047 f047 fa arrows"
-echo -e "\uf048 f048 fa step backward"
-echo -e "\uf049 f049 fa fast backward"
-echo -e "\uf04a f04a fa backward"
-echo -e "\uf04b f04b fa play"
-echo -e "\uf04c f04c fa pause"
-echo -e "\uf04d f04d fa stop"
-echo -e "\uf04e f04e fa forward"
-echo -e "\uf050 f050 fa fast forward"
-echo -e "\uf051 f051 fa step forward"
-echo -e "\uf052 f052 fa eject"
-echo -e "\uf053 f053 fa chevron left"
-echo -e "\uf054 f054 fa chevron right"
-echo -e "\uf055 f055 fa plus circle"
-echo -e "\uf056 f056 fa minus circle"
-echo -e "\uf057 f057 fa times circle"
-echo -e "\uf058 f058 fa check circle"
-echo -e "\uf059 f059 fa question circle"
-echo -e "\uf05a f05a fa info circle"
-echo -e "\uf05b f05b fa crosshairs"
-echo -e "\uf05c f05c fa times circle o"
-echo -e "\uf05d f05d fa check circle o"
-echo -e "\uf05e f05e fa ban"
-echo -e "\uf060 f060 fa arrow left"
-echo -e "\uf061 f061 fa arrow right"
-echo -e "\uf062 f062 fa arrow up"
-echo -e "\uf063 f063 fa arrow down"
-echo -e "\uf064 f064 fa share"
-echo -e "\uf065 f065 fa expand"
-echo -e "\uf066 f066 fa compress"
-echo -e "\uf067 f067 fa plus"
-echo -e "\uf068 f068 fa minus"
-echo -e "\uf069 f069 fa asterisk"
-echo -e "\uf06a f06a fa exclamation circle"
-echo -e "\uf06b f06b fa gift"
-echo -e "\uf06c f06c fa leaf"
-echo -e "\uf06d f06d fa fire"
-echo -e "\uf06e f06e fa eye"
-echo -e "\uf070 f070 fa eye slash"
-echo -e "\uf071 f071 fa exclamation triangle"
-echo -e "\uf072 f072 fa plane"
-echo -e "\uf073 f073 fa calendar"
-echo -e "\uf074 f074 fa random"
-echo -e "\uf075 f075 fa comment"
-echo -e "\uf076 f076 fa magnet"
-echo -e "\uf077 f077 fa chevron up"
-echo -e "\uf078 f078 fa chevron down"
-echo -e "\uf079 f079 fa retweet"
-echo -e "\uf07a f07a fa shopping cart"
-echo -e "\uf07b f07b fa folder"
-echo -e "\uf07c f07c fa folder open"
-echo -e "\uf07d f07d fa arrows v"
-echo -e "\uf07e f07e fa arrows h"
-echo -e "\uf080 f080 fa bar chart"
-echo -e "\uf081 f081 fa twitter square"
-echo -e "\uf082 f082 fa facebook square"
-echo -e "\uf083 f083 fa camera retro"
-echo -e "\uf084 f084 fa key"
-echo -e "\uf085 f085 fa cogs"
-echo -e "\uf086 f086 fa comments"
-echo -e "\uf087 f087 fa thumbs o up"
-echo -e "\uf088 f088 fa thumbs o down"
-echo -e "\uf089 f089 fa star half"
-echo -e "\uf08a f08a fa heart o"
-echo -e "\uf08b f08b fa sign out"
-echo -e "\uf08c f08c fa linkedin square"
-echo -e "\uf08d f08d fa thumb tack"
-echo -e "\uf08e f08e fa external link"
-echo -e "\uf090 f090 fa sign in"
-echo -e "\uf091 f091 fa trophy"
-echo -e "\uf092 f092 fa github square"
-echo -e "\uf093 f093 fa upload"
-echo -e "\uf094 f094 fa lemon o"
-echo -e "\uf095 f095 fa phone"
-echo -e "\uf096 f096 fa square o"
-echo -e "\uf097 f097 fa bookmark o"
-echo -e "\uf098 f098 fa phone square"
-echo -e "\uf099 f099 fa twitter"
-echo -e "\uf09a f09a fa facebook"
-echo -e "\uf09b f09b fa github"
-echo -e "\uf09c f09c fa unlock"
-echo -e "\uf09d f09d fa credit card"
-echo -e "\uf09e f09e fa rss"
-echo -e "\uf0a0 f0a0 fa hdd o"
-echo -e "\uf0a1 f0a1 fa bullhorn"
-echo -e "\uf0a2 f0a2 fa bell o"
-echo -e "\uf0a3 f0a3 fa certificate"
-echo -e "\uf0a4 f0a4 fa hand o right"
-echo -e "\uf0a5 f0a5 fa hand o left"
-echo -e "\uf0a6 f0a6 fa hand o up"
-echo -e "\uf0a7 f0a7 fa hand o down"
-echo -e "\uf0a8 f0a8 fa arrow circle left"
-echo -e "\uf0a9 f0a9 fa arrow circle right"
-echo -e "\uf0aa f0aa fa arrow circle up"
-echo -e "\uf0ab f0ab fa arrow circle down"
-echo -e "\uf0ac f0ac fa globe"
-echo -e "\uf0ad f0ad fa wrench"
-echo -e "\uf0ae f0ae fa tasks"
-echo -e "\uf0b0 f0b0 fa filter"
-echo -e "\uf0b1 f0b1 fa briefcase"
-echo -e "\uf0b2 f0b2 fa arrows alt"
-echo -e "\uf0c0 f0c0 fa users"
-echo -e "\uf0c1 f0c1 fa link"
-echo -e "\uf0c2 f0c2 fa cloud"
-echo -e "\uf0c3 f0c3 fa flask"
-echo -e "\uf0c4 f0c4 fa scissors"
-echo -e "\uf0c5 f0c5 fa files o"
-echo -e "\uf0c6 f0c6 fa paperclip"
-echo -e "\uf0c7 f0c7 fa floppy o"
-echo -e "\uf0c8 f0c8 fa square"
-echo -e "\uf0c9 f0c9 fa bars"
-echo -e "\uf0ca f0ca fa list ul"
-echo -e "\uf0cb f0cb fa list ol"
-echo -e "\uf0cc f0cc fa strikethrough"
-echo -e "\uf0cd f0cd fa underline"
-echo -e "\uf0ce f0ce fa table"
-echo -e "\uf0d0 f0d0 fa magic"
-echo -e "\uf0d1 f0d1 fa truck"
-echo -e "\uf0d2 f0d2 fa pinterest"
-echo -e "\uf0d3 f0d3 fa pinterest square"
-echo -e "\uf0d4 f0d4 fa google plus square"
-echo -e "\uf0d5 f0d5 fa google plus"
-echo -e "\uf0d6 f0d6 fa money"
-echo -e "\uf0d7 f0d7 fa caret down"
-echo -e "\uf0d8 f0d8 fa caret up"
-echo -e "\uf0d9 f0d9 fa caret left"
-echo -e "\uf0da f0da fa caret right"
-echo -e "\uf0db f0db fa columns"
-echo -e "\uf0dc f0dc fa sort"
-echo -e "\uf0dd f0dd fa sort desc"
-echo -e "\uf0de f0de fa sort asc"
-echo -e "\uf0e0 f0e0 fa envelope"
-echo -e "\uf0e1 f0e1 fa linkedin"
-echo -e "\uf0e2 f0e2 fa undo"
-echo -e "\uf0e3 f0e3 fa gavel"
-echo -e "\uf0e4 f0e4 fa tachometer"
-echo -e "\uf0e5 f0e5 fa comment o"
-echo -e "\uf0e6 f0e6 fa comments o"
-echo -e "\uf0e7 f0e7 fa bolt"
-echo -e "\uf0e8 f0e8 fa sitemap"
-echo -e "\uf0e9 f0e9 fa umbrella"
-echo -e "\uf0ea f0ea fa clipboard"
-echo -e "\uf0eb f0eb fa lightbulb o"
-echo -e "\uf0ec f0ec fa exchange"
-echo -e "\uf0ed f0ed fa cloud download"
-echo -e "\uf0ee f0ee fa cloud upload"
-echo -e "\uf0f0 f0f0 fa user md"
-echo -e "\uf0f1 f0f1 fa stethoscope"
-echo -e "\uf0f2 f0f2 fa suitcase"
-echo -e "\uf0f3 f0f3 fa bell"
-echo -e "\uf0f4 f0f4 fa coffee"
-echo -e "\uf0f5 f0f5 fa cutlery"
-echo -e "\uf0f6 f0f6 fa file text o"
-echo -e "\uf0f7 f0f7 fa building o"
-echo -e "\uf0f8 f0f8 fa hospital o"
-echo -e "\uf0f9 f0f9 fa ambulance"
-echo -e "\uf0fa f0fa fa medkit"
-echo -e "\uf0fb f0fb fa fighter jet"
-echo -e "\uf0fc f0fc fa beer"
-echo -e "\uf0fd f0fd fa h square"
-echo -e "\uf0fe f0fe fa plus square"
-echo -e "\uf100 f100 fa angle double left"
-echo -e "\uf101 f101 fa angle double right"
-echo -e "\uf102 f102 fa angle double up"
-echo -e "\uf103 f103 fa angle double down"
-echo -e "\uf104 f104 fa angle left"
-echo -e "\uf105 f105 fa angle right"
-echo -e "\uf106 f106 fa angle up"
-echo -e "\uf107 f107 fa angle down"
-echo -e "\uf108 f108 fa desktop"
-echo -e "\uf109 f109 fa laptop"
-echo -e "\uf10a f10a fa tablet"
-echo -e "\uf10b f10b fa mobile"
-echo -e "\uf10c f10c fa circle o"
-echo -e "\uf10d f10d fa quote left"
-echo -e "\uf10e f10e fa quote right"
-echo -e "\uf110 f110 fa spinner"
-echo -e "\uf111 f111 fa circle"
-echo -e "\uf112 f112 fa reply"
-echo -e "\uf113 f113 fa github alt"
-echo -e "\uf114 f114 fa folder o"
-echo -e "\uf115 f115 fa folder open o"
-echo -e "\uf118 f118 fa smile o"
-echo -e "\uf119 f119 fa frown o"
-echo -e "\uf11a f11a fa meh o"
-echo -e "\uf11b f11b fa gamepad"
-echo -e "\uf11c f11c fa keyboard o"
-echo -e "\uf11d f11d fa flag o"
-echo -e "\uf11e f11e fa flag checkered"
-echo -e "\uf120 f120 fa terminal"
-echo -e "\uf121 f121 fa code"
-echo -e "\uf122 f122 fa reply all"
-echo -e "\uf123 f123 fa star half o"
-echo -e "\uf124 f124 fa location arrow"
-echo -e "\uf125 f125 fa crop"
-echo -e "\uf126 f126 fa code fork"
-echo -e "\uf127 f127 fa chain broken"
-echo -e "\uf128 f128 fa question"
-echo -e "\uf129 f129 fa info"
-echo -e "\uf12a f12a fa exclamation"
-echo -e "\uf12b f12b fa superscript"
-echo -e "\uf12c f12c fa subscript"
-echo -e "\uf12d f12d fa eraser"
-echo -e "\uf12e f12e fa puzzle piece"
-echo -e "\uf130 f130 fa microphone"
-echo -e "\uf131 f131 fa microphone slash"
-echo -e "\uf132 f132 fa shield"
-echo -e "\uf133 f133 fa calendar o"
-echo -e "\uf134 f134 fa fire extinguisher"
-echo -e "\uf135 f135 fa rocket"
-echo -e "\uf136 f136 fa maxcdn"
-echo -e "\uf137 f137 fa chevron circle left"
-echo -e "\uf138 f138 fa chevron circle right"
-echo -e "\uf139 f139 fa chevron circle up"
-echo -e "\uf13a f13a fa chevron circle down"
-echo -e "\uf13b f13b fa html5"
-echo -e "\uf13c f13c fa css3"
-echo -e "\uf13d f13d fa anchor"
-echo -e "\uf13e f13e fa unlock alt"
-echo -e "\uf140 f140 fa bullseye"
-echo -e "\uf141 f141 fa ellipsis h"
-echo -e "\uf142 f142 fa ellipsis v"
-echo -e "\uf143 f143 fa rss square"
-echo -e "\uf144 f144 fa play circle"
-echo -e "\uf145 f145 fa ticket"
-echo -e "\uf146 f146 fa minus square"
-echo -e "\uf147 f147 fa minus square o"
-echo -e "\uf148 f148 fa level up"
-echo -e "\uf149 f149 fa level down"
-echo -e "\uf14a f14a fa check square"
-echo -e "\uf14b f14b fa pencil square"
-echo -e "\uf14c f14c fa external link square"
-echo -e "\uf14d f14d fa share square"
-echo -e "\uf14e f14e fa compass"
-echo -e "\uf150 f150 fa caret square o down"
-echo -e "\uf151 f151 fa caret square o up"
-echo -e "\uf152 f152 fa caret square o right"
-echo -e "\uf153 f153 fa eur"
-echo -e "\uf154 f154 fa gbp"
-echo -e "\uf155 f155 fa usd"
-echo -e "\uf156 f156 fa inr"
-echo -e "\uf157 f157 fa jpy"
-echo -e "\uf158 f158 fa rub"
-echo -e "\uf159 f159 fa krw"
-echo -e "\uf15a f15a fa btc"
-echo -e "\uf15b f15b fa file"
-echo -e "\uf15c f15c fa file text"
-echo -e "\uf15d f15d fa sort alpha asc"
-echo -e "\uf15e f15e fa sort alpha desc"
-echo -e "\uf160 f160 fa sort amount asc"
-echo -e "\uf161 f161 fa sort amount desc"
-echo -e "\uf162 f162 fa sort numeric asc"
-echo -e "\uf163 f163 fa sort numeric desc"
-echo -e "\uf164 f164 fa thumbs up"
-echo -e "\uf165 f165 fa thumbs down"
-echo -e "\uf166 f166 fa youtube square"
-echo -e "\uf167 f167 fa youtube"
-echo -e "\uf168 f168 fa xing"
-echo -e "\uf169 f169 fa xing square"
-echo -e "\uf16a f16a fa youtube play"
-echo -e "\uf16b f16b fa dropbox"
-echo -e "\uf16c f16c fa stack overflow"
-echo -e "\uf16d f16d fa instagram"
-echo -e "\uf16e f16e fa flickr"
-echo -e "\uf170 f170 fa adn"
-echo -e "\uf171 f171 fa bitbucket"
-echo -e "\uf172 f172 fa bitbucket square"
-echo -e "\uf173 f173 fa tumblr"
-echo -e "\uf174 f174 fa tumblr square"
-echo -e "\uf175 f175 fa long arrow down"
-echo -e "\uf176 f176 fa long arrow up"
-echo -e "\uf177 f177 fa long arrow left"
-echo -e "\uf178 f178 fa long arrow right"
-echo -e "\uf179 f179 fa apple"
-echo -e "\uf17a f17a fa windows"
-echo -e "\uf17b f17b fa android"
-echo -e "\uf17c f17c fa linux"
-echo -e "\uf17d f17d fa dribbble"
-echo -e "\uf17e f17e fa skype"
-echo -e "\uf180 f180 fa foursquare"
-echo -e "\uf181 f181 fa trello"
-echo -e "\uf182 f182 fa female"
-echo -e "\uf183 f183 fa male"
-echo -e "\uf184 f184 fa gratipay"
-echo -e "\uf185 f185 fa sun o"
-echo -e "\uf186 f186 fa moon o"
-echo -e "\uf187 f187 fa archive"
-echo -e "\uf188 f188 fa bug"
-echo -e "\uf189 f189 fa vk"
-echo -e "\uf18a f18a fa weibo"
-echo -e "\uf18b f18b fa renren"
-echo -e "\uf18c f18c fa pagelines"
-echo -e "\uf18d f18d fa stack exchange"
-echo -e "\uf18e f18e fa arrow circle o right"
-echo -e "\uf190 f190 fa arrow circle o left"
-echo -e "\uf191 f191 fa caret square o left"
-echo -e "\uf192 f192 fa dot circle o"
-echo -e "\uf193 f193 fa wheelchair"
-echo -e "\uf194 f194 fa vimeo square"
-echo -e "\uf195 f195 fa try"
-echo -e "\uf196 f196 fa plus square o"
-echo -e "\uf197 f197 fa space shuttle"
-echo -e "\uf198 f198 fa slack"
-echo -e "\uf199 f199 fa envelope square"
-echo -e "\uf19a f19a fa wordpress"
-echo -e "\uf19b f19b fa openid"
-echo -e "\uf19c f19c fa university"
-echo -e "\uf19d f19d fa graduation cap"
-echo -e "\uf19e f19e fa yahoo"
-echo -e "\uf1a0 f1a0 fa google"
-echo -e "\uf1a1 f1a1 fa reddit"
-echo -e "\uf1a2 f1a2 fa reddit square"
-echo -e "\uf1a3 f1a3 fa stumbleupon circle"
-echo -e "\uf1a4 f1a4 fa stumbleupon"
-echo -e "\uf1a5 f1a5 fa delicious"
-echo -e "\uf1a6 f1a6 fa digg"
-echo -e "\uf1a7 f1a7 fa pied piper pp"
-echo -e "\uf1a8 f1a8 fa pied piper alt"
-echo -e "\uf1a9 f1a9 fa drupal"
-echo -e "\uf1aa f1aa fa joomla"
-echo -e "\uf1ab f1ab fa language"
-echo -e "\uf1ac f1ac fa fax"
-echo -e "\uf1ad f1ad fa building"
-echo -e "\uf1ae f1ae fa child"
-echo -e "\uf1b0 f1b0 fa paw"
-echo -e "\uf1b1 f1b1 fa spoon"
-echo -e "\uf1b2 f1b2 fa cube"
-echo -e "\uf1b3 f1b3 fa cubes"
-echo -e "\uf1b4 f1b4 fa behance"
-echo -e "\uf1b5 f1b5 fa behance square"
-echo -e "\uf1b6 f1b6 fa steam"
-echo -e "\uf1b7 f1b7 fa steam square"
-echo -e "\uf1b8 f1b8 fa recycle"
-echo -e "\uf1b9 f1b9 fa car"
-echo -e "\uf1ba f1ba fa taxi"
-echo -e "\uf1bb f1bb fa tree"
-echo -e "\uf1bc f1bc fa spotify"
-echo -e "\uf1bd f1bd fa deviantart"
-echo -e "\uf1be f1be fa soundcloud"
-echo -e "\uf1c0 f1c0 fa database"
-echo -e "\uf1c1 f1c1 fa file pdf o"
-echo -e "\uf1c2 f1c2 fa file word o"
-echo -e "\uf1c3 f1c3 fa file excel o"
-echo -e "\uf1c4 f1c4 fa file powerpoint o"
-echo -e "\uf1c5 f1c5 fa file image o"
-echo -e "\uf1c6 f1c6 fa file archive o"
-echo -e "\uf1c7 f1c7 fa file audio o"
-echo -e "\uf1c8 f1c8 fa file video o"
-echo -e "\uf1c9 f1c9 fa file code o"
-echo -e "\uf1ca f1ca fa vine"
-echo -e "\uf1cb f1cb fa codepen"
-echo -e "\uf1cc f1cc fa jsfiddle"
-echo -e "\uf1cd f1cd fa life ring"
-echo -e "\uf1ce f1ce fa circle o notch"
-echo -e "\uf1d0 f1d0 fa rebel"
-echo -e "\uf1d1 f1d1 fa empire"
-echo -e "\uf1d2 f1d2 fa git square"
-echo -e "\uf1d3 f1d3 fa git"
-echo -e "\uf1d4 f1d4 fa hacker news"
-echo -e "\uf1d5 f1d5 fa tencent weibo"
-echo -e "\uf1d6 f1d6 fa qq"
-echo -e "\uf1d7 f1d7 fa weixin"
-echo -e "\uf1d8 f1d8 fa paper plane"
-echo -e "\uf1d9 f1d9 fa paper plane o"
-echo -e "\uf1da f1da fa history"
-echo -e "\uf1db f1db fa circle thin"
-echo -e "\uf1dc f1dc fa header"
-echo -e "\uf1dd f1dd fa paragraph"
-echo -e "\uf1de f1de fa sliders"
-echo -e "\uf1e0 f1e0 fa share alt"
-echo -e "\uf1e1 f1e1 fa share alt square"
-echo -e "\uf1e2 f1e2 fa bomb"
-echo -e "\uf1e3 f1e3 fa futbol o"
-echo -e "\uf1e4 f1e4 fa tty"
-echo -e "\uf1e5 f1e5 fa binoculars"
-echo -e "\uf1e6 f1e6 fa plug"
-echo -e "\uf1e7 f1e7 fa slideshare"
-echo -e "\uf1e8 f1e8 fa twitch"
-echo -e "\uf1e9 f1e9 fa yelp"
-echo -e "\uf1ea f1ea fa newspaper o"
-echo -e "\uf1eb f1eb fa wifi"
-echo -e "\uf1ec f1ec fa calculator"
-echo -e "\uf1ed f1ed fa paypal"
-echo -e "\uf1ee f1ee fa google wallet"
-echo -e "\uf1f0 f1f0 fa cc visa"
-echo -e "\uf1f1 f1f1 fa cc mastercard"
-echo -e "\uf1f2 f1f2 fa cc discover"
-echo -e "\uf1f3 f1f3 fa cc amex"
-echo -e "\uf1f4 f1f4 fa cc paypal"
-echo -e "\uf1f5 f1f5 fa cc stripe"
-echo -e "\uf1f6 f1f6 fa bell slash"
-echo -e "\uf1f7 f1f7 fa bell slash o"
-echo -e "\uf1f8 f1f8 fa trash"
-echo -e "\uf1f9 f1f9 fa copyright"
-echo -e "\uf1fa f1fa fa at"
-echo -e "\uf1fb f1fb fa eyedropper"
-echo -e "\uf1fc f1fc fa paint brush"
-echo -e "\uf1fd f1fd fa birthday cake"
-echo -e "\uf1fe f1fe fa area chart"
-echo -e "\uf200 f200 fa pie chart"
-echo -e "\uf201 f201 fa line chart"
-echo -e "\uf202 f202 fa lastfm"
-echo -e "\uf203 f203 fa lastfm square"
-echo -e "\uf204 f204 fa toggle off"
-echo -e "\uf205 f205 fa toggle on"
-echo -e "\uf206 f206 fa bicycle"
-echo -e "\uf207 f207 fa bus"
-echo -e "\uf208 f208 fa ioxhost"
-echo -e "\uf209 f209 fa angellist"
-echo -e "\uf20a f20a fa cc"
-echo -e "\uf20b f20b fa ils"
-echo -e "\uf20c f20c fa meanpath"
-echo -e "\uf20d f20d fa buysellads"
-echo -e "\uf20e f20e fa connectdevelop"
-echo -e "\uf210 f210 fa dashcube"
-echo -e "\uf211 f211 fa forumbee"
-echo -e "\uf212 f212 fa leanpub"
-echo -e "\uf213 f213 fa sellsy"
-echo -e "\uf214 f214 fa shirtsinbulk"
-echo -e "\uf215 f215 fa simplybuilt"
-echo -e "\uf216 f216 fa skyatlas"
-echo -e "\uf217 f217 fa cart plus"
-echo -e "\uf218 f218 fa cart arrow down"
-echo -e "\uf219 f219 fa diamond"
-echo -e "\uf21a f21a fa ship"
-echo -e "\uf21b f21b fa user secret"
-echo -e "\uf21c f21c fa motorcycle"
-echo -e "\uf21d f21d fa street view"
-echo -e "\uf21e f21e fa heartbeat"
-echo -e "\uf221 f221 fa venus"
-echo -e "\uf222 f222 fa mars"
-echo -e "\uf223 f223 fa mercury"
-echo -e "\uf224 f224 fa transgender"
-echo -e "\uf225 f225 fa transgender alt"
-echo -e "\uf226 f226 fa venus double"
-echo -e "\uf227 f227 fa mars double"
-echo -e "\uf228 f228 fa venus mars"
-echo -e "\uf229 f229 fa mars stroke"
-echo -e "\uf22a f22a fa mars stroke v"
-echo -e "\uf22b f22b fa mars stroke h"
-echo -e "\uf22c f22c fa neuter"
-echo -e "\uf22d f22d fa genderless"
-echo -e "\uf230 f230 fa facebook official"
-echo -e "\uf231 f231 fa pinterest p"
-echo -e "\uf232 f232 fa whatsapp"
-echo -e "\uf233 f233 fa server"
-echo -e "\uf234 f234 fa user plus"
-echo -e "\uf235 f235 fa user times"
-echo -e "\uf236 f236 fa bed"
-echo -e "\uf237 f237 fa viacoin"
-echo -e "\uf238 f238 fa train"
-echo -e "\uf239 f239 fa subway"
-echo -e "\uf23a f23a fa medium"
-echo -e "\uf23b f23b fa y combinator"
-echo -e "\uf23c f23c fa optin monster"
-echo -e "\uf23d f23d fa opencart"
-echo -e "\uf23e f23e fa expeditedssl"
-echo -e "\uf240 f240 fa battery full"
-echo -e "\uf241 f241 fa battery three quarters"
-echo -e "\uf242 f242 fa battery half"
-echo -e "\uf243 f243 fa battery quarter"
-echo -e "\uf244 f244 fa battery empty"
-echo -e "\uf245 f245 fa mouse pointer"
-echo -e "\uf246 f246 fa i cursor"
-echo -e "\uf247 f247 fa object group"
-echo -e "\uf248 f248 fa object ungroup"
-echo -e "\uf249 f249 fa sticky note"
-echo -e "\uf24a f24a fa sticky note o"
-echo -e "\uf24b f24b fa cc jcb"
-echo -e "\uf24c f24c fa cc diners club"
-echo -e "\uf24d f24d fa clone"
-echo -e "\uf24e f24e fa balance scale"
-echo -e "\uf250 f250 fa hourglass o"
-echo -e "\uf251 f251 fa hourglass start"
-echo -e "\uf252 f252 fa hourglass half"
-echo -e "\uf253 f253 fa hourglass end"
-echo -e "\uf254 f254 fa hourglass"
-echo -e "\uf255 f255 fa hand rock o"
-echo -e "\uf256 f256 fa hand paper o"
-echo -e "\uf257 f257 fa hand scissors o"
-echo -e "\uf258 f258 fa hand lizard o"
-echo -e "\uf259 f259 fa hand spock o"
-echo -e "\uf25a f25a fa hand pointer o"
-echo -e "\uf25b f25b fa hand peace o"
-echo -e "\uf25c f25c fa trademark"
-echo -e "\uf25d f25d fa registered"
-echo -e "\uf25e f25e fa creative commons"
-echo -e "\uf260 f260 fa gg"
-echo -e "\uf261 f261 fa gg circle"
-echo -e "\uf262 f262 fa tripadvisor"
-echo -e "\uf263 f263 fa odnoklassniki"
-echo -e "\uf264 f264 fa odnoklassniki square"
-echo -e "\uf265 f265 fa get pocket"
-echo -e "\uf266 f266 fa wikipedia w"
-echo -e "\uf267 f267 fa safari"
-echo -e "\uf268 f268 fa chrome"
-echo -e "\uf269 f269 fa firefox"
-echo -e "\uf26a f26a fa opera"
-echo -e "\uf26b f26b fa internet explorer"
-echo -e "\uf26c f26c fa television"
-echo -e "\uf26d f26d fa contao"
-echo -e "\uf26e f26e fa 500px"
-echo -e "\uf270 f270 fa amazon"
-echo -e "\uf271 f271 fa calendar plus o"
-echo -e "\uf272 f272 fa calendar minus o"
-echo -e "\uf273 f273 fa calendar times o"
-echo -e "\uf274 f274 fa calendar check o"
-echo -e "\uf275 f275 fa industry"
-echo -e "\uf276 f276 fa map pin"
-echo -e "\uf277 f277 fa map signs"
-echo -e "\uf278 f278 fa map o"
-echo -e "\uf279 f279 fa map"
-echo -e "\uf27a f27a fa commenting"
-echo -e "\uf27b f27b fa commenting o"
-echo -e "\uf27c f27c fa houzz"
-echo -e "\uf27d f27d fa vimeo"
-echo -e "\uf27e f27e fa black tie"
-echo -e "\uf280 f280 fa fonticons"
-echo -e "\uf281 f281 fa reddit alien"
-echo -e "\uf282 f282 fa edge"
-echo -e "\uf283 f283 fa credit card alt"
-echo -e "\uf284 f284 fa codiepie"
-echo -e "\uf285 f285 fa modx"
-echo -e "\uf286 f286 fa fort awesome"
-echo -e "\uf287 f287 fa usb"
-echo -e "\uf288 f288 fa product hunt"
-echo -e "\uf289 f289 fa mixcloud"
-echo -e "\uf28a f28a fa scribd"
-echo -e "\uf28b f28b fa pause circle"
-echo -e "\uf28c f28c fa pause circle o"
-echo -e "\uf28d f28d fa stop circle"
-echo -e "\uf28e f28e fa stop circle o"
-echo -e "\uf290 f290 fa shopping bag"
-echo -e "\uf291 f291 fa shopping basket"
-echo -e "\uf292 f292 fa hashtag"
-echo -e "\uf293 f293 fa bluetooth"
-echo -e "\uf294 f294 fa bluetooth b"
-echo -e "\uf295 f295 fa percent"
-echo -e "\uf296 f296 fa gitlab"
-echo -e "\uf297 f297 fa wpbeginner"
-echo -e "\uf298 f298 fa wpforms"
-echo -e "\uf299 f299 fa envira"
-echo -e "\uf29a f29a fa universal access"
-echo -e "\uf29b f29b fa wheelchair alt"
-echo -e "\uf29c f29c fa question circle o"
-echo -e "\uf29d f29d fa blind"
-echo -e "\uf29e f29e fa audio description"
-echo -e "\uf2a0 f2a0 fa volume control phone"
-echo -e "\uf2a1 f2a1 fa braille"
-echo -e "\uf2a2 f2a2 fa assistive listening systems"
-echo -e "\uf2a3 f2a3 fa american sign language interpreting"
-echo -e "\uf2a4 f2a4 fa deaf"
-echo -e "\uf2a5 f2a5 fa glide"
-echo -e "\uf2a6 f2a6 fa glide g"
-echo -e "\uf2a7 f2a7 fa sign language"
-echo -e "\uf2a8 f2a8 fa low vision"
-echo -e "\uf2a9 f2a9 fa viadeo"
-echo -e "\uf2aa f2aa fa viadeo square"
-echo -e "\uf2ab f2ab fa snapchat"
-echo -e "\uf2ac f2ac fa snapchat ghost"
-echo -e "\uf2ad f2ad fa snapchat square"
-echo -e "\uf2ae f2ae fa pied piper"
-echo -e "\uf2b0 f2b0 fa first order"
-echo -e "\uf2b1 f2b1 fa yoast"
-echo -e "\uf2b2 f2b2 fa themeisle"
-echo -e "\uf2b3 f2b3 fa google plus official"
-echo -e "\uf2b4 f2b4 fa font awesome"
-echo -e "\uf2b5 f2b5 fa handshake o"
-echo -e "\uf2b6 f2b6 fa envelope open"
-echo -e "\uf2b7 f2b7 fa envelope open o"
-echo -e "\uf2b8 f2b8 fa linode"
-echo -e "\uf2b9 f2b9 fa address book"
-echo -e "\uf2ba f2ba fa address book o"
-echo -e "\uf2bb f2bb fa address card"
-echo -e "\uf2bc f2bc fa address card o"
-echo -e "\uf2bd f2bd fa user circle"
-echo -e "\uf2be f2be fa user circle o"
-echo -e "\uf2c0 f2c0 fa user o"
-echo -e "\uf2c1 f2c1 fa id badge"
-echo -e "\uf2c2 f2c2 fa id card"
-echo -e "\uf2c3 f2c3 fa id card o"
-echo -e "\uf2c4 f2c4 fa quora"
-echo -e "\uf2c5 f2c5 fa free code camp"
-echo -e "\uf2c6 f2c6 fa telegram"
-echo -e "\uf2c7 f2c7 fa thermometer full"
-echo -e "\uf2c8 f2c8 fa thermometer three quarters"
-echo -e "\uf2c9 f2c9 fa thermometer half"
-echo -e "\uf2ca f2ca fa thermometer quarter"
-echo -e "\uf2cb f2cb fa thermometer empty"
-echo -e "\uf2cc f2cc fa shower"
-echo -e "\uf2cd f2cd fa bath"
-echo -e "\uf2ce f2ce fa podcast"
-echo -e "\uf2d0 f2d0 fa window maximize"
-echo -e "\uf2d1 f2d1 fa window minimize"
-echo -e "\uf2d2 f2d2 fa window restore"
-echo -e "\uf2d3 f2d3 fa window close"
-echo -e "\uf2d4 f2d4 fa window close o"
-echo -e "\uf2d5 f2d5 fa bandcamp"
-echo -e "\uf2d6 f2d6 fa grav"
-echo -e "\uf2d7 f2d7 fa etsy"
-echo -e "\uf2d8 f2d8 fa imdb"
-echo -e "\uf2d9 f2d9 fa ravelry"
-echo -e "\uf2da f2da fa eercast"
-echo -e "\uf2db f2db fa microchip"
-echo -e "\uf2dc f2dc fa snowflake o"
-echo -e "\uf2dd f2dd fa superpowers"
-echo -e "\uf2de f2de fa wpexplorer"
-echo -e "\uf2e0 f2e0 fa meetup"
-echo -e "\u23fb 23fb iec power"
-echo -e "\u23fc 23fc iec toggle power"
-echo -e "\u23fd 23fd iec power on"
-echo -e "\u23fe 23fe iec sleep mode"
-echo -e "\u2b58 2b58 iec power off"
-echo -e "\uf300 f300 linux alpine"
-echo -e "\uf301 f301 linux aosc"
-echo -e "\uf302 f302 linux apple"
-echo -e "\uf303 f303 linux archlinux"
-echo -e "\uf304 f304 linux centos"
-echo -e "\uf305 f305 linux coreos"
-echo -e "\uf306 f306 linux debian"
-echo -e "\uf307 f307 linux devuan"
-echo -e "\uf308 f308 linux docker"
-echo -e "\uf309 f309 linux elementary"
-echo -e "\uf30a f30a linux fedora"
-echo -e "\uf30b f30b linux fedora inverse"
-echo -e "\uf30c f30c linux freebsd"
-echo -e "\uf30d f30d linux gentoo"
-echo -e "\uf30e f30e linux linuxmint"
-echo -e "\uf30f f30f linux linuxmint inverse"
-echo -e "\uf310 f310 linux mageia"
-echo -e "\uf311 f311 linux mandriva"
-echo -e "\uf312 f312 linux manjaro"
-echo -e "\uf313 f313 linux nixos"
-echo -e "\uf314 f314 linux opensuse"
-echo -e "\uf315 f315 linux raspberry pi"
-echo -e "\uf316 f316 linux redhat"
-echo -e "\uf317 f317 linux sabayon"
-echo -e "\uf318 f318 linux slackware"
-echo -e "\uf319 f319 linux slackware inverse"
-echo -e "\uf31a f31a linux tux"
-echo -e "\uf31b f31b linux ubuntu"
-echo -e "\uf31c f31c linux ubuntu inverse"
-echo -e "\u2665 2665 oct heart"
-echo -e "\u26a1 26a1 oct zap"
-echo -e "\uf400 f400 oct light bulb"
-echo -e "\uf401 f401 oct repo"
-echo -e "\uf402 f402 oct repo forked"
-echo -e "\uf403 f403 oct repo push"
-echo -e "\uf404 f404 oct repo pull"
-echo -e "\uf405 f405 oct book"
-echo -e "\uf406 f406 oct octoface"
-echo -e "\uf407 f407 oct git pull request"
-echo -e "\uf408 f408 oct mark github"
-echo -e "\uf409 f409 oct cloud download"
-echo -e "\uf40a f40a oct cloud upload"
-echo -e "\uf40b f40b oct keyboard"
-echo -e "\uf40c f40c oct gist"
-echo -e "\uf40d f40d oct file code"
-echo -e "\uf40e f40e oct file text"
-echo -e "\uf40f f40f oct file media"
-echo -e "\uf410 f410 oct file zip"
-echo -e "\uf411 f411 oct file pdf"
-echo -e "\uf412 f412 oct tag"
-echo -e "\uf413 f413 oct file directory"
-echo -e "\uf414 f414 oct file submodule"
-echo -e "\uf415 f415 oct person"
-echo -e "\uf416 f416 oct jersey"
-echo -e "\uf417 f417 oct git commit"
-echo -e "\uf418 f418 oct git branch"
-echo -e "\uf419 f419 oct git merge"
-echo -e "\uf41a f41a oct mirror"
-echo -e "\uf41b f41b oct issue opened"
-echo -e "\uf41c f41c oct issue reopened"
-echo -e "\uf41d f41d oct issue closed"
-echo -e "\uf41e f41e oct star"
-echo -e "\uf41f f41f oct comment"
-echo -e "\uf420 f420 oct question"
-echo -e "\uf421 f421 oct alert"
-echo -e "\uf422 f422 oct search"
-echo -e "\uf423 f423 oct gear"
-echo -e "\uf424 f424 oct radio tower"
-echo -e "\uf425 f425 oct tools"
-echo -e "\uf426 f426 oct sign out"
-echo -e "\uf427 f427 oct rocket"
-echo -e "\uf428 f428 oct rss"
-echo -e "\uf429 f429 oct clippy"
-echo -e "\uf42a f42a oct sign in"
-echo -e "\uf42b f42b oct organization"
-echo -e "\uf42c f42c oct device mobile"
-echo -e "\uf42d f42d oct unfold"
-echo -e "\uf42e f42e oct check"
-echo -e "\uf42f f42f oct mail"
-echo -e "\uf430 f430 oct mail read"
-echo -e "\uf431 f431 oct arrow up"
-echo -e "\uf432 f432 oct arrow right"
-echo -e "\uf433 f433 oct arrow down"
-echo -e "\uf434 f434 oct arrow left"
-echo -e "\uf435 f435 oct pin"
-echo -e "\uf436 f436 oct gift"
-echo -e "\uf437 f437 oct graph"
-echo -e "\uf438 f438 oct triangle left"
-echo -e "\uf439 f439 oct credit card"
-echo -e "\uf43a f43a oct clock"
-echo -e "\uf43b f43b oct ruby"
-echo -e "\uf43c f43c oct broadcast"
-echo -e "\uf43d f43d oct key"
-echo -e "\uf43e f43e oct repo force push"
-echo -e "\uf43f f43f oct repo clone"
-echo -e "\uf440 f440 oct diff"
-echo -e "\uf441 f441 oct eye"
-echo -e "\uf442 f442 oct comment discussion"
-echo -e "\uf443 f443 oct mail reply"
-echo -e "\uf444 f444 oct primitive dot"
-echo -e "\uf445 f445 oct primitive square"
-echo -e "\uf446 f446 oct device camera"
-echo -e "\uf447 f447 oct device camera video"
-echo -e "\uf448 f448 oct pencil"
-echo -e "\uf449 f449 oct info"
-echo -e "\uf44a f44a oct triangle right"
-echo -e "\uf44b f44b oct triangle down"
-echo -e "\uf44c f44c oct link"
-echo -e "\uf44d f44d oct plus"
-echo -e "\uf44e f44e oct three bars"
-echo -e "\uf44f f44f oct code"
-echo -e "\uf450 f450 oct location"
-echo -e "\uf451 f451 oct list unordered"
-echo -e "\uf452 f452 oct list ordered"
-echo -e "\uf453 f453 oct quote"
-echo -e "\uf454 f454 oct versions"
-echo -e "\uf455 f455 oct calendar"
-echo -e "\uf456 f456 oct lock"
-echo -e "\uf457 f457 oct diff added"
-echo -e "\uf458 f458 oct diff removed"
-echo -e "\uf459 f459 oct diff modified"
-echo -e "\uf45a f45a oct diff renamed"
-echo -e "\uf45b f45b oct horizontal rule"
-echo -e "\uf45c f45c oct arrow small right"
-echo -e "\uf45d f45d oct milestone"
-echo -e "\uf45e f45e oct checklist"
-echo -e "\uf45f f45f oct megaphone"
-echo -e "\uf460 f460 oct chevron right"
-echo -e "\uf461 f461 oct bookmark"
-echo -e "\uf462 f462 oct settings"
-echo -e "\uf463 f463 oct dashboard"
-echo -e "\uf464 f464 oct history"
-echo -e "\uf465 f465 oct link external"
-echo -e "\uf466 f466 oct mute"
-echo -e "\uf467 f467 oct x"
-echo -e "\uf468 f468 oct circle slash"
-echo -e "\uf469 f469 oct pulse"
-echo -e "\uf46a f46a oct sync"
-echo -e "\uf46b f46b oct telescope"
-echo -e "\uf46c f46c oct gist secret"
-echo -e "\uf46d f46d oct home"
-echo -e "\uf46e f46e oct stop"
-echo -e "\uf46f f46f oct bug"
-echo -e "\uf470 f470 oct logo github"
-echo -e "\uf471 f471 oct file binary"
-echo -e "\uf472 f472 oct database"
-echo -e "\uf473 f473 oct server"
-echo -e "\uf474 f474 oct diff ignored"
-echo -e "\uf475 f475 oct ellipsis"
-echo -e "\uf476 f476 oct no newline"
-echo -e "\uf477 f477 oct hubot"
-echo -e "\uf478 f478 oct arrow small up"
-echo -e "\uf479 f479 oct arrow small down"
-echo -e "\uf47a f47a oct arrow small left"
-echo -e "\uf47b f47b oct chevron up"
-echo -e "\uf47c f47c oct chevron down"
-echo -e "\uf47d f47d oct chevron left"
-echo -e "\uf47e f47e oct triangle up"
-echo -e "\uf47f f47f oct git compare"
-echo -e "\uf480 f480 oct logo gist"
-echo -e "\uf481 f481 oct file symlink file"
-echo -e "\uf482 f482 oct file symlink directory"
-echo -e "\uf483 f483 oct squirrel"
-echo -e "\uf484 f484 oct globe"
-echo -e "\uf485 f485 oct unmute"
-echo -e "\uf486 f486 oct mention"
-echo -e "\uf487 f487 oct package"
-echo -e "\uf488 f488 oct browser"
-echo -e "\uf489 f489 oct terminal"
-echo -e "\uf48a f48a oct markdown"
-echo -e "\uf48b f48b oct dash"
-echo -e "\uf48c f48c oct fold"
-echo -e "\uf48d f48d oct inbox"
-echo -e "\uf48e f48e oct trashcan"
-echo -e "\uf48f f48f oct paintcan"
-echo -e "\uf490 f490 oct flame"
-echo -e "\uf491 f491 oct briefcase"
-echo -e "\uf492 f492 oct plug"
-echo -e "\uf493 f493 oct circuit board"
-echo -e "\uf494 f494 oct mortar board"
-echo -e "\uf495 f495 oct law"
-echo -e "\uf496 f496 oct thumbsup"
-echo -e "\uf497 f497 oct thumbsdown"
-echo -e "\uf498 f498 oct desktop download"
-echo -e "\uf499 f499 oct beaker"
-echo -e "\uf49a f49a oct bell"
-echo -e "\uf49b f49b oct watch"
-echo -e "\uf49c f49c oct shield"
-echo -e "\uf49d f49d oct bold"
-echo -e "\uf49e f49e oct text size"
-echo -e "\uf49f f49f oct italic"
-echo -e "\uf4a0 f4a0 oct tasklist"
-echo -e "\uf4a1 f4a1 oct verified"
-echo -e "\uf4a2 f4a2 oct smiley"
-echo -e "\uf4a3 f4a3 oct unverified"
-echo -e "\uf4a4 f4a4 oct ellipses"
-echo -e "\uf4a5 f4a5 oct file"
-echo -e "\uf4a6 f4a6 oct grabber"
-echo -e "\uf4a7 f4a7 oct plus small"
-echo -e "\uf4a8 f4a8 oct reply"
-echo -e "\uf67c f67c oct device desktop"
-echo -e "\ue0a0 e0a0 pl branch"
-echo -e "\ue0a1 e0a1 pl line number"
-echo -e "\ue0a2 e0a2 pl hostname"
-echo -e "\ue0a3 e0a3 ple column number"
-echo -e "\ue0b0 e0b0 pl left hard divider"
-echo -e "\ue0b1 e0b1 pl left soft divider"
-echo -e "\ue0b2 e0b2 pl right hard divider"
-echo -e "\ue0b3 e0b3 pl right soft divider"
-echo -e "\ue0b4 e0b4 ple right half circle thick"
-echo -e "\ue0b5 e0b5 ple right half circle thin"
-echo -e "\ue0b6 e0b6 ple left half circle thick"
-echo -e "\ue0b7 e0b7 ple left half circle thin"
-echo -e "\ue0b8 e0b8 ple lower left triangle"
-echo -e "\ue0b9 e0b9 ple backslash separator"
-echo -e "\ue0ba e0ba ple lower right triangle"
-echo -e "\ue0bb e0bb ple forwardslash separator"
-echo -e "\ue0bc e0bc ple upper left triangle"
-echo -e "\ue0bd e0bd ple forwardslash separator redundant"
-echo -e "\ue0be e0be ple upper right triangle"
-echo -e "\ue0bf e0bf ple backslash separator redundant"
-echo -e "\ue0c0 e0c0 ple flame thick"
-echo -e "\ue0c1 e0c1 ple flame thin"
-echo -e "\ue0c2 e0c2 ple flame thick mirrored"
-echo -e "\ue0c3 e0c3 ple flame thin mirrored"
-echo -e "\ue0c4 e0c4 ple pixelated squares small"
-echo -e "\ue0c5 e0c5 ple pixelated squares small mirrored"
-echo -e "\ue0c6 e0c6 ple pixelated squares big"
-echo -e "\ue0c7 e0c7 ple pixelated squares big mirrored"
-echo -e "\ue0c8 e0c8 ple ice waveform"
-echo -e "\ue0ca e0ca ple ice waveform mirrored"
-echo -e "\ue0cc e0cc ple honeycomb"
-echo -e "\ue0cd e0cd ple honeycomb outline"
-echo -e "\ue0ce e0ce ple lego separator"
-echo -e "\ue0cf e0cf ple lego separator thin"
-echo -e "\ue0d0 e0d0 ple lego block facing"
-echo -e "\ue0d1 e0d1 ple lego block sideways"
-echo -e "\ue0d2 e0d2 ple trapezoid top bottom"
-echo -e "\ue0d4 e0d4 ple trapezoid top bottom mirrored"
-echo -e "\ue000 e000 pom clean code"
-echo -e "\ue001 e001 pom pomodoro done"
-echo -e "\ue002 e002 pom pomodoro estimated"
-echo -e "\ue003 e003 pom pomodoro ticking"
-echo -e "\ue004 e004 pom pomodoro squashed"
-echo -e "\ue005 e005 pom short pause"
-echo -e "\ue006 e006 pom long pause"
-echo -e "\ue007 e007 pom away"
-echo -e "\ue008 e008 pom pair programming"
-echo -e "\ue009 e009 pom internal interruption"
-echo -e "\ue00a e00a pom external interruption"
-echo -e "\ue5fa e5fa custom folder npm"
-echo -e "\ue5fb e5fb custom folder git"
-echo -e "\ue5fc e5fc custom folder config"
-echo -e "\ue5fd e5fd custom folder github"
-echo -e "\ue5fe e5fe custom folder open"
-echo -e "\ue5ff e5ff custom folder"
-echo -e "\ue600 e600 seti stylus"
-echo -e "\ue601 e601 seti project"
-echo -e "\ue602 e602 seti play arrow"
-echo -e "\ue603 e603 seti sass"
-echo -e "\ue604 e604 seti rails"
-echo -e "\ue605 e605 seti ruby"
-echo -e "\ue606 e606 seti python"
-echo -e "\ue607 e607 seti heroku"
-echo -e "\ue608 e608 seti php"
-echo -e "\ue609 e609 seti markdown"
-echo -e "\ue60a e60a seti license"
-echo -e "\ue60b e60b seti json"
-echo -e "\ue60c e60c seti javascript"
-echo -e "\ue60d e60d seti image"
-echo -e "\ue60e e60e seti html"
-echo -e "\ue60f e60f seti mustache"
-echo -e "\ue610 e610 seti gulp"
-echo -e "\ue611 e611 seti grunt"
-echo -e "\ue612 e612 seti default"
-echo -e "\ue613 e613 seti folder"
-echo -e "\ue614 e614 seti css"
-echo -e "\ue615 e615 seti config"
-echo -e "\ue616 e616 seti npm"
-echo -e "\ue617 e617 seti home"
-echo -e "\ue618 e618 seti ejs"
-echo -e "\ue619 e619 seti xml"
-echo -e "\ue61a e61a seti bower"
-echo -e "\ue61b e61b seti coffee"
-echo -e "\ue61c e61c seti twig"
-echo -e "\ue61d e61d custom cpp"
-echo -e "\ue61e e61e custom c"
-echo -e "\ue61f e61f seti haskell"
-echo -e "\ue620 e620 seti lua"
-echo -e "\ue621 e621 indent line"
-echo -e "\ue622 e622 seti karma"
-echo -e "\ue623 e623 seti favicon"
-echo -e "\ue624 e624 seti julia"
-echo -e "\ue625 e625 seti react"
-echo -e "\ue626 e626 custom go"
-echo -e "\ue627 e627 seti go"
-echo -e "\ue628 e628 seti typescript"
-echo -e "\ue629 e629 custom msdos"
-echo -e "\ue62a e62a custom windows"
-echo -e "\ue62b e62b custom vim"
-echo -e "\ue62c e62c custom elm"
-echo -e "\ue62d e62d custom elixir"
-echo -e "\ue62e e62e custom electron"
-echo -e "\ue62f e62f custom crystal"
-echo -e "\uf500 f500 mdi vector square"
-echo -e "\uf501 f501 mdi access point"
-echo -e "\uf502 f502 mdi access point network"
-echo -e "\uf503 f503 mdi account"
-echo -e "\uf504 f504 mdi account alert"
-echo -e "\uf505 f505 mdi account box"
-echo -e "\uf506 f506 mdi account box outline"
-echo -e "\uf507 f507 mdi account check"
-echo -e "\uf508 f508 mdi account circle"
-echo -e "\uf509 f509 mdi account convert"
-echo -e "\uf50a f50a mdi account key"
-echo -e "\uf50b f50b mdi account location"
-echo -e "\uf50c f50c mdi account minus"
-echo -e "\uf50d f50d mdi account multiple"
-echo -e "\uf50e f50e mdi account multiple outline"
-echo -e "\uf50f f50f mdi account multiple plus"
-echo -e "\uf510 f510 mdi account network"
-echo -e "\uf511 f511 mdi account off"
-echo -e "\uf512 f512 mdi account outline"
-echo -e "\uf513 f513 mdi account plus"
-echo -e "\uf514 f514 mdi account remove"
-echo -e "\uf515 f515 mdi account search"
-echo -e "\uf516 f516 mdi account star"
-echo -e "\uf517 f517 mdi orbit"
-echo -e "\uf518 f518 mdi account switch"
-echo -e "\uf519 f519 mdi adjust"
-echo -e "\uf51a f51a mdi air conditioner"
-echo -e "\uf51b f51b mdi airballoon"
-echo -e "\uf51c f51c mdi airplane"
-echo -e "\uf51d f51d mdi airplane off"
-echo -e "\uf51e f51e mdi airplay"
-echo -e "\uf51f f51f mdi alarm"
-echo -e "\uf520 f520 mdi alarm check"
-echo -e "\uf521 f521 mdi alarm multiple"
-echo -e "\uf522 f522 mdi alarm off"
-echo -e "\uf523 f523 mdi alarm plus"
-echo -e "\uf524 f524 mdi album"
-echo -e "\uf525 f525 mdi alert"
-echo -e "\uf526 f526 mdi alert box"
-echo -e "\uf527 f527 mdi alert circle"
-echo -e "\uf528 f528 mdi alert octagon"
-echo -e "\uf529 f529 mdi alert outline"
-echo -e "\uf52a f52a mdi alpha"
-echo -e "\uf52b f52b mdi alphabetical"
-echo -e "\uf52c f52c mdi amazon"
-echo -e "\uf52d f52d mdi amazon clouddrive"
-echo -e "\uf52e f52e mdi ambulance"
-echo -e "\uf52f f52f mdi amplifier"
-echo -e "\uf530 f530 mdi anchor"
-echo -e "\uf531 f531 mdi android"
-echo -e "\uf532 f532 mdi android debug bridge"
-echo -e "\uf533 f533 mdi android studio"
-echo -e "\uf534 f534 mdi apple"
-echo -e "\uf535 f535 mdi apple finder"
-echo -e "\uf536 f536 mdi apple ios"
-echo -e "\uf537 f537 mdi apple mobileme"
-echo -e "\uf538 f538 mdi apple safari"
-echo -e "\uf539 f539 mdi font awesome"
-echo -e "\uf53a f53a mdi apps"
-echo -e "\uf53b f53b mdi archive"
-echo -e "\uf53c f53c mdi arrange bring forward"
-echo -e "\uf53d f53d mdi arrange bring to front"
-echo -e "\uf53e f53e mdi arrange send backward"
-echo -e "\uf53f f53f mdi arrange send to back"
-echo -e "\uf540 f540 mdi arrow all"
-echo -e "\uf541 f541 mdi arrow bottom left"
-echo -e "\uf542 f542 mdi arrow bottom right"
-echo -e "\uf543 f543 mdi arrow collapse all"
-echo -e "\uf544 f544 mdi arrow down"
-echo -e "\uf545 f545 mdi arrow down thick"
-echo -e "\uf546 f546 mdi arrow down bold circle"
-echo -e "\uf547 f547 mdi arrow down bold circle outline"
-echo -e "\uf548 f548 mdi arrow down bold hexagon outline"
-echo -e "\uf549 f549 mdi arrow down drop circle"
-echo -e "\uf54a f54a mdi arrow down drop circle outline"
-echo -e "\uf54b f54b mdi arrow expand all"
-echo -e "\uf54c f54c mdi arrow left"
-echo -e "\uf54d f54d mdi arrow left thick"
-echo -e "\uf54e f54e mdi arrow left bold circle"
-echo -e "\uf54f f54f mdi arrow left bold circle outline"
-echo -e "\uf550 f550 mdi arrow left bold hexagon outline"
-echo -e "\uf551 f551 mdi arrow left drop circle"
-echo -e "\uf552 f552 mdi arrow left drop circle outline"
-echo -e "\uf553 f553 mdi arrow right"
-echo -e "\uf554 f554 mdi arrow right thick"
-echo -e "\uf555 f555 mdi arrow right bold circle"
-echo -e "\uf556 f556 mdi arrow right bold circle outline"
-echo -e "\uf557 f557 mdi arrow right bold hexagon outline"
-echo -e "\uf558 f558 mdi arrow right drop circle"
-echo -e "\uf559 f559 mdi arrow right drop circle outline"
-echo -e "\uf55a f55a mdi arrow top left"
-echo -e "\uf55b f55b mdi arrow top right"
-echo -e "\uf55c f55c mdi arrow up"
-echo -e "\uf55d f55d mdi arrow up thick"
-echo -e "\uf55e f55e mdi arrow up bold circle"
-echo -e "\uf55f f55f mdi arrow up bold circle outline"
-echo -e "\uf560 f560 mdi arrow up bold hexagon outline"
-echo -e "\uf561 f561 mdi arrow up drop circle"
-echo -e "\uf562 f562 mdi arrow up drop circle outline"
-echo -e "\uf563 f563 mdi assistant"
-echo -e "\uf564 f564 mdi at"
-echo -e "\uf565 f565 mdi attachment"
-echo -e "\uf566 f566 mdi audiobook"
-echo -e "\uf567 f567 mdi auto fix"
-echo -e "\uf568 f568 mdi auto upload"
-echo -e "\uf569 f569 mdi autorenew"
-echo -e "\uf56a f56a mdi av timer"
-echo -e "\uf56b f56b mdi baby"
-echo -e "\uf56c f56c mdi backburger"
-echo -e "\uf56d f56d mdi backspace"
-echo -e "\uf56e f56e mdi backup restore"
-echo -e "\uf56f f56f mdi bank"
-echo -e "\uf570 f570 mdi barcode"
-echo -e "\uf571 f571 mdi barcode scan"
-echo -e "\uf572 f572 mdi barley"
-echo -e "\uf573 f573 mdi barrel"
-echo -e "\uf574 f574 mdi basecamp"
-echo -e "\uf575 f575 mdi basket"
-echo -e "\uf576 f576 mdi basket fill"
-echo -e "\uf577 f577 mdi basket unfill"
-echo -e "\uf578 f578 mdi battery"
-echo -e "\uf579 f579 mdi battery 10"
-echo -e "\uf57a f57a mdi battery 20"
-echo -e "\uf57b f57b mdi battery 30"
-echo -e "\uf57c f57c mdi battery 40"
-echo -e "\uf57d f57d mdi battery 50"
-echo -e "\uf57e f57e mdi battery 60"
-echo -e "\uf57f f57f mdi battery 70"
-echo -e "\uf580 f580 mdi battery 80"
-echo -e "\uf581 f581 mdi battery 90"
-echo -e "\uf582 f582 mdi battery alert"
-echo -e "\uf583 f583 mdi battery charging"
-echo -e "\uf584 f584 mdi battery charging 100"
-echo -e "\uf585 f585 mdi battery charging 20"
-echo -e "\uf586 f586 mdi battery charging 30"
-echo -e "\uf587 f587 mdi battery charging 40"
-echo -e "\uf588 f588 mdi battery charging 60"
-echo -e "\uf589 f589 mdi battery charging 80"
-echo -e "\uf58a f58a mdi battery charging 90"
-echo -e "\uf58b f58b mdi battery minus"
-echo -e "\uf58c f58c mdi battery negative"
-echo -e "\uf58d f58d mdi battery outline"
-echo -e "\uf58e f58e mdi battery plus"
-echo -e "\uf58f f58f mdi battery positive"
-echo -e "\uf590 f590 mdi battery unknown"
-echo -e "\uf591 f591 mdi beach"
-echo -e "\uf592 f592 mdi flask"
-echo -e "\uf593 f593 mdi flask empty"
-echo -e "\uf594 f594 mdi flask empty outline"
-echo -e "\uf595 f595 mdi flask outline"
-echo -e "\uf596 f596 mdi beats"
-echo -e "\uf597 f597 mdi beer"
-echo -e "\uf598 f598 mdi behance"
-echo -e "\uf599 f599 mdi bell"
-echo -e "\uf59a f59a mdi bell off"
-echo -e "\uf59b f59b mdi bell outline"
-echo -e "\uf59c f59c mdi bell plus"
-echo -e "\uf59d f59d mdi bell ring"
-echo -e "\uf59e f59e mdi bell ring outline"
-echo -e "\uf59f f59f mdi bell sleep"
-echo -e "\uf5a0 f5a0 mdi beta"
-echo -e "\uf5a1 f5a1 mdi bible"
-echo -e "\uf5a2 f5a2 mdi bike"
-echo -e "\uf5a3 f5a3 mdi bing"
-echo -e "\uf5a4 f5a4 mdi binoculars"
-echo -e "\uf5a5 f5a5 mdi bio"
-echo -e "\uf5a6 f5a6 mdi biohazard"
-echo -e "\uf5a7 f5a7 mdi bitbucket"
-echo -e "\uf5a8 f5a8 mdi black mesa"
-echo -e "\uf5a9 f5a9 mdi blackberry"
-echo -e "\uf5aa f5aa mdi blender"
-echo -e "\uf5ab f5ab mdi blinds"
-echo -e "\uf5ac f5ac mdi block helper"
-echo -e "\uf5ad f5ad mdi blogger"
-echo -e "\uf5ae f5ae mdi bluetooth"
-echo -e "\uf5af f5af mdi bluetooth audio"
-echo -e "\uf5b0 f5b0 mdi bluetooth connect"
-echo -e "\uf5b1 f5b1 mdi bluetooth off"
-echo -e "\uf5b2 f5b2 mdi bluetooth settings"
-echo -e "\uf5b3 f5b3 mdi bluetooth transfer"
-echo -e "\uf5b4 f5b4 mdi blur"
-echo -e "\uf5b5 f5b5 mdi blur linear"
-echo -e "\uf5b6 f5b6 mdi blur off"
-echo -e "\uf5b7 f5b7 mdi blur radial"
-echo -e "\uf5b8 f5b8 mdi bone"
-echo -e "\uf5b9 f5b9 mdi book"
-echo -e "\uf5ba f5ba mdi book multiple"
-echo -e "\uf5bb f5bb mdi book multiple variant"
-echo -e "\uf5bc f5bc mdi book open"
-echo -e "\uf5bd f5bd mdi book open variant"
-echo -e "\uf5be f5be mdi book variant"
-echo -e "\uf5bf f5bf mdi bookmark"
-echo -e "\uf5c0 f5c0 mdi bookmark check"
-echo -e "\uf5c1 f5c1 mdi bookmark music"
-echo -e "\uf5c2 f5c2 mdi bookmark outline"
-echo -e "\uf5c3 f5c3 mdi bookmark plus outline"
-echo -e "\uf5c4 f5c4 mdi bookmark plus"
-echo -e "\uf5c5 f5c5 mdi bookmark remove"
-echo -e "\uf5c6 f5c6 mdi border all"
-echo -e "\uf5c7 f5c7 mdi border bottom"
-echo -e "\uf5c8 f5c8 mdi border color"
-echo -e "\uf5c9 f5c9 mdi border horizontal"
-echo -e "\uf5ca f5ca mdi border inside"
-echo -e "\uf5cb f5cb mdi border left"
-echo -e "\uf5cc f5cc mdi border none"
-echo -e "\uf5cd f5cd mdi border outside"
-echo -e "\uf5ce f5ce mdi border right"
-echo -e "\uf5cf f5cf mdi border style"
-echo -e "\uf5d0 f5d0 mdi border top"
-echo -e "\uf5d1 f5d1 mdi border vertical"
-echo -e "\uf5d2 f5d2 mdi bowling"
-echo -e "\uf5d3 f5d3 mdi box"
-echo -e "\uf5d4 f5d4 mdi box cutter"
-echo -e "\uf5d5 f5d5 mdi briefcase"
-echo -e "\uf5d6 f5d6 mdi briefcase check"
-echo -e "\uf5d7 f5d7 mdi briefcase download"
-echo -e "\uf5d8 f5d8 mdi briefcase upload"
-echo -e "\uf5d9 f5d9 mdi brightness 1"
-echo -e "\uf5da f5da mdi brightness 2"
-echo -e "\uf5db f5db mdi brightness 3"
-echo -e "\uf5dc f5dc mdi brightness 4"
-echo -e "\uf5dd f5dd mdi brightness 5"
-echo -e "\uf5de f5de mdi brightness 6"
-echo -e "\uf5df f5df mdi brightness 7"
-echo -e "\uf5e0 f5e0 mdi brightness auto"
-echo -e "\uf5e1 f5e1 mdi broom"
-echo -e "\uf5e2 f5e2 mdi brush"
-echo -e "\uf5e3 f5e3 mdi bug"
-echo -e "\uf5e4 f5e4 mdi bulletin board"
-echo -e "\uf5e5 f5e5 mdi bullhorn"
-echo -e "\uf5e6 f5e6 mdi bus"
-echo -e "\uf5e7 f5e7 mdi cached"
-echo -e "\uf5e8 f5e8 mdi cake"
-echo -e "\uf5e9 f5e9 mdi cake layered"
-echo -e "\uf5ea f5ea mdi cake variant"
-echo -e "\uf5eb f5eb mdi calculator"
-echo -e "\uf5ec f5ec mdi calendar"
-echo -e "\uf5ed f5ed mdi calendar blank"
-echo -e "\uf5ee f5ee mdi calendar check"
-echo -e "\uf5ef f5ef mdi calendar clock"
-echo -e "\uf5f0 f5f0 mdi calendar multiple"
-echo -e "\uf5f1 f5f1 mdi calendar multiple check"
-echo -e "\uf5f2 f5f2 mdi calendar plus"
-echo -e "\uf5f3 f5f3 mdi calendar remove"
-echo -e "\uf5f4 f5f4 mdi calendar text"
-echo -e "\uf5f5 f5f5 mdi calendar today"
-echo -e "\uf5f6 f5f6 mdi call made"
-echo -e "\uf5f7 f5f7 mdi call merge"
-echo -e "\uf5f8 f5f8 mdi call missed"
-echo -e "\uf5f9 f5f9 mdi call received"
-echo -e "\uf5fa f5fa mdi call split"
-echo -e "\uf5fb f5fb mdi camcorder"
-echo -e "\uf5fc f5fc mdi camcorder box"
-echo -e "\uf5fd f5fd mdi camcorder box off"
-echo -e "\uf5fe f5fe mdi camcorder off"
-echo -e "\uf5ff f5ff mdi camera"
-echo -e "\uf600 f600 mdi camera enhance"
-echo -e "\uf601 f601 mdi camera front"
-echo -e "\uf602 f602 mdi camera front variant"
-echo -e "\uf603 f603 mdi camera iris"
-echo -e "\uf604 f604 mdi camera party mode"
-echo -e "\uf605 f605 mdi camera rear"
-echo -e "\uf606 f606 mdi camera rear variant"
-echo -e "\uf607 f607 mdi camera switch"
-echo -e "\uf608 f608 mdi camera timer"
-echo -e "\uf609 f609 mdi candycane"
-echo -e "\uf60a f60a mdi car"
-echo -e "\uf60b f60b mdi car battery"
-echo -e "\uf60c f60c mdi car connected"
-echo -e "\uf60d f60d mdi car wash"
-echo -e "\uf60e f60e mdi carrot"
-echo -e "\uf60f f60f mdi cart"
-echo -e "\uf610 f610 mdi cart outline"
-echo -e "\uf611 f611 mdi cart plus"
-echo -e "\uf612 f612 mdi case sensitive alt"
-echo -e "\uf613 f613 mdi cash"
-echo -e "\uf614 f614 mdi cash 100"
-echo -e "\uf615 f615 mdi cash multiple"
-echo -e "\uf616 f616 mdi cash usd"
-echo -e "\uf617 f617 mdi cast"
-echo -e "\uf618 f618 mdi cast connected"
-echo -e "\uf619 f619 mdi castle"
-echo -e "\uf61a f61a mdi cat"
-echo -e "\uf61b f61b mdi cellphone"
-echo -e "\uf61c f61c mdi cellphone android"
-echo -e "\uf61d f61d mdi cellphone basic"
-echo -e "\uf61e f61e mdi cellphone dock"
-echo -e "\uf61f f61f mdi cellphone iphone"
-echo -e "\uf620 f620 mdi cellphone link"
-echo -e "\uf621 f621 mdi cellphone link off"
-echo -e "\uf622 f622 mdi cellphone settings"
-echo -e "\uf623 f623 mdi certificate"
-echo -e "\uf624 f624 mdi chair school"
-echo -e "\uf625 f625 mdi chart arc"
-echo -e "\uf626 f626 mdi chart areaspline"
-echo -e "\uf627 f627 mdi chart bar"
-echo -e "\uf628 f628 mdi chart histogram"
-echo -e "\uf629 f629 mdi chart line"
-echo -e "\uf62a f62a mdi chart pie"
-echo -e "\uf62b f62b mdi check"
-echo -e "\uf62c f62c mdi check all"
-echo -e "\uf62d f62d mdi checkbox blank"
-echo -e "\uf62e f62e mdi checkbox blank circle"
-echo -e "\uf62f f62f mdi checkbox blank circle outline"
-echo -e "\uf630 f630 mdi checkbox blank outline"
-echo -e "\uf631 f631 mdi checkbox marked"
-echo -e "\uf632 f632 mdi checkbox marked circle"
-echo -e "\uf633 f633 mdi checkbox marked circle outline"
-echo -e "\uf634 f634 mdi checkbox marked outline"
-echo -e "\uf635 f635 mdi checkbox multiple blank"
-echo -e "\uf636 f636 mdi checkbox multiple blank outline"
-echo -e "\uf637 f637 mdi checkbox multiple marked"
-echo -e "\uf638 f638 mdi checkbox multiple marked outline"
-echo -e "\uf639 f639 mdi checkerboard"
-echo -e "\uf63a f63a mdi chemical weapon"
-echo -e "\uf63b f63b mdi chevron double down"
-echo -e "\uf63c f63c mdi chevron double left"
-echo -e "\uf63d f63d mdi chevron double right"
-echo -e "\uf63e f63e mdi chevron double up"
-echo -e "\uf63f f63f mdi chevron down"
-echo -e "\uf640 f640 mdi chevron left"
-echo -e "\uf641 f641 mdi chevron right"
-echo -e "\uf642 f642 mdi chevron up"
-echo -e "\uf643 f643 mdi church"
-echo -e "\uf644 f644 mdi cisco webex"
-echo -e "\uf645 f645 mdi city"
-echo -e "\uf646 f646 mdi clipboard"
-echo -e "\uf647 f647 mdi clipboard account"
-echo -e "\uf648 f648 mdi clipboard alert"
-echo -e "\uf649 f649 mdi clipboard arrow down"
-echo -e "\uf64a f64a mdi clipboard arrow left"
-echo -e "\uf64b f64b mdi clipboard check"
-echo -e "\uf64c f64c mdi clipboard outline"
-echo -e "\uf64d f64d mdi clipboard text"
-echo -e "\uf64e f64e mdi clippy"
-echo -e "\uf64f f64f mdi clock"
-echo -e "\uf650 f650 mdi clock end"
-echo -e "\uf651 f651 mdi clock fast"
-echo -e "\uf652 f652 mdi clock in"
-echo -e "\uf653 f653 mdi clock out"
-echo -e "\uf654 f654 mdi clock start"
-echo -e "\uf655 f655 mdi close"
-echo -e "\uf656 f656 mdi close box"
-echo -e "\uf657 f657 mdi close box outline"
-echo -e "\uf658 f658 mdi close circle"
-echo -e "\uf659 f659 mdi close circle outline"
-echo -e "\uf65a f65a mdi close network"
-echo -e "\uf65b f65b mdi close octagon"
-echo -e "\uf65c f65c mdi close octagon outline"
-echo -e "\uf65d f65d mdi closed caption"
-echo -e "\uf65e f65e mdi cloud"
-echo -e "\uf65f f65f mdi cloud check"
-echo -e "\uf660 f660 mdi cloud circle"
-echo -e "\uf661 f661 mdi cloud download"
-echo -e "\uf662 f662 mdi cloud outline"
-echo -e "\uf663 f663 mdi cloud off outline"
-echo -e "\uf664 f664 mdi cloud print"
-echo -e "\uf665 f665 mdi cloud print outline"
-echo -e "\uf666 f666 mdi cloud upload"
-echo -e "\uf667 f667 mdi code array"
-echo -e "\uf668 f668 mdi code braces"
-echo -e "\uf669 f669 mdi code brackets"
-echo -e "\uf66a f66a mdi code equal"
-echo -e "\uf66b f66b mdi code greater than"
-echo -e "\uf66c f66c mdi code greater than or equal"
-echo -e "\uf66d f66d mdi code less than"
-echo -e "\uf66e f66e mdi code less than or equal"
-echo -e "\uf66f f66f mdi code not equal"
-echo -e "\uf670 f670 mdi code not equal variant"
-echo -e "\uf671 f671 mdi code parentheses"
-echo -e "\uf672 f672 mdi code string"
-echo -e "\uf673 f673 mdi code tags"
-echo -e "\uf674 f674 mdi codepen"
-echo -e "\uf675 f675 mdi coffee"
-echo -e "\uf676 f676 mdi coffee to go"
-echo -e "\uf677 f677 mdi coin"
-echo -e "\uf678 f678 mdi color helper"
-echo -e "\uf679 f679 mdi comment"
-echo -e "\uf67a f67a mdi comment account"
-echo -e "\uf67b f67b mdi comment account outline"
-echo -e "\uf67c f67c mdi comment alert"
-echo -e "\uf67d f67d mdi comment alert outline"
-echo -e "\uf67e f67e mdi comment check"
-echo -e "\uf67f f67f mdi comment check outline"
-echo -e "\uf680 f680 mdi comment multiple outline"
-echo -e "\uf681 f681 mdi comment outline"
-echo -e "\uf682 f682 mdi comment plus outline"
-echo -e "\uf683 f683 mdi comment processing"
-echo -e "\uf684 f684 mdi comment processing outline"
-echo -e "\uf685 f685 mdi comment question outline"
-echo -e "\uf686 f686 mdi comment remove outline"
-echo -e "\uf687 f687 mdi comment text"
-echo -e "\uf688 f688 mdi comment text outline"
-echo -e "\uf689 f689 mdi compare"
-echo -e "\uf68a f68a mdi compass"
-echo -e "\uf68b f68b mdi compass outline"
-echo -e "\uf68c f68c mdi console"
-echo -e "\uf68d f68d mdi contact mail"
-echo -e "\uf68e f68e mdi content copy"
-echo -e "\uf68f f68f mdi content cut"
-echo -e "\uf690 f690 mdi content duplicate"
-echo -e "\uf691 f691 mdi content paste"
-echo -e "\uf692 f692 mdi content save"
-echo -e "\uf693 f693 mdi content save all"
-echo -e "\uf694 f694 mdi contrast"
-echo -e "\uf695 f695 mdi contrast box"
-echo -e "\uf696 f696 mdi contrast circle"
-echo -e "\uf697 f697 mdi cookie"
-echo -e "\uf698 f698 mdi counter"
-echo -e "\uf699 f699 mdi cow"
-echo -e "\uf69a f69a mdi credit card"
-echo -e "\uf69b f69b mdi credit card multiple"
-echo -e "\uf69c f69c mdi credit card scan"
-echo -e "\uf69d f69d mdi crop"
-echo -e "\uf69e f69e mdi crop free"
-echo -e "\uf69f f69f mdi crop landscape"
-echo -e "\uf6a0 f6a0 mdi crop portrait"
-echo -e "\uf6a1 f6a1 mdi crop square"
-echo -e "\uf6a2 f6a2 mdi crosshairs"
-echo -e "\uf6a3 f6a3 mdi crosshairs gps"
-echo -e "\uf6a4 f6a4 mdi crown"
-echo -e "\uf6a5 f6a5 mdi cube"
-echo -e "\uf6a6 f6a6 mdi cube outline"
-echo -e "\uf6a7 f6a7 mdi cube send"
-echo -e "\uf6a8 f6a8 mdi cube unfolded"
-echo -e "\uf6a9 f6a9 mdi cup"
-echo -e "\uf6aa f6aa mdi cup water"
-echo -e "\uf6ab f6ab mdi currency btc"
-echo -e "\uf6ac f6ac mdi currency eur"
-echo -e "\uf6ad f6ad mdi currency gbp"
-echo -e "\uf6ae f6ae mdi currency inr"
-echo -e "\uf6af f6af mdi currency ngn"
-echo -e "\uf6b0 f6b0 mdi currency rub"
-echo -e "\uf6b1 f6b1 mdi currency try"
-echo -e "\uf6b2 f6b2 mdi currency usd"
-echo -e "\uf6b3 f6b3 mdi cursor default"
-echo -e "\uf6b4 f6b4 mdi cursor default outline"
-echo -e "\uf6b5 f6b5 mdi cursor move"
-echo -e "\uf6b6 f6b6 mdi cursor pointer"
-echo -e "\uf6b7 f6b7 mdi database"
-echo -e "\uf6b8 f6b8 mdi database minus"
-echo -e "\uf6b9 f6b9 mdi database plus"
-echo -e "\uf6ba f6ba mdi debug step into"
-echo -e "\uf6bb f6bb mdi debug step out"
-echo -e "\uf6bc f6bc mdi debug step over"
-echo -e "\uf6bd f6bd mdi decimal decrease"
-echo -e "\uf6be f6be mdi decimal increase"
-echo -e "\uf6bf f6bf mdi delete"
-echo -e "\uf6c0 f6c0 mdi delete variant"
-echo -e "\uf6c1 f6c1 mdi delta"
-echo -e "\uf6c2 f6c2 mdi deskphone"
-echo -e "\uf6c3 f6c3 mdi desktop mac"
-echo -e "\uf6c4 f6c4 mdi desktop tower"
-echo -e "\uf6c5 f6c5 mdi details"
-echo -e "\uf6c6 f6c6 mdi deviantart"
-echo -e "\uf6c7 f6c7 mdi diamond"
-echo -e "\uf6c8 f6c8 mdi creation"
-echo -e "\uf6c9 f6c9 mdi dice 1"
-echo -e "\uf6ca f6ca mdi dice 2"
-echo -e "\uf6cb f6cb mdi dice 3"
-echo -e "\uf6cc f6cc mdi dice 4"
-echo -e "\uf6cd f6cd mdi dice 5"
-echo -e "\uf6ce f6ce mdi dice 6"
-echo -e "\uf6cf f6cf mdi directions"
-echo -e "\uf6d0 f6d0 mdi disk alert"
-echo -e "\uf6d1 f6d1 mdi disqus"
-echo -e "\uf6d2 f6d2 mdi disqus outline"
-echo -e "\uf6d3 f6d3 mdi division"
-echo -e "\uf6d4 f6d4 mdi division box"
-echo -e "\uf6d5 f6d5 mdi dns"
-echo -e "\uf6d6 f6d6 mdi domain"
-echo -e "\uf6d7 f6d7 mdi dots horizontal"
-echo -e "\uf6d8 f6d8 mdi dots vertical"
-echo -e "\uf6d9 f6d9 mdi download"
-echo -e "\uf6da f6da mdi drag"
-echo -e "\uf6db f6db mdi drag horizontal"
-echo -e "\uf6dc f6dc mdi drag vertical"
-echo -e "\uf6dd f6dd mdi drawing"
-echo -e "\uf6de f6de mdi drawing box"
-echo -e "\uf6df f6df mdi dribbble"
-echo -e "\uf6e0 f6e0 mdi dribbble box"
-echo -e "\uf6e1 f6e1 mdi drone"
-echo -e "\uf6e2 f6e2 mdi dropbox"
-echo -e "\uf6e3 f6e3 mdi drupal"
-echo -e "\uf6e4 f6e4 mdi duck"
-echo -e "\uf6e5 f6e5 mdi dumbbell"
-echo -e "\uf6e6 f6e6 mdi earth"
-echo -e "\uf6e7 f6e7 mdi earth off"
-echo -e "\uf6e8 f6e8 mdi edge"
-echo -e "\uf6e9 f6e9 mdi eject"
-echo -e "\uf6ea f6ea mdi elevation decline"
-echo -e "\uf6eb f6eb mdi elevation rise"
-echo -e "\uf6ec f6ec mdi elevator"
-echo -e "\uf6ed f6ed mdi email"
-echo -e "\uf6ee f6ee mdi email open"
-echo -e "\uf6ef f6ef mdi email outline"
-echo -e "\uf6f0 f6f0 mdi email secure"
-echo -e "\uf6f1 f6f1 mdi emoticon"
-echo -e "\uf6f2 f6f2 mdi emoticon cool"
-echo -e "\uf6f3 f6f3 mdi emoticon devil"
-echo -e "\uf6f4 f6f4 mdi emoticon happy"
-echo -e "\uf6f5 f6f5 mdi emoticon neutral"
-echo -e "\uf6f6 f6f6 mdi emoticon poop"
-echo -e "\uf6f7 f6f7 mdi emoticon sad"
-echo -e "\uf6f8 f6f8 mdi emoticon tongue"
-echo -e "\uf6f9 f6f9 mdi engine"
-echo -e "\uf6fa f6fa mdi engine outline"
-echo -e "\uf6fb f6fb mdi equal"
-echo -e "\uf6fc f6fc mdi equal box"
-echo -e "\uf6fd f6fd mdi eraser"
-echo -e "\uf6fe f6fe mdi escalator"
-echo -e "\uf6ff f6ff mdi ethernet"
-echo -e "\uf700 f700 mdi ethernet cable"
-echo -e "\uf701 f701 mdi ethernet cable off"
-echo -e "\uf702 f702 mdi etsy"
-echo -e "\uf703 f703 mdi evernote"
-echo -e "\uf704 f704 mdi exclamation"
-echo -e "\uf705 f705 mdi exit to app"
-echo -e "\uf706 f706 mdi export"
-echo -e "\uf707 f707 mdi eye"
-echo -e "\uf708 f708 mdi eye off"
-echo -e "\uf709 f709 mdi eyedropper"
-echo -e "\uf70a f70a mdi eyedropper variant"
-echo -e "\uf70b f70b mdi facebook"
-echo -e "\uf70c f70c mdi facebook box"
-echo -e "\uf70d f70d mdi facebook messenger"
-echo -e "\uf70e f70e mdi factory"
-echo -e "\uf70f f70f mdi fan"
-echo -e "\uf710 f710 mdi fast forward"
-echo -e "\uf711 f711 mdi fax"
-echo -e "\uf712 f712 mdi ferry"
-echo -e "\uf713 f713 mdi file"
-echo -e "\uf714 f714 mdi file chart"
-echo -e "\uf715 f715 mdi file check"
-echo -e "\uf716 f716 mdi file cloud"
-echo -e "\uf717 f717 mdi file delimited"
-echo -e "\uf718 f718 mdi file document"
-echo -e "\uf719 f719 mdi file document box"
-echo -e "\uf71a f71a mdi file excel"
-echo -e "\uf71b f71b mdi file excel box"
-echo -e "\uf71c f71c mdi file export"
-echo -e "\uf71d f71d mdi file find"
-echo -e "\uf71e f71e mdi file image"
-echo -e "\uf71f f71f mdi file import"
-echo -e "\uf720 f720 mdi file lock"
-echo -e "\uf721 f721 mdi file multiple"
-echo -e "\uf722 f722 mdi file music"
-echo -e "\uf723 f723 mdi file outline"
-echo -e "\uf724 f724 mdi file pdf"
-echo -e "\uf725 f725 mdi file pdf box"
-echo -e "\uf726 f726 mdi file powerpoint"
-echo -e "\uf727 f727 mdi file powerpoint box"
-echo -e "\uf728 f728 mdi file presentation box"
-echo -e "\uf729 f729 mdi file send"
-echo -e "\uf72a f72a mdi file video"
-echo -e "\uf72b f72b mdi file word"
-echo -e "\uf72c f72c mdi file word box"
-echo -e "\uf72d f72d mdi file xml"
-echo -e "\uf72e f72e mdi film"
-echo -e "\uf72f f72f mdi filmstrip"
-echo -e "\uf730 f730 mdi filmstrip off"
-echo -e "\uf731 f731 mdi filter"
-echo -e "\uf732 f732 mdi filter outline"
-echo -e "\uf733 f733 mdi filter remove"
-echo -e "\uf734 f734 mdi filter remove outline"
-echo -e "\uf735 f735 mdi filter variant"
-echo -e "\uf736 f736 mdi fingerprint"
-echo -e "\uf737 f737 mdi fire"
-echo -e "\uf738 f738 mdi firefox"
-echo -e "\uf739 f739 mdi fish"
-echo -e "\uf73a f73a mdi flag"
-echo -e "\uf73b f73b mdi flag checkered"
-echo -e "\uf73c f73c mdi flag outline"
-echo -e "\uf73d f73d mdi flag variant outline"
-echo -e "\uf73e f73e mdi flag triangle"
-echo -e "\uf73f f73f mdi flag variant"
-echo -e "\uf740 f740 mdi flash"
-echo -e "\uf741 f741 mdi flash auto"
-echo -e "\uf742 f742 mdi flash off"
-echo -e "\uf743 f743 mdi flashlight"
-echo -e "\uf744 f744 mdi flashlight off"
-echo -e "\uf745 f745 mdi flattr"
-echo -e "\uf746 f746 mdi flip to back"
-echo -e "\uf747 f747 mdi flip to front"
-echo -e "\uf748 f748 mdi floppy"
-echo -e "\uf749 f749 mdi flower"
-echo -e "\uf74a f74a mdi folder"
-echo -e "\uf74b f74b mdi folder account"
-echo -e "\uf74c f74c mdi folder download"
-echo -e "\uf74d f74d mdi folder google drive"
-echo -e "\uf74e f74e mdi folder image"
-echo -e "\uf74f f74f mdi folder lock"
-echo -e "\uf750 f750 mdi folder lock open"
-echo -e "\uf751 f751 mdi folder move"
-echo -e "\uf752 f752 mdi folder multiple"
-echo -e "\uf753 f753 mdi folder multiple image"
-echo -e "\uf754 f754 mdi folder multiple outline"
-echo -e "\uf755 f755 mdi folder outline"
-echo -e "\uf756 f756 mdi folder plus"
-echo -e "\uf757 f757 mdi folder remove"
-echo -e "\uf758 f758 mdi folder upload"
-echo -e "\uf759 f759 mdi food"
-echo -e "\uf75a f75a mdi food apple"
-echo -e "\uf75b f75b mdi food variant"
-echo -e "\uf75c f75c mdi football"
-echo -e "\uf75d f75d mdi football australian"
-echo -e "\uf75e f75e mdi football helmet"
-echo -e "\uf75f f75f mdi format align center"
-echo -e "\uf760 f760 mdi format align justify"
-echo -e "\uf761 f761 mdi format align left"
-echo -e "\uf762 f762 mdi format align right"
-echo -e "\uf763 f763 mdi format bold"
-echo -e "\uf764 f764 mdi format clear"
-echo -e "\uf765 f765 mdi format color fill"
-echo -e "\uf766 f766 mdi format float center"
-echo -e "\uf767 f767 mdi format float left"
-echo -e "\uf768 f768 mdi format float none"
-echo -e "\uf769 f769 mdi format float right"
-echo -e "\uf76a f76a mdi format header 1"
-echo -e "\uf76b f76b mdi format header 2"
-echo -e "\uf76c f76c mdi format header 3"
-echo -e "\uf76d f76d mdi format header 4"
-echo -e "\uf76e f76e mdi format header 5"
-echo -e "\uf76f f76f mdi format header 6"
-echo -e "\uf770 f770 mdi format header decrease"
-echo -e "\uf771 f771 mdi format header equal"
-echo -e "\uf772 f772 mdi format header increase"
-echo -e "\uf773 f773 mdi format header pound"
-echo -e "\uf774 f774 mdi format indent decrease"
-echo -e "\uf775 f775 mdi format indent increase"
-echo -e "\uf776 f776 mdi format italic"
-echo -e "\uf777 f777 mdi format line spacing"
-echo -e "\uf778 f778 mdi format list bulleted"
-echo -e "\uf779 f779 mdi format list bulleted type"
-echo -e "\uf77a f77a mdi format list numbers"
-echo -e "\uf77b f77b mdi format paint"
-echo -e "\uf77c f77c mdi format paragraph"
-echo -e "\uf77d f77d mdi format quote close"
-echo -e "\uf77e f77e mdi format size"
-echo -e "\uf77f f77f mdi format strikethrough"
-echo -e "\uf780 f780 mdi format strikethrough variant"
-echo -e "\uf781 f781 mdi format subscript"
-echo -e "\uf782 f782 mdi format superscript"
-echo -e "\uf783 f783 mdi format text"
-echo -e "\uf784 f784 mdi format textdirection l to r"
-echo -e "\uf785 f785 mdi format textdirection r to l"
-echo -e "\uf786 f786 mdi format underline"
-echo -e "\uf787 f787 mdi format wrap inline"
-echo -e "\uf788 f788 mdi format wrap square"
-echo -e "\uf789 f789 mdi format wrap tight"
-echo -e "\uf78a f78a mdi format wrap top bottom"
-echo -e "\uf78b f78b mdi forum"
-echo -e "\uf78c f78c mdi forward"
-echo -e "\uf78d f78d mdi foursquare"
-echo -e "\uf78e f78e mdi fridge"
-echo -e "\uf78f f78f mdi fridge filled"
-echo -e "\uf790 f790 mdi fridge filled bottom"
-echo -e "\uf791 f791 mdi fridge filled top"
-echo -e "\uf792 f792 mdi fullscreen"
-echo -e "\uf793 f793 mdi fullscreen exit"
-echo -e "\uf794 f794 mdi function"
-echo -e "\uf795 f795 mdi gamepad"
-echo -e "\uf796 f796 mdi gamepad variant"
-echo -e "\uf797 f797 mdi gas station"
-echo -e "\uf798 f798 mdi gate"
-echo -e "\uf799 f799 mdi gauge"
-echo -e "\uf79a f79a mdi gavel"
-echo -e "\uf79b f79b mdi gender female"
-echo -e "\uf79c f79c mdi gender male"
-echo -e "\uf79d f79d mdi gender male female"
-echo -e "\uf79e f79e mdi gender transgender"
-echo -e "\uf79f f79f mdi ghost"
-echo -e "\uf7a0 f7a0 mdi gift"
-echo -e "\uf7a1 f7a1 mdi git"
-echo -e "\uf7a2 f7a2 mdi github box"
-echo -e "\uf7a3 f7a3 mdi github circle"
-echo -e "\uf7a4 f7a4 mdi glass flute"
-echo -e "\uf7a5 f7a5 mdi glass mug"
-echo -e "\uf7a6 f7a6 mdi glass stange"
-echo -e "\uf7a7 f7a7 mdi glass tulip"
-echo -e "\uf7a8 f7a8 mdi glassdoor"
-echo -e "\uf7a9 f7a9 mdi glasses"
-echo -e "\uf7aa f7aa mdi gmail"
-echo -e "\uf7ab f7ab mdi gnome"
-echo -e "\uf7ac f7ac mdi google"
-echo -e "\uf7ad f7ad mdi google cardboard"
-echo -e "\uf7ae f7ae mdi google chrome"
-echo -e "\uf7af f7af mdi google circles"
-echo -e "\uf7b0 f7b0 mdi google circles communities"
-echo -e "\uf7b1 f7b1 mdi google circles extended"
-echo -e "\uf7b2 f7b2 mdi google circles group"
-echo -e "\uf7b3 f7b3 mdi google controller"
-echo -e "\uf7b4 f7b4 mdi google controller off"
-echo -e "\uf7b5 f7b5 mdi google drive"
-echo -e "\uf7b6 f7b6 mdi google earth"
-echo -e "\uf7b7 f7b7 mdi google glass"
-echo -e "\uf7b8 f7b8 mdi google nearby"
-echo -e "\uf7b9 f7b9 mdi google pages"
-echo -e "\uf7ba f7ba mdi google physical web"
-echo -e "\uf7bb f7bb mdi google play"
-echo -e "\uf7bc f7bc mdi google plus"
-echo -e "\uf7bd f7bd mdi google plus box"
-echo -e "\uf7be f7be mdi google translate"
-echo -e "\uf7bf f7bf mdi google wallet"
-echo -e "\uf7c0 f7c0 mdi grid"
-echo -e "\uf7c1 f7c1 mdi grid off"
-echo -e "\uf7c2 f7c2 mdi group"
-echo -e "\uf7c3 f7c3 mdi guitar electric"
-echo -e "\uf7c4 f7c4 mdi guitar pick"
-echo -e "\uf7c5 f7c5 mdi guitar pick outline"
-echo -e "\uf7c6 f7c6 mdi hand pointing right"
-echo -e "\uf7c7 f7c7 mdi hanger"
-echo -e "\uf7c8 f7c8 mdi hangouts"
-echo -e "\uf7c9 f7c9 mdi harddisk"
-echo -e "\uf7ca f7ca mdi headphones"
-echo -e "\uf7cb f7cb mdi headphones box"
-echo -e "\uf7cc f7cc mdi headphones settings"
-echo -e "\uf7cd f7cd mdi headset"
-echo -e "\uf7ce f7ce mdi headset dock"
-echo -e "\uf7cf f7cf mdi headset off"
-echo -e "\uf7d0 f7d0 mdi heart"
-echo -e "\uf7d1 f7d1 mdi heart box"
-echo -e "\uf7d2 f7d2 mdi heart box outline"
-echo -e "\uf7d3 f7d3 mdi heart broken"
-echo -e "\uf7d4 f7d4 mdi heart outline"
-echo -e "\uf7d5 f7d5 mdi help"
-echo -e "\uf7d6 f7d6 mdi help circle"
-echo -e "\uf7d7 f7d7 mdi hexagon"
-echo -e "\uf7d8 f7d8 mdi hexagon outline"
-echo -e "\uf7d9 f7d9 mdi history"
-echo -e "\uf7da f7da mdi hololens"
-echo -e "\uf7db f7db mdi home"
-echo -e "\uf7dc f7dc mdi home modern"
-echo -e "\uf7dd f7dd mdi home variant"
-echo -e "\uf7de f7de mdi hops"
-echo -e "\uf7df f7df mdi hospital"
-echo -e "\uf7e0 f7e0 mdi hospital building"
-echo -e "\uf7e1 f7e1 mdi hospital marker"
-echo -e "\uf7e2 f7e2 mdi hotel"
-echo -e "\uf7e3 f7e3 mdi houzz"
-echo -e "\uf7e4 f7e4 mdi houzz box"
-echo -e "\uf7e5 f7e5 mdi human"
-echo -e "\uf7e6 f7e6 mdi human child"
-echo -e "\uf7e7 f7e7 mdi human male female"
-echo -e "\uf7e8 f7e8 mdi image"
-echo -e "\uf7e9 f7e9 mdi image album"
-echo -e "\uf7ea f7ea mdi image area"
-echo -e "\uf7eb f7eb mdi image area close"
-echo -e "\uf7ec f7ec mdi image broken"
-echo -e "\uf7ed f7ed mdi image broken variant"
-echo -e "\uf7ee f7ee mdi image filter"
-echo -e "\uf7ef f7ef mdi image filter black white"
-echo -e "\uf7f0 f7f0 mdi image filter center focus"
-echo -e "\uf7f1 f7f1 mdi image filter center focus weak"
-echo -e "\uf7f2 f7f2 mdi image filter drama"
-echo -e "\uf7f3 f7f3 mdi image filter frames"
-echo -e "\uf7f4 f7f4 mdi image filter hdr"
-echo -e "\uf7f5 f7f5 mdi image filter none"
-echo -e "\uf7f6 f7f6 mdi image filter tilt shift"
-echo -e "\uf7f7 f7f7 mdi image filter vintage"
-echo -e "\uf7f8 f7f8 mdi image multiple"
-echo -e "\uf7f9 f7f9 mdi import"
-echo -e "\uf7fa f7fa mdi inbox arrow down"
-echo -e "\uf7fb f7fb mdi information"
-echo -e "\uf7fc f7fc mdi information outline"
-echo -e "\uf7fd f7fd mdi instagram"
-echo -e "\uf7fe f7fe mdi instapaper"
-echo -e "\uf7ff f7ff mdi internet explorer"
-echo -e "\uf800 f800 mdi invert colors"
-echo -e "\uf801 f801 mdi jeepney"
-echo -e "\uf802 f802 mdi jira"
-echo -e "\uf803 f803 mdi jsfiddle"
-echo -e "\uf804 f804 mdi keg"
-echo -e "\uf805 f805 mdi key"
-echo -e "\uf806 f806 mdi key change"
-echo -e "\uf807 f807 mdi key minus"
-echo -e "\uf808 f808 mdi key plus"
-echo -e "\uf809 f809 mdi key remove"
-echo -e "\uf80a f80a mdi key variant"
-echo -e "\uf80b f80b mdi keyboard"
-echo -e "\uf80c f80c mdi keyboard backspace"
-echo -e "\uf80d f80d mdi keyboard caps"
-echo -e "\uf80e f80e mdi keyboard close"
-echo -e "\uf80f f80f mdi keyboard off"
-echo -e "\uf810 f810 mdi keyboard return"
-echo -e "\uf811 f811 mdi keyboard tab"
-echo -e "\uf812 f812 mdi keyboard variant"
-echo -e "\uf813 f813 mdi kodi"
-echo -e "\uf814 f814 mdi label"
-echo -e "\uf815 f815 mdi label outline"
-echo -e "\uf816 f816 mdi lan"
-echo -e "\uf817 f817 mdi lan connect"
-echo -e "\uf818 f818 mdi lan disconnect"
-echo -e "\uf819 f819 mdi lan pending"
-echo -e "\uf81a f81a mdi language csharp"
-echo -e "\uf81b f81b mdi language css3"
-echo -e "\uf81c f81c mdi language html5"
-echo -e "\uf81d f81d mdi language javascript"
-echo -e "\uf81e f81e mdi language php"
-echo -e "\uf81f f81f mdi language python"
-echo -e "\uf820 f820 mdi language python text"
-echo -e "\uf821 f821 mdi laptop"
-echo -e "\uf822 f822 mdi laptop chromebook"
-echo -e "\uf823 f823 mdi laptop mac"
-echo -e "\uf824 f824 mdi laptop windows"
-echo -e "\uf825 f825 mdi lastfm"
-echo -e "\uf826 f826 mdi launch"
-echo -e "\uf827 f827 mdi layers"
-echo -e "\uf828 f828 mdi layers off"
-echo -e "\uf829 f829 mdi leaf"
-echo -e "\uf82a f82a mdi led off"
-echo -e "\uf82b f82b mdi led on"
-echo -e "\uf82c f82c mdi led outline"
-echo -e "\uf82d f82d mdi led variant off"
-echo -e "\uf82e f82e mdi led variant on"
-echo -e "\uf82f f82f mdi led variant outline"
-echo -e "\uf830 f830 mdi library"
-echo -e "\uf831 f831 mdi library books"
-echo -e "\uf832 f832 mdi library music"
-echo -e "\uf833 f833 mdi library plus"
-echo -e "\uf834 f834 mdi lightbulb"
-echo -e "\uf835 f835 mdi lightbulb outline"
-echo -e "\uf836 f836 mdi link"
-echo -e "\uf837 f837 mdi link off"
-echo -e "\uf838 f838 mdi link variant"
-echo -e "\uf839 f839 mdi link variant off"
-echo -e "\uf83a f83a mdi linkedin"
-echo -e "\uf83b f83b mdi linkedin box"
-echo -e "\uf83c f83c mdi linux"
-echo -e "\uf83d f83d mdi lock"
-echo -e "\uf83e f83e mdi lock open"
-echo -e "\uf83f f83f mdi lock open outline"
-echo -e "\uf840 f840 mdi lock outline"
-echo -e "\uf841 f841 mdi login"
-echo -e "\uf842 f842 mdi logout"
-echo -e "\uf843 f843 mdi looks"
-echo -e "\uf844 f844 mdi loupe"
-echo -e "\uf845 f845 mdi lumx"
-echo -e "\uf846 f846 mdi magnet"
-echo -e "\uf847 f847 mdi magnet on"
-echo -e "\uf848 f848 mdi magnify"
-echo -e "\uf849 f849 mdi magnify minus"
-echo -e "\uf84a f84a mdi magnify plus"
-echo -e "\uf84b f84b mdi mail ru"
-echo -e "\uf84c f84c mdi map"
-echo -e "\uf84d f84d mdi map marker"
-echo -e "\uf84e f84e mdi map marker circle"
-echo -e "\uf84f f84f mdi map marker multiple"
-echo -e "\uf850 f850 mdi map marker off"
-echo -e "\uf851 f851 mdi map marker radius"
-echo -e "\uf852 f852 mdi margin"
-echo -e "\uf853 f853 mdi markdown"
-echo -e "\uf854 f854 mdi marker check"
-echo -e "\uf855 f855 mdi martini"
-echo -e "\uf856 f856 mdi material ui"
-echo -e "\uf857 f857 mdi math compass"
-echo -e "\uf858 f858 mdi maxcdn"
-echo -e "\uf859 f859 mdi medium"
-echo -e "\uf85a f85a mdi memory"
-echo -e "\uf85b f85b mdi menu"
-echo -e "\uf85c f85c mdi menu down"
-echo -e "\uf85d f85d mdi menu left"
-echo -e "\uf85e f85e mdi menu right"
-echo -e "\uf85f f85f mdi menu up"
-echo -e "\uf860 f860 mdi message"
-echo -e "\uf861 f861 mdi message alert"
-echo -e "\uf862 f862 mdi message draw"
-echo -e "\uf863 f863 mdi message image"
-echo -e "\uf864 f864 mdi message outline"
-echo -e "\uf865 f865 mdi message processing"
-echo -e "\uf866 f866 mdi message reply"
-echo -e "\uf867 f867 mdi message reply text"
-echo -e "\uf868 f868 mdi message text"
-echo -e "\uf869 f869 mdi message text outline"
-echo -e "\uf86a f86a mdi message video"
-echo -e "\uf86b f86b mdi microphone"
-echo -e "\uf86c f86c mdi microphone off"
-echo -e "\uf86d f86d mdi microphone outline"
-echo -e "\uf86e f86e mdi microphone settings"
-echo -e "\uf86f f86f mdi microphone variant"
-echo -e "\uf870 f870 mdi microphone variant off"
-echo -e "\uf871 f871 mdi microsoft"
-echo -e "\uf872 f872 mdi minecraft"
-echo -e "\uf873 f873 mdi minus"
-echo -e "\uf874 f874 mdi minus box"
-echo -e "\uf875 f875 mdi minus circle"
-echo -e "\uf876 f876 mdi minus circle outline"
-echo -e "\uf877 f877 mdi minus network"
-echo -e "\uf878 f878 mdi monitor"
-echo -e "\uf879 f879 mdi monitor multiple"
-echo -e "\uf87a f87a mdi more"
-echo -e "\uf87b f87b mdi motorbike"
-echo -e "\uf87c f87c mdi mouse"
-echo -e "\uf87d f87d mdi mouse off"
-echo -e "\uf87e f87e mdi mouse variant"
-echo -e "\uf87f f87f mdi mouse variant off"
-echo -e "\uf880 f880 mdi movie"
-echo -e "\uf881 f881 mdi multiplication"
-echo -e "\uf882 f882 mdi multiplication box"
-echo -e "\uf883 f883 mdi music box"
-echo -e "\uf884 f884 mdi music box outline"
-echo -e "\uf885 f885 mdi music circle"
-echo -e "\uf886 f886 mdi music note"
-echo -e "\uf887 f887 mdi music note eighth"
-echo -e "\uf888 f888 mdi music note half"
-echo -e "\uf889 f889 mdi music note off"
-echo -e "\uf88a f88a mdi music note quarter"
-echo -e "\uf88b f88b mdi music note sixteenth"
-echo -e "\uf88c f88c mdi music note whole"
-echo -e "\uf88d f88d mdi nature"
-echo -e "\uf88e f88e mdi nature people"
-echo -e "\uf88f f88f mdi navigation"
-echo -e "\uf890 f890 mdi needle"
-echo -e "\uf891 f891 mdi nest protect"
-echo -e "\uf892 f892 mdi nest thermostat"
-echo -e "\uf893 f893 mdi new box"
-echo -e "\uf894 f894 mdi newspaper"
-echo -e "\uf895 f895 mdi nfc"
-echo -e "\uf896 f896 mdi nfc tap"
-echo -e "\uf897 f897 mdi nfc variant"
-echo -e "\uf898 f898 mdi nodejs"
-echo -e "\uf899 f899 mdi note"
-echo -e "\uf89a f89a mdi note outline"
-echo -e "\uf89b f89b mdi note plus"
-echo -e "\uf89c f89c mdi note plus outline"
-echo -e "\uf89d f89d mdi note text"
-echo -e "\uf89e f89e mdi notification clear all"
-echo -e "\uf89f f89f mdi numeric"
-echo -e "\uf8a0 f8a0 mdi numeric 0 box"
-echo -e "\uf8a1 f8a1 mdi numeric 0 box multiple outline"
-echo -e "\uf8a2 f8a2 mdi numeric 0 box outline"
-echo -e "\uf8a3 f8a3 mdi numeric 1 box"
-echo -e "\uf8a4 f8a4 mdi numeric 1 box multiple outline"
-echo -e "\uf8a5 f8a5 mdi numeric 1 box outline"
-echo -e "\uf8a6 f8a6 mdi numeric 2 box"
-echo -e "\uf8a7 f8a7 mdi numeric 2 box multiple outline"
-echo -e "\uf8a8 f8a8 mdi numeric 2 box outline"
-echo -e "\uf8a9 f8a9 mdi numeric 3 box"
-echo -e "\uf8aa f8aa mdi numeric 3 box multiple outline"
-echo -e "\uf8ab f8ab mdi numeric 3 box outline"
-echo -e "\uf8ac f8ac mdi numeric 4 box"
-echo -e "\uf8ad f8ad mdi numeric 4 box multiple outline"
-echo -e "\uf8ae f8ae mdi numeric 4 box outline"
-echo -e "\uf8af f8af mdi numeric 5 box"
-echo -e "\uf8b0 f8b0 mdi numeric 5 box multiple outline"
-echo -e "\uf8b1 f8b1 mdi numeric 5 box outline"
-echo -e "\uf8b2 f8b2 mdi numeric 6 box"
-echo -e "\uf8b3 f8b3 mdi numeric 6 box multiple outline"
-echo -e "\uf8b4 f8b4 mdi numeric 6 box outline"
-echo -e "\uf8b5 f8b5 mdi numeric 7 box"
-echo -e "\uf8b6 f8b6 mdi numeric 7 box multiple outline"
-echo -e "\uf8b7 f8b7 mdi numeric 7 box outline"
-echo -e "\uf8b8 f8b8 mdi numeric 8 box"
-echo -e "\uf8b9 f8b9 mdi numeric 8 box multiple outline"
-echo -e "\uf8ba f8ba mdi numeric 8 box outline"
-echo -e "\uf8bb f8bb mdi numeric 9 box"
-echo -e "\uf8bc f8bc mdi numeric 9 box multiple outline"
-echo -e "\uf8bd f8bd mdi numeric 9 box outline"
-echo -e "\uf8be f8be mdi numeric 9 plus box"
-echo -e "\uf8bf f8bf mdi numeric 9 plus box multiple outline"
-echo -e "\uf8c0 f8c0 mdi numeric 9 plus box outline"
-echo -e "\uf8c1 f8c1 mdi nutrition"
-echo -e "\uf8c2 f8c2 mdi octagon"
-echo -e "\uf8c3 f8c3 mdi octagon outline"
-echo -e "\uf8c4 f8c4 mdi odnoklassniki"
-echo -e "\uf8c5 f8c5 mdi office"
-echo -e "\uf8c6 f8c6 mdi oil"
-echo -e "\uf8c7 f8c7 mdi oil temperature"
-echo -e "\uf8c8 f8c8 mdi omega"
-echo -e "\uf8c9 f8c9 mdi onedrive"
-echo -e "\uf8ca f8ca mdi open in app"
-echo -e "\uf8cb f8cb mdi open in new"
-echo -e "\uf8cc f8cc mdi openid"
-echo -e "\uf8cd f8cd mdi opera"
-echo -e "\uf8ce f8ce mdi ornament"
-echo -e "\uf8cf f8cf mdi ornament variant"
-echo -e "\uf8d0 f8d0 mdi inbox arrow up"
-echo -e "\uf8d1 f8d1 mdi owl"
-echo -e "\uf8d2 f8d2 mdi package"
-echo -e "\uf8d3 f8d3 mdi package down"
-echo -e "\uf8d4 f8d4 mdi package up"
-echo -e "\uf8d5 f8d5 mdi package variant"
-echo -e "\uf8d6 f8d6 mdi package variant closed"
-echo -e "\uf8d7 f8d7 mdi palette"
-echo -e "\uf8d8 f8d8 mdi palette advanced"
-echo -e "\uf8d9 f8d9 mdi panda"
-echo -e "\uf8da f8da mdi pandora"
-echo -e "\uf8db f8db mdi panorama"
-echo -e "\uf8dc f8dc mdi panorama fisheye"
-echo -e "\uf8dd f8dd mdi panorama horizontal"
-echo -e "\uf8de f8de mdi panorama vertical"
-echo -e "\uf8df f8df mdi panorama wide angle"
-echo -e "\uf8e0 f8e0 mdi paper cut vertical"
-echo -e "\uf8e1 f8e1 mdi paperclip"
-echo -e "\uf8e2 f8e2 mdi parking"
-echo -e "\uf8e3 f8e3 mdi pause"
-echo -e "\uf8e4 f8e4 mdi pause circle"
-echo -e "\uf8e5 f8e5 mdi pause circle outline"
-echo -e "\uf8e6 f8e6 mdi pause octagon"
-echo -e "\uf8e7 f8e7 mdi pause octagon outline"
-echo -e "\uf8e8 f8e8 mdi paw"
-echo -e "\uf8e9 f8e9 mdi pen"
-echo -e "\uf8ea f8ea mdi pencil"
-echo -e "\uf8eb f8eb mdi pencil box"
-echo -e "\uf8ec f8ec mdi pencil box outline"
-echo -e "\uf8ed f8ed mdi pencil lock"
-echo -e "\uf8ee f8ee mdi pencil off"
-echo -e "\uf8ef f8ef mdi percent"
-echo -e "\uf8f0 f8f0 mdi pharmacy"
-echo -e "\uf8f1 f8f1 mdi phone"
-echo -e "\uf8f2 f8f2 mdi phone bluetooth"
-echo -e "\uf8f3 f8f3 mdi phone forward"
-echo -e "\uf8f4 f8f4 mdi phone hangup"
-echo -e "\uf8f5 f8f5 mdi phone in talk"
-echo -e "\uf8f6 f8f6 mdi phone incoming"
-echo -e "\uf8f7 f8f7 mdi phone locked"
-echo -e "\uf8f8 f8f8 mdi phone log"
-echo -e "\uf8f9 f8f9 mdi phone missed"
-echo -e "\uf8fa f8fa mdi phone outgoing"
-echo -e "\uf8fb f8fb mdi phone paused"
-echo -e "\uf8fc f8fc mdi phone settings"
-echo -e "\uf8fd f8fd mdi phone voip"
-echo -e "\uf8fe f8fe mdi pi"
-echo -e "\uf8ff f8ff mdi pi box"
-echo -e "\uf900 f900 mdi pig"
-echo -e "\uf901 f901 mdi pill"
-echo -e "\uf902 f902 mdi pin"
-echo -e "\uf903 f903 mdi pin off"
-echo -e "\uf904 f904 mdi pine tree"
-echo -e "\uf905 f905 mdi pine tree box"
-echo -e "\uf906 f906 mdi pinterest"
-echo -e "\uf907 f907 mdi pinterest box"
-echo -e "\uf908 f908 mdi pizza"
-echo -e "\uf909 f909 mdi play"
-echo -e "\uf90a f90a mdi play box outline"
-echo -e "\uf90b f90b mdi play circle"
-echo -e "\uf90c f90c mdi play circle outline"
-echo -e "\uf90d f90d mdi play pause"
-echo -e "\uf90e f90e mdi play protected content"
-echo -e "\uf90f f90f mdi playlist minus"
-echo -e "\uf910 f910 mdi playlist play"
-echo -e "\uf911 f911 mdi playlist plus"
-echo -e "\uf912 f912 mdi playlist remove"
-echo -e "\uf913 f913 mdi playstation"
-echo -e "\uf914 f914 mdi plus"
-echo -e "\uf915 f915 mdi plus box"
-echo -e "\uf916 f916 mdi plus circle"
-echo -e "\uf917 f917 mdi plus circle multiple outline"
-echo -e "\uf918 f918 mdi plus circle outline"
-echo -e "\uf919 f919 mdi plus network"
-echo -e "\uf91a f91a mdi plus one"
-echo -e "\uf91b f91b mdi pocket"
-echo -e "\uf91c f91c mdi pokeball"
-echo -e "\uf91d f91d mdi polaroid"
-echo -e "\uf91e f91e mdi poll"
-echo -e "\uf91f f91f mdi poll box"
-echo -e "\uf920 f920 mdi polymer"
-echo -e "\uf921 f921 mdi popcorn"
-echo -e "\uf922 f922 mdi pound"
-echo -e "\uf923 f923 mdi pound box"
-echo -e "\uf924 f924 mdi power"
-echo -e "\uf925 f925 mdi power settings"
-echo -e "\uf926 f926 mdi power socket"
-echo -e "\uf927 f927 mdi presentation"
-echo -e "\uf928 f928 mdi presentation play"
-echo -e "\uf929 f929 mdi printer"
-echo -e "\uf92a f92a mdi printer 3d"
-echo -e "\uf92b f92b mdi printer alert"
-echo -e "\uf92c f92c mdi professional hexagon"
-echo -e "\uf92d f92d mdi projector"
-echo -e "\uf92e f92e mdi projector screen"
-echo -e "\uf92f f92f mdi pulse"
-echo -e "\uf930 f930 mdi puzzle"
-echo -e "\uf931 f931 mdi qrcode"
-echo -e "\uf932 f932 mdi qrcode scan"
-echo -e "\uf933 f933 mdi quadcopter"
-echo -e "\uf934 f934 mdi quality high"
-echo -e "\uf935 f935 mdi quicktime"
-echo -e "\uf936 f936 mdi radar"
-echo -e "\uf937 f937 mdi radiator"
-echo -e "\uf938 f938 mdi radio"
-echo -e "\uf939 f939 mdi radio handheld"
-echo -e "\uf93a f93a mdi radio tower"
-echo -e "\uf93b f93b mdi radioactive"
-echo -e "\uf93c f93c mdi radiobox blank"
-echo -e "\uf93d f93d mdi radiobox marked"
-echo -e "\uf93e f93e mdi raspberrypi"
-echo -e "\uf93f f93f mdi ray end"
-echo -e "\uf940 f940 mdi ray end arrow"
-echo -e "\uf941 f941 mdi ray start"
-echo -e "\uf942 f942 mdi ray start arrow"
-echo -e "\uf943 f943 mdi ray start end"
-echo -e "\uf944 f944 mdi ray vertex"
-echo -e "\uf945 f945 mdi lastpass"
-echo -e "\uf946 f946 mdi read"
-echo -e "\uf947 f947 mdi youtube tv"
-echo -e "\uf948 f948 mdi receipt"
-echo -e "\uf949 f949 mdi record"
-echo -e "\uf94a f94a mdi record rec"
-echo -e "\uf94b f94b mdi recycle"
-echo -e "\uf94c f94c mdi reddit"
-echo -e "\uf94d f94d mdi redo"
-echo -e "\uf94e f94e mdi redo variant"
-echo -e "\uf94f f94f mdi refresh"
-echo -e "\uf950 f950 mdi regex"
-echo -e "\uf951 f951 mdi relative scale"
-echo -e "\uf952 f952 mdi reload"
-echo -e "\uf953 f953 mdi remote"
-echo -e "\uf954 f954 mdi rename box"
-echo -e "\uf955 f955 mdi repeat"
-echo -e "\uf956 f956 mdi repeat off"
-echo -e "\uf957 f957 mdi repeat once"
-echo -e "\uf958 f958 mdi replay"
-echo -e "\uf959 f959 mdi reply"
-echo -e "\uf95a f95a mdi reply all"
-echo -e "\uf95b f95b mdi reproduction"
-echo -e "\uf95c f95c mdi resize bottom right"
-echo -e "\uf95d f95d mdi responsive"
-echo -e "\uf95e f95e mdi rewind"
-echo -e "\uf95f f95f mdi ribbon"
-echo -e "\uf960 f960 mdi road"
-echo -e "\uf961 f961 mdi road variant"
-echo -e "\uf962 f962 mdi rocket"
-echo -e "\uf963 f963 mdi rotate 3d"
-echo -e "\uf964 f964 mdi rotate left"
-echo -e "\uf965 f965 mdi rotate left variant"
-echo -e "\uf966 f966 mdi rotate right"
-echo -e "\uf967 f967 mdi rotate right variant"
-echo -e "\uf968 f968 mdi router wireless"
-echo -e "\uf969 f969 mdi routes"
-echo -e "\uf96a f96a mdi rss"
-echo -e "\uf96b f96b mdi rss box"
-echo -e "\uf96c f96c mdi ruler"
-echo -e "\uf96d f96d mdi run fast"
-echo -e "\uf96e f96e mdi sale"
-echo -e "\uf96f f96f mdi satellite"
-echo -e "\uf970 f970 mdi satellite variant"
-echo -e "\uf971 f971 mdi scale"
-echo -e "\uf972 f972 mdi scale bathroom"
-echo -e "\uf973 f973 mdi school"
-echo -e "\uf974 f974 mdi screen rotation"
-echo -e "\uf975 f975 mdi screen rotation lock"
-echo -e "\uf976 f976 mdi screwdriver"
-echo -e "\uf977 f977 mdi script"
-echo -e "\uf978 f978 mdi sd"
-echo -e "\uf979 f979 mdi seal"
-echo -e "\uf97a f97a mdi seat flat"
-echo -e "\uf97b f97b mdi seat flat angled"
-echo -e "\uf97c f97c mdi seat individual suite"
-echo -e "\uf97d f97d mdi seat legroom extra"
-echo -e "\uf97e f97e mdi seat legroom normal"
-echo -e "\uf97f f97f mdi seat legroom reduced"
-echo -e "\uf980 f980 mdi seat recline extra"
-echo -e "\uf981 f981 mdi seat recline normal"
-echo -e "\uf982 f982 mdi security"
-echo -e "\uf983 f983 mdi security network"
-echo -e "\uf984 f984 mdi select"
-echo -e "\uf985 f985 mdi select all"
-echo -e "\uf986 f986 mdi select inverse"
-echo -e "\uf987 f987 mdi select off"
-echo -e "\uf988 f988 mdi selection"
-echo -e "\uf989 f989 mdi send"
-echo -e "\uf98a f98a mdi server"
-echo -e "\uf98b f98b mdi server minus"
-echo -e "\uf98c f98c mdi server network"
-echo -e "\uf98d f98d mdi server network off"
-echo -e "\uf98e f98e mdi server off"
-echo -e "\uf98f f98f mdi server plus"
-echo -e "\uf990 f990 mdi server remove"
-echo -e "\uf991 f991 mdi server security"
-echo -e "\uf992 f992 mdi settings"
-echo -e "\uf993 f993 mdi settings box"
-echo -e "\uf994 f994 mdi shape plus"
-echo -e "\uf995 f995 mdi share"
-echo -e "\uf996 f996 mdi share variant"
-echo -e "\uf997 f997 mdi shield"
-echo -e "\uf998 f998 mdi shield outline"
-echo -e "\uf999 f999 mdi shopping"
-echo -e "\uf99a f99a mdi shopping music"
-echo -e "\uf99b f99b mdi shredder"
-echo -e "\uf99c f99c mdi shuffle"
-echo -e "\uf99d f99d mdi shuffle disabled"
-echo -e "\uf99e f99e mdi shuffle variant"
-echo -e "\uf99f f99f mdi sigma"
-echo -e "\uf9a0 f9a0 mdi sign caution"
-echo -e "\uf9a1 f9a1 mdi signal"
-echo -e "\uf9a2 f9a2 mdi silverware"
-echo -e "\uf9a3 f9a3 mdi silverware fork"
-echo -e "\uf9a4 f9a4 mdi silverware spoon"
-echo -e "\uf9a5 f9a5 mdi silverware variant"
-echo -e "\uf9a6 f9a6 mdi sim"
-echo -e "\uf9a7 f9a7 mdi sim alert"
-echo -e "\uf9a8 f9a8 mdi sim off"
-echo -e "\uf9a9 f9a9 mdi sitemap"
-echo -e "\uf9aa f9aa mdi skip backward"
-echo -e "\uf9ab f9ab mdi skip forward"
-echo -e "\uf9ac f9ac mdi skip next"
-echo -e "\uf9ad f9ad mdi skip previous"
-echo -e "\uf9ae f9ae mdi skype"
-echo -e "\uf9af f9af mdi skype business"
-echo -e "\uf9b0 f9b0 mdi slack"
-echo -e "\uf9b1 f9b1 mdi sleep"
-echo -e "\uf9b2 f9b2 mdi sleep off"
-echo -e "\uf9b3 f9b3 mdi smoking"
-echo -e "\uf9b4 f9b4 mdi smoking off"
-echo -e "\uf9b5 f9b5 mdi snapchat"
-echo -e "\uf9b6 f9b6 mdi snowman"
-echo -e "\uf9b7 f9b7 mdi soccer"
-echo -e "\uf9b8 f9b8 mdi sofa"
-echo -e "\uf9b9 f9b9 mdi sort"
-echo -e "\uf9ba f9ba mdi sort alphabetical"
-echo -e "\uf9bb f9bb mdi sort ascending"
-echo -e "\uf9bc f9bc mdi sort descending"
-echo -e "\uf9bd f9bd mdi sort numeric"
-echo -e "\uf9be f9be mdi sort variant"
-echo -e "\uf9bf f9bf mdi soundcloud"
-echo -e "\uf9c0 f9c0 mdi source fork"
-echo -e "\uf9c1 f9c1 mdi source pull"
-echo -e "\uf9c2 f9c2 mdi speaker"
-echo -e "\uf9c3 f9c3 mdi speaker off"
-echo -e "\uf9c4 f9c4 mdi speedometer"
-echo -e "\uf9c5 f9c5 mdi spellcheck"
-echo -e "\uf9c6 f9c6 mdi spotify"
-echo -e "\uf9c7 f9c7 mdi spotlight"
-echo -e "\uf9c8 f9c8 mdi spotlight beam"
-echo -e "\uf9c9 f9c9 mdi square inc"
-echo -e "\uf9ca f9ca mdi square inc cash"
-echo -e "\uf9cb f9cb mdi stack overflow"
-echo -e "\uf9cc f9cc mdi stairs"
-echo -e "\uf9cd f9cd mdi star"
-echo -e "\uf9ce f9ce mdi star circle"
-echo -e "\uf9cf f9cf mdi star half"
-echo -e "\uf9d0 f9d0 mdi star off"
-echo -e "\uf9d1 f9d1 mdi star outline"
-echo -e "\uf9d2 f9d2 mdi steam"
-echo -e "\uf9d3 f9d3 mdi steering"
-echo -e "\uf9d4 f9d4 mdi step backward"
-echo -e "\uf9d5 f9d5 mdi step backward 2"
-echo -e "\uf9d6 f9d6 mdi step forward"
-echo -e "\uf9d7 f9d7 mdi step forward 2"
-echo -e "\uf9d8 f9d8 mdi stethoscope"
-echo -e "\uf9d9 f9d9 mdi stocking"
-echo -e "\uf9da f9da mdi stop"
-echo -e "\uf9db f9db mdi store"
-echo -e "\uf9dc f9dc mdi store 24 hour"
-echo -e "\uf9dd f9dd mdi stove"
-echo -e "\uf9de f9de mdi subway variant"
-echo -e "\uf9df f9df mdi sunglasses"
-echo -e "\uf9e0 f9e0 mdi swap horizontal"
-echo -e "\uf9e1 f9e1 mdi swap vertical"
-echo -e "\uf9e2 f9e2 mdi swim"
-echo -e "\uf9e3 f9e3 mdi switch"
-echo -e "\uf9e4 f9e4 mdi sword"
-echo -e "\uf9e5 f9e5 mdi sync"
-echo -e "\uf9e6 f9e6 mdi sync alert"
-echo -e "\uf9e7 f9e7 mdi sync off"
-echo -e "\uf9e8 f9e8 mdi tab"
-echo -e "\uf9e9 f9e9 mdi tab unselected"
-echo -e "\uf9ea f9ea mdi table"
-echo -e "\uf9eb f9eb mdi table column plus after"
-echo -e "\uf9ec f9ec mdi table column plus before"
-echo -e "\uf9ed f9ed mdi table column remove"
-echo -e "\uf9ee f9ee mdi table column width"
-echo -e "\uf9ef f9ef mdi table edit"
-echo -e "\uf9f0 f9f0 mdi table large"
-echo -e "\uf9f1 f9f1 mdi table row height"
-echo -e "\uf9f2 f9f2 mdi table row plus after"
-echo -e "\uf9f3 f9f3 mdi table row plus before"
-echo -e "\uf9f4 f9f4 mdi table row remove"
-echo -e "\uf9f5 f9f5 mdi tablet"
-echo -e "\uf9f6 f9f6 mdi tablet android"
-echo -e "\uf9f7 f9f7 mdi tablet ipad"
-echo -e "\uf9f8 f9f8 mdi tag"
-echo -e "\uf9f9 f9f9 mdi tag faces"
-echo -e "\uf9fa f9fa mdi tag multiple"
-echo -e "\uf9fb f9fb mdi tag outline"
-echo -e "\uf9fc f9fc mdi tag text outline"
-echo -e "\uf9fd f9fd mdi target"
-echo -e "\uf9fe f9fe mdi taxi"
-echo -e "\uf9ff f9ff mdi teamviewer"
-echo -e "\ufa00 fa00 mdi telegram"
-echo -e "\ufa01 fa01 mdi television"
-echo -e "\ufa02 fa02 mdi television guide"
-echo -e "\ufa03 fa03 mdi temperature celsius"
-echo -e "\ufa04 fa04 mdi temperature fahrenheit"
-echo -e "\ufa05 fa05 mdi temperature kelvin"
-echo -e "\ufa06 fa06 mdi tennis"
-echo -e "\ufa07 fa07 mdi tent"
-echo -e "\ufa08 fa08 mdi terrain"
-echo -e "\ufa09 fa09 mdi text to speech"
-echo -e "\ufa0a fa0a mdi text to speech off"
-echo -e "\ufa0b fa0b mdi texture"
-echo -e "\ufa0c fa0c mdi theater"
-echo -e "\ufa0d fa0d mdi theme light dark"
-echo -e "\ufa0e fa0e mdi thermometer"
-echo -e "\ufa0f fa0f mdi thermometer lines"
-echo -e "\ufa10 fa10 mdi thumb down"
-echo -e "\ufa11 fa11 mdi thumb down outline"
-echo -e "\ufa12 fa12 mdi thumb up"
-echo -e "\ufa13 fa13 mdi thumb up outline"
-echo -e "\ufa14 fa14 mdi thumbs up down"
-echo -e "\ufa15 fa15 mdi ticket"
-echo -e "\ufa16 fa16 mdi ticket account"
-echo -e "\ufa17 fa17 mdi ticket confirmation"
-echo -e "\ufa18 fa18 mdi tie"
-echo -e "\ufa19 fa19 mdi timelapse"
-echo -e "\ufa1a fa1a mdi timer"
-echo -e "\ufa1b fa1b mdi timer 10"
-echo -e "\ufa1c fa1c mdi timer 3"
-echo -e "\ufa1d fa1d mdi timer off"
-echo -e "\ufa1e fa1e mdi timer sand"
-echo -e "\ufa1f fa1f mdi timetable"
-echo -e "\ufa20 fa20 mdi toggle switch"
-echo -e "\ufa21 fa21 mdi toggle switch off"
-echo -e "\ufa22 fa22 mdi tooltip"
-echo -e "\ufa23 fa23 mdi tooltip edit"
-echo -e "\ufa24 fa24 mdi tooltip image"
-echo -e "\ufa25 fa25 mdi tooltip outline"
-echo -e "\ufa26 fa26 mdi tooltip outline plus"
-echo -e "\ufa27 fa27 mdi tooltip text"
-echo -e "\ufa28 fa28 mdi tooth"
-echo -e "\ufa29 fa29 mdi tor"
-echo -e "\ufa2a fa2a mdi traffic light"
-echo -e "\ufa2b fa2b mdi train"
-echo -e "\ufa2c fa2c mdi tram"
-echo -e "\ufa2d fa2d mdi transcribe"
-echo -e "\ufa2e fa2e mdi transcribe close"
-echo -e "\ufa2f fa2f mdi transfer"
-echo -e "\ufa30 fa30 mdi tree"
-echo -e "\ufa31 fa31 mdi trello"
-echo -e "\ufa32 fa32 mdi trending down"
-echo -e "\ufa33 fa33 mdi trending neutral"
-echo -e "\ufa34 fa34 mdi trending up"
-echo -e "\ufa35 fa35 mdi triangle"
-echo -e "\ufa36 fa36 mdi triangle outline"
-echo -e "\ufa37 fa37 mdi trophy"
-echo -e "\ufa38 fa38 mdi trophy award"
-echo -e "\ufa39 fa39 mdi trophy outline"
-echo -e "\ufa3a fa3a mdi trophy variant"
-echo -e "\ufa3b fa3b mdi trophy variant outline"
-echo -e "\ufa3c fa3c mdi truck"
-echo -e "\ufa3d fa3d mdi truck delivery"
-echo -e "\ufa3e fa3e mdi tshirt crew"
-echo -e "\ufa3f fa3f mdi tshirt v"
-echo -e "\ufa40 fa40 mdi tumblr"
-echo -e "\ufa41 fa41 mdi tumblr reblog"
-echo -e "\ufa42 fa42 mdi twitch"
-echo -e "\ufa43 fa43 mdi twitter"
-echo -e "\ufa44 fa44 mdi twitter box"
-echo -e "\ufa45 fa45 mdi twitter circle"
-echo -e "\ufa46 fa46 mdi twitter retweet"
-echo -e "\ufa47 fa47 mdi ubuntu"
-echo -e "\ufa48 fa48 mdi umbraco"
-echo -e "\ufa49 fa49 mdi umbrella"
-echo -e "\ufa4a fa4a mdi umbrella outline"
-echo -e "\ufa4b fa4b mdi undo"
-echo -e "\ufa4c fa4c mdi undo variant"
-echo -e "\ufa4d fa4d mdi unfold less horizontal"
-echo -e "\ufa4e fa4e mdi unfold more horizontal"
-echo -e "\ufa4f fa4f mdi ungroup"
-echo -e "\ufa50 fa50 mdi untappd"
-echo -e "\ufa51 fa51 mdi upload"
-echo -e "\ufa52 fa52 mdi usb"
-echo -e "\ufa53 fa53 mdi vector arrange above"
-echo -e "\ufa54 fa54 mdi vector arrange below"
-echo -e "\ufa55 fa55 mdi vector circle"
-echo -e "\ufa56 fa56 mdi vector circle variant"
-echo -e "\ufa57 fa57 mdi vector combine"
-echo -e "\ufa58 fa58 mdi vector curve"
-echo -e "\ufa59 fa59 mdi vector difference"
-echo -e "\ufa5a fa5a mdi vector difference ab"
-echo -e "\ufa5b fa5b mdi vector difference ba"
-echo -e "\ufa5c fa5c mdi vector intersection"
-echo -e "\ufa5d fa5d mdi vector line"
-echo -e "\ufa5e fa5e mdi vector point"
-echo -e "\ufa5f fa5f mdi vector polygon"
-echo -e "\ufa60 fa60 mdi vector polyline"
-echo -e "\ufa61 fa61 mdi vector selection"
-echo -e "\ufa62 fa62 mdi vector triangle"
-echo -e "\ufa63 fa63 mdi vector union"
-echo -e "\ufa64 fa64 mdi verified"
-echo -e "\ufa65 fa65 mdi vibrate"
-echo -e "\ufa66 fa66 mdi video"
-echo -e "\ufa67 fa67 mdi video off"
-echo -e "\ufa68 fa68 mdi video switch"
-echo -e "\ufa69 fa69 mdi view agenda"
-echo -e "\ufa6a fa6a mdi view array"
-echo -e "\ufa6b fa6b mdi view carousel"
-echo -e "\ufa6c fa6c mdi view column"
-echo -e "\ufa6d fa6d mdi view dashboard"
-echo -e "\ufa6e fa6e mdi view day"
-echo -e "\ufa6f fa6f mdi view grid"
-echo -e "\ufa70 fa70 mdi view headline"
-echo -e "\ufa71 fa71 mdi view list"
-echo -e "\ufa72 fa72 mdi view module"
-echo -e "\ufa73 fa73 mdi view quilt"
-echo -e "\ufa74 fa74 mdi view stream"
-echo -e "\ufa75 fa75 mdi view week"
-echo -e "\ufa76 fa76 mdi vimeo"
-echo -e "\ufa77 fa77 mdi venmo"
-echo -e "\ufa78 fa78 mdi vk"
-echo -e "\ufa79 fa79 mdi vk box"
-echo -e "\ufa7a fa7a mdi vk circle"
-echo -e "\ufa7b fa7b mdi vlc"
-echo -e "\ufa7c fa7c mdi voicemail"
-echo -e "\ufa7d fa7d mdi volume high"
-echo -e "\ufa7e fa7e mdi volume low"
-echo -e "\ufa7f fa7f mdi volume medium"
-echo -e "\ufa80 fa80 mdi volume off"
-echo -e "\ufa81 fa81 mdi vpn"
-echo -e "\ufa82 fa82 mdi walk"
-echo -e "\ufa83 fa83 mdi wallet"
-echo -e "\ufa84 fa84 mdi wallet giftcard"
-echo -e "\ufa85 fa85 mdi wallet membership"
-echo -e "\ufa86 fa86 mdi wallet travel"
-echo -e "\ufa87 fa87 mdi wan"
-echo -e "\ufa88 fa88 mdi watch"
-echo -e "\ufa89 fa89 mdi watch export"
-echo -e "\ufa8a fa8a mdi watch import"
-echo -e "\ufa8b fa8b mdi water"
-echo -e "\ufa8c fa8c mdi water off"
-echo -e "\ufa8d fa8d mdi water percent"
-echo -e "\ufa8e fa8e mdi water pump"
-echo -e "\ufa8f fa8f mdi weather cloudy"
-echo -e "\ufa90 fa90 mdi weather fog"
-echo -e "\ufa91 fa91 mdi weather hail"
-echo -e "\ufa92 fa92 mdi weather lightning"
-echo -e "\ufa93 fa93 mdi weather night"
-echo -e "\ufa94 fa94 mdi weather partlycloudy"
-echo -e "\ufa95 fa95 mdi weather pouring"
-echo -e "\ufa96 fa96 mdi weather rainy"
-echo -e "\ufa97 fa97 mdi weather snowy"
-echo -e "\ufa98 fa98 mdi weather sunny"
-echo -e "\ufa99 fa99 mdi weather sunset"
-echo -e "\ufa9a fa9a mdi weather sunset down"
-echo -e "\ufa9b fa9b mdi weather sunset up"
-echo -e "\ufa9c fa9c mdi weather windy"
-echo -e "\ufa9d fa9d mdi weather windy variant"
-echo -e "\ufa9e fa9e mdi web"
-echo -e "\ufa9f fa9f mdi webcam"
-echo -e "\ufaa0 faa0 mdi weight"
-echo -e "\ufaa1 faa1 mdi weight kilogram"
-echo -e "\ufaa2 faa2 mdi whatsapp"
-echo -e "\ufaa3 faa3 mdi wheelchair accessibility"
-echo -e "\ufaa4 faa4 mdi white balance auto"
-echo -e "\ufaa5 faa5 mdi white balance incandescent"
-echo -e "\ufaa6 faa6 mdi white balance iridescent"
-echo -e "\ufaa7 faa7 mdi white balance sunny"
-echo -e "\ufaa8 faa8 mdi wifi"
-echo -e "\ufaa9 faa9 mdi wifi off"
-echo -e "\ufaaa faaa mdi wii"
-echo -e "\ufaab faab mdi wikipedia"
-echo -e "\ufaac faac mdi window close"
-echo -e "\ufaad faad mdi window closed"
-echo -e "\ufaae faae mdi window maximize"
-echo -e "\ufaaf faaf mdi window minimize"
-echo -e "\ufab0 fab0 mdi window open"
-echo -e "\ufab1 fab1 mdi window restore"
-echo -e "\ufab2 fab2 mdi windows"
-echo -e "\ufab3 fab3 mdi wordpress"
-echo -e "\ufab4 fab4 mdi worker"
-echo -e "\ufab5 fab5 mdi wrap"
-echo -e "\ufab6 fab6 mdi wrench"
-echo -e "\ufab7 fab7 mdi wunderlist"
-echo -e "\ufab8 fab8 mdi xbox"
-echo -e "\ufab9 fab9 mdi xbox controller"
-echo -e "\ufaba faba mdi xbox controller off"
-echo -e "\ufabb fabb mdi xda"
-echo -e "\ufabc fabc mdi xing"
-echo -e "\ufabd fabd mdi xing box"
-echo -e "\ufabe fabe mdi xing circle"
-echo -e "\ufabf fabf mdi xml"
-echo -e "\ufac0 fac0 mdi yeast"
-echo -e "\ufac1 fac1 mdi yelp"
-echo -e "\ufac2 fac2 mdi youtube play"
-echo -e "\ufac3 fac3 mdi zip box"
-echo -e "\ufac4 fac4 mdi surround sound"
-echo -e "\ufac5 fac5 mdi vector rectangle"
-echo -e "\ufac6 fac6 mdi playlist check"
-echo -e "\ufac7 fac7 mdi format line style"
-echo -e "\ufac8 fac8 mdi format line weight"
-echo -e "\ufac9 fac9 mdi translate"
-echo -e "\ufaca faca mdi voice"
-echo -e "\ufacb facb mdi opacity"
-echo -e "\ufacc facc mdi near me"
-echo -e "\ufacd facd mdi clock alert"
-echo -e "\uface face mdi human pregnant"
-echo -e "\ufacf facf mdi sticker"
-echo -e "\ufad0 fad0 mdi scale balance"
-echo -e "\ufad1 fad1 mdi account card details"
-echo -e "\ufad2 fad2 mdi account multiple minus"
-echo -e "\ufad3 fad3 mdi airplane landing"
-echo -e "\ufad4 fad4 mdi airplane takeoff"
-echo -e "\ufad5 fad5 mdi alert circle outline"
-echo -e "\ufad6 fad6 mdi altimeter"
-echo -e "\ufad7 fad7 mdi animation"
-echo -e "\ufad8 fad8 mdi book minus"
-echo -e "\ufad9 fad9 mdi book open page variant"
-echo -e "\ufada fada mdi book plus"
-echo -e "\ufadb fadb mdi boombox"
-echo -e "\ufadc fadc mdi bullseye"
-echo -e "\ufadd fadd mdi comment remove"
-echo -e "\ufade fade mdi camera off"
-echo -e "\ufadf fadf mdi check circle"
-echo -e "\ufae0 fae0 mdi check circle outline"
-echo -e "\ufae1 fae1 mdi candle"
-echo -e "\ufae2 fae2 mdi chart bubble"
-echo -e "\ufae3 fae3 mdi credit card off"
-echo -e "\ufae4 fae4 mdi cup off"
-echo -e "\ufae5 fae5 mdi copyright"
-echo -e "\ufae6 fae6 mdi cursor text"
-echo -e "\ufae7 fae7 mdi delete forever"
-echo -e "\ufae8 fae8 mdi delete sweep"
-echo -e "\ufae9 fae9 mdi dice d20"
-echo -e "\ufaea faea mdi dice d4"
-echo -e "\ufaeb faeb mdi dice d6"
-echo -e "\ufaec faec mdi dice d8"
-echo -e "\ufaed faed mdi disk"
-echo -e "\ufaee faee mdi email open outline"
-echo -e "\ufaef faef mdi email variant"
-echo -e "\ufaf0 faf0 mdi ev station"
-echo -e "\ufaf1 faf1 mdi food fork drink"
-echo -e "\ufaf2 faf2 mdi food off"
-echo -e "\ufaf3 faf3 mdi format title"
-echo -e "\ufaf4 faf4 mdi google maps"
-echo -e "\ufaf5 faf5 mdi heart pulse"
-echo -e "\ufaf6 faf6 mdi highway"
-echo -e "\ufaf7 faf7 mdi home map marker"
-echo -e "\ufaf8 faf8 mdi incognito"
-echo -e "\ufaf9 faf9 mdi kettle"
-echo -e "\ufafa fafa mdi lock plus"
-echo -e "\ufafb fafb mdi login variant"
-echo -e "\ufafc fafc mdi logout variant"
-echo -e "\ufafd fafd mdi music note bluetooth"
-echo -e "\ufafe fafe mdi music note bluetooth off"
-echo -e "\ufaff faff mdi page first"
-echo -e "\ufb00 fb00 mdi page last"
-echo -e "\ufb01 fb01 mdi phone classic"
-echo -e "\ufb02 fb02 mdi priority high"
-echo -e "\ufb03 fb03 mdi priority low"
-echo -e "\ufb04 fb04 mdi qqchat"
-echo -e "\ufb05 fb05 mdi pool"
-echo -e "\ufb06 fb06 mdi rounded corner"
-echo -e "\ufb07 fb07 mdi rowing"
-echo -e "\ufb08 fb08 mdi saxophone"
-echo -e "\ufb09 fb09 mdi signal variant"
-echo -e "\ufb0a fb0a mdi stackexchange"
-echo -e "\ufb0b fb0b mdi subdirectory arrow left"
-echo -e "\ufb0c fb0c mdi subdirectory arrow right"
-echo -e "\ufb0d fb0d mdi textbox"
-echo -e "\ufb0e fb0e mdi violin"
-echo -e "\ufb0f fb0f mdi visualstudio"
-echo -e "\ufb10 fb10 mdi wechat"
-echo -e "\ufb11 fb11 mdi watermark"
-echo -e "\ufb12 fb12 mdi file hidden"
-echo -e "\ufb13 fb13 mdi application"
-echo -e "\ufb14 fb14 mdi arrow collapse"
-echo -e "\ufb15 fb15 mdi arrow expand"
-echo -e "\ufb16 fb16 mdi bowl"
-echo -e "\ufb17 fb17 mdi bridge"
-echo -e "\ufb18 fb18 mdi buffer"
-echo -e "\ufb19 fb19 mdi chip"
-echo -e "\ufb1a fb1a mdi content save settings"
-echo -e "\ufb1b fb1b mdi dialpad"
-echo -e "\ufb1c fb1c mdi dictionary"
-echo -e "\ufb1d fb1d mdi format horizontal align center"
-echo -e "\ufb1e fb1e mdi format horizontal align left"
-echo -e "\ufb1f fb1f mdi format horizontal align right"
-echo -e "\ufb20 fb20 mdi format vertical align bottom"
-echo -e "\ufb21 fb21 mdi format vertical align center"
-echo -e "\ufb22 fb22 mdi format vertical align top"
-echo -e "\ufb23 fb23 mdi hackernews"
-echo -e "\ufb24 fb24 mdi help circle outline"
-echo -e "\ufb25 fb25 mdi json"
-echo -e "\ufb26 fb26 mdi lambda"
-echo -e "\ufb27 fb27 mdi matrix"
-echo -e "\ufb28 fb28 mdi meteor"
-echo -e "\ufb29 fb29 mdi mixcloud"
-echo -e "\ufb2a fb2a mdi sigma lower"
-echo -e "\ufb2b fb2b mdi source branch"
-echo -e "\ufb2c fb2c mdi source merge"
-echo -e "\ufb2d fb2d mdi tune"
-echo -e "\ufb2e fb2e mdi webhook"
-echo -e "\ufb2f fb2f mdi account settings"
-echo -e "\ufb30 fb30 mdi account settings variant"
-echo -e "\ufb31 fb31 mdi apple keyboard caps"
-echo -e "\ufb32 fb32 mdi apple keyboard command"
-echo -e "\ufb33 fb33 mdi apple keyboard control"
-echo -e "\ufb34 fb34 mdi apple keyboard option"
-echo -e "\ufb35 fb35 mdi apple keyboard shift"
-echo -e "\ufb36 fb36 mdi box shadow"
-echo -e "\ufb37 fb37 mdi cards"
-echo -e "\ufb38 fb38 mdi cards outline"
-echo -e "\ufb39 fb39 mdi cards playing outline"
-echo -e "\ufb3a fb3a mdi checkbox multiple blank circle"
-echo -e "\ufb3b fb3b mdi checkbox multiple blank circle outline"
-echo -e "\ufb3c fb3c mdi checkbox multiple marked circle"
-echo -e "\ufb3d fb3d mdi checkbox multiple marked circle outline"
-echo -e "\ufb3e fb3e mdi cloud sync"
-echo -e "\ufb3f fb3f mdi collage"
-echo -e "\ufb40 fb40 mdi directions fork"
-echo -e "\ufb41 fb41 mdi eraser variant"
-echo -e "\ufb42 fb42 mdi face"
-echo -e "\ufb43 fb43 mdi face profile"
-echo -e "\ufb44 fb44 mdi file tree"
-echo -e "\ufb45 fb45 mdi format annotation plus"
-echo -e "\ufb46 fb46 mdi gas cylinder"
-echo -e "\ufb47 fb47 mdi grease pencil"
-echo -e "\ufb48 fb48 mdi human female"
-echo -e "\ufb49 fb49 mdi human greeting"
-echo -e "\ufb4a fb4a mdi human handsdown"
-echo -e "\ufb4b fb4b mdi human handsup"
-echo -e "\ufb4c fb4c mdi human male"
-echo -e "\ufb4d fb4d mdi information variant"
-echo -e "\ufb4e fb4e mdi lead pencil"
-echo -e "\ufb4f fb4f mdi map marker minus"
-echo -e "\ufb50 fb50 mdi map marker plus"
-echo -e "\ufb51 fb51 mdi marker"
-echo -e "\ufb52 fb52 mdi message plus"
-echo -e "\ufb53 fb53 mdi microscope"
-echo -e "\ufb54 fb54 mdi move resize"
-echo -e "\ufb55 fb55 mdi move resize variant"
-echo -e "\ufb56 fb56 mdi paw off"
-echo -e "\ufb57 fb57 mdi phone minus"
-echo -e "\ufb58 fb58 mdi phone plus"
-echo -e "\ufb59 fb59 mdi pot"
-echo -e "\ufb5a fb5a mdi pot mix"
-echo -e "\ufb5b fb5b mdi serial port"
-echo -e "\ufb5c fb5c mdi shape circle plus"
-echo -e "\ufb5d fb5d mdi shape polygon plus"
-echo -e "\ufb5e fb5e mdi shape rectangle plus"
-echo -e "\ufb5f fb5f mdi shape square plus"
-echo -e "\ufb60 fb60 mdi skip next circle"
-echo -e "\ufb61 fb61 mdi skip next circle outline"
-echo -e "\ufb62 fb62 mdi skip previous circle"
-echo -e "\ufb63 fb63 mdi skip previous circle outline"
-echo -e "\ufb64 fb64 mdi spray"
-echo -e "\ufb65 fb65 mdi stop circle"
-echo -e "\ufb66 fb66 mdi stop circle outline"
-echo -e "\ufb67 fb67 mdi test tube"
-echo -e "\ufb68 fb68 mdi text shadow"
-echo -e "\ufb69 fb69 mdi tune vertical"
-echo -e "\ufb6a fb6a mdi cart off"
-echo -e "\ufb6b fb6b mdi chart gantt"
-echo -e "\ufb6c fb6c mdi chart scatterplot hexbin"
-echo -e "\ufb6d fb6d mdi chart timeline"
-echo -e "\ufb6e fb6e mdi discord"
-echo -e "\ufb6f fb6f mdi file restore"
-echo -e "\ufb70 fb70 mdi language c"
-echo -e "\ufb71 fb71 mdi language cpp"
-echo -e "\ufb72 fb72 mdi xaml"
-echo -e "\ufb73 fb73 mdi bandcamp"
-echo -e "\ufb74 fb74 mdi credit card plus"
-echo -e "\ufb75 fb75 mdi itunes"
-echo -e "\ufb76 fb76 mdi bow tie"
-echo -e "\ufb77 fb77 mdi calendar range"
-echo -e "\ufb78 fb78 mdi currency usd off"
-echo -e "\ufb79 fb79 mdi flash red eye"
-echo -e "\ufb7a fb7a mdi oar"
-echo -e "\ufb7b fb7b mdi piano"
-echo -e "\ufb7c fb7c mdi weather lightning rainy"
-echo -e "\ufb7d fb7d mdi weather snowy rainy"
-echo -e "\ufb7e fb7e mdi yin yang"
-echo -e "\ufb7f fb7f mdi tower beach"
-echo -e "\ufb80 fb80 mdi tower fire"
-echo -e "\ufb81 fb81 mdi delete circle"
-echo -e "\ufb82 fb82 mdi dna"
-echo -e "\ufb83 fb83 mdi hamburger"
-echo -e "\ufb84 fb84 mdi gondola"
-echo -e "\ufb85 fb85 mdi inbox"
-echo -e "\ufb86 fb86 mdi reorder horizontal"
-echo -e "\ufb87 fb87 mdi reorder vertical"
-echo -e "\ufb88 fb88 mdi security home"
-echo -e "\ufb89 fb89 mdi tag heart"
-echo -e "\ufb8a fb8a mdi skull"
-echo -e "\ufb8b fb8b mdi solid"
-echo -e "\ufb8c fb8c mdi alarm snooze"
-echo -e "\ufb8d fb8d mdi baby buggy"
-echo -e "\ufb8e fb8e mdi beaker"
-echo -e "\ufb8f fb8f mdi bomb"
-echo -e "\ufb90 fb90 mdi calendar question"
-echo -e "\ufb91 fb91 mdi camera burst"
-echo -e "\ufb92 fb92 mdi code tags check"
-echo -e "\ufb93 fb93 mdi coins"
-echo -e "\ufb94 fb94 mdi crop rotate"
-echo -e "\ufb95 fb95 mdi developer board"
-echo -e "\ufb96 fb96 mdi do not disturb"
-echo -e "\ufb97 fb97 mdi do not disturb off"
-echo -e "\ufb98 fb98 mdi douban"
-echo -e "\ufb99 fb99 mdi emoticon dead"
-echo -e "\ufb9a fb9a mdi emoticon excited"
-echo -e "\ufb9b fb9b mdi folder star"
-echo -e "\ufb9c fb9c mdi format color text"
-echo -e "\ufb9d fb9d mdi format section"
-echo -e "\ufb9e fb9e mdi gradient"
-echo -e "\ufb9f fb9f mdi home outline"
-echo -e "\ufba0 fba0 mdi message bulleted"
-echo -e "\ufba1 fba1 mdi message bulleted off"
-echo -e "\ufba2 fba2 mdi nuke"
-echo -e "\ufba3 fba3 mdi power plug"
-echo -e "\ufba4 fba4 mdi power plug off"
-echo -e "\ufba5 fba5 mdi publish"
-echo -e "\ufba6 fba6 mdi restore"
-echo -e "\ufba7 fba7 mdi robot"
-echo -e "\ufba8 fba8 mdi format rotate 90"
-echo -e "\ufba9 fba9 mdi scanner"
-echo -e "\ufbaa fbaa mdi subway"
-echo -e "\ufbab fbab mdi timer sand empty"
-echo -e "\ufbac fbac mdi transit transfer"
-echo -e "\ufbad fbad mdi unity"
-echo -e "\ufbae fbae mdi update"
-echo -e "\ufbaf fbaf mdi watch vibrate"
-echo -e "\ufbb0 fbb0 mdi angular"
-echo -e "\ufbb1 fbb1 mdi dolby"
-echo -e "\ufbb2 fbb2 mdi emby"
-echo -e "\ufbb3 fbb3 mdi lamp"
-echo -e "\ufbb4 fbb4 mdi menu down outline"
-echo -e "\ufbb5 fbb5 mdi menu up outline"
-echo -e "\ufbb6 fbb6 mdi note multiple"
-echo -e "\ufbb7 fbb7 mdi note multiple outline"
-echo -e "\ufbb8 fbb8 mdi plex"
-echo -e "\ufbb9 fbb9 mdi plane shield"
-echo -e "\ufbba fbba mdi account edit"
-echo -e "\ufbbb fbbb mdi alert decagram"
-echo -e "\ufbbc fbbc mdi all inclusive"
-echo -e "\ufbbd fbbd mdi angularjs"
-echo -e "\ufbbe fbbe mdi arrow down box"
-echo -e "\ufbbf fbbf mdi arrow left box"
-echo -e "\ufbc0 fbc0 mdi arrow right box"
-echo -e "\ufbc1 fbc1 mdi arrow up box"
-echo -e "\ufbc2 fbc2 mdi asterisk"
-echo -e "\ufbc3 fbc3 mdi bomb off"
-echo -e "\ufbc4 fbc4 mdi bootstrap"
-echo -e "\ufbc5 fbc5 mdi cards variant"
-echo -e "\ufbc6 fbc6 mdi clipboard flow"
-echo -e "\ufbc7 fbc7 mdi close outline"
-echo -e "\ufbc8 fbc8 mdi coffee outline"
-echo -e "\ufbc9 fbc9 mdi contacts"
-echo -e "\ufbca fbca mdi delete empty"
-echo -e "\ufbcb fbcb mdi earth box"
-echo -e "\ufbcc fbcc mdi earth box off"
-echo -e "\ufbcd fbcd mdi email alert"
-echo -e "\ufbce fbce mdi eye outline"
-echo -e "\ufbcf fbcf mdi eye off outline"
-echo -e "\ufbd0 fbd0 mdi fast forward outline"
-echo -e "\ufbd1 fbd1 mdi feather"
-echo -e "\ufbd2 fbd2 mdi find replace"
-echo -e "\ufbd3 fbd3 mdi flash outline"
-echo -e "\ufbd4 fbd4 mdi format font"
-echo -e "\ufbd5 fbd5 mdi format page break"
-echo -e "\ufbd6 fbd6 mdi format pilcrow"
-echo -e "\ufbd7 fbd7 mdi garage"
-echo -e "\ufbd8 fbd8 mdi garage open"
-echo -e "\ufbd9 fbd9 mdi github face"
-echo -e "\ufbda fbda mdi google keep"
-echo -e "\ufbdb fbdb mdi google photos"
-echo -e "\ufbdc fbdc mdi heart half full"
-echo -e "\ufbdd fbdd mdi heart half"
-echo -e "\ufbde fbde mdi heart half outline"
-echo -e "\ufbdf fbdf mdi hexagon multiple"
-echo -e "\ufbe0 fbe0 mdi hook"
-echo -e "\ufbe1 fbe1 mdi hook off"
-echo -e "\ufbe2 fbe2 mdi infinity"
-echo -e "\ufbe3 fbe3 mdi language swift"
-echo -e "\ufbe4 fbe4 mdi language typescript"
-echo -e "\ufbe5 fbe5 mdi laptop off"
-echo -e "\ufbe6 fbe6 mdi lightbulb on"
-echo -e "\ufbe7 fbe7 mdi lightbulb on outline"
-echo -e "\ufbe8 fbe8 mdi lock pattern"
-echo -e "\ufbe9 fbe9 mdi loop"
-echo -e "\ufbea fbea mdi magnify minus outline"
-echo -e "\ufbeb fbeb mdi magnify plus outline"
-echo -e "\ufbec fbec mdi mailbox"
-echo -e "\ufbed fbed mdi medical bag"
-echo -e "\ufbee fbee mdi message settings"
-echo -e "\ufbef fbef mdi message settings variant"
-echo -e "\ufbf0 fbf0 mdi minus box outline"
-echo -e "\ufbf1 fbf1 mdi network"
-echo -e "\ufbf2 fbf2 mdi download network"
-echo -e "\ufbf3 fbf3 mdi help network"
-echo -e "\ufbf4 fbf4 mdi upload network"
-echo -e "\ufbf5 fbf5 mdi npm"
-echo -e "\ufbf6 fbf6 mdi nut"
-echo -e "\ufbf7 fbf7 mdi octagram"
-echo -e "\ufbf8 fbf8 mdi page layout body"
-echo -e "\ufbf9 fbf9 mdi page layout footer"
-echo -e "\ufbfa fbfa mdi page layout header"
-echo -e "\ufbfb fbfb mdi page layout sidebar left"
-echo -e "\ufbfc fbfc mdi page layout sidebar right"
-echo -e "\ufbfd fbfd mdi pencil circle"
-echo -e "\ufbfe fbfe mdi pentagon"
-echo -e "\ufbff fbff mdi pentagon outline"
-echo -e "\ufc00 fc00 mdi pillar"
-echo -e "\ufc01 fc01 mdi pistol"
-echo -e "\ufc02 fc02 mdi plus box outline"
-echo -e "\ufc03 fc03 mdi plus outline"
-echo -e "\ufc04 fc04 mdi prescription"
-echo -e "\ufc05 fc05 mdi printer settings"
-echo -e "\ufc06 fc06 mdi react"
-echo -e "\ufc07 fc07 mdi restart"
-echo -e "\ufc08 fc08 mdi rewind outline"
-echo -e "\ufc09 fc09 mdi rhombus"
-echo -e "\ufc0a fc0a mdi rhombus outline"
-echo -e "\ufc0b fc0b mdi roomba"
-echo -e "\ufc0c fc0c mdi run"
-echo -e "\ufc0d fc0d mdi search web"
-echo -e "\ufc0e fc0e mdi shovel"
-echo -e "\ufc0f fc0f mdi shovel off"
-echo -e "\ufc10 fc10 mdi signal 2g"
-echo -e "\ufc11 fc11 mdi signal 3g"
-echo -e "\ufc12 fc12 mdi signal 4g"
-echo -e "\ufc13 fc13 mdi signal hspa"
-echo -e "\ufc14 fc14 mdi signal hspa plus"
-echo -e "\ufc15 fc15 mdi snowflake"
-echo -e "\ufc16 fc16 mdi source commit"
-echo -e "\ufc17 fc17 mdi source commit end"
-echo -e "\ufc18 fc18 mdi source commit end local"
-echo -e "\ufc19 fc19 mdi source commit local"
-echo -e "\ufc1a fc1a mdi source commit next local"
-echo -e "\ufc1b fc1b mdi source commit start"
-echo -e "\ufc1c fc1c mdi source commit start next local"
-echo -e "\ufc1d fc1d mdi speaker wireless"
-echo -e "\ufc1e fc1e mdi stadium"
-echo -e "\ufc1f fc1f mdi svg"
-echo -e "\ufc20 fc20 mdi tag plus"
-echo -e "\ufc21 fc21 mdi tag remove"
-echo -e "\ufc22 fc22 mdi ticket percent"
-echo -e "\ufc23 fc23 mdi tilde"
-echo -e "\ufc24 fc24 mdi treasure chest"
-echo -e "\ufc25 fc25 mdi truck trailer"
-echo -e "\ufc26 fc26 mdi view parallel"
-echo -e "\ufc27 fc27 mdi view sequential"
-echo -e "\ufc28 fc28 mdi washing machine"
-echo -e "\ufc29 fc29 mdi webpack"
-echo -e "\ufc2a fc2a mdi widgets"
-echo -e "\ufc2b fc2b mdi wiiu"
-echo -e "\ufc2c fc2c mdi arrow down bold"
-echo -e "\ufc2d fc2d mdi arrow down bold box"
-echo -e "\ufc2e fc2e mdi arrow down bold box outline"
-echo -e "\ufc2f fc2f mdi arrow left bold"
-echo -e "\ufc30 fc30 mdi arrow left bold box"
-echo -e "\ufc31 fc31 mdi arrow left bold box outline"
-echo -e "\ufc32 fc32 mdi arrow right bold"
-echo -e "\ufc33 fc33 mdi arrow right bold box"
-echo -e "\ufc34 fc34 mdi arrow right bold box outline"
-echo -e "\ufc35 fc35 mdi arrow up bold"
-echo -e "\ufc36 fc36 mdi arrow up bold box"
-echo -e "\ufc37 fc37 mdi arrow up bold box outline"
-echo -e "\ufc38 fc38 mdi cancel"
-echo -e "\ufc39 fc39 mdi file account"
-echo -e "\ufc3a fc3a mdi gesture double tap"
-echo -e "\ufc3b fc3b mdi gesture swipe down"
-echo -e "\ufc3c fc3c mdi gesture swipe left"
-echo -e "\ufc3d fc3d mdi gesture swipe right"
-echo -e "\ufc3e fc3e mdi gesture swipe up"
-echo -e "\ufc3f fc3f mdi gesture tap"
-echo -e "\ufc40 fc40 mdi gesture two double tap"
-echo -e "\ufc41 fc41 mdi gesture two tap"
-echo -e "\ufc42 fc42 mdi humble bundle"
-echo -e "\ufc43 fc43 mdi kickstarter"
-echo -e "\ufc44 fc44 mdi netflix"
-echo -e "\ufc45 fc45 mdi onenote"
-echo -e "\ufc46 fc46 mdi periscope"
-echo -e "\ufc47 fc47 mdi uber"
-echo -e "\ufc48 fc48 mdi vector radius"
-echo -e "\ufc49 fc49 mdi xbox controller battery alert"
-echo -e "\ufc4a fc4a mdi xbox controller battery empty"
-echo -e "\ufc4b fc4b mdi xbox controller battery full"
-echo -e "\ufc4c fc4c mdi xbox controller battery low"
-echo -e "\ufc4d fc4d mdi xbox controller battery medium"
-echo -e "\ufc4e fc4e mdi xbox controller battery unknown"
-echo -e "\ufc4f fc4f mdi clipboard plus"
-echo -e "\ufc50 fc50 mdi file plus"
-echo -e "\ufc51 fc51 mdi format align bottom"
-echo -e "\ufc52 fc52 mdi format align middle"
-echo -e "\ufc53 fc53 mdi format align top"
-echo -e "\ufc54 fc54 mdi format list checks"
-echo -e "\ufc55 fc55 mdi format quote open"
-echo -e "\ufc56 fc56 mdi grid large"
-echo -e "\ufc57 fc57 mdi heart off"
-echo -e "\ufc58 fc58 mdi music"
-echo -e "\ufc59 fc59 mdi music off"
-echo -e "\ufc5a fc5a mdi tab plus"
-echo -e "\ufc5b fc5b mdi volume plus"
-echo -e "\ufc5c fc5c mdi volume minus"
-echo -e "\ufc5d fc5d mdi volume mute"
-echo -e "\ufc5e fc5e mdi unfold less vertical"
-echo -e "\ufc5f fc5f mdi unfold more vertical"
-echo -e "\ufc60 fc60 mdi taco"
-echo -e "\ufc61 fc61 mdi square outline"
-echo -e "\ufc62 fc62 mdi square"
-echo -e "\ufc63 fc63 mdi circle"
-echo -e "\ufc64 fc64 mdi circle outline"
-echo -e "\ufc65 fc65 mdi alert octagram"
-echo -e "\ufc66 fc66 mdi atom"
-echo -e "\ufc67 fc67 mdi ceiling light"
-echo -e "\ufc68 fc68 mdi chart bar stacked"
-echo -e "\ufc69 fc69 mdi chart line stacked"
-echo -e "\ufc6a fc6a mdi decagram"
-echo -e "\ufc6b fc6b mdi decagram outline"
-echo -e "\ufc6c fc6c mdi dice multiple"
-echo -e "\ufc6d fc6d mdi dice d10"
-echo -e "\ufc6e fc6e mdi folder open"
-echo -e "\ufc6f fc6f mdi guitar acoustic"
-echo -e "\ufc70 fc70 mdi loading"
-echo -e "\ufc71 fc71 mdi lock reset"
-echo -e "\ufc72 fc72 mdi ninja"
-echo -e "\ufc73 fc73 mdi octagram outline"
-echo -e "\ufc74 fc74 mdi pencil circle outline"
-echo -e "\ufc75 fc75 mdi selection off"
-echo -e "\ufc76 fc76 mdi set all"
-echo -e "\ufc77 fc77 mdi set center"
-echo -e "\ufc78 fc78 mdi set center right"
-echo -e "\ufc79 fc79 mdi set left"
-echo -e "\ufc7a fc7a mdi set left center"
-echo -e "\ufc7b fc7b mdi set left right"
-echo -e "\ufc7c fc7c mdi set none"
-echo -e "\ufc7d fc7d mdi set right"
-echo -e "\ufc7e fc7e mdi shield half full"
-echo -e "\ufc7f fc7f mdi sign direction"
-echo -e "\ufc80 fc80 mdi sign text"
-echo -e "\ufc81 fc81 mdi signal off"
-echo -e "\ufc82 fc82 mdi square root"
-echo -e "\ufc83 fc83 mdi sticker emoji"
-echo -e "\ufc84 fc84 mdi summit"
-echo -e "\ufc85 fc85 mdi sword cross"
-echo -e "\ufc86 fc86 mdi truck fast"
-echo -e "\ufc87 fc87 mdi yammer"
-echo -e "\ufc88 fc88 mdi cast off"
-echo -e "\ufc89 fc89 mdi help box"
-echo -e "\ufc8a fc8a mdi timer sand full"
-echo -e "\ufc8b fc8b mdi waves"
-echo -e "\ufc8c fc8c mdi alarm bell"
-echo -e "\ufc8d fc8d mdi alarm light"
-echo -e "\ufc8e fc8e mdi android head"
-echo -e "\ufc8f fc8f mdi approval"
-echo -e "\ufc90 fc90 mdi arrow collapse down"
-echo -e "\ufc91 fc91 mdi arrow collapse left"
-echo -e "\ufc92 fc92 mdi arrow collapse right"
-echo -e "\ufc93 fc93 mdi arrow collapse up"
-echo -e "\ufc94 fc94 mdi arrow expand down"
-echo -e "\ufc95 fc95 mdi arrow expand left"
-echo -e "\ufc96 fc96 mdi arrow expand right"
-echo -e "\ufc97 fc97 mdi arrow expand up"
-echo -e "\ufc98 fc98 mdi book secure"
-echo -e "\ufc99 fc99 mdi book unsecure"
-echo -e "\ufc9a fc9a mdi bus articulated end"
-echo -e "\ufc9b fc9b mdi bus articulated front"
-echo -e "\ufc9c fc9c mdi bus double decker"
-echo -e "\ufc9d fc9d mdi bus school"
-echo -e "\ufc9e fc9e mdi bus side"
-echo -e "\ufc9f fc9f mdi camera gopro"
-echo -e "\ufca0 fca0 mdi camera metering center"
-echo -e "\ufca1 fca1 mdi camera metering matrix"
-echo -e "\ufca2 fca2 mdi camera metering partial"
-echo -e "\ufca3 fca3 mdi camera metering spot"
-echo -e "\ufca4 fca4 mdi cannabis"
-echo -e "\ufca5 fca5 mdi car convertible"
-echo -e "\ufca6 fca6 mdi car estate"
-echo -e "\ufca7 fca7 mdi car hatchback"
-echo -e "\ufca8 fca8 mdi car pickup"
-echo -e "\ufca9 fca9 mdi car side"
-echo -e "\ufcaa fcaa mdi car sports"
-echo -e "\ufcab fcab mdi caravan"
-echo -e "\ufcac fcac mdi cctv"
-echo -e "\ufcad fcad mdi chart donut"
-echo -e "\ufcae fcae mdi chart donut variant"
-echo -e "\ufcaf fcaf mdi chart line variant"
-echo -e "\ufcb0 fcb0 mdi chili hot"
-echo -e "\ufcb1 fcb1 mdi chili medium"
-echo -e "\ufcb2 fcb2 mdi chili mild"
-echo -e "\ufcb3 fcb3 mdi cloud braces"
-echo -e "\ufcb4 fcb4 mdi cloud tags"
-echo -e "\ufcb5 fcb5 mdi console line"
-echo -e "\ufcb6 fcb6 mdi corn"
-echo -e "\ufcb7 fcb7 mdi currency chf"
-echo -e "\ufcb8 fcb8 mdi currency cny"
-echo -e "\ufcb9 fcb9 mdi currency eth"
-echo -e "\ufcba fcba mdi currency jpy"
-echo -e "\ufcbb fcbb mdi currency krw"
-echo -e "\ufcbc fcbc mdi currency sign"
-echo -e "\ufcbd fcbd mdi currency twd"
-echo -e "\ufcbe fcbe mdi desktop classic"
-echo -e "\ufcbf fcbf mdi dip switch"
-echo -e "\ufcc0 fcc0 mdi donkey"
-echo -e "\ufcc1 fcc1 mdi dots horizontal circle"
-echo -e "\ufcc2 fcc2 mdi dots vertical circle"
-echo -e "\ufcc3 fcc3 mdi ear hearing"
-echo -e "\ufcc4 fcc4 mdi elephant"
-echo -e "\ufcc5 fcc5 mdi eventbrite"
-echo -e "\ufcc6 fcc6 mdi food croissant"
-echo -e "\ufcc7 fcc7 mdi forklift"
-echo -e "\ufcc8 fcc8 mdi fuel"
-echo -e "\ufcc9 fcc9 mdi gesture"
-echo -e "\ufcca fcca mdi google analytics"
-echo -e "\ufccb fccb mdi google assistant"
-echo -e "\ufccc fccc mdi headphones off"
-echo -e "\ufccd fccd mdi high definition"
-echo -e "\ufcce fcce mdi home assistant"
-echo -e "\ufccf fccf mdi home automation"
-echo -e "\ufcd0 fcd0 mdi home circle"
-echo -e "\ufcd1 fcd1 mdi language go"
-echo -e "\ufcd2 fcd2 mdi language r"
-echo -e "\ufcd3 fcd3 mdi lava lamp"
-echo -e "\ufcd4 fcd4 mdi led strip"
-echo -e "\ufcd5 fcd5 mdi locker"
-echo -e "\ufcd6 fcd6 mdi locker multiple"
-echo -e "\ufcd7 fcd7 mdi map marker outline"
-echo -e "\ufcd8 fcd8 mdi metronome"
-echo -e "\ufcd9 fcd9 mdi metronome tick"
-echo -e "\ufcda fcda mdi micro sd"
-echo -e "\ufcdb fcdb mdi mixer"
-echo -e "\ufcdc fcdc mdi movie roll"
-echo -e "\ufcdd fcdd mdi mushroom"
-echo -e "\ufcde fcde mdi mushroom outline"
-echo -e "\ufcdf fcdf mdi nintendo switch"
-echo -e "\ufce0 fce0 mdi null"
-echo -e "\ufce1 fce1 mdi passport"
-echo -e "\ufce2 fce2 mdi periodic table co2"
-echo -e "\ufce3 fce3 mdi pipe"
-echo -e "\ufce4 fce4 mdi pipe disconnected"
-echo -e "\ufce5 fce5 mdi power socket eu"
-echo -e "\ufce6 fce6 mdi power socket uk"
-echo -e "\ufce7 fce7 mdi power socket us"
-echo -e "\ufce8 fce8 mdi rice"
-echo -e "\ufce9 fce9 mdi ring"
-echo -e "\ufcea fcea mdi sass"
-echo -e "\ufceb fceb mdi send secure"
-echo -e "\ufcec fcec mdi soy sauce"
-echo -e "\ufced fced mdi standard definition"
-echo -e "\ufcee fcee mdi surround sound 2 0"
-echo -e "\ufcef fcef mdi surround sound 3 1"
-echo -e "\ufcf0 fcf0 mdi surround sound 5 1"
-echo -e "\ufcf1 fcf1 mdi surround sound 7 1"
-echo -e "\ufcf2 fcf2 mdi television classic"
-echo -e "\ufcf3 fcf3 mdi textbox password"
-echo -e "\ufcf4 fcf4 mdi thought bubble"
-echo -e "\ufcf5 fcf5 mdi thought bubble outline"
-echo -e "\ufcf6 fcf6 mdi trackpad"
-echo -e "\ufcf7 fcf7 mdi ultra high definition"
-echo -e "\ufcf8 fcf8 mdi van passenger"
-echo -e "\ufcf9 fcf9 mdi van utility"
-echo -e "\ufcfa fcfa mdi vanish"
-echo -e "\ufcfb fcfb mdi video 3d"
-echo -e "\ufcfc fcfc mdi wall"
-echo -e "\ufcfd fcfd mdi xmpp"
-echo -e "\ufcfe fcfe mdi account multiple plus outline"
-echo -e "\ufcff fcff mdi account plus outline"
-echo -e "\ufd00 fd00 mdi allo"
-echo -e "\ufd01 fd01 mdi artist"
-echo -e "\ufd02 fd02 mdi atlassian"
-echo -e "\ufd03 fd03 mdi azure"
-echo -e "\ufd04 fd04 mdi basketball"
-echo -e "\ufd05 fd05 mdi battery charging wireless"
-echo -e "\ufd06 fd06 mdi battery charging wireless 10"
-echo -e "\ufd07 fd07 mdi battery charging wireless 20"
-echo -e "\ufd08 fd08 mdi battery charging wireless 30"
-echo -e "\ufd09 fd09 mdi battery charging wireless 40"
-echo -e "\ufd0a fd0a mdi battery charging wireless 50"
-echo -e "\ufd0b fd0b mdi battery charging wireless 60"
-echo -e "\ufd0c fd0c mdi battery charging wireless 70"
-echo -e "\ufd0d fd0d mdi battery charging wireless 80"
-echo -e "\ufd0e fd0e mdi battery charging wireless 90"
-echo -e "\ufd0f fd0f mdi battery charging wireless alert"
-echo -e "\ufd10 fd10 mdi battery charging wireless outline"
-echo -e "\ufd11 fd11 mdi bitcoin"
-echo -e "\ufd12 fd12 mdi briefcase outline"
-echo -e "\ufd13 fd13 mdi cellphone wireless"
-echo -e "\ufd14 fd14 mdi clover"
-echo -e "\ufd15 fd15 mdi comment question"
-echo -e "\ufd16 fd16 mdi content save outline"
-echo -e "\ufd17 fd17 mdi delete restore"
-echo -e "\ufd18 fd18 mdi door"
-echo -e "\ufd19 fd19 mdi door closed"
-echo -e "\ufd1a fd1a mdi door open"
-echo -e "\ufd1b fd1b mdi fan off"
-echo -e "\ufd1c fd1c mdi file percent"
-echo -e "\ufd1d fd1d mdi finance"
-echo -e "\ufd1e fd1e mdi flash circle"
-echo -e "\ufd1f fd1f mdi floor plan"
-echo -e "\ufd20 fd20 mdi forum outline"
-echo -e "\ufd21 fd21 mdi golf"
-echo -e "\ufd22 fd22 mdi google home"
-echo -e "\ufd23 fd23 mdi guy fawkes mask"
-echo -e "\ufd24 fd24 mdi home account"
-echo -e "\ufd25 fd25 mdi home heart"
-echo -e "\ufd26 fd26 mdi hot tub"
-echo -e "\ufd27 fd27 mdi hulu"
-echo -e "\ufd28 fd28 mdi ice cream"
-echo -e "\ufd29 fd29 mdi image off"
-echo -e "\ufd2a fd2a mdi karate"
-echo -e "\ufd2b fd2b mdi ladybug"
-echo -e "\ufd2c fd2c mdi notebook"
-echo -e "\ufd2d fd2d mdi phone return"
-echo -e "\ufd2e fd2e mdi poker chip"
-echo -e "\ufd2f fd2f mdi shape"
-echo -e "\ufd30 fd30 mdi shape outline"
-echo -e "\ufd31 fd31 mdi ship wheel"
-echo -e "\ufd32 fd32 mdi soccer field"
-echo -e "\ufd33 fd33 mdi table column"
-echo -e "\ufd34 fd34 mdi table of contents"
-echo -e "\ufd35 fd35 mdi table row"
-echo -e "\ufd36 fd36 mdi table settings"
-echo -e "\ufd37 fd37 mdi television box"
-echo -e "\ufd38 fd38 mdi television classic off"
-echo -e "\ufd39 fd39 mdi television off"
-echo -e "\ufd3a fd3a mdi towing"
-echo -e "\ufd3b fd3b mdi upload multiple"
-echo -e "\ufd3c fd3c mdi video 4k box"
-echo -e "\ufd3d fd3d mdi video input antenna"
-echo -e "\ufd3e fd3e mdi video input component"
-echo -e "\ufd3f fd3f mdi video input hdmi"
-echo -e "\ufd40 fd40 mdi video input svideo"
-echo -e "\ufd41 fd41 mdi view dashboard variant"
-echo -e "\ufd42 fd42 mdi vuejs"
-echo -e "\ufd43 fd43 mdi xamarin"
-echo -e "\ufd44 fd44 mdi xamarin outline"
-echo -e "\ufd45 fd45 mdi youtube creator studio"
-echo -e "\ufd46 fd46 mdi youtube gaming"
-echo -e "\ue300 e300 weather day cloudy gusts"
-echo -e "\ue301 e301 weather day cloudy windy"
-echo -e "\ue302 e302 weather day cloudy"
-echo -e "\ue303 e303 weather day fog"
-echo -e "\ue304 e304 weather day hail"
-echo -e "\ue305 e305 weather day lightning"
-echo -e "\ue306 e306 weather day rain mix"
-echo -e "\ue307 e307 weather day rain wind"
-echo -e "\ue308 e308 weather day rain"
-echo -e "\ue309 e309 weather day showers"
-echo -e "\ue30a e30a weather day snow"
-echo -e "\ue30b e30b weather day sprinkle"
-echo -e "\ue30c e30c weather day sunny overcast"
-echo -e "\ue30d e30d weather day sunny"
-echo -e "\ue30e e30e weather day storm showers"
-echo -e "\ue30f e30f weather day thunderstorm"
-echo -e "\ue310 e310 weather cloudy gusts"
-echo -e "\ue311 e311 weather cloudy windy"
-echo -e "\ue312 e312 weather cloudy"
-echo -e "\ue313 e313 weather fog"
-echo -e "\ue314 e314 weather hail"
-echo -e "\ue315 e315 weather lightning"
-echo -e "\ue316 e316 weather rain mix"
-echo -e "\ue317 e317 weather rain wind"
-echo -e "\ue318 e318 weather rain"
-echo -e "\ue319 e319 weather showers"
-echo -e "\ue31a e31a weather snow"
-echo -e "\ue31b e31b weather sprinkle"
-echo -e "\ue31c e31c weather storm showers"
-echo -e "\ue31d e31d weather thunderstorm"
-echo -e "\ue31e e31e weather windy"
-echo -e "\ue31f e31f weather night alt cloudy gusts"
-echo -e "\ue320 e320 weather night alt cloudy windy"
-echo -e "\ue321 e321 weather night alt hail"
-echo -e "\ue322 e322 weather night alt lightning"
-echo -e "\ue323 e323 weather night alt rain mix"
-echo -e "\ue324 e324 weather night alt rain wind"
-echo -e "\ue325 e325 weather night alt rain"
-echo -e "\ue326 e326 weather night alt rain mix"
-echo -e "\ue327 e327 weather night alt snow"
-echo -e "\ue328 e328 weather night alt sprinkle"
-echo -e "\ue329 e329 weather night alt storm showers"
-echo -e "\ue32a e32a weather night alt thunderstorm"
-echo -e "\ue32b e32b weather night clear"
-echo -e "\ue32c e32c weather night cloudy gusts"
-echo -e "\ue32d e32d weather night cloudy windy"
-echo -e "\ue32e e32e weather night cloudy"
-echo -e "\ue32f e32f weather night hail"
-echo -e "\ue330 e330 weather night lightning"
-echo -e "\ue331 e331 weather night rain mix"
-echo -e "\ue332 e332 weather night rain wind"
-echo -e "\ue333 e333 weather night rain"
-echo -e "\ue334 e334 weather night showers"
-echo -e "\ue335 e335 weather night snow"
-echo -e "\ue336 e336 weather night sprinkle"
-echo -e "\ue337 e337 weather night storm showers"
-echo -e "\ue338 e338 weather night thunderstorm"
-echo -e "\ue339 e339 weather celsius"
-echo -e "\ue33a e33a weather cloud down"
-echo -e "\ue33b e33b weather cloud refresh"
-echo -e "\ue33c e33c weather cloud up"
-echo -e "\ue33d e33d weather cloud"
-echo -e "\ue33e e33e weather degrees"
-echo -e "\ue33f e33f weather direction down left"
-echo -e "\ue340 e340 weather direction down"
-echo -e "\ue341 e341 weather fahrenheit"
-echo -e "\ue342 e342 weather horizon alt"
-echo -e "\ue343 e343 weather horizon"
-echo -e "\ue344 e344 weather direction left"
-echo -e "\ue345 e345 weather aliens"
-echo -e "\ue346 e346 weather night fog"
-echo -e "\ue347 e347 weather refresh alt"
-echo -e "\ue348 e348 weather refresh"
-echo -e "\ue349 e349 weather direction right"
-echo -e "\ue34a e34a weather raindrops"
-echo -e "\ue34b e34b weather strong wind"
-echo -e "\ue34c e34c weather sunrise"
-echo -e "\ue34d e34d weather sunset"
-echo -e "\ue34e e34e weather thermometer exterior"
-echo -e "\ue34f e34f weather thermometer internal"
-echo -e "\ue350 e350 weather thermometer"
-echo -e "\ue351 e351 weather tornado"
-echo -e "\ue352 e352 weather direction up right"
-echo -e "\ue353 e353 weather direction up"
-echo -e "\ue354 e354 weather wind west"
-echo -e "\ue355 e355 weather wind south west"
-echo -e "\ue356 e356 weather wind south east"
-echo -e "\ue357 e357 weather wind south"
-echo -e "\ue358 e358 weather wind north west"
-echo -e "\ue359 e359 weather wind north east"
-echo -e "\ue35a e35a weather wind north"
-echo -e "\ue35b e35b weather wind east"
-echo -e "\ue35c e35c weather smoke"
-echo -e "\ue35d e35d weather dust"
-echo -e "\ue35e e35e weather snow wind"
-echo -e "\ue35f e35f weather day snow wind"
-echo -e "\ue360 e360 weather night snow wind"
-echo -e "\ue361 e361 weather night alt snow wind"
-echo -e "\ue362 e362 weather day sleet storm"
-echo -e "\ue363 e363 weather night sleet storm"
-echo -e "\ue364 e364 weather night alt sleet storm"
-echo -e "\ue365 e365 weather day snow thunderstorm"
-echo -e "\ue366 e366 weather night snow thunderstorm"
-echo -e "\ue367 e367 weather night alt snow thunderstorm"
-echo -e "\ue368 e368 weather solar eclipse"
-echo -e "\ue369 e369 weather lunar eclipse"
-echo -e "\ue36a e36a weather meteor"
-echo -e "\ue36b e36b weather hot"
-echo -e "\ue36c e36c weather hurricane"
-echo -e "\ue36d e36d weather smog"
-echo -e "\ue36e e36e weather alien"
-echo -e "\ue36f e36f weather snowflake cold"
-echo -e "\ue370 e370 weather stars"
-echo -e "\ue371 e371 weather raindrop"
-echo -e "\ue372 e372 weather barometer"
-echo -e "\ue373 e373 weather humidity"
-echo -e "\ue374 e374 weather na"
-echo -e "\ue375 e375 weather flood"
-echo -e "\ue376 e376 weather day cloudy high"
-echo -e "\ue377 e377 weather night alt cloudy high"
-echo -e "\ue378 e378 weather night cloudy high"
-echo -e "\ue379 e379 weather night alt partly cloudy"
-echo -e "\ue37a e37a weather sandstorm"
-echo -e "\ue37b e37b weather night partly cloudy"
-echo -e "\ue37c e37c weather umbrella"
-echo -e "\ue37d e37d weather day windy"
-echo -e "\ue37e e37e weather night alt cloudy"
-echo -e "\ue37f e37f weather direction up left"
-echo -e "\ue380 e380 weather direction down right"
-echo -e "\ue381 e381 weather time 12"
-echo -e "\ue382 e382 weather time 1"
-echo -e "\ue383 e383 weather time 2"
-echo -e "\ue384 e384 weather time 3"
-echo -e "\ue385 e385 weather time 4"
-echo -e "\ue386 e386 weather time 5"
-echo -e "\ue387 e387 weather time 6"
-echo -e "\ue388 e388 weather time 7"
-echo -e "\ue389 e389 weather time 8"
-echo -e "\ue38a e38a weather time 9"
-echo -e "\ue38b e38b weather time 10"
-echo -e "\ue38c e38c weather time 11"
-echo -e "\ue38d e38d weather moon new"
-echo -e "\ue38e e38e weather moon waxing crescent 1"
-echo -e "\ue38f e38f weather moon waxing crescent 2"
-echo -e "\ue390 e390 weather moon waxing crescent 3"
-echo -e "\ue391 e391 weather moon waxing crescent 4"
-echo -e "\ue392 e392 weather moon waxing crescent 5"
-echo -e "\ue393 e393 weather moon waxing crescent 6"
-echo -e "\ue394 e394 weather moon first quarter"
-echo -e "\ue395 e395 weather moon waxing gibbous 1"
-echo -e "\ue396 e396 weather moon waxing gibbous 2"
-echo -e "\ue397 e397 weather moon waxing gibbous 3"
-echo -e "\ue398 e398 weather moon waxing gibbous 4"
-echo -e "\ue399 e399 weather moon waxing gibbous 5"
-echo -e "\ue39a e39a weather moon waxing gibbous 6"
-echo -e "\ue39b e39b weather moon full"
-echo -e "\ue39c e39c weather moon waning gibbous 1"
-echo -e "\ue39d e39d weather moon waning gibbous 2"
-echo -e "\ue39e e39e weather moon waning gibbous 3"
-echo -e "\ue39f e39f weather moon waning gibbous 4"
-echo -e "\ue3a0 e3a0 weather moon waning gibbous 5"
-echo -e "\ue3a1 e3a1 weather moon waning gibbous 6"
-echo -e "\ue3a2 e3a2 weather moon third quarter"
-echo -e "\ue3a3 e3a3 weather moon waning crescent 1"
-echo -e "\ue3a4 e3a4 weather moon waning crescent 2"
-echo -e "\ue3a5 e3a5 weather moon waning crescent 3"
-echo -e "\ue3a6 e3a6 weather moon waning crescent 4"
-echo -e "\ue3a7 e3a7 weather moon waning crescent 5"
-echo -e "\ue3a8 e3a8 weather moon waning crescent 6"
-echo -e "\ue3a9 e3a9 weather wind direction"
-echo -e "\ue3aa e3aa weather day sleet"
-echo -e "\ue3ab e3ab weather night sleet"
-echo -e "\ue3ac e3ac weather night alt sleet"
-echo -e "\ue3ad e3ad weather sleet"
-echo -e "\ue3ae e3ae weather day haze"
-echo -e "\ue3af e3af weather wind beaufort 0"
-echo -e "\ue3b0 e3b0 weather wind beaufort 1"
-echo -e "\ue3b1 e3b1 weather wind beaufort 2"
-echo -e "\ue3b2 e3b2 weather wind beaufort 3"
-echo -e "\ue3b3 e3b3 weather wind beaufort 4"
-echo -e "\ue3b4 e3b4 weather wind beaufort 5"
-echo -e "\ue3b5 e3b5 weather wind beaufort 6"
-echo -e "\ue3b6 e3b6 weather wind beaufort 7"
-echo -e "\ue3b7 e3b7 weather wind beaufort 8"
-echo -e "\ue3b8 e3b8 weather wind beaufort 9"
-echo -e "\ue3b9 e3b9 weather wind beaufort 10"
-echo -e "\ue3ba e3ba weather wind beaufort 11"
-echo -e "\ue3bb e3bb weather wind beaufort 12"
-echo -e "\ue3bc e3bc weather day light wind"
-echo -e "\ue3bd e3bd weather tsunami"
-echo -e "\ue3be e3be weather earthquake"
-echo -e "\ue3bf e3bf weather fire"
-echo -e "\ue3c0 e3c0 weather volcano"
-echo -e "\ue3c1 e3c1 weather moonrise"
-echo -e "\ue3c2 e3c2 weather moonset"
-echo -e "\ue3c3 e3c3 weather train"
-echo -e "\ue3c4 e3c4 weather small craft advisory"
-echo -e "\ue3c5 e3c5 weather gale warning"
-echo -e "\ue3c6 e3c6 weather storm warning"
-echo -e "\ue3c7 e3c7 weather hurricane warning"
-echo -e "\ue3c8 e3c8 weather moon alt waxing crescent 1"
-echo -e "\ue3c9 e3c9 weather moon alt waxing crescent 2"
-echo -e "\ue3ca e3ca weather moon alt waxing crescent 3"
-echo -e "\ue3cb e3cb weather moon alt waxing crescent 4"
-echo -e "\ue3cc e3cc weather moon alt waxing crescent 5"
-echo -e "\ue3cd e3cd weather moon alt waxing crescent 6"
-echo -e "\ue3ce e3ce weather moon alt first quarter"
-echo -e "\ue3cf e3cf weather moon alt waxing gibbous 1"
-echo -e "\ue3d0 e3d0 weather moon alt waxing gibbous 2"
-echo -e "\ue3d1 e3d1 weather moon alt waxing gibbous 3"
-echo -e "\ue3d2 e3d2 weather moon alt waxing gibbous 4"
-echo -e "\ue3d3 e3d3 weather moon alt waxing gibbous 5"
-echo -e "\ue3d4 e3d4 weather moon alt waxing gibbous 6"
-echo -e "\ue3d5 e3d5 weather moon alt full"
-echo -e "\ue3d6 e3d6 weather moon alt waning gibbous 1"
-echo -e "\ue3d7 e3d7 weather moon alt waning gibbous 2"
-echo -e "\ue3d8 e3d8 weather moon alt waning gibbous 3"
-echo -e "\ue3d9 e3d9 weather moon alt waning gibbous 4"
-echo -e "\ue3da e3da weather moon alt waning gibbous 5"
-echo -e "\ue3db e3db weather moon alt waning gibbous 6"
-echo -e "\ue3dc e3dc weather moon alt third quarter"
-echo -e "\ue3dd e3dd weather moon alt waning crescent 1"
-echo -e "\ue3de e3de weather moon alt waning crescent 2"
-echo -e "\ue3df e3df weather moon alt waning crescent 3"
-echo -e "\ue3e0 e3e0 weather moon alt waning crescent 4"
-echo -e "\ue3e1 e3e1 weather moon alt waning crescent 5"
-echo -e "\ue3e2 e3e2 weather moon alt waning crescent 6"
-echo -e "\ue3e3 e3e3 weather moon alt new"
+printf "\ue700 e700 %d dev bing small\n" $((16#e700))
+printf "\ue701 e701 %d dev css tricks\n" $((16#e701))
+printf "\ue702 e702 %d dev git\n" $((16#e702))
+printf "\ue703 e703 %d dev bitbucket\n" $((16#e703))
+printf "\ue704 e704 %d dev mysql\n" $((16#e704))
+printf "\ue705 e705 %d dev streamline\n" $((16#e705))
+printf "\ue706 e706 %d dev database\n" $((16#e706))
+printf "\ue707 e707 %d dev dropbox\n" $((16#e707))
+printf "\ue708 e708 %d dev github alt\n" $((16#e708))
+printf "\ue709 e709 %d dev github badge\n" $((16#e709))
+printf "\ue70a e70a %d dev github\n" $((16#e70a))
+printf "\ue70b e70b %d dev wordpress\n" $((16#e70b))
+printf "\ue70c e70c %d dev visualstudio\n" $((16#e70c))
+printf "\ue70d e70d %d dev jekyll small\n" $((16#e70d))
+printf "\ue70e e70e %d dev android\n" $((16#e70e))
+printf "\ue70f e70f %d dev windows\n" $((16#e70f))
+printf "\ue710 e710 %d dev stackoverflow\n" $((16#e710))
+printf "\ue711 e711 %d dev apple\n" $((16#e711))
+printf "\ue712 e712 %d dev linux\n" $((16#e712))
+printf "\ue713 e713 %d dev appstore\n" $((16#e713))
+printf "\ue714 e714 %d dev ghost small\n" $((16#e714))
+printf "\ue715 e715 %d dev yahoo\n" $((16#e715))
+printf "\ue716 e716 %d dev codepen\n" $((16#e716))
+printf "\ue717 e717 %d dev github full\n" $((16#e717))
+printf "\ue718 e718 %d dev nodejs small\n" $((16#e718))
+printf "\ue719 e719 %d dev nodejs\n" $((16#e719))
+printf "\ue71a e71a %d dev hackernews\n" $((16#e71a))
+printf "\ue71b e71b %d dev ember\n" $((16#e71b))
+printf "\ue71c e71c %d dev dojo\n" $((16#e71c))
+printf "\ue71d e71d %d dev django\n" $((16#e71d))
+printf "\ue71e e71e %d dev npm\n" $((16#e71e))
+printf "\ue71f e71f %d dev ghost\n" $((16#e71f))
+printf "\ue720 e720 %d dev modernizr\n" $((16#e720))
+printf "\ue721 e721 %d dev unity small\n" $((16#e721))
+printf "\ue722 e722 %d dev rasberry pi\n" $((16#e722))
+printf "\ue723 e723 %d dev blackberry\n" $((16#e723))
+printf "\ue724 e724 %d dev go\n" $((16#e724))
+printf "\ue725 e725 %d dev git branch\n" $((16#e725))
+printf "\ue726 e726 %d dev git pull request\n" $((16#e726))
+printf "\ue727 e727 %d dev git merge\n" $((16#e727))
+printf "\ue728 e728 %d dev git compare\n" $((16#e728))
+printf "\ue729 e729 %d dev git commit\n" $((16#e729))
+printf "\ue72a e72a %d dev cssdeck\n" $((16#e72a))
+printf "\ue72b e72b %d dev yahoo small\n" $((16#e72b))
+printf "\ue72c e72c %d dev techcrunch\n" $((16#e72c))
+printf "\ue72d e72d %d dev smashing magazine\n" $((16#e72d))
+printf "\ue72e e72e %d dev netmagazine\n" $((16#e72e))
+printf "\ue72f e72f %d dev codrops\n" $((16#e72f))
+printf "\ue730 e730 %d dev phonegap\n" $((16#e730))
+printf "\ue731 e731 %d dev google drive\n" $((16#e731))
+printf "\ue732 e732 %d dev html5 multimedia\n" $((16#e732))
+printf "\ue733 e733 %d dev html5 device access\n" $((16#e733))
+printf "\ue734 e734 %d dev html5 connectivity\n" $((16#e734))
+printf "\ue735 e735 %d dev html5 3d effects\n" $((16#e735))
+printf "\ue736 e736 %d dev html5\n" $((16#e736))
+printf "\ue737 e737 %d dev scala\n" $((16#e737))
+printf "\ue738 e738 %d dev java\n" $((16#e738))
+printf "\ue739 e739 %d dev ruby\n" $((16#e739))
+printf "\ue73a e73a %d dev ubuntu\n" $((16#e73a))
+printf "\ue73b e73b %d dev ruby on rails\n" $((16#e73b))
+printf "\ue73c e73c %d dev python\n" $((16#e73c))
+printf "\ue73d e73d %d dev php\n" $((16#e73d))
+printf "\ue73e e73e %d dev markdown\n" $((16#e73e))
+printf "\ue73f e73f %d dev laravel\n" $((16#e73f))
+printf "\ue740 e740 %d dev magento\n" $((16#e740))
+printf "\ue741 e741 %d dev joomla\n" $((16#e741))
+printf "\ue742 e742 %d dev drupal\n" $((16#e742))
+printf "\ue743 e743 %d dev chrome\n" $((16#e743))
+printf "\ue744 e744 %d dev ie\n" $((16#e744))
+printf "\ue745 e745 %d dev firefox\n" $((16#e745))
+printf "\ue746 e746 %d dev opera\n" $((16#e746))
+printf "\ue747 e747 %d dev bootstrap\n" $((16#e747))
+printf "\ue748 e748 %d dev safari\n" $((16#e748))
+printf "\ue749 e749 %d dev css3\n" $((16#e749))
+printf "\ue74a e74a %d dev css3 full\n" $((16#e74a))
+printf "\ue74b e74b %d dev sass\n" $((16#e74b))
+printf "\ue74c e74c %d dev grunt\n" $((16#e74c))
+printf "\ue74d e74d %d dev bower\n" $((16#e74d))
+printf "\ue74e e74e %d dev javascript\n" $((16#e74e))
+printf "\ue74f e74f %d dev javascript shield\n" $((16#e74f))
+printf "\ue750 e750 %d dev jquery\n" $((16#e750))
+printf "\ue751 e751 %d dev coffeescript\n" $((16#e751))
+printf "\ue752 e752 %d dev backbone\n" $((16#e752))
+printf "\ue753 e753 %d dev angular\n" $((16#e753))
+printf "\ue754 e754 %d dev jquery ui\n" $((16#e754))
+printf "\ue755 e755 %d dev swift\n" $((16#e755))
+printf "\ue756 e756 %d dev symfony\n" $((16#e756))
+printf "\ue757 e757 %d dev symfony badge\n" $((16#e757))
+printf "\ue758 e758 %d dev less\n" $((16#e758))
+printf "\ue759 e759 %d dev stylus\n" $((16#e759))
+printf "\ue75a e75a %d dev trello\n" $((16#e75a))
+printf "\ue75b e75b %d dev atlassian\n" $((16#e75b))
+printf "\ue75c e75c %d dev jira\n" $((16#e75c))
+printf "\ue75d e75d %d dev envato\n" $((16#e75d))
+printf "\ue75e e75e %d dev snap svg\n" $((16#e75e))
+printf "\ue75f e75f %d dev raphael\n" $((16#e75f))
+printf "\ue760 e760 %d dev chart\n" $((16#e760))
+printf "\ue761 e761 %d dev compass\n" $((16#e761))
+printf "\ue762 e762 %d dev onedrive\n" $((16#e762))
+printf "\ue763 e763 %d dev gulp\n" $((16#e763))
+printf "\ue764 e764 %d dev atom\n" $((16#e764))
+printf "\ue765 e765 %d dev cisco\n" $((16#e765))
+printf "\ue766 e766 %d dev nancy\n" $((16#e766))
+printf "\ue767 e767 %d dev jenkins\n" $((16#e767))
+printf "\ue768 e768 %d dev clojure\n" $((16#e768))
+printf "\ue769 e769 %d dev perl\n" $((16#e769))
+printf "\ue76a e76a %d dev clojure alt\n" $((16#e76a))
+printf "\ue76b e76b %d dev celluloid\n" $((16#e76b))
+printf "\ue76c e76c %d dev w3c\n" $((16#e76c))
+printf "\ue76d e76d %d dev redis\n" $((16#e76d))
+printf "\ue76e e76e %d dev postgresql\n" $((16#e76e))
+printf "\ue76f e76f %d dev webplatform\n" $((16#e76f))
+printf "\ue770 e770 %d dev requirejs\n" $((16#e770))
+printf "\ue771 e771 %d dev opensource\n" $((16#e771))
+printf "\ue772 e772 %d dev typo3\n" $((16#e772))
+printf "\ue773 e773 %d dev uikit\n" $((16#e773))
+printf "\ue774 e774 %d dev doctrine\n" $((16#e774))
+printf "\ue775 e775 %d dev groovy\n" $((16#e775))
+printf "\ue776 e776 %d dev nginx\n" $((16#e776))
+printf "\ue777 e777 %d dev haskell\n" $((16#e777))
+printf "\ue778 e778 %d dev zend\n" $((16#e778))
+printf "\ue779 e779 %d dev gnu\n" $((16#e779))
+printf "\ue77a e77a %d dev yeoman\n" $((16#e77a))
+printf "\ue77b e77b %d dev heroku\n" $((16#e77b))
+printf "\ue77c e77c %d dev msql server\n" $((16#e77c))
+printf "\ue77d e77d %d dev debian\n" $((16#e77d))
+printf "\ue77e e77e %d dev travis\n" $((16#e77e))
+printf "\ue77f e77f %d dev dotnet\n" $((16#e77f))
+printf "\ue780 e780 %d dev codeigniter\n" $((16#e780))
+printf "\ue781 e781 %d dev javascript badge\n" $((16#e781))
+printf "\ue782 e782 %d dev yii\n" $((16#e782))
+printf "\ue783 e783 %d dev composer\n" $((16#e783))
+printf "\ue784 e784 %d dev krakenjs badge\n" $((16#e784))
+printf "\ue785 e785 %d dev krakenjs\n" $((16#e785))
+printf "\ue786 e786 %d dev mozilla\n" $((16#e786))
+printf "\ue787 e787 %d dev firebase\n" $((16#e787))
+printf "\ue788 e788 %d dev sizzlejs\n" $((16#e788))
+printf "\ue789 e789 %d dev creativecommons\n" $((16#e789))
+printf "\ue78a e78a %d dev creativecommons badge\n" $((16#e78a))
+printf "\ue78b e78b %d dev mitlicence\n" $((16#e78b))
+printf "\ue78c e78c %d dev senchatouch\n" $((16#e78c))
+printf "\ue78d e78d %d dev bugsense\n" $((16#e78d))
+printf "\ue78e e78e %d dev extjs\n" $((16#e78e))
+printf "\ue78f e78f %d dev mootools badge\n" $((16#e78f))
+printf "\ue790 e790 %d dev mootools\n" $((16#e790))
+printf "\ue791 e791 %d dev ruby rough\n" $((16#e791))
+printf "\ue792 e792 %d dev komodo\n" $((16#e792))
+printf "\ue793 e793 %d dev coda\n" $((16#e793))
+printf "\ue794 e794 %d dev bintray\n" $((16#e794))
+printf "\ue795 e795 %d dev terminal\n" $((16#e795))
+printf "\ue796 e796 %d dev code\n" $((16#e796))
+printf "\ue797 e797 %d dev responsive\n" $((16#e797))
+printf "\ue798 e798 %d dev dart\n" $((16#e798))
+printf "\ue799 e799 %d dev aptana\n" $((16#e799))
+printf "\ue79a e79a %d dev mailchimp\n" $((16#e79a))
+printf "\ue79b e79b %d dev netbeans\n" $((16#e79b))
+printf "\ue79c e79c %d dev dreamweaver\n" $((16#e79c))
+printf "\ue79d e79d %d dev brackets\n" $((16#e79d))
+printf "\ue79e e79e %d dev eclipse\n" $((16#e79e))
+printf "\ue79f e79f %d dev cloud9\n" $((16#e79f))
+printf "\ue7a0 e7a0 %d dev scrum\n" $((16#e7a0))
+printf "\ue7a1 e7a1 %d dev prolog\n" $((16#e7a1))
+printf "\ue7a2 e7a2 %d dev terminal badge\n" $((16#e7a2))
+printf "\ue7a3 e7a3 %d dev code badge\n" $((16#e7a3))
+printf "\ue7a4 e7a4 %d dev mongodb\n" $((16#e7a4))
+printf "\ue7a5 e7a5 %d dev meteor\n" $((16#e7a5))
+printf "\ue7a6 e7a6 %d dev meteorfull\n" $((16#e7a6))
+printf "\ue7a7 e7a7 %d dev fsharp\n" $((16#e7a7))
+printf "\ue7a8 e7a8 %d dev rust\n" $((16#e7a8))
+printf "\ue7a9 e7a9 %d dev ionic\n" $((16#e7a9))
+printf "\ue7aa e7aa %d dev sublime\n" $((16#e7aa))
+printf "\ue7ab e7ab %d dev appcelerator\n" $((16#e7ab))
+printf "\ue7ac e7ac %d dev asterisk\n" $((16#e7ac))
+printf "\ue7ad e7ad %d dev aws\n" $((16#e7ad))
+printf "\ue7ae e7ae %d dev digital ocean\n" $((16#e7ae))
+printf "\ue7af e7af %d dev dlang\n" $((16#e7af))
+printf "\ue7b0 e7b0 %d dev docker\n" $((16#e7b0))
+printf "\ue7b1 e7b1 %d dev erlang\n" $((16#e7b1))
+printf "\ue7b2 e7b2 %d dev google cloud platform\n" $((16#e7b2))
+printf "\ue7b3 e7b3 %d dev grails\n" $((16#e7b3))
+printf "\ue7b4 e7b4 %d dev illustrator\n" $((16#e7b4))
+printf "\ue7b5 e7b5 %d dev intellij\n" $((16#e7b5))
+printf "\ue7b6 e7b6 %d dev materializecss\n" $((16#e7b6))
+printf "\ue7b7 e7b7 %d dev openshift\n" $((16#e7b7))
+printf "\ue7b8 e7b8 %d dev photoshop\n" $((16#e7b8))
+printf "\ue7b9 e7b9 %d dev rackspace\n" $((16#e7b9))
+printf "\ue7ba e7ba %d dev react\n" $((16#e7ba))
+printf "\ue7bb e7bb %d dev redhat\n" $((16#e7bb))
+printf "\ue7bc e7bc %d dev scriptcs\n" $((16#e7bc))
+printf "\ue7c4 e7c4 %d dev sqllite\n" $((16#e7c4))
+printf "\ue7c5 e7c5 %d dev vim\n" $((16#e7c5))
+printf "\ue200 e200 %d fae smaller\n" $((16#e200))
+printf "\ue201 e201 %d fae snowing\n" $((16#e201))
+printf "\ue202 e202 %d fae soda\n" $((16#e202))
+printf "\ue203 e203 %d fae sofa\n" $((16#e203))
+printf "\ue204 e204 %d fae soup\n" $((16#e204))
+printf "\ue205 e205 %d fae spermatozoon\n" $((16#e205))
+printf "\ue206 e206 %d fae spin double\n" $((16#e206))
+printf "\ue207 e207 %d fae stomach\n" $((16#e207))
+printf "\ue208 e208 %d fae storm\n" $((16#e208))
+printf "\ue209 e209 %d fae telescope\n" $((16#e209))
+printf "\ue20a e20a %d fae thermometer\n" $((16#e20a))
+printf "\ue20b e20b %d fae thermometer high\n" $((16#e20b))
+printf "\ue20c e20c %d fae thermometer low\n" $((16#e20c))
+printf "\ue20d e20d %d fae thin close\n" $((16#e20d))
+printf "\ue20e e20e %d fae toilet\n" $((16#e20e))
+printf "\ue20f e20f %d fae tools\n" $((16#e20f))
+printf "\ue210 e210 %d fae tooth\n" $((16#e210))
+printf "\ue211 e211 %d fae uterus\n" $((16#e211))
+printf "\ue212 e212 %d fae w3c\n" $((16#e212))
+printf "\ue213 e213 %d fae walking\n" $((16#e213))
+printf "\ue214 e214 %d fae virus\n" $((16#e214))
+printf "\ue215 e215 %d fae telegram circle\n" $((16#e215))
+printf "\ue216 e216 %d fae slash\n" $((16#e216))
+printf "\ue217 e217 %d fae telegram\n" $((16#e217))
+printf "\ue218 e218 %d fae shirt\n" $((16#e218))
+printf "\ue219 e219 %d fae tacos\n" $((16#e219))
+printf "\ue21a e21a %d fae sushi\n" $((16#e21a))
+printf "\ue21b e21b %d fae triangle ruler\n" $((16#e21b))
+printf "\ue21c e21c %d fae tree\n" $((16#e21c))
+printf "\ue21d e21d %d fae sun cloud\n" $((16#e21d))
+printf "\ue21e e21e %d fae ruby o\n" $((16#e21e))
+printf "\ue21f e21f %d fae ruler\n" $((16#e21f))
+printf "\ue220 e220 %d fae umbrella\n" $((16#e220))
+printf "\ue221 e221 %d fae medicine\n" $((16#e221))
+printf "\ue222 e222 %d fae microscope\n" $((16#e222))
+printf "\ue223 e223 %d fae milk bottle\n" $((16#e223))
+printf "\ue224 e224 %d fae minimize\n" $((16#e224))
+printf "\ue225 e225 %d fae molecule\n" $((16#e225))
+printf "\ue226 e226 %d fae moon cloud\n" $((16#e226))
+printf "\ue227 e227 %d fae mushroom\n" $((16#e227))
+printf "\ue228 e228 %d fae mustache\n" $((16#e228))
+printf "\ue229 e229 %d fae mysql\n" $((16#e229))
+printf "\ue22a e22a %d fae nintendo\n" $((16#e22a))
+printf "\ue22b e22b %d fae palette color\n" $((16#e22b))
+printf "\ue22c e22c %d fae pi\n" $((16#e22c))
+printf "\ue22d e22d %d fae pizza\n" $((16#e22d))
+printf "\ue22e e22e %d fae planet\n" $((16#e22e))
+printf "\ue22f e22f %d fae plant\n" $((16#e22f))
+printf "\ue230 e230 %d fae playstation\n" $((16#e230))
+printf "\ue231 e231 %d fae poison\n" $((16#e231))
+printf "\ue232 e232 %d fae popcorn\n" $((16#e232))
+printf "\ue233 e233 %d fae popsicle\n" $((16#e233))
+printf "\ue234 e234 %d fae pulse\n" $((16#e234))
+printf "\ue235 e235 %d fae python\n" $((16#e235))
+printf "\ue236 e236 %d fae quora circle\n" $((16#e236))
+printf "\ue237 e237 %d fae quora square\n" $((16#e237))
+printf "\ue238 e238 %d fae radioactive\n" $((16#e238))
+printf "\ue239 e239 %d fae raining\n" $((16#e239))
+printf "\ue23a e23a %d fae real heart\n" $((16#e23a))
+printf "\ue23b e23b %d fae refrigerator\n" $((16#e23b))
+printf "\ue23c e23c %d fae restore\n" $((16#e23c))
+printf "\ue23d e23d %d fae ring\n" $((16#e23d))
+printf "\ue23e e23e %d fae ruby\n" $((16#e23e))
+printf "\ue23f e23f %d fae fingerprint\n" $((16#e23f))
+printf "\ue240 e240 %d fae floppy\n" $((16#e240))
+printf "\ue241 e241 %d fae footprint\n" $((16#e241))
+printf "\ue242 e242 %d fae freecodecamp\n" $((16#e242))
+printf "\ue243 e243 %d fae galaxy\n" $((16#e243))
+printf "\ue244 e244 %d fae galery\n" $((16#e244))
+printf "\ue245 e245 %d fae glass\n" $((16#e245))
+printf "\ue246 e246 %d fae google drive\n" $((16#e246))
+printf "\ue247 e247 %d fae google play\n" $((16#e247))
+printf "\ue248 e248 %d fae gps\n" $((16#e248))
+printf "\ue249 e249 %d fae grav\n" $((16#e249))
+printf "\ue24a e24a %d fae guitar\n" $((16#e24a))
+printf "\ue24b e24b %d fae gut\n" $((16#e24b))
+printf "\ue24c e24c %d fae halter\n" $((16#e24c))
+printf "\ue24d e24d %d fae hamburger\n" $((16#e24d))
+printf "\ue24e e24e %d fae hat\n" $((16#e24e))
+printf "\ue24f e24f %d fae hexagon\n" $((16#e24f))
+printf "\ue250 e250 %d fae high heel\n" $((16#e250))
+printf "\ue251 e251 %d fae hotdog\n" $((16#e251))
+printf "\ue252 e252 %d fae ice cream\n" $((16#e252))
+printf "\ue253 e253 %d fae id card\n" $((16#e253))
+printf "\ue254 e254 %d fae imdb\n" $((16#e254))
+printf "\ue255 e255 %d fae infinity\n" $((16#e255))
+printf "\ue256 e256 %d fae java\n" $((16#e256))
+printf "\ue257 e257 %d fae layers\n" $((16#e257))
+printf "\ue258 e258 %d fae lips\n" $((16#e258))
+printf "\ue259 e259 %d fae lipstick\n" $((16#e259))
+printf "\ue25a e25a %d fae liver\n" $((16#e25a))
+printf "\ue25b e25b %d fae lung\n" $((16#e25b))
+printf "\ue25c e25c %d fae makeup brushes\n" $((16#e25c))
+printf "\ue25d e25d %d fae maximize\n" $((16#e25d))
+printf "\ue25e e25e %d fae wallet\n" $((16#e25e))
+printf "\ue25f e25f %d fae chess horse\n" $((16#e25f))
+printf "\ue260 e260 %d fae chess king\n" $((16#e260))
+printf "\ue261 e261 %d fae chess pawn\n" $((16#e261))
+printf "\ue262 e262 %d fae chess queen\n" $((16#e262))
+printf "\ue263 e263 %d fae chess tower\n" $((16#e263))
+printf "\ue264 e264 %d fae cheese\n" $((16#e264))
+printf "\ue265 e265 %d fae chilli\n" $((16#e265))
+printf "\ue266 e266 %d fae chip\n" $((16#e266))
+printf "\ue267 e267 %d fae cicling\n" $((16#e267))
+printf "\ue268 e268 %d fae cloud\n" $((16#e268))
+printf "\ue269 e269 %d fae cockroach\n" $((16#e269))
+printf "\ue26a e26a %d fae coffe beans\n" $((16#e26a))
+printf "\ue26b e26b %d fae coins\n" $((16#e26b))
+printf "\ue26c e26c %d fae comb\n" $((16#e26c))
+printf "\ue26d e26d %d fae comet\n" $((16#e26d))
+printf "\ue26e e26e %d fae crown\n" $((16#e26e))
+printf "\ue26f e26f %d fae cup coffe\n" $((16#e26f))
+printf "\ue270 e270 %d fae dice\n" $((16#e270))
+printf "\ue271 e271 %d fae disco\n" $((16#e271))
+printf "\ue272 e272 %d fae dna\n" $((16#e272))
+printf "\ue273 e273 %d fae donut\n" $((16#e273))
+printf "\ue274 e274 %d fae dress\n" $((16#e274))
+printf "\ue275 e275 %d fae drop\n" $((16#e275))
+printf "\ue276 e276 %d fae ello\n" $((16#e276))
+printf "\ue277 e277 %d fae envelope open\n" $((16#e277))
+printf "\ue278 e278 %d fae envelope open o\n" $((16#e278))
+printf "\ue279 e279 %d fae equal\n" $((16#e279))
+printf "\ue27a e27a %d fae equal bigger\n" $((16#e27a))
+printf "\ue27b e27b %d fae feedly\n" $((16#e27b))
+printf "\ue27c e27c %d fae file export\n" $((16#e27c))
+printf "\ue27d e27d %d fae file import\n" $((16#e27d))
+printf "\ue27e e27e %d fae wind\n" $((16#e27e))
+printf "\ue27f e27f %d fae atom\n" $((16#e27f))
+printf "\ue280 e280 %d fae bacteria\n" $((16#e280))
+printf "\ue281 e281 %d fae banana\n" $((16#e281))
+printf "\ue282 e282 %d fae bath\n" $((16#e282))
+printf "\ue283 e283 %d fae bed\n" $((16#e283))
+printf "\ue284 e284 %d fae benzene\n" $((16#e284))
+printf "\ue285 e285 %d fae bigger\n" $((16#e285))
+printf "\ue286 e286 %d fae biohazard\n" $((16#e286))
+printf "\ue287 e287 %d fae blogger circle\n" $((16#e287))
+printf "\ue288 e288 %d fae blogger square\n" $((16#e288))
+printf "\ue289 e289 %d fae bones\n" $((16#e289))
+printf "\ue28a e28a %d fae book open\n" $((16#e28a))
+printf "\ue28b e28b %d fae book open o\n" $((16#e28b))
+printf "\ue28c e28c %d fae brain\n" $((16#e28c))
+printf "\ue28d e28d %d fae bread\n" $((16#e28d))
+printf "\ue28e e28e %d fae butterfly\n" $((16#e28e))
+printf "\ue28f e28f %d fae carot\n" $((16#e28f))
+printf "\ue290 e290 %d fae cc by\n" $((16#e290))
+printf "\ue291 e291 %d fae cc cc\n" $((16#e291))
+printf "\ue292 e292 %d fae cc nc\n" $((16#e292))
+printf "\ue293 e293 %d fae cc nc eu\n" $((16#e293))
+printf "\ue294 e294 %d fae cc nc jp\n" $((16#e294))
+printf "\ue295 e295 %d fae cc nd\n" $((16#e295))
+printf "\ue296 e296 %d fae cc remix\n" $((16#e296))
+printf "\ue297 e297 %d fae cc sa\n" $((16#e297))
+printf "\ue298 e298 %d fae cc share\n" $((16#e298))
+printf "\ue299 e299 %d fae cc zero\n" $((16#e299))
+printf "\ue29a e29a %d fae checklist o\n" $((16#e29a))
+printf "\ue29b e29b %d fae cherry\n" $((16#e29b))
+printf "\ue29c e29c %d fae chess bishop\n" $((16#e29c))
+printf "\ue29d e29d %d fae xbox\n" $((16#e29d))
+printf "\ue29e e29e %d fae apple fruit\n" $((16#e29e))
+printf "\ue29f e29f %d fae chicken thigh\n" $((16#e29f))
+printf "\ue2a0 e2a0 %d fae gift card\n" $((16#e2a0))
+printf "\ue2a1 e2a1 %d fae injection\n" $((16#e2a1))
+printf "\ue2a2 e2a2 %d fae isle\n" $((16#e2a2))
+printf "\ue2a3 e2a3 %d fae lollipop\n" $((16#e2a3))
+printf "\ue2a4 e2a4 %d fae loyalty card\n" $((16#e2a4))
+printf "\ue2a5 e2a5 %d fae meat\n" $((16#e2a5))
+printf "\ue2a6 e2a6 %d fae mountains\n" $((16#e2a6))
+printf "\ue2a7 e2a7 %d fae orange\n" $((16#e2a7))
+printf "\ue2a8 e2a8 %d fae peach\n" $((16#e2a8))
+printf "\ue2a9 e2a9 %d fae pear\n" $((16#e2a9))
+printf "\uf000 f000 %d fa glass\n" $((16#f000))
+printf "\uf001 f001 %d fa music\n" $((16#f001))
+printf "\uf002 f002 %d fa search\n" $((16#f002))
+printf "\uf003 f003 %d fa envelope o\n" $((16#f003))
+printf "\uf004 f004 %d fa heart\n" $((16#f004))
+printf "\uf005 f005 %d fa star\n" $((16#f005))
+printf "\uf006 f006 %d fa star o\n" $((16#f006))
+printf "\uf007 f007 %d fa user\n" $((16#f007))
+printf "\uf008 f008 %d fa film\n" $((16#f008))
+printf "\uf009 f009 %d fa th large\n" $((16#f009))
+printf "\uf00a f00a %d fa th\n" $((16#f00a))
+printf "\uf00b f00b %d fa th list\n" $((16#f00b))
+printf "\uf00c f00c %d fa check\n" $((16#f00c))
+printf "\uf00d f00d %d fa times\n" $((16#f00d))
+printf "\uf00e f00e %d fa search plus\n" $((16#f00e))
+printf "\uf010 f010 %d fa search minus\n" $((16#f010))
+printf "\uf011 f011 %d fa power off\n" $((16#f011))
+printf "\uf012 f012 %d fa signal\n" $((16#f012))
+printf "\uf013 f013 %d fa cog\n" $((16#f013))
+printf "\uf014 f014 %d fa trash o\n" $((16#f014))
+printf "\uf015 f015 %d fa home\n" $((16#f015))
+printf "\uf016 f016 %d fa file o\n" $((16#f016))
+printf "\uf017 f017 %d fa clock o\n" $((16#f017))
+printf "\uf018 f018 %d fa road\n" $((16#f018))
+printf "\uf019 f019 %d fa download\n" $((16#f019))
+printf "\uf01a f01a %d fa arrow circle o down\n" $((16#f01a))
+printf "\uf01b f01b %d fa arrow circle o up\n" $((16#f01b))
+printf "\uf01c f01c %d fa inbox\n" $((16#f01c))
+printf "\uf01d f01d %d fa play circle o\n" $((16#f01d))
+printf "\uf01e f01e %d fa repeat\n" $((16#f01e))
+printf "\uf021 f021 %d fa refresh\n" $((16#f021))
+printf "\uf022 f022 %d fa list alt\n" $((16#f022))
+printf "\uf023 f023 %d fa lock\n" $((16#f023))
+printf "\uf024 f024 %d fa flag\n" $((16#f024))
+printf "\uf025 f025 %d fa headphones\n" $((16#f025))
+printf "\uf026 f026 %d fa volume off\n" $((16#f026))
+printf "\uf027 f027 %d fa volume down\n" $((16#f027))
+printf "\uf028 f028 %d fa volume up\n" $((16#f028))
+printf "\uf029 f029 %d fa qrcode\n" $((16#f029))
+printf "\uf02a f02a %d fa barcode\n" $((16#f02a))
+printf "\uf02b f02b %d fa tag\n" $((16#f02b))
+printf "\uf02c f02c %d fa tags\n" $((16#f02c))
+printf "\uf02d f02d %d fa book\n" $((16#f02d))
+printf "\uf02e f02e %d fa bookmark\n" $((16#f02e))
+printf "\uf02f f02f %d fa print\n" $((16#f02f))
+printf "\uf030 f030 %d fa camera\n" $((16#f030))
+printf "\uf031 f031 %d fa font\n" $((16#f031))
+printf "\uf032 f032 %d fa bold\n" $((16#f032))
+printf "\uf033 f033 %d fa italic\n" $((16#f033))
+printf "\uf034 f034 %d fa text height\n" $((16#f034))
+printf "\uf035 f035 %d fa text width\n" $((16#f035))
+printf "\uf036 f036 %d fa align left\n" $((16#f036))
+printf "\uf037 f037 %d fa align center\n" $((16#f037))
+printf "\uf038 f038 %d fa align right\n" $((16#f038))
+printf "\uf039 f039 %d fa align justify\n" $((16#f039))
+printf "\uf03a f03a %d fa list\n" $((16#f03a))
+printf "\uf03b f03b %d fa outdent\n" $((16#f03b))
+printf "\uf03c f03c %d fa indent\n" $((16#f03c))
+printf "\uf03d f03d %d fa video camera\n" $((16#f03d))
+printf "\uf03e f03e %d fa picture o\n" $((16#f03e))
+printf "\uf040 f040 %d fa pencil\n" $((16#f040))
+printf "\uf041 f041 %d fa map marker\n" $((16#f041))
+printf "\uf042 f042 %d fa adjust\n" $((16#f042))
+printf "\uf043 f043 %d fa tint\n" $((16#f043))
+printf "\uf044 f044 %d fa pencil square o\n" $((16#f044))
+printf "\uf045 f045 %d fa share square o\n" $((16#f045))
+printf "\uf046 f046 %d fa check square o\n" $((16#f046))
+printf "\uf047 f047 %d fa arrows\n" $((16#f047))
+printf "\uf048 f048 %d fa step backward\n" $((16#f048))
+printf "\uf049 f049 %d fa fast backward\n" $((16#f049))
+printf "\uf04a f04a %d fa backward\n" $((16#f04a))
+printf "\uf04b f04b %d fa play\n" $((16#f04b))
+printf "\uf04c f04c %d fa pause\n" $((16#f04c))
+printf "\uf04d f04d %d fa stop\n" $((16#f04d))
+printf "\uf04e f04e %d fa forward\n" $((16#f04e))
+printf "\uf050 f050 %d fa fast forward\n" $((16#f050))
+printf "\uf051 f051 %d fa step forward\n" $((16#f051))
+printf "\uf052 f052 %d fa eject\n" $((16#f052))
+printf "\uf053 f053 %d fa chevron left\n" $((16#f053))
+printf "\uf054 f054 %d fa chevron right\n" $((16#f054))
+printf "\uf055 f055 %d fa plus circle\n" $((16#f055))
+printf "\uf056 f056 %d fa minus circle\n" $((16#f056))
+printf "\uf057 f057 %d fa times circle\n" $((16#f057))
+printf "\uf058 f058 %d fa check circle\n" $((16#f058))
+printf "\uf059 f059 %d fa question circle\n" $((16#f059))
+printf "\uf05a f05a %d fa info circle\n" $((16#f05a))
+printf "\uf05b f05b %d fa crosshairs\n" $((16#f05b))
+printf "\uf05c f05c %d fa times circle o\n" $((16#f05c))
+printf "\uf05d f05d %d fa check circle o\n" $((16#f05d))
+printf "\uf05e f05e %d fa ban\n" $((16#f05e))
+printf "\uf060 f060 %d fa arrow left\n" $((16#f060))
+printf "\uf061 f061 %d fa arrow right\n" $((16#f061))
+printf "\uf062 f062 %d fa arrow up\n" $((16#f062))
+printf "\uf063 f063 %d fa arrow down\n" $((16#f063))
+printf "\uf064 f064 %d fa share\n" $((16#f064))
+printf "\uf065 f065 %d fa expand\n" $((16#f065))
+printf "\uf066 f066 %d fa compress\n" $((16#f066))
+printf "\uf067 f067 %d fa plus\n" $((16#f067))
+printf "\uf068 f068 %d fa minus\n" $((16#f068))
+printf "\uf069 f069 %d fa asterisk\n" $((16#f069))
+printf "\uf06a f06a %d fa exclamation circle\n" $((16#f06a))
+printf "\uf06b f06b %d fa gift\n" $((16#f06b))
+printf "\uf06c f06c %d fa leaf\n" $((16#f06c))
+printf "\uf06d f06d %d fa fire\n" $((16#f06d))
+printf "\uf06e f06e %d fa eye\n" $((16#f06e))
+printf "\uf070 f070 %d fa eye slash\n" $((16#f070))
+printf "\uf071 f071 %d fa exclamation triangle\n" $((16#f071))
+printf "\uf072 f072 %d fa plane\n" $((16#f072))
+printf "\uf073 f073 %d fa calendar\n" $((16#f073))
+printf "\uf074 f074 %d fa random\n" $((16#f074))
+printf "\uf075 f075 %d fa comment\n" $((16#f075))
+printf "\uf076 f076 %d fa magnet\n" $((16#f076))
+printf "\uf077 f077 %d fa chevron up\n" $((16#f077))
+printf "\uf078 f078 %d fa chevron down\n" $((16#f078))
+printf "\uf079 f079 %d fa retweet\n" $((16#f079))
+printf "\uf07a f07a %d fa shopping cart\n" $((16#f07a))
+printf "\uf07b f07b %d fa folder\n" $((16#f07b))
+printf "\uf07c f07c %d fa folder open\n" $((16#f07c))
+printf "\uf07d f07d %d fa arrows v\n" $((16#f07d))
+printf "\uf07e f07e %d fa arrows h\n" $((16#f07e))
+printf "\uf080 f080 %d fa bar chart\n" $((16#f080))
+printf "\uf081 f081 %d fa twitter square\n" $((16#f081))
+printf "\uf082 f082 %d fa facebook square\n" $((16#f082))
+printf "\uf083 f083 %d fa camera retro\n" $((16#f083))
+printf "\uf084 f084 %d fa key\n" $((16#f084))
+printf "\uf085 f085 %d fa cogs\n" $((16#f085))
+printf "\uf086 f086 %d fa comments\n" $((16#f086))
+printf "\uf087 f087 %d fa thumbs o up\n" $((16#f087))
+printf "\uf088 f088 %d fa thumbs o down\n" $((16#f088))
+printf "\uf089 f089 %d fa star half\n" $((16#f089))
+printf "\uf08a f08a %d fa heart o\n" $((16#f08a))
+printf "\uf08b f08b %d fa sign out\n" $((16#f08b))
+printf "\uf08c f08c %d fa linkedin square\n" $((16#f08c))
+printf "\uf08d f08d %d fa thumb tack\n" $((16#f08d))
+printf "\uf08e f08e %d fa external link\n" $((16#f08e))
+printf "\uf090 f090 %d fa sign in\n" $((16#f090))
+printf "\uf091 f091 %d fa trophy\n" $((16#f091))
+printf "\uf092 f092 %d fa github square\n" $((16#f092))
+printf "\uf093 f093 %d fa upload\n" $((16#f093))
+printf "\uf094 f094 %d fa lemon o\n" $((16#f094))
+printf "\uf095 f095 %d fa phone\n" $((16#f095))
+printf "\uf096 f096 %d fa square o\n" $((16#f096))
+printf "\uf097 f097 %d fa bookmark o\n" $((16#f097))
+printf "\uf098 f098 %d fa phone square\n" $((16#f098))
+printf "\uf099 f099 %d fa twitter\n" $((16#f099))
+printf "\uf09a f09a %d fa facebook\n" $((16#f09a))
+printf "\uf09b f09b %d fa github\n" $((16#f09b))
+printf "\uf09c f09c %d fa unlock\n" $((16#f09c))
+printf "\uf09d f09d %d fa credit card\n" $((16#f09d))
+printf "\uf09e f09e %d fa rss\n" $((16#f09e))
+printf "\uf0a0 f0a0 %d fa hdd o\n" $((16#f0a0))
+printf "\uf0a1 f0a1 %d fa bullhorn\n" $((16#f0a1))
+printf "\uf0a2 f0a2 %d fa bell o\n" $((16#f0a2))
+printf "\uf0a3 f0a3 %d fa certificate\n" $((16#f0a3))
+printf "\uf0a4 f0a4 %d fa hand o right\n" $((16#f0a4))
+printf "\uf0a5 f0a5 %d fa hand o left\n" $((16#f0a5))
+printf "\uf0a6 f0a6 %d fa hand o up\n" $((16#f0a6))
+printf "\uf0a7 f0a7 %d fa hand o down\n" $((16#f0a7))
+printf "\uf0a8 f0a8 %d fa arrow circle left\n" $((16#f0a8))
+printf "\uf0a9 f0a9 %d fa arrow circle right\n" $((16#f0a9))
+printf "\uf0aa f0aa %d fa arrow circle up\n" $((16#f0aa))
+printf "\uf0ab f0ab %d fa arrow circle down\n" $((16#f0ab))
+printf "\uf0ac f0ac %d fa globe\n" $((16#f0ac))
+printf "\uf0ad f0ad %d fa wrench\n" $((16#f0ad))
+printf "\uf0ae f0ae %d fa tasks\n" $((16#f0ae))
+printf "\uf0b0 f0b0 %d fa filter\n" $((16#f0b0))
+printf "\uf0b1 f0b1 %d fa briefcase\n" $((16#f0b1))
+printf "\uf0b2 f0b2 %d fa arrows alt\n" $((16#f0b2))
+printf "\uf0c0 f0c0 %d fa users\n" $((16#f0c0))
+printf "\uf0c1 f0c1 %d fa link\n" $((16#f0c1))
+printf "\uf0c2 f0c2 %d fa cloud\n" $((16#f0c2))
+printf "\uf0c3 f0c3 %d fa flask\n" $((16#f0c3))
+printf "\uf0c4 f0c4 %d fa scissors\n" $((16#f0c4))
+printf "\uf0c5 f0c5 %d fa files o\n" $((16#f0c5))
+printf "\uf0c6 f0c6 %d fa paperclip\n" $((16#f0c6))
+printf "\uf0c7 f0c7 %d fa floppy o\n" $((16#f0c7))
+printf "\uf0c8 f0c8 %d fa square\n" $((16#f0c8))
+printf "\uf0c9 f0c9 %d fa bars\n" $((16#f0c9))
+printf "\uf0ca f0ca %d fa list ul\n" $((16#f0ca))
+printf "\uf0cb f0cb %d fa list ol\n" $((16#f0cb))
+printf "\uf0cc f0cc %d fa strikethrough\n" $((16#f0cc))
+printf "\uf0cd f0cd %d fa underline\n" $((16#f0cd))
+printf "\uf0ce f0ce %d fa table\n" $((16#f0ce))
+printf "\uf0d0 f0d0 %d fa magic\n" $((16#f0d0))
+printf "\uf0d1 f0d1 %d fa truck\n" $((16#f0d1))
+printf "\uf0d2 f0d2 %d fa pinterest\n" $((16#f0d2))
+printf "\uf0d3 f0d3 %d fa pinterest square\n" $((16#f0d3))
+printf "\uf0d4 f0d4 %d fa google plus square\n" $((16#f0d4))
+printf "\uf0d5 f0d5 %d fa google plus\n" $((16#f0d5))
+printf "\uf0d6 f0d6 %d fa money\n" $((16#f0d6))
+printf "\uf0d7 f0d7 %d fa caret down\n" $((16#f0d7))
+printf "\uf0d8 f0d8 %d fa caret up\n" $((16#f0d8))
+printf "\uf0d9 f0d9 %d fa caret left\n" $((16#f0d9))
+printf "\uf0da f0da %d fa caret right\n" $((16#f0da))
+printf "\uf0db f0db %d fa columns\n" $((16#f0db))
+printf "\uf0dc f0dc %d fa sort\n" $((16#f0dc))
+printf "\uf0dd f0dd %d fa sort desc\n" $((16#f0dd))
+printf "\uf0de f0de %d fa sort asc\n" $((16#f0de))
+printf "\uf0e0 f0e0 %d fa envelope\n" $((16#f0e0))
+printf "\uf0e1 f0e1 %d fa linkedin\n" $((16#f0e1))
+printf "\uf0e2 f0e2 %d fa undo\n" $((16#f0e2))
+printf "\uf0e3 f0e3 %d fa gavel\n" $((16#f0e3))
+printf "\uf0e4 f0e4 %d fa tachometer\n" $((16#f0e4))
+printf "\uf0e5 f0e5 %d fa comment o\n" $((16#f0e5))
+printf "\uf0e6 f0e6 %d fa comments o\n" $((16#f0e6))
+printf "\uf0e7 f0e7 %d fa bolt\n" $((16#f0e7))
+printf "\uf0e8 f0e8 %d fa sitemap\n" $((16#f0e8))
+printf "\uf0e9 f0e9 %d fa umbrella\n" $((16#f0e9))
+printf "\uf0ea f0ea %d fa clipboard\n" $((16#f0ea))
+printf "\uf0eb f0eb %d fa lightbulb o\n" $((16#f0eb))
+printf "\uf0ec f0ec %d fa exchange\n" $((16#f0ec))
+printf "\uf0ed f0ed %d fa cloud download\n" $((16#f0ed))
+printf "\uf0ee f0ee %d fa cloud upload\n" $((16#f0ee))
+printf "\uf0f0 f0f0 %d fa user md\n" $((16#f0f0))
+printf "\uf0f1 f0f1 %d fa stethoscope\n" $((16#f0f1))
+printf "\uf0f2 f0f2 %d fa suitcase\n" $((16#f0f2))
+printf "\uf0f3 f0f3 %d fa bell\n" $((16#f0f3))
+printf "\uf0f4 f0f4 %d fa coffee\n" $((16#f0f4))
+printf "\uf0f5 f0f5 %d fa cutlery\n" $((16#f0f5))
+printf "\uf0f6 f0f6 %d fa file text o\n" $((16#f0f6))
+printf "\uf0f7 f0f7 %d fa building o\n" $((16#f0f7))
+printf "\uf0f8 f0f8 %d fa hospital o\n" $((16#f0f8))
+printf "\uf0f9 f0f9 %d fa ambulance\n" $((16#f0f9))
+printf "\uf0fa f0fa %d fa medkit\n" $((16#f0fa))
+printf "\uf0fb f0fb %d fa fighter jet\n" $((16#f0fb))
+printf "\uf0fc f0fc %d fa beer\n" $((16#f0fc))
+printf "\uf0fd f0fd %d fa h square\n" $((16#f0fd))
+printf "\uf0fe f0fe %d fa plus square\n" $((16#f0fe))
+printf "\uf100 f100 %d fa angle double left\n" $((16#f100))
+printf "\uf101 f101 %d fa angle double right\n" $((16#f101))
+printf "\uf102 f102 %d fa angle double up\n" $((16#f102))
+printf "\uf103 f103 %d fa angle double down\n" $((16#f103))
+printf "\uf104 f104 %d fa angle left\n" $((16#f104))
+printf "\uf105 f105 %d fa angle right\n" $((16#f105))
+printf "\uf106 f106 %d fa angle up\n" $((16#f106))
+printf "\uf107 f107 %d fa angle down\n" $((16#f107))
+printf "\uf108 f108 %d fa desktop\n" $((16#f108))
+printf "\uf109 f109 %d fa laptop\n" $((16#f109))
+printf "\uf10a f10a %d fa tablet\n" $((16#f10a))
+printf "\uf10b f10b %d fa mobile\n" $((16#f10b))
+printf "\uf10c f10c %d fa circle o\n" $((16#f10c))
+printf "\uf10d f10d %d fa quote left\n" $((16#f10d))
+printf "\uf10e f10e %d fa quote right\n" $((16#f10e))
+printf "\uf110 f110 %d fa spinner\n" $((16#f110))
+printf "\uf111 f111 %d fa circle\n" $((16#f111))
+printf "\uf112 f112 %d fa reply\n" $((16#f112))
+printf "\uf113 f113 %d fa github alt\n" $((16#f113))
+printf "\uf114 f114 %d fa folder o\n" $((16#f114))
+printf "\uf115 f115 %d fa folder open o\n" $((16#f115))
+printf "\uf118 f118 %d fa smile o\n" $((16#f118))
+printf "\uf119 f119 %d fa frown o\n" $((16#f119))
+printf "\uf11a f11a %d fa meh o\n" $((16#f11a))
+printf "\uf11b f11b %d fa gamepad\n" $((16#f11b))
+printf "\uf11c f11c %d fa keyboard o\n" $((16#f11c))
+printf "\uf11d f11d %d fa flag o\n" $((16#f11d))
+printf "\uf11e f11e %d fa flag checkered\n" $((16#f11e))
+printf "\uf120 f120 %d fa terminal\n" $((16#f120))
+printf "\uf121 f121 %d fa code\n" $((16#f121))
+printf "\uf122 f122 %d fa reply all\n" $((16#f122))
+printf "\uf123 f123 %d fa star half o\n" $((16#f123))
+printf "\uf124 f124 %d fa location arrow\n" $((16#f124))
+printf "\uf125 f125 %d fa crop\n" $((16#f125))
+printf "\uf126 f126 %d fa code fork\n" $((16#f126))
+printf "\uf127 f127 %d fa chain broken\n" $((16#f127))
+printf "\uf128 f128 %d fa question\n" $((16#f128))
+printf "\uf129 f129 %d fa info\n" $((16#f129))
+printf "\uf12a f12a %d fa exclamation\n" $((16#f12a))
+printf "\uf12b f12b %d fa superscript\n" $((16#f12b))
+printf "\uf12c f12c %d fa subscript\n" $((16#f12c))
+printf "\uf12d f12d %d fa eraser\n" $((16#f12d))
+printf "\uf12e f12e %d fa puzzle piece\n" $((16#f12e))
+printf "\uf130 f130 %d fa microphone\n" $((16#f130))
+printf "\uf131 f131 %d fa microphone slash\n" $((16#f131))
+printf "\uf132 f132 %d fa shield\n" $((16#f132))
+printf "\uf133 f133 %d fa calendar o\n" $((16#f133))
+printf "\uf134 f134 %d fa fire extinguisher\n" $((16#f134))
+printf "\uf135 f135 %d fa rocket\n" $((16#f135))
+printf "\uf136 f136 %d fa maxcdn\n" $((16#f136))
+printf "\uf137 f137 %d fa chevron circle left\n" $((16#f137))
+printf "\uf138 f138 %d fa chevron circle right\n" $((16#f138))
+printf "\uf139 f139 %d fa chevron circle up\n" $((16#f139))
+printf "\uf13a f13a %d fa chevron circle down\n" $((16#f13a))
+printf "\uf13b f13b %d fa html5\n" $((16#f13b))
+printf "\uf13c f13c %d fa css3\n" $((16#f13c))
+printf "\uf13d f13d %d fa anchor\n" $((16#f13d))
+printf "\uf13e f13e %d fa unlock alt\n" $((16#f13e))
+printf "\uf140 f140 %d fa bullseye\n" $((16#f140))
+printf "\uf141 f141 %d fa ellipsis h\n" $((16#f141))
+printf "\uf142 f142 %d fa ellipsis v\n" $((16#f142))
+printf "\uf143 f143 %d fa rss square\n" $((16#f143))
+printf "\uf144 f144 %d fa play circle\n" $((16#f144))
+printf "\uf145 f145 %d fa ticket\n" $((16#f145))
+printf "\uf146 f146 %d fa minus square\n" $((16#f146))
+printf "\uf147 f147 %d fa minus square o\n" $((16#f147))
+printf "\uf148 f148 %d fa level up\n" $((16#f148))
+printf "\uf149 f149 %d fa level down\n" $((16#f149))
+printf "\uf14a f14a %d fa check square\n" $((16#f14a))
+printf "\uf14b f14b %d fa pencil square\n" $((16#f14b))
+printf "\uf14c f14c %d fa external link square\n" $((16#f14c))
+printf "\uf14d f14d %d fa share square\n" $((16#f14d))
+printf "\uf14e f14e %d fa compass\n" $((16#f14e))
+printf "\uf150 f150 %d fa caret square o down\n" $((16#f150))
+printf "\uf151 f151 %d fa caret square o up\n" $((16#f151))
+printf "\uf152 f152 %d fa caret square o right\n" $((16#f152))
+printf "\uf153 f153 %d fa eur\n" $((16#f153))
+printf "\uf154 f154 %d fa gbp\n" $((16#f154))
+printf "\uf155 f155 %d fa usd\n" $((16#f155))
+printf "\uf156 f156 %d fa inr\n" $((16#f156))
+printf "\uf157 f157 %d fa jpy\n" $((16#f157))
+printf "\uf158 f158 %d fa rub\n" $((16#f158))
+printf "\uf159 f159 %d fa krw\n" $((16#f159))
+printf "\uf15a f15a %d fa btc\n" $((16#f15a))
+printf "\uf15b f15b %d fa file\n" $((16#f15b))
+printf "\uf15c f15c %d fa file text\n" $((16#f15c))
+printf "\uf15d f15d %d fa sort alpha asc\n" $((16#f15d))
+printf "\uf15e f15e %d fa sort alpha desc\n" $((16#f15e))
+printf "\uf160 f160 %d fa sort amount asc\n" $((16#f160))
+printf "\uf161 f161 %d fa sort amount desc\n" $((16#f161))
+printf "\uf162 f162 %d fa sort numeric asc\n" $((16#f162))
+printf "\uf163 f163 %d fa sort numeric desc\n" $((16#f163))
+printf "\uf164 f164 %d fa thumbs up\n" $((16#f164))
+printf "\uf165 f165 %d fa thumbs down\n" $((16#f165))
+printf "\uf166 f166 %d fa youtube square\n" $((16#f166))
+printf "\uf167 f167 %d fa youtube\n" $((16#f167))
+printf "\uf168 f168 %d fa xing\n" $((16#f168))
+printf "\uf169 f169 %d fa xing square\n" $((16#f169))
+printf "\uf16a f16a %d fa youtube play\n" $((16#f16a))
+printf "\uf16b f16b %d fa dropbox\n" $((16#f16b))
+printf "\uf16c f16c %d fa stack overflow\n" $((16#f16c))
+printf "\uf16d f16d %d fa instagram\n" $((16#f16d))
+printf "\uf16e f16e %d fa flickr\n" $((16#f16e))
+printf "\uf170 f170 %d fa adn\n" $((16#f170))
+printf "\uf171 f171 %d fa bitbucket\n" $((16#f171))
+printf "\uf172 f172 %d fa bitbucket square\n" $((16#f172))
+printf "\uf173 f173 %d fa tumblr\n" $((16#f173))
+printf "\uf174 f174 %d fa tumblr square\n" $((16#f174))
+printf "\uf175 f175 %d fa long arrow down\n" $((16#f175))
+printf "\uf176 f176 %d fa long arrow up\n" $((16#f176))
+printf "\uf177 f177 %d fa long arrow left\n" $((16#f177))
+printf "\uf178 f178 %d fa long arrow right\n" $((16#f178))
+printf "\uf179 f179 %d fa apple\n" $((16#f179))
+printf "\uf17a f17a %d fa windows\n" $((16#f17a))
+printf "\uf17b f17b %d fa android\n" $((16#f17b))
+printf "\uf17c f17c %d fa linux\n" $((16#f17c))
+printf "\uf17d f17d %d fa dribbble\n" $((16#f17d))
+printf "\uf17e f17e %d fa skype\n" $((16#f17e))
+printf "\uf180 f180 %d fa foursquare\n" $((16#f180))
+printf "\uf181 f181 %d fa trello\n" $((16#f181))
+printf "\uf182 f182 %d fa female\n" $((16#f182))
+printf "\uf183 f183 %d fa male\n" $((16#f183))
+printf "\uf184 f184 %d fa gratipay\n" $((16#f184))
+printf "\uf185 f185 %d fa sun o\n" $((16#f185))
+printf "\uf186 f186 %d fa moon o\n" $((16#f186))
+printf "\uf187 f187 %d fa archive\n" $((16#f187))
+printf "\uf188 f188 %d fa bug\n" $((16#f188))
+printf "\uf189 f189 %d fa vk\n" $((16#f189))
+printf "\uf18a f18a %d fa weibo\n" $((16#f18a))
+printf "\uf18b f18b %d fa renren\n" $((16#f18b))
+printf "\uf18c f18c %d fa pagelines\n" $((16#f18c))
+printf "\uf18d f18d %d fa stack exchange\n" $((16#f18d))
+printf "\uf18e f18e %d fa arrow circle o right\n" $((16#f18e))
+printf "\uf190 f190 %d fa arrow circle o left\n" $((16#f190))
+printf "\uf191 f191 %d fa caret square o left\n" $((16#f191))
+printf "\uf192 f192 %d fa dot circle o\n" $((16#f192))
+printf "\uf193 f193 %d fa wheelchair\n" $((16#f193))
+printf "\uf194 f194 %d fa vimeo square\n" $((16#f194))
+printf "\uf195 f195 %d fa try\n" $((16#f195))
+printf "\uf196 f196 %d fa plus square o\n" $((16#f196))
+printf "\uf197 f197 %d fa space shuttle\n" $((16#f197))
+printf "\uf198 f198 %d fa slack\n" $((16#f198))
+printf "\uf199 f199 %d fa envelope square\n" $((16#f199))
+printf "\uf19a f19a %d fa wordpress\n" $((16#f19a))
+printf "\uf19b f19b %d fa openid\n" $((16#f19b))
+printf "\uf19c f19c %d fa university\n" $((16#f19c))
+printf "\uf19d f19d %d fa graduation cap\n" $((16#f19d))
+printf "\uf19e f19e %d fa yahoo\n" $((16#f19e))
+printf "\uf1a0 f1a0 %d fa google\n" $((16#f1a0))
+printf "\uf1a1 f1a1 %d fa reddit\n" $((16#f1a1))
+printf "\uf1a2 f1a2 %d fa reddit square\n" $((16#f1a2))
+printf "\uf1a3 f1a3 %d fa stumbleupon circle\n" $((16#f1a3))
+printf "\uf1a4 f1a4 %d fa stumbleupon\n" $((16#f1a4))
+printf "\uf1a5 f1a5 %d fa delicious\n" $((16#f1a5))
+printf "\uf1a6 f1a6 %d fa digg\n" $((16#f1a6))
+printf "\uf1a7 f1a7 %d fa pied piper pp\n" $((16#f1a7))
+printf "\uf1a8 f1a8 %d fa pied piper alt\n" $((16#f1a8))
+printf "\uf1a9 f1a9 %d fa drupal\n" $((16#f1a9))
+printf "\uf1aa f1aa %d fa joomla\n" $((16#f1aa))
+printf "\uf1ab f1ab %d fa language\n" $((16#f1ab))
+printf "\uf1ac f1ac %d fa fax\n" $((16#f1ac))
+printf "\uf1ad f1ad %d fa building\n" $((16#f1ad))
+printf "\uf1ae f1ae %d fa child\n" $((16#f1ae))
+printf "\uf1b0 f1b0 %d fa paw\n" $((16#f1b0))
+printf "\uf1b1 f1b1 %d fa spoon\n" $((16#f1b1))
+printf "\uf1b2 f1b2 %d fa cube\n" $((16#f1b2))
+printf "\uf1b3 f1b3 %d fa cubes\n" $((16#f1b3))
+printf "\uf1b4 f1b4 %d fa behance\n" $((16#f1b4))
+printf "\uf1b5 f1b5 %d fa behance square\n" $((16#f1b5))
+printf "\uf1b6 f1b6 %d fa steam\n" $((16#f1b6))
+printf "\uf1b7 f1b7 %d fa steam square\n" $((16#f1b7))
+printf "\uf1b8 f1b8 %d fa recycle\n" $((16#f1b8))
+printf "\uf1b9 f1b9 %d fa car\n" $((16#f1b9))
+printf "\uf1ba f1ba %d fa taxi\n" $((16#f1ba))
+printf "\uf1bb f1bb %d fa tree\n" $((16#f1bb))
+printf "\uf1bc f1bc %d fa spotify\n" $((16#f1bc))
+printf "\uf1bd f1bd %d fa deviantart\n" $((16#f1bd))
+printf "\uf1be f1be %d fa soundcloud\n" $((16#f1be))
+printf "\uf1c0 f1c0 %d fa database\n" $((16#f1c0))
+printf "\uf1c1 f1c1 %d fa file pdf o\n" $((16#f1c1))
+printf "\uf1c2 f1c2 %d fa file word o\n" $((16#f1c2))
+printf "\uf1c3 f1c3 %d fa file excel o\n" $((16#f1c3))
+printf "\uf1c4 f1c4 %d fa file powerpoint o\n" $((16#f1c4))
+printf "\uf1c5 f1c5 %d fa file image o\n" $((16#f1c5))
+printf "\uf1c6 f1c6 %d fa file archive o\n" $((16#f1c6))
+printf "\uf1c7 f1c7 %d fa file audio o\n" $((16#f1c7))
+printf "\uf1c8 f1c8 %d fa file video o\n" $((16#f1c8))
+printf "\uf1c9 f1c9 %d fa file code o\n" $((16#f1c9))
+printf "\uf1ca f1ca %d fa vine\n" $((16#f1ca))
+printf "\uf1cb f1cb %d fa codepen\n" $((16#f1cb))
+printf "\uf1cc f1cc %d fa jsfiddle\n" $((16#f1cc))
+printf "\uf1cd f1cd %d fa life ring\n" $((16#f1cd))
+printf "\uf1ce f1ce %d fa circle o notch\n" $((16#f1ce))
+printf "\uf1d0 f1d0 %d fa rebel\n" $((16#f1d0))
+printf "\uf1d1 f1d1 %d fa empire\n" $((16#f1d1))
+printf "\uf1d2 f1d2 %d fa git square\n" $((16#f1d2))
+printf "\uf1d3 f1d3 %d fa git\n" $((16#f1d3))
+printf "\uf1d4 f1d4 %d fa hacker news\n" $((16#f1d4))
+printf "\uf1d5 f1d5 %d fa tencent weibo\n" $((16#f1d5))
+printf "\uf1d6 f1d6 %d fa qq\n" $((16#f1d6))
+printf "\uf1d7 f1d7 %d fa weixin\n" $((16#f1d7))
+printf "\uf1d8 f1d8 %d fa paper plane\n" $((16#f1d8))
+printf "\uf1d9 f1d9 %d fa paper plane o\n" $((16#f1d9))
+printf "\uf1da f1da %d fa history\n" $((16#f1da))
+printf "\uf1db f1db %d fa circle thin\n" $((16#f1db))
+printf "\uf1dc f1dc %d fa header\n" $((16#f1dc))
+printf "\uf1dd f1dd %d fa paragraph\n" $((16#f1dd))
+printf "\uf1de f1de %d fa sliders\n" $((16#f1de))
+printf "\uf1e0 f1e0 %d fa share alt\n" $((16#f1e0))
+printf "\uf1e1 f1e1 %d fa share alt square\n" $((16#f1e1))
+printf "\uf1e2 f1e2 %d fa bomb\n" $((16#f1e2))
+printf "\uf1e3 f1e3 %d fa futbol o\n" $((16#f1e3))
+printf "\uf1e4 f1e4 %d fa tty\n" $((16#f1e4))
+printf "\uf1e5 f1e5 %d fa binoculars\n" $((16#f1e5))
+printf "\uf1e6 f1e6 %d fa plug\n" $((16#f1e6))
+printf "\uf1e7 f1e7 %d fa slideshare\n" $((16#f1e7))
+printf "\uf1e8 f1e8 %d fa twitch\n" $((16#f1e8))
+printf "\uf1e9 f1e9 %d fa yelp\n" $((16#f1e9))
+printf "\uf1ea f1ea %d fa newspaper o\n" $((16#f1ea))
+printf "\uf1eb f1eb %d fa wifi\n" $((16#f1eb))
+printf "\uf1ec f1ec %d fa calculator\n" $((16#f1ec))
+printf "\uf1ed f1ed %d fa paypal\n" $((16#f1ed))
+printf "\uf1ee f1ee %d fa google wallet\n" $((16#f1ee))
+printf "\uf1f0 f1f0 %d fa cc visa\n" $((16#f1f0))
+printf "\uf1f1 f1f1 %d fa cc mastercard\n" $((16#f1f1))
+printf "\uf1f2 f1f2 %d fa cc discover\n" $((16#f1f2))
+printf "\uf1f3 f1f3 %d fa cc amex\n" $((16#f1f3))
+printf "\uf1f4 f1f4 %d fa cc paypal\n" $((16#f1f4))
+printf "\uf1f5 f1f5 %d fa cc stripe\n" $((16#f1f5))
+printf "\uf1f6 f1f6 %d fa bell slash\n" $((16#f1f6))
+printf "\uf1f7 f1f7 %d fa bell slash o\n" $((16#f1f7))
+printf "\uf1f8 f1f8 %d fa trash\n" $((16#f1f8))
+printf "\uf1f9 f1f9 %d fa copyright\n" $((16#f1f9))
+printf "\uf1fa f1fa %d fa at\n" $((16#f1fa))
+printf "\uf1fb f1fb %d fa eyedropper\n" $((16#f1fb))
+printf "\uf1fc f1fc %d fa paint brush\n" $((16#f1fc))
+printf "\uf1fd f1fd %d fa birthday cake\n" $((16#f1fd))
+printf "\uf1fe f1fe %d fa area chart\n" $((16#f1fe))
+printf "\uf200 f200 %d fa pie chart\n" $((16#f200))
+printf "\uf201 f201 %d fa line chart\n" $((16#f201))
+printf "\uf202 f202 %d fa lastfm\n" $((16#f202))
+printf "\uf203 f203 %d fa lastfm square\n" $((16#f203))
+printf "\uf204 f204 %d fa toggle off\n" $((16#f204))
+printf "\uf205 f205 %d fa toggle on\n" $((16#f205))
+printf "\uf206 f206 %d fa bicycle\n" $((16#f206))
+printf "\uf207 f207 %d fa bus\n" $((16#f207))
+printf "\uf208 f208 %d fa ioxhost\n" $((16#f208))
+printf "\uf209 f209 %d fa angellist\n" $((16#f209))
+printf "\uf20a f20a %d fa cc\n" $((16#f20a))
+printf "\uf20b f20b %d fa ils\n" $((16#f20b))
+printf "\uf20c f20c %d fa meanpath\n" $((16#f20c))
+printf "\uf20d f20d %d fa buysellads\n" $((16#f20d))
+printf "\uf20e f20e %d fa connectdevelop\n" $((16#f20e))
+printf "\uf210 f210 %d fa dashcube\n" $((16#f210))
+printf "\uf211 f211 %d fa forumbee\n" $((16#f211))
+printf "\uf212 f212 %d fa leanpub\n" $((16#f212))
+printf "\uf213 f213 %d fa sellsy\n" $((16#f213))
+printf "\uf214 f214 %d fa shirtsinbulk\n" $((16#f214))
+printf "\uf215 f215 %d fa simplybuilt\n" $((16#f215))
+printf "\uf216 f216 %d fa skyatlas\n" $((16#f216))
+printf "\uf217 f217 %d fa cart plus\n" $((16#f217))
+printf "\uf218 f218 %d fa cart arrow down\n" $((16#f218))
+printf "\uf219 f219 %d fa diamond\n" $((16#f219))
+printf "\uf21a f21a %d fa ship\n" $((16#f21a))
+printf "\uf21b f21b %d fa user secret\n" $((16#f21b))
+printf "\uf21c f21c %d fa motorcycle\n" $((16#f21c))
+printf "\uf21d f21d %d fa street view\n" $((16#f21d))
+printf "\uf21e f21e %d fa heartbeat\n" $((16#f21e))
+printf "\uf221 f221 %d fa venus\n" $((16#f221))
+printf "\uf222 f222 %d fa mars\n" $((16#f222))
+printf "\uf223 f223 %d fa mercury\n" $((16#f223))
+printf "\uf224 f224 %d fa transgender\n" $((16#f224))
+printf "\uf225 f225 %d fa transgender alt\n" $((16#f225))
+printf "\uf226 f226 %d fa venus double\n" $((16#f226))
+printf "\uf227 f227 %d fa mars double\n" $((16#f227))
+printf "\uf228 f228 %d fa venus mars\n" $((16#f228))
+printf "\uf229 f229 %d fa mars stroke\n" $((16#f229))
+printf "\uf22a f22a %d fa mars stroke v\n" $((16#f22a))
+printf "\uf22b f22b %d fa mars stroke h\n" $((16#f22b))
+printf "\uf22c f22c %d fa neuter\n" $((16#f22c))
+printf "\uf22d f22d %d fa genderless\n" $((16#f22d))
+printf "\uf230 f230 %d fa facebook official\n" $((16#f230))
+printf "\uf231 f231 %d fa pinterest p\n" $((16#f231))
+printf "\uf232 f232 %d fa whatsapp\n" $((16#f232))
+printf "\uf233 f233 %d fa server\n" $((16#f233))
+printf "\uf234 f234 %d fa user plus\n" $((16#f234))
+printf "\uf235 f235 %d fa user times\n" $((16#f235))
+printf "\uf236 f236 %d fa bed\n" $((16#f236))
+printf "\uf237 f237 %d fa viacoin\n" $((16#f237))
+printf "\uf238 f238 %d fa train\n" $((16#f238))
+printf "\uf239 f239 %d fa subway\n" $((16#f239))
+printf "\uf23a f23a %d fa medium\n" $((16#f23a))
+printf "\uf23b f23b %d fa y combinator\n" $((16#f23b))
+printf "\uf23c f23c %d fa optin monster\n" $((16#f23c))
+printf "\uf23d f23d %d fa opencart\n" $((16#f23d))
+printf "\uf23e f23e %d fa expeditedssl\n" $((16#f23e))
+printf "\uf240 f240 %d fa battery full\n" $((16#f240))
+printf "\uf241 f241 %d fa battery three quarters\n" $((16#f241))
+printf "\uf242 f242 %d fa battery half\n" $((16#f242))
+printf "\uf243 f243 %d fa battery quarter\n" $((16#f243))
+printf "\uf244 f244 %d fa battery empty\n" $((16#f244))
+printf "\uf245 f245 %d fa mouse pointer\n" $((16#f245))
+printf "\uf246 f246 %d fa i cursor\n" $((16#f246))
+printf "\uf247 f247 %d fa object group\n" $((16#f247))
+printf "\uf248 f248 %d fa object ungroup\n" $((16#f248))
+printf "\uf249 f249 %d fa sticky note\n" $((16#f249))
+printf "\uf24a f24a %d fa sticky note o\n" $((16#f24a))
+printf "\uf24b f24b %d fa cc jcb\n" $((16#f24b))
+printf "\uf24c f24c %d fa cc diners club\n" $((16#f24c))
+printf "\uf24d f24d %d fa clone\n" $((16#f24d))
+printf "\uf24e f24e %d fa balance scale\n" $((16#f24e))
+printf "\uf250 f250 %d fa hourglass o\n" $((16#f250))
+printf "\uf251 f251 %d fa hourglass start\n" $((16#f251))
+printf "\uf252 f252 %d fa hourglass half\n" $((16#f252))
+printf "\uf253 f253 %d fa hourglass end\n" $((16#f253))
+printf "\uf254 f254 %d fa hourglass\n" $((16#f254))
+printf "\uf255 f255 %d fa hand rock o\n" $((16#f255))
+printf "\uf256 f256 %d fa hand paper o\n" $((16#f256))
+printf "\uf257 f257 %d fa hand scissors o\n" $((16#f257))
+printf "\uf258 f258 %d fa hand lizard o\n" $((16#f258))
+printf "\uf259 f259 %d fa hand spock o\n" $((16#f259))
+printf "\uf25a f25a %d fa hand pointer o\n" $((16#f25a))
+printf "\uf25b f25b %d fa hand peace o\n" $((16#f25b))
+printf "\uf25c f25c %d fa trademark\n" $((16#f25c))
+printf "\uf25d f25d %d fa registered\n" $((16#f25d))
+printf "\uf25e f25e %d fa creative commons\n" $((16#f25e))
+printf "\uf260 f260 %d fa gg\n" $((16#f260))
+printf "\uf261 f261 %d fa gg circle\n" $((16#f261))
+printf "\uf262 f262 %d fa tripadvisor\n" $((16#f262))
+printf "\uf263 f263 %d fa odnoklassniki\n" $((16#f263))
+printf "\uf264 f264 %d fa odnoklassniki square\n" $((16#f264))
+printf "\uf265 f265 %d fa get pocket\n" $((16#f265))
+printf "\uf266 f266 %d fa wikipedia w\n" $((16#f266))
+printf "\uf267 f267 %d fa safari\n" $((16#f267))
+printf "\uf268 f268 %d fa chrome\n" $((16#f268))
+printf "\uf269 f269 %d fa firefox\n" $((16#f269))
+printf "\uf26a f26a %d fa opera\n" $((16#f26a))
+printf "\uf26b f26b %d fa internet explorer\n" $((16#f26b))
+printf "\uf26c f26c %d fa television\n" $((16#f26c))
+printf "\uf26d f26d %d fa contao\n" $((16#f26d))
+printf "\uf26e f26e %d fa 500px\n" $((16#f26e))
+printf "\uf270 f270 %d fa amazon\n" $((16#f270))
+printf "\uf271 f271 %d fa calendar plus o\n" $((16#f271))
+printf "\uf272 f272 %d fa calendar minus o\n" $((16#f272))
+printf "\uf273 f273 %d fa calendar times o\n" $((16#f273))
+printf "\uf274 f274 %d fa calendar check o\n" $((16#f274))
+printf "\uf275 f275 %d fa industry\n" $((16#f275))
+printf "\uf276 f276 %d fa map pin\n" $((16#f276))
+printf "\uf277 f277 %d fa map signs\n" $((16#f277))
+printf "\uf278 f278 %d fa map o\n" $((16#f278))
+printf "\uf279 f279 %d fa map\n" $((16#f279))
+printf "\uf27a f27a %d fa commenting\n" $((16#f27a))
+printf "\uf27b f27b %d fa commenting o\n" $((16#f27b))
+printf "\uf27c f27c %d fa houzz\n" $((16#f27c))
+printf "\uf27d f27d %d fa vimeo\n" $((16#f27d))
+printf "\uf27e f27e %d fa black tie\n" $((16#f27e))
+printf "\uf280 f280 %d fa fonticons\n" $((16#f280))
+printf "\uf281 f281 %d fa reddit alien\n" $((16#f281))
+printf "\uf282 f282 %d fa edge\n" $((16#f282))
+printf "\uf283 f283 %d fa credit card alt\n" $((16#f283))
+printf "\uf284 f284 %d fa codiepie\n" $((16#f284))
+printf "\uf285 f285 %d fa modx\n" $((16#f285))
+printf "\uf286 f286 %d fa fort awesome\n" $((16#f286))
+printf "\uf287 f287 %d fa usb\n" $((16#f287))
+printf "\uf288 f288 %d fa product hunt\n" $((16#f288))
+printf "\uf289 f289 %d fa mixcloud\n" $((16#f289))
+printf "\uf28a f28a %d fa scribd\n" $((16#f28a))
+printf "\uf28b f28b %d fa pause circle\n" $((16#f28b))
+printf "\uf28c f28c %d fa pause circle o\n" $((16#f28c))
+printf "\uf28d f28d %d fa stop circle\n" $((16#f28d))
+printf "\uf28e f28e %d fa stop circle o\n" $((16#f28e))
+printf "\uf290 f290 %d fa shopping bag\n" $((16#f290))
+printf "\uf291 f291 %d fa shopping basket\n" $((16#f291))
+printf "\uf292 f292 %d fa hashtag\n" $((16#f292))
+printf "\uf293 f293 %d fa bluetooth\n" $((16#f293))
+printf "\uf294 f294 %d fa bluetooth b\n" $((16#f294))
+printf "\uf295 f295 %d fa percent\n" $((16#f295))
+printf "\uf296 f296 %d fa gitlab\n" $((16#f296))
+printf "\uf297 f297 %d fa wpbeginner\n" $((16#f297))
+printf "\uf298 f298 %d fa wpforms\n" $((16#f298))
+printf "\uf299 f299 %d fa envira\n" $((16#f299))
+printf "\uf29a f29a %d fa universal access\n" $((16#f29a))
+printf "\uf29b f29b %d fa wheelchair alt\n" $((16#f29b))
+printf "\uf29c f29c %d fa question circle o\n" $((16#f29c))
+printf "\uf29d f29d %d fa blind\n" $((16#f29d))
+printf "\uf29e f29e %d fa audio description\n" $((16#f29e))
+printf "\uf2a0 f2a0 %d fa volume control phone\n" $((16#f2a0))
+printf "\uf2a1 f2a1 %d fa braille\n" $((16#f2a1))
+printf "\uf2a2 f2a2 %d fa assistive listening systems\n" $((16#f2a2))
+printf "\uf2a3 f2a3 %d fa american sign language interpreting\n" $((16#f2a3))
+printf "\uf2a4 f2a4 %d fa deaf\n" $((16#f2a4))
+printf "\uf2a5 f2a5 %d fa glide\n" $((16#f2a5))
+printf "\uf2a6 f2a6 %d fa glide g\n" $((16#f2a6))
+printf "\uf2a7 f2a7 %d fa sign language\n" $((16#f2a7))
+printf "\uf2a8 f2a8 %d fa low vision\n" $((16#f2a8))
+printf "\uf2a9 f2a9 %d fa viadeo\n" $((16#f2a9))
+printf "\uf2aa f2aa %d fa viadeo square\n" $((16#f2aa))
+printf "\uf2ab f2ab %d fa snapchat\n" $((16#f2ab))
+printf "\uf2ac f2ac %d fa snapchat ghost\n" $((16#f2ac))
+printf "\uf2ad f2ad %d fa snapchat square\n" $((16#f2ad))
+printf "\uf2ae f2ae %d fa pied piper\n" $((16#f2ae))
+printf "\uf2b0 f2b0 %d fa first order\n" $((16#f2b0))
+printf "\uf2b1 f2b1 %d fa yoast\n" $((16#f2b1))
+printf "\uf2b2 f2b2 %d fa themeisle\n" $((16#f2b2))
+printf "\uf2b3 f2b3 %d fa google plus official\n" $((16#f2b3))
+printf "\uf2b4 f2b4 %d fa font awesome\n" $((16#f2b4))
+printf "\uf2b5 f2b5 %d fa handshake o\n" $((16#f2b5))
+printf "\uf2b6 f2b6 %d fa envelope open\n" $((16#f2b6))
+printf "\uf2b7 f2b7 %d fa envelope open o\n" $((16#f2b7))
+printf "\uf2b8 f2b8 %d fa linode\n" $((16#f2b8))
+printf "\uf2b9 f2b9 %d fa address book\n" $((16#f2b9))
+printf "\uf2ba f2ba %d fa address book o\n" $((16#f2ba))
+printf "\uf2bb f2bb %d fa address card\n" $((16#f2bb))
+printf "\uf2bc f2bc %d fa address card o\n" $((16#f2bc))
+printf "\uf2bd f2bd %d fa user circle\n" $((16#f2bd))
+printf "\uf2be f2be %d fa user circle o\n" $((16#f2be))
+printf "\uf2c0 f2c0 %d fa user o\n" $((16#f2c0))
+printf "\uf2c1 f2c1 %d fa id badge\n" $((16#f2c1))
+printf "\uf2c2 f2c2 %d fa id card\n" $((16#f2c2))
+printf "\uf2c3 f2c3 %d fa id card o\n" $((16#f2c3))
+printf "\uf2c4 f2c4 %d fa quora\n" $((16#f2c4))
+printf "\uf2c5 f2c5 %d fa free code camp\n" $((16#f2c5))
+printf "\uf2c6 f2c6 %d fa telegram\n" $((16#f2c6))
+printf "\uf2c7 f2c7 %d fa thermometer full\n" $((16#f2c7))
+printf "\uf2c8 f2c8 %d fa thermometer three quarters\n" $((16#f2c8))
+printf "\uf2c9 f2c9 %d fa thermometer half\n" $((16#f2c9))
+printf "\uf2ca f2ca %d fa thermometer quarter\n" $((16#f2ca))
+printf "\uf2cb f2cb %d fa thermometer empty\n" $((16#f2cb))
+printf "\uf2cc f2cc %d fa shower\n" $((16#f2cc))
+printf "\uf2cd f2cd %d fa bath\n" $((16#f2cd))
+printf "\uf2ce f2ce %d fa podcast\n" $((16#f2ce))
+printf "\uf2d0 f2d0 %d fa window maximize\n" $((16#f2d0))
+printf "\uf2d1 f2d1 %d fa window minimize\n" $((16#f2d1))
+printf "\uf2d2 f2d2 %d fa window restore\n" $((16#f2d2))
+printf "\uf2d3 f2d3 %d fa window close\n" $((16#f2d3))
+printf "\uf2d4 f2d4 %d fa window close o\n" $((16#f2d4))
+printf "\uf2d5 f2d5 %d fa bandcamp\n" $((16#f2d5))
+printf "\uf2d6 f2d6 %d fa grav\n" $((16#f2d6))
+printf "\uf2d7 f2d7 %d fa etsy\n" $((16#f2d7))
+printf "\uf2d8 f2d8 %d fa imdb\n" $((16#f2d8))
+printf "\uf2d9 f2d9 %d fa ravelry\n" $((16#f2d9))
+printf "\uf2da f2da %d fa eercast\n" $((16#f2da))
+printf "\uf2db f2db %d fa microchip\n" $((16#f2db))
+printf "\uf2dc f2dc %d fa snowflake o\n" $((16#f2dc))
+printf "\uf2dd f2dd %d fa superpowers\n" $((16#f2dd))
+printf "\uf2de f2de %d fa wpexplorer\n" $((16#f2de))
+printf "\uf2e0 f2e0 %d fa meetup\n" $((16#f2e0))
+printf "\u23fb 23fb %d iec power\n" $((16#23fb))
+printf "\u23fc 23fc %d iec toggle power\n" $((16#23fc))
+printf "\u23fd 23fd %d iec power on\n" $((16#23fd))
+printf "\u23fe 23fe %d iec sleep mode\n" $((16#23fe))
+printf "\u2b58 2b58 %d iec power off\n" $((16#2b58))
+printf "\uf300 f300 %d linux alpine\n" $((16#f300))
+printf "\uf301 f301 %d linux aosc\n" $((16#f301))
+printf "\uf302 f302 %d linux apple\n" $((16#f302))
+printf "\uf303 f303 %d linux archlinux\n" $((16#f303))
+printf "\uf304 f304 %d linux centos\n" $((16#f304))
+printf "\uf305 f305 %d linux coreos\n" $((16#f305))
+printf "\uf306 f306 %d linux debian\n" $((16#f306))
+printf "\uf307 f307 %d linux devuan\n" $((16#f307))
+printf "\uf308 f308 %d linux docker\n" $((16#f308))
+printf "\uf309 f309 %d linux elementary\n" $((16#f309))
+printf "\uf30a f30a %d linux fedora\n" $((16#f30a))
+printf "\uf30b f30b %d linux fedora inverse\n" $((16#f30b))
+printf "\uf30c f30c %d linux freebsd\n" $((16#f30c))
+printf "\uf30d f30d %d linux gentoo\n" $((16#f30d))
+printf "\uf30e f30e %d linux linuxmint\n" $((16#f30e))
+printf "\uf30f f30f %d linux linuxmint inverse\n" $((16#f30f))
+printf "\uf310 f310 %d linux mageia\n" $((16#f310))
+printf "\uf311 f311 %d linux mandriva\n" $((16#f311))
+printf "\uf312 f312 %d linux manjaro\n" $((16#f312))
+printf "\uf313 f313 %d linux nixos\n" $((16#f313))
+printf "\uf314 f314 %d linux opensuse\n" $((16#f314))
+printf "\uf315 f315 %d linux raspberry pi\n" $((16#f315))
+printf "\uf316 f316 %d linux redhat\n" $((16#f316))
+printf "\uf317 f317 %d linux sabayon\n" $((16#f317))
+printf "\uf318 f318 %d linux slackware\n" $((16#f318))
+printf "\uf319 f319 %d linux slackware inverse\n" $((16#f319))
+printf "\uf31a f31a %d linux tux\n" $((16#f31a))
+printf "\uf31b f31b %d linux ubuntu\n" $((16#f31b))
+printf "\uf31c f31c %d linux ubuntu inverse\n" $((16#f31c))
+printf "\u2665 2665 %d oct heart\n" $((16#2665))
+printf "\u26a1 26a1 %d oct zap\n" $((16#26a1))
+printf "\uf400 f400 %d oct light bulb\n" $((16#f400))
+printf "\uf401 f401 %d oct repo\n" $((16#f401))
+printf "\uf402 f402 %d oct repo forked\n" $((16#f402))
+printf "\uf403 f403 %d oct repo push\n" $((16#f403))
+printf "\uf404 f404 %d oct repo pull\n" $((16#f404))
+printf "\uf405 f405 %d oct book\n" $((16#f405))
+printf "\uf406 f406 %d oct octoface\n" $((16#f406))
+printf "\uf407 f407 %d oct git pull request\n" $((16#f407))
+printf "\uf408 f408 %d oct mark github\n" $((16#f408))
+printf "\uf409 f409 %d oct cloud download\n" $((16#f409))
+printf "\uf40a f40a %d oct cloud upload\n" $((16#f40a))
+printf "\uf40b f40b %d oct keyboard\n" $((16#f40b))
+printf "\uf40c f40c %d oct gist\n" $((16#f40c))
+printf "\uf40d f40d %d oct file code\n" $((16#f40d))
+printf "\uf40e f40e %d oct file text\n" $((16#f40e))
+printf "\uf40f f40f %d oct file media\n" $((16#f40f))
+printf "\uf410 f410 %d oct file zip\n" $((16#f410))
+printf "\uf411 f411 %d oct file pdf\n" $((16#f411))
+printf "\uf412 f412 %d oct tag\n" $((16#f412))
+printf "\uf413 f413 %d oct file directory\n" $((16#f413))
+printf "\uf414 f414 %d oct file submodule\n" $((16#f414))
+printf "\uf415 f415 %d oct person\n" $((16#f415))
+printf "\uf416 f416 %d oct jersey\n" $((16#f416))
+printf "\uf417 f417 %d oct git commit\n" $((16#f417))
+printf "\uf418 f418 %d oct git branch\n" $((16#f418))
+printf "\uf419 f419 %d oct git merge\n" $((16#f419))
+printf "\uf41a f41a %d oct mirror\n" $((16#f41a))
+printf "\uf41b f41b %d oct issue opened\n" $((16#f41b))
+printf "\uf41c f41c %d oct issue reopened\n" $((16#f41c))
+printf "\uf41d f41d %d oct issue closed\n" $((16#f41d))
+printf "\uf41e f41e %d oct star\n" $((16#f41e))
+printf "\uf41f f41f %d oct comment\n" $((16#f41f))
+printf "\uf420 f420 %d oct question\n" $((16#f420))
+printf "\uf421 f421 %d oct alert\n" $((16#f421))
+printf "\uf422 f422 %d oct search\n" $((16#f422))
+printf "\uf423 f423 %d oct gear\n" $((16#f423))
+printf "\uf424 f424 %d oct radio tower\n" $((16#f424))
+printf "\uf425 f425 %d oct tools\n" $((16#f425))
+printf "\uf426 f426 %d oct sign out\n" $((16#f426))
+printf "\uf427 f427 %d oct rocket\n" $((16#f427))
+printf "\uf428 f428 %d oct rss\n" $((16#f428))
+printf "\uf429 f429 %d oct clippy\n" $((16#f429))
+printf "\uf42a f42a %d oct sign in\n" $((16#f42a))
+printf "\uf42b f42b %d oct organization\n" $((16#f42b))
+printf "\uf42c f42c %d oct device mobile\n" $((16#f42c))
+printf "\uf42d f42d %d oct unfold\n" $((16#f42d))
+printf "\uf42e f42e %d oct check\n" $((16#f42e))
+printf "\uf42f f42f %d oct mail\n" $((16#f42f))
+printf "\uf430 f430 %d oct mail read\n" $((16#f430))
+printf "\uf431 f431 %d oct arrow up\n" $((16#f431))
+printf "\uf432 f432 %d oct arrow right\n" $((16#f432))
+printf "\uf433 f433 %d oct arrow down\n" $((16#f433))
+printf "\uf434 f434 %d oct arrow left\n" $((16#f434))
+printf "\uf435 f435 %d oct pin\n" $((16#f435))
+printf "\uf436 f436 %d oct gift\n" $((16#f436))
+printf "\uf437 f437 %d oct graph\n" $((16#f437))
+printf "\uf438 f438 %d oct triangle left\n" $((16#f438))
+printf "\uf439 f439 %d oct credit card\n" $((16#f439))
+printf "\uf43a f43a %d oct clock\n" $((16#f43a))
+printf "\uf43b f43b %d oct ruby\n" $((16#f43b))
+printf "\uf43c f43c %d oct broadcast\n" $((16#f43c))
+printf "\uf43d f43d %d oct key\n" $((16#f43d))
+printf "\uf43e f43e %d oct repo force push\n" $((16#f43e))
+printf "\uf43f f43f %d oct repo clone\n" $((16#f43f))
+printf "\uf440 f440 %d oct diff\n" $((16#f440))
+printf "\uf441 f441 %d oct eye\n" $((16#f441))
+printf "\uf442 f442 %d oct comment discussion\n" $((16#f442))
+printf "\uf443 f443 %d oct mail reply\n" $((16#f443))
+printf "\uf444 f444 %d oct primitive dot\n" $((16#f444))
+printf "\uf445 f445 %d oct primitive square\n" $((16#f445))
+printf "\uf446 f446 %d oct device camera\n" $((16#f446))
+printf "\uf447 f447 %d oct device camera video\n" $((16#f447))
+printf "\uf448 f448 %d oct pencil\n" $((16#f448))
+printf "\uf449 f449 %d oct info\n" $((16#f449))
+printf "\uf44a f44a %d oct triangle right\n" $((16#f44a))
+printf "\uf44b f44b %d oct triangle down\n" $((16#f44b))
+printf "\uf44c f44c %d oct link\n" $((16#f44c))
+printf "\uf44d f44d %d oct plus\n" $((16#f44d))
+printf "\uf44e f44e %d oct three bars\n" $((16#f44e))
+printf "\uf44f f44f %d oct code\n" $((16#f44f))
+printf "\uf450 f450 %d oct location\n" $((16#f450))
+printf "\uf451 f451 %d oct list unordered\n" $((16#f451))
+printf "\uf452 f452 %d oct list ordered\n" $((16#f452))
+printf "\uf453 f453 %d oct quote\n" $((16#f453))
+printf "\uf454 f454 %d oct versions\n" $((16#f454))
+printf "\uf455 f455 %d oct calendar\n" $((16#f455))
+printf "\uf456 f456 %d oct lock\n" $((16#f456))
+printf "\uf457 f457 %d oct diff added\n" $((16#f457))
+printf "\uf458 f458 %d oct diff removed\n" $((16#f458))
+printf "\uf459 f459 %d oct diff modified\n" $((16#f459))
+printf "\uf45a f45a %d oct diff renamed\n" $((16#f45a))
+printf "\uf45b f45b %d oct horizontal rule\n" $((16#f45b))
+printf "\uf45c f45c %d oct arrow small right\n" $((16#f45c))
+printf "\uf45d f45d %d oct milestone\n" $((16#f45d))
+printf "\uf45e f45e %d oct checklist\n" $((16#f45e))
+printf "\uf45f f45f %d oct megaphone\n" $((16#f45f))
+printf "\uf460 f460 %d oct chevron right\n" $((16#f460))
+printf "\uf461 f461 %d oct bookmark\n" $((16#f461))
+printf "\uf462 f462 %d oct settings\n" $((16#f462))
+printf "\uf463 f463 %d oct dashboard\n" $((16#f463))
+printf "\uf464 f464 %d oct history\n" $((16#f464))
+printf "\uf465 f465 %d oct link external\n" $((16#f465))
+printf "\uf466 f466 %d oct mute\n" $((16#f466))
+printf "\uf467 f467 %d oct x\n" $((16#f467))
+printf "\uf468 f468 %d oct circle slash\n" $((16#f468))
+printf "\uf469 f469 %d oct pulse\n" $((16#f469))
+printf "\uf46a f46a %d oct sync\n" $((16#f46a))
+printf "\uf46b f46b %d oct telescope\n" $((16#f46b))
+printf "\uf46c f46c %d oct gist secret\n" $((16#f46c))
+printf "\uf46d f46d %d oct home\n" $((16#f46d))
+printf "\uf46e f46e %d oct stop\n" $((16#f46e))
+printf "\uf46f f46f %d oct bug\n" $((16#f46f))
+printf "\uf470 f470 %d oct logo github\n" $((16#f470))
+printf "\uf471 f471 %d oct file binary\n" $((16#f471))
+printf "\uf472 f472 %d oct database\n" $((16#f472))
+printf "\uf473 f473 %d oct server\n" $((16#f473))
+printf "\uf474 f474 %d oct diff ignored\n" $((16#f474))
+printf "\uf475 f475 %d oct ellipsis\n" $((16#f475))
+printf "\uf476 f476 %d oct no newline\n" $((16#f476))
+printf "\uf477 f477 %d oct hubot\n" $((16#f477))
+printf "\uf478 f478 %d oct arrow small up\n" $((16#f478))
+printf "\uf479 f479 %d oct arrow small down\n" $((16#f479))
+printf "\uf47a f47a %d oct arrow small left\n" $((16#f47a))
+printf "\uf47b f47b %d oct chevron up\n" $((16#f47b))
+printf "\uf47c f47c %d oct chevron down\n" $((16#f47c))
+printf "\uf47d f47d %d oct chevron left\n" $((16#f47d))
+printf "\uf47e f47e %d oct triangle up\n" $((16#f47e))
+printf "\uf47f f47f %d oct git compare\n" $((16#f47f))
+printf "\uf480 f480 %d oct logo gist\n" $((16#f480))
+printf "\uf481 f481 %d oct file symlink file\n" $((16#f481))
+printf "\uf482 f482 %d oct file symlink directory\n" $((16#f482))
+printf "\uf483 f483 %d oct squirrel\n" $((16#f483))
+printf "\uf484 f484 %d oct globe\n" $((16#f484))
+printf "\uf485 f485 %d oct unmute\n" $((16#f485))
+printf "\uf486 f486 %d oct mention\n" $((16#f486))
+printf "\uf487 f487 %d oct package\n" $((16#f487))
+printf "\uf488 f488 %d oct browser\n" $((16#f488))
+printf "\uf489 f489 %d oct terminal\n" $((16#f489))
+printf "\uf48a f48a %d oct markdown\n" $((16#f48a))
+printf "\uf48b f48b %d oct dash\n" $((16#f48b))
+printf "\uf48c f48c %d oct fold\n" $((16#f48c))
+printf "\uf48d f48d %d oct inbox\n" $((16#f48d))
+printf "\uf48e f48e %d oct trashcan\n" $((16#f48e))
+printf "\uf48f f48f %d oct paintcan\n" $((16#f48f))
+printf "\uf490 f490 %d oct flame\n" $((16#f490))
+printf "\uf491 f491 %d oct briefcase\n" $((16#f491))
+printf "\uf492 f492 %d oct plug\n" $((16#f492))
+printf "\uf493 f493 %d oct circuit board\n" $((16#f493))
+printf "\uf494 f494 %d oct mortar board\n" $((16#f494))
+printf "\uf495 f495 %d oct law\n" $((16#f495))
+printf "\uf496 f496 %d oct thumbsup\n" $((16#f496))
+printf "\uf497 f497 %d oct thumbsdown\n" $((16#f497))
+printf "\uf498 f498 %d oct desktop download\n" $((16#f498))
+printf "\uf499 f499 %d oct beaker\n" $((16#f499))
+printf "\uf49a f49a %d oct bell\n" $((16#f49a))
+printf "\uf49b f49b %d oct watch\n" $((16#f49b))
+printf "\uf49c f49c %d oct shield\n" $((16#f49c))
+printf "\uf49d f49d %d oct bold\n" $((16#f49d))
+printf "\uf49e f49e %d oct text size\n" $((16#f49e))
+printf "\uf49f f49f %d oct italic\n" $((16#f49f))
+printf "\uf4a0 f4a0 %d oct tasklist\n" $((16#f4a0))
+printf "\uf4a1 f4a1 %d oct verified\n" $((16#f4a1))
+printf "\uf4a2 f4a2 %d oct smiley\n" $((16#f4a2))
+printf "\uf4a3 f4a3 %d oct unverified\n" $((16#f4a3))
+printf "\uf4a4 f4a4 %d oct ellipses\n" $((16#f4a4))
+printf "\uf4a5 f4a5 %d oct file\n" $((16#f4a5))
+printf "\uf4a6 f4a6 %d oct grabber\n" $((16#f4a6))
+printf "\uf4a7 f4a7 %d oct plus small\n" $((16#f4a7))
+printf "\uf4a8 f4a8 %d oct reply\n" $((16#f4a8))
+printf "\uf67c f67c %d oct device desktop\n" $((16#f67c))
+printf "\ue0a0 e0a0 %d pl branch\n" $((16#e0a0))
+printf "\ue0a1 e0a1 %d pl line number\n" $((16#e0a1))
+printf "\ue0a2 e0a2 %d pl hostname\n" $((16#e0a2))
+printf "\ue0a3 e0a3 %d ple column number\n" $((16#e0a3))
+printf "\ue0b0 e0b0 %d pl left hard divider\n" $((16#e0b0))
+printf "\ue0b1 e0b1 %d pl left soft divider\n" $((16#e0b1))
+printf "\ue0b2 e0b2 %d pl right hard divider\n" $((16#e0b2))
+printf "\ue0b3 e0b3 %d pl right soft divider\n" $((16#e0b3))
+printf "\ue0b4 e0b4 %d ple right half circle thick\n" $((16#e0b4))
+printf "\ue0b5 e0b5 %d ple right half circle thin\n" $((16#e0b5))
+printf "\ue0b6 e0b6 %d ple left half circle thick\n" $((16#e0b6))
+printf "\ue0b7 e0b7 %d ple left half circle thin\n" $((16#e0b7))
+printf "\ue0b8 e0b8 %d ple lower left triangle\n" $((16#e0b8))
+printf "\ue0b9 e0b9 %d ple backslash separator\n" $((16#e0b9))
+printf "\ue0ba e0ba %d ple lower right triangle\n" $((16#e0ba))
+printf "\ue0bb e0bb %d ple forwardslash separator\n" $((16#e0bb))
+printf "\ue0bc e0bc %d ple upper left triangle\n" $((16#e0bc))
+printf "\ue0bd e0bd %d ple forwardslash separator redundant\n" $((16#e0bd))
+printf "\ue0be e0be %d ple upper right triangle\n" $((16#e0be))
+printf "\ue0bf e0bf %d ple backslash separator redundant\n" $((16#e0bf))
+printf "\ue0c0 e0c0 %d ple flame thick\n" $((16#e0c0))
+printf "\ue0c1 e0c1 %d ple flame thin\n" $((16#e0c1))
+printf "\ue0c2 e0c2 %d ple flame thick mirrored\n" $((16#e0c2))
+printf "\ue0c3 e0c3 %d ple flame thin mirrored\n" $((16#e0c3))
+printf "\ue0c4 e0c4 %d ple pixelated squares small\n" $((16#e0c4))
+printf "\ue0c5 e0c5 %d ple pixelated squares small mirrored\n" $((16#e0c5))
+printf "\ue0c6 e0c6 %d ple pixelated squares big\n" $((16#e0c6))
+printf "\ue0c7 e0c7 %d ple pixelated squares big mirrored\n" $((16#e0c7))
+printf "\ue0c8 e0c8 %d ple ice waveform\n" $((16#e0c8))
+printf "\ue0ca e0ca %d ple ice waveform mirrored\n" $((16#e0ca))
+printf "\ue0cc e0cc %d ple honeycomb\n" $((16#e0cc))
+printf "\ue0cd e0cd %d ple honeycomb outline\n" $((16#e0cd))
+printf "\ue0ce e0ce %d ple lego separator\n" $((16#e0ce))
+printf "\ue0cf e0cf %d ple lego separator thin\n" $((16#e0cf))
+printf "\ue0d0 e0d0 %d ple lego block facing\n" $((16#e0d0))
+printf "\ue0d1 e0d1 %d ple lego block sideways\n" $((16#e0d1))
+printf "\ue0d2 e0d2 %d ple trapezoid top bottom\n" $((16#e0d2))
+printf "\ue0d4 e0d4 %d ple trapezoid top bottom mirrored\n" $((16#e0d4))
+printf "\ue000 e000 %d pom clean code\n" $((16#e000))
+printf "\ue001 e001 %d pom pomodoro done\n" $((16#e001))
+printf "\ue002 e002 %d pom pomodoro estimated\n" $((16#e002))
+printf "\ue003 e003 %d pom pomodoro ticking\n" $((16#e003))
+printf "\ue004 e004 %d pom pomodoro squashed\n" $((16#e004))
+printf "\ue005 e005 %d pom short pause\n" $((16#e005))
+printf "\ue006 e006 %d pom long pause\n" $((16#e006))
+printf "\ue007 e007 %d pom away\n" $((16#e007))
+printf "\ue008 e008 %d pom pair programming\n" $((16#e008))
+printf "\ue009 e009 %d pom internal interruption\n" $((16#e009))
+printf "\ue00a e00a %d pom external interruption\n" $((16#e00a))
+printf "\ue5fa e5fa %d custom folder npm\n" $((16#e5fa))
+printf "\ue5fb e5fb %d custom folder git\n" $((16#e5fb))
+printf "\ue5fc e5fc %d custom folder config\n" $((16#e5fc))
+printf "\ue5fd e5fd %d custom folder github\n" $((16#e5fd))
+printf "\ue5fe e5fe %d custom folder open\n" $((16#e5fe))
+printf "\ue5ff e5ff %d custom folder\n" $((16#e5ff))
+printf "\ue600 e600 %d seti stylus\n" $((16#e600))
+printf "\ue601 e601 %d seti project\n" $((16#e601))
+printf "\ue602 e602 %d seti play arrow\n" $((16#e602))
+printf "\ue603 e603 %d seti sass\n" $((16#e603))
+printf "\ue604 e604 %d seti rails\n" $((16#e604))
+printf "\ue605 e605 %d seti ruby\n" $((16#e605))
+printf "\ue606 e606 %d seti python\n" $((16#e606))
+printf "\ue607 e607 %d seti heroku\n" $((16#e607))
+printf "\ue608 e608 %d seti php\n" $((16#e608))
+printf "\ue609 e609 %d seti markdown\n" $((16#e609))
+printf "\ue60a e60a %d seti license\n" $((16#e60a))
+printf "\ue60b e60b %d seti json\n" $((16#e60b))
+printf "\ue60c e60c %d seti javascript\n" $((16#e60c))
+printf "\ue60d e60d %d seti image\n" $((16#e60d))
+printf "\ue60e e60e %d seti html\n" $((16#e60e))
+printf "\ue60f e60f %d seti mustache\n" $((16#e60f))
+printf "\ue610 e610 %d seti gulp\n" $((16#e610))
+printf "\ue611 e611 %d seti grunt\n" $((16#e611))
+printf "\ue612 e612 %d seti default\n" $((16#e612))
+printf "\ue613 e613 %d seti folder\n" $((16#e613))
+printf "\ue614 e614 %d seti css\n" $((16#e614))
+printf "\ue615 e615 %d seti config\n" $((16#e615))
+printf "\ue616 e616 %d seti npm\n" $((16#e616))
+printf "\ue617 e617 %d seti home\n" $((16#e617))
+printf "\ue618 e618 %d seti ejs\n" $((16#e618))
+printf "\ue619 e619 %d seti xml\n" $((16#e619))
+printf "\ue61a e61a %d seti bower\n" $((16#e61a))
+printf "\ue61b e61b %d seti coffee\n" $((16#e61b))
+printf "\ue61c e61c %d seti twig\n" $((16#e61c))
+printf "\ue61d e61d %d custom cpp\n" $((16#e61d))
+printf "\ue61e e61e %d custom c\n" $((16#e61e))
+printf "\ue61f e61f %d seti haskell\n" $((16#e61f))
+printf "\ue620 e620 %d seti lua\n" $((16#e620))
+printf "\ue621 e621 %d indent line\n" $((16#e621))
+printf "\ue622 e622 %d seti karma\n" $((16#e622))
+printf "\ue623 e623 %d seti favicon\n" $((16#e623))
+printf "\ue624 e624 %d seti julia\n" $((16#e624))
+printf "\ue625 e625 %d seti react\n" $((16#e625))
+printf "\ue626 e626 %d custom go\n" $((16#e626))
+printf "\ue627 e627 %d seti go\n" $((16#e627))
+printf "\ue628 e628 %d seti typescript\n" $((16#e628))
+printf "\ue629 e629 %d custom msdos\n" $((16#e629))
+printf "\ue62a e62a %d custom windows\n" $((16#e62a))
+printf "\ue62b e62b %d custom vim\n" $((16#e62b))
+printf "\ue62c e62c %d custom elm\n" $((16#e62c))
+printf "\ue62d e62d %d custom elixir\n" $((16#e62d))
+printf "\ue62e e62e %d custom electron\n" $((16#e62e))
+printf "\ue62f e62f %d custom crystal\n" $((16#e62f))
+printf "\uf500 f500 %d mdi vector square\n" $((16#f500))
+printf "\uf501 f501 %d mdi access point\n" $((16#f501))
+printf "\uf502 f502 %d mdi access point network\n" $((16#f502))
+printf "\uf503 f503 %d mdi account\n" $((16#f503))
+printf "\uf504 f504 %d mdi account alert\n" $((16#f504))
+printf "\uf505 f505 %d mdi account box\n" $((16#f505))
+printf "\uf506 f506 %d mdi account box outline\n" $((16#f506))
+printf "\uf507 f507 %d mdi account check\n" $((16#f507))
+printf "\uf508 f508 %d mdi account circle\n" $((16#f508))
+printf "\uf509 f509 %d mdi account convert\n" $((16#f509))
+printf "\uf50a f50a %d mdi account key\n" $((16#f50a))
+printf "\uf50b f50b %d mdi account location\n" $((16#f50b))
+printf "\uf50c f50c %d mdi account minus\n" $((16#f50c))
+printf "\uf50d f50d %d mdi account multiple\n" $((16#f50d))
+printf "\uf50e f50e %d mdi account multiple outline\n" $((16#f50e))
+printf "\uf50f f50f %d mdi account multiple plus\n" $((16#f50f))
+printf "\uf510 f510 %d mdi account network\n" $((16#f510))
+printf "\uf511 f511 %d mdi account off\n" $((16#f511))
+printf "\uf512 f512 %d mdi account outline\n" $((16#f512))
+printf "\uf513 f513 %d mdi account plus\n" $((16#f513))
+printf "\uf514 f514 %d mdi account remove\n" $((16#f514))
+printf "\uf515 f515 %d mdi account search\n" $((16#f515))
+printf "\uf516 f516 %d mdi account star\n" $((16#f516))
+printf "\uf517 f517 %d mdi orbit\n" $((16#f517))
+printf "\uf518 f518 %d mdi account switch\n" $((16#f518))
+printf "\uf519 f519 %d mdi adjust\n" $((16#f519))
+printf "\uf51a f51a %d mdi air conditioner\n" $((16#f51a))
+printf "\uf51b f51b %d mdi airballoon\n" $((16#f51b))
+printf "\uf51c f51c %d mdi airplane\n" $((16#f51c))
+printf "\uf51d f51d %d mdi airplane off\n" $((16#f51d))
+printf "\uf51e f51e %d mdi airplay\n" $((16#f51e))
+printf "\uf51f f51f %d mdi alarm\n" $((16#f51f))
+printf "\uf520 f520 %d mdi alarm check\n" $((16#f520))
+printf "\uf521 f521 %d mdi alarm multiple\n" $((16#f521))
+printf "\uf522 f522 %d mdi alarm off\n" $((16#f522))
+printf "\uf523 f523 %d mdi alarm plus\n" $((16#f523))
+printf "\uf524 f524 %d mdi album\n" $((16#f524))
+printf "\uf525 f525 %d mdi alert\n" $((16#f525))
+printf "\uf526 f526 %d mdi alert box\n" $((16#f526))
+printf "\uf527 f527 %d mdi alert circle\n" $((16#f527))
+printf "\uf528 f528 %d mdi alert octagon\n" $((16#f528))
+printf "\uf529 f529 %d mdi alert outline\n" $((16#f529))
+printf "\uf52a f52a %d mdi alpha\n" $((16#f52a))
+printf "\uf52b f52b %d mdi alphabetical\n" $((16#f52b))
+printf "\uf52c f52c %d mdi amazon\n" $((16#f52c))
+printf "\uf52d f52d %d mdi amazon clouddrive\n" $((16#f52d))
+printf "\uf52e f52e %d mdi ambulance\n" $((16#f52e))
+printf "\uf52f f52f %d mdi amplifier\n" $((16#f52f))
+printf "\uf530 f530 %d mdi anchor\n" $((16#f530))
+printf "\uf531 f531 %d mdi android\n" $((16#f531))
+printf "\uf532 f532 %d mdi android debug bridge\n" $((16#f532))
+printf "\uf533 f533 %d mdi android studio\n" $((16#f533))
+printf "\uf534 f534 %d mdi apple\n" $((16#f534))
+printf "\uf535 f535 %d mdi apple finder\n" $((16#f535))
+printf "\uf536 f536 %d mdi apple ios\n" $((16#f536))
+printf "\uf537 f537 %d mdi apple mobileme\n" $((16#f537))
+printf "\uf538 f538 %d mdi apple safari\n" $((16#f538))
+printf "\uf539 f539 %d mdi font awesome\n" $((16#f539))
+printf "\uf53a f53a %d mdi apps\n" $((16#f53a))
+printf "\uf53b f53b %d mdi archive\n" $((16#f53b))
+printf "\uf53c f53c %d mdi arrange bring forward\n" $((16#f53c))
+printf "\uf53d f53d %d mdi arrange bring to front\n" $((16#f53d))
+printf "\uf53e f53e %d mdi arrange send backward\n" $((16#f53e))
+printf "\uf53f f53f %d mdi arrange send to back\n" $((16#f53f))
+printf "\uf540 f540 %d mdi arrow all\n" $((16#f540))
+printf "\uf541 f541 %d mdi arrow bottom left\n" $((16#f541))
+printf "\uf542 f542 %d mdi arrow bottom right\n" $((16#f542))
+printf "\uf543 f543 %d mdi arrow collapse all\n" $((16#f543))
+printf "\uf544 f544 %d mdi arrow down\n" $((16#f544))
+printf "\uf545 f545 %d mdi arrow down thick\n" $((16#f545))
+printf "\uf546 f546 %d mdi arrow down bold circle\n" $((16#f546))
+printf "\uf547 f547 %d mdi arrow down bold circle outline\n" $((16#f547))
+printf "\uf548 f548 %d mdi arrow down bold hexagon outline\n" $((16#f548))
+printf "\uf549 f549 %d mdi arrow down drop circle\n" $((16#f549))
+printf "\uf54a f54a %d mdi arrow down drop circle outline\n" $((16#f54a))
+printf "\uf54b f54b %d mdi arrow expand all\n" $((16#f54b))
+printf "\uf54c f54c %d mdi arrow left\n" $((16#f54c))
+printf "\uf54d f54d %d mdi arrow left thick\n" $((16#f54d))
+printf "\uf54e f54e %d mdi arrow left bold circle\n" $((16#f54e))
+printf "\uf54f f54f %d mdi arrow left bold circle outline\n" $((16#f54f))
+printf "\uf550 f550 %d mdi arrow left bold hexagon outline\n" $((16#f550))
+printf "\uf551 f551 %d mdi arrow left drop circle\n" $((16#f551))
+printf "\uf552 f552 %d mdi arrow left drop circle outline\n" $((16#f552))
+printf "\uf553 f553 %d mdi arrow right\n" $((16#f553))
+printf "\uf554 f554 %d mdi arrow right thick\n" $((16#f554))
+printf "\uf555 f555 %d mdi arrow right bold circle\n" $((16#f555))
+printf "\uf556 f556 %d mdi arrow right bold circle outline\n" $((16#f556))
+printf "\uf557 f557 %d mdi arrow right bold hexagon outline\n" $((16#f557))
+printf "\uf558 f558 %d mdi arrow right drop circle\n" $((16#f558))
+printf "\uf559 f559 %d mdi arrow right drop circle outline\n" $((16#f559))
+printf "\uf55a f55a %d mdi arrow top left\n" $((16#f55a))
+printf "\uf55b f55b %d mdi arrow top right\n" $((16#f55b))
+printf "\uf55c f55c %d mdi arrow up\n" $((16#f55c))
+printf "\uf55d f55d %d mdi arrow up thick\n" $((16#f55d))
+printf "\uf55e f55e %d mdi arrow up bold circle\n" $((16#f55e))
+printf "\uf55f f55f %d mdi arrow up bold circle outline\n" $((16#f55f))
+printf "\uf560 f560 %d mdi arrow up bold hexagon outline\n" $((16#f560))
+printf "\uf561 f561 %d mdi arrow up drop circle\n" $((16#f561))
+printf "\uf562 f562 %d mdi arrow up drop circle outline\n" $((16#f562))
+printf "\uf563 f563 %d mdi assistant\n" $((16#f563))
+printf "\uf564 f564 %d mdi at\n" $((16#f564))
+printf "\uf565 f565 %d mdi attachment\n" $((16#f565))
+printf "\uf566 f566 %d mdi audiobook\n" $((16#f566))
+printf "\uf567 f567 %d mdi auto fix\n" $((16#f567))
+printf "\uf568 f568 %d mdi auto upload\n" $((16#f568))
+printf "\uf569 f569 %d mdi autorenew\n" $((16#f569))
+printf "\uf56a f56a %d mdi av timer\n" $((16#f56a))
+printf "\uf56b f56b %d mdi baby\n" $((16#f56b))
+printf "\uf56c f56c %d mdi backburger\n" $((16#f56c))
+printf "\uf56d f56d %d mdi backspace\n" $((16#f56d))
+printf "\uf56e f56e %d mdi backup restore\n" $((16#f56e))
+printf "\uf56f f56f %d mdi bank\n" $((16#f56f))
+printf "\uf570 f570 %d mdi barcode\n" $((16#f570))
+printf "\uf571 f571 %d mdi barcode scan\n" $((16#f571))
+printf "\uf572 f572 %d mdi barley\n" $((16#f572))
+printf "\uf573 f573 %d mdi barrel\n" $((16#f573))
+printf "\uf574 f574 %d mdi basecamp\n" $((16#f574))
+printf "\uf575 f575 %d mdi basket\n" $((16#f575))
+printf "\uf576 f576 %d mdi basket fill\n" $((16#f576))
+printf "\uf577 f577 %d mdi basket unfill\n" $((16#f577))
+printf "\uf578 f578 %d mdi battery\n" $((16#f578))
+printf "\uf579 f579 %d mdi battery 10\n" $((16#f579))
+printf "\uf57a f57a %d mdi battery 20\n" $((16#f57a))
+printf "\uf57b f57b %d mdi battery 30\n" $((16#f57b))
+printf "\uf57c f57c %d mdi battery 40\n" $((16#f57c))
+printf "\uf57d f57d %d mdi battery 50\n" $((16#f57d))
+printf "\uf57e f57e %d mdi battery 60\n" $((16#f57e))
+printf "\uf57f f57f %d mdi battery 70\n" $((16#f57f))
+printf "\uf580 f580 %d mdi battery 80\n" $((16#f580))
+printf "\uf581 f581 %d mdi battery 90\n" $((16#f581))
+printf "\uf582 f582 %d mdi battery alert\n" $((16#f582))
+printf "\uf583 f583 %d mdi battery charging\n" $((16#f583))
+printf "\uf584 f584 %d mdi battery charging 100\n" $((16#f584))
+printf "\uf585 f585 %d mdi battery charging 20\n" $((16#f585))
+printf "\uf586 f586 %d mdi battery charging 30\n" $((16#f586))
+printf "\uf587 f587 %d mdi battery charging 40\n" $((16#f587))
+printf "\uf588 f588 %d mdi battery charging 60\n" $((16#f588))
+printf "\uf589 f589 %d mdi battery charging 80\n" $((16#f589))
+printf "\uf58a f58a %d mdi battery charging 90\n" $((16#f58a))
+printf "\uf58b f58b %d mdi battery minus\n" $((16#f58b))
+printf "\uf58c f58c %d mdi battery negative\n" $((16#f58c))
+printf "\uf58d f58d %d mdi battery outline\n" $((16#f58d))
+printf "\uf58e f58e %d mdi battery plus\n" $((16#f58e))
+printf "\uf58f f58f %d mdi battery positive\n" $((16#f58f))
+printf "\uf590 f590 %d mdi battery unknown\n" $((16#f590))
+printf "\uf591 f591 %d mdi beach\n" $((16#f591))
+printf "\uf592 f592 %d mdi flask\n" $((16#f592))
+printf "\uf593 f593 %d mdi flask empty\n" $((16#f593))
+printf "\uf594 f594 %d mdi flask empty outline\n" $((16#f594))
+printf "\uf595 f595 %d mdi flask outline\n" $((16#f595))
+printf "\uf596 f596 %d mdi beats\n" $((16#f596))
+printf "\uf597 f597 %d mdi beer\n" $((16#f597))
+printf "\uf598 f598 %d mdi behance\n" $((16#f598))
+printf "\uf599 f599 %d mdi bell\n" $((16#f599))
+printf "\uf59a f59a %d mdi bell off\n" $((16#f59a))
+printf "\uf59b f59b %d mdi bell outline\n" $((16#f59b))
+printf "\uf59c f59c %d mdi bell plus\n" $((16#f59c))
+printf "\uf59d f59d %d mdi bell ring\n" $((16#f59d))
+printf "\uf59e f59e %d mdi bell ring outline\n" $((16#f59e))
+printf "\uf59f f59f %d mdi bell sleep\n" $((16#f59f))
+printf "\uf5a0 f5a0 %d mdi beta\n" $((16#f5a0))
+printf "\uf5a1 f5a1 %d mdi bible\n" $((16#f5a1))
+printf "\uf5a2 f5a2 %d mdi bike\n" $((16#f5a2))
+printf "\uf5a3 f5a3 %d mdi bing\n" $((16#f5a3))
+printf "\uf5a4 f5a4 %d mdi binoculars\n" $((16#f5a4))
+printf "\uf5a5 f5a5 %d mdi bio\n" $((16#f5a5))
+printf "\uf5a6 f5a6 %d mdi biohazard\n" $((16#f5a6))
+printf "\uf5a7 f5a7 %d mdi bitbucket\n" $((16#f5a7))
+printf "\uf5a8 f5a8 %d mdi black mesa\n" $((16#f5a8))
+printf "\uf5a9 f5a9 %d mdi blackberry\n" $((16#f5a9))
+printf "\uf5aa f5aa %d mdi blender\n" $((16#f5aa))
+printf "\uf5ab f5ab %d mdi blinds\n" $((16#f5ab))
+printf "\uf5ac f5ac %d mdi block helper\n" $((16#f5ac))
+printf "\uf5ad f5ad %d mdi blogger\n" $((16#f5ad))
+printf "\uf5ae f5ae %d mdi bluetooth\n" $((16#f5ae))
+printf "\uf5af f5af %d mdi bluetooth audio\n" $((16#f5af))
+printf "\uf5b0 f5b0 %d mdi bluetooth connect\n" $((16#f5b0))
+printf "\uf5b1 f5b1 %d mdi bluetooth off\n" $((16#f5b1))
+printf "\uf5b2 f5b2 %d mdi bluetooth settings\n" $((16#f5b2))
+printf "\uf5b3 f5b3 %d mdi bluetooth transfer\n" $((16#f5b3))
+printf "\uf5b4 f5b4 %d mdi blur\n" $((16#f5b4))
+printf "\uf5b5 f5b5 %d mdi blur linear\n" $((16#f5b5))
+printf "\uf5b6 f5b6 %d mdi blur off\n" $((16#f5b6))
+printf "\uf5b7 f5b7 %d mdi blur radial\n" $((16#f5b7))
+printf "\uf5b8 f5b8 %d mdi bone\n" $((16#f5b8))
+printf "\uf5b9 f5b9 %d mdi book\n" $((16#f5b9))
+printf "\uf5ba f5ba %d mdi book multiple\n" $((16#f5ba))
+printf "\uf5bb f5bb %d mdi book multiple variant\n" $((16#f5bb))
+printf "\uf5bc f5bc %d mdi book open\n" $((16#f5bc))
+printf "\uf5bd f5bd %d mdi book open variant\n" $((16#f5bd))
+printf "\uf5be f5be %d mdi book variant\n" $((16#f5be))
+printf "\uf5bf f5bf %d mdi bookmark\n" $((16#f5bf))
+printf "\uf5c0 f5c0 %d mdi bookmark check\n" $((16#f5c0))
+printf "\uf5c1 f5c1 %d mdi bookmark music\n" $((16#f5c1))
+printf "\uf5c2 f5c2 %d mdi bookmark outline\n" $((16#f5c2))
+printf "\uf5c3 f5c3 %d mdi bookmark plus outline\n" $((16#f5c3))
+printf "\uf5c4 f5c4 %d mdi bookmark plus\n" $((16#f5c4))
+printf "\uf5c5 f5c5 %d mdi bookmark remove\n" $((16#f5c5))
+printf "\uf5c6 f5c6 %d mdi border all\n" $((16#f5c6))
+printf "\uf5c7 f5c7 %d mdi border bottom\n" $((16#f5c7))
+printf "\uf5c8 f5c8 %d mdi border color\n" $((16#f5c8))
+printf "\uf5c9 f5c9 %d mdi border horizontal\n" $((16#f5c9))
+printf "\uf5ca f5ca %d mdi border inside\n" $((16#f5ca))
+printf "\uf5cb f5cb %d mdi border left\n" $((16#f5cb))
+printf "\uf5cc f5cc %d mdi border none\n" $((16#f5cc))
+printf "\uf5cd f5cd %d mdi border outside\n" $((16#f5cd))
+printf "\uf5ce f5ce %d mdi border right\n" $((16#f5ce))
+printf "\uf5cf f5cf %d mdi border style\n" $((16#f5cf))
+printf "\uf5d0 f5d0 %d mdi border top\n" $((16#f5d0))
+printf "\uf5d1 f5d1 %d mdi border vertical\n" $((16#f5d1))
+printf "\uf5d2 f5d2 %d mdi bowling\n" $((16#f5d2))
+printf "\uf5d3 f5d3 %d mdi box\n" $((16#f5d3))
+printf "\uf5d4 f5d4 %d mdi box cutter\n" $((16#f5d4))
+printf "\uf5d5 f5d5 %d mdi briefcase\n" $((16#f5d5))
+printf "\uf5d6 f5d6 %d mdi briefcase check\n" $((16#f5d6))
+printf "\uf5d7 f5d7 %d mdi briefcase download\n" $((16#f5d7))
+printf "\uf5d8 f5d8 %d mdi briefcase upload\n" $((16#f5d8))
+printf "\uf5d9 f5d9 %d mdi brightness 1\n" $((16#f5d9))
+printf "\uf5da f5da %d mdi brightness 2\n" $((16#f5da))
+printf "\uf5db f5db %d mdi brightness 3\n" $((16#f5db))
+printf "\uf5dc f5dc %d mdi brightness 4\n" $((16#f5dc))
+printf "\uf5dd f5dd %d mdi brightness 5\n" $((16#f5dd))
+printf "\uf5de f5de %d mdi brightness 6\n" $((16#f5de))
+printf "\uf5df f5df %d mdi brightness 7\n" $((16#f5df))
+printf "\uf5e0 f5e0 %d mdi brightness auto\n" $((16#f5e0))
+printf "\uf5e1 f5e1 %d mdi broom\n" $((16#f5e1))
+printf "\uf5e2 f5e2 %d mdi brush\n" $((16#f5e2))
+printf "\uf5e3 f5e3 %d mdi bug\n" $((16#f5e3))
+printf "\uf5e4 f5e4 %d mdi bulletin board\n" $((16#f5e4))
+printf "\uf5e5 f5e5 %d mdi bullhorn\n" $((16#f5e5))
+printf "\uf5e6 f5e6 %d mdi bus\n" $((16#f5e6))
+printf "\uf5e7 f5e7 %d mdi cached\n" $((16#f5e7))
+printf "\uf5e8 f5e8 %d mdi cake\n" $((16#f5e8))
+printf "\uf5e9 f5e9 %d mdi cake layered\n" $((16#f5e9))
+printf "\uf5ea f5ea %d mdi cake variant\n" $((16#f5ea))
+printf "\uf5eb f5eb %d mdi calculator\n" $((16#f5eb))
+printf "\uf5ec f5ec %d mdi calendar\n" $((16#f5ec))
+printf "\uf5ed f5ed %d mdi calendar blank\n" $((16#f5ed))
+printf "\uf5ee f5ee %d mdi calendar check\n" $((16#f5ee))
+printf "\uf5ef f5ef %d mdi calendar clock\n" $((16#f5ef))
+printf "\uf5f0 f5f0 %d mdi calendar multiple\n" $((16#f5f0))
+printf "\uf5f1 f5f1 %d mdi calendar multiple check\n" $((16#f5f1))
+printf "\uf5f2 f5f2 %d mdi calendar plus\n" $((16#f5f2))
+printf "\uf5f3 f5f3 %d mdi calendar remove\n" $((16#f5f3))
+printf "\uf5f4 f5f4 %d mdi calendar text\n" $((16#f5f4))
+printf "\uf5f5 f5f5 %d mdi calendar today\n" $((16#f5f5))
+printf "\uf5f6 f5f6 %d mdi call made\n" $((16#f5f6))
+printf "\uf5f7 f5f7 %d mdi call merge\n" $((16#f5f7))
+printf "\uf5f8 f5f8 %d mdi call missed\n" $((16#f5f8))
+printf "\uf5f9 f5f9 %d mdi call received\n" $((16#f5f9))
+printf "\uf5fa f5fa %d mdi call split\n" $((16#f5fa))
+printf "\uf5fb f5fb %d mdi camcorder\n" $((16#f5fb))
+printf "\uf5fc f5fc %d mdi camcorder box\n" $((16#f5fc))
+printf "\uf5fd f5fd %d mdi camcorder box off\n" $((16#f5fd))
+printf "\uf5fe f5fe %d mdi camcorder off\n" $((16#f5fe))
+printf "\uf5ff f5ff %d mdi camera\n" $((16#f5ff))
+printf "\uf600 f600 %d mdi camera enhance\n" $((16#f600))
+printf "\uf601 f601 %d mdi camera front\n" $((16#f601))
+printf "\uf602 f602 %d mdi camera front variant\n" $((16#f602))
+printf "\uf603 f603 %d mdi camera iris\n" $((16#f603))
+printf "\uf604 f604 %d mdi camera party mode\n" $((16#f604))
+printf "\uf605 f605 %d mdi camera rear\n" $((16#f605))
+printf "\uf606 f606 %d mdi camera rear variant\n" $((16#f606))
+printf "\uf607 f607 %d mdi camera switch\n" $((16#f607))
+printf "\uf608 f608 %d mdi camera timer\n" $((16#f608))
+printf "\uf609 f609 %d mdi candycane\n" $((16#f609))
+printf "\uf60a f60a %d mdi car\n" $((16#f60a))
+printf "\uf60b f60b %d mdi car battery\n" $((16#f60b))
+printf "\uf60c f60c %d mdi car connected\n" $((16#f60c))
+printf "\uf60d f60d %d mdi car wash\n" $((16#f60d))
+printf "\uf60e f60e %d mdi carrot\n" $((16#f60e))
+printf "\uf60f f60f %d mdi cart\n" $((16#f60f))
+printf "\uf610 f610 %d mdi cart outline\n" $((16#f610))
+printf "\uf611 f611 %d mdi cart plus\n" $((16#f611))
+printf "\uf612 f612 %d mdi case sensitive alt\n" $((16#f612))
+printf "\uf613 f613 %d mdi cash\n" $((16#f613))
+printf "\uf614 f614 %d mdi cash 100\n" $((16#f614))
+printf "\uf615 f615 %d mdi cash multiple\n" $((16#f615))
+printf "\uf616 f616 %d mdi cash usd\n" $((16#f616))
+printf "\uf617 f617 %d mdi cast\n" $((16#f617))
+printf "\uf618 f618 %d mdi cast connected\n" $((16#f618))
+printf "\uf619 f619 %d mdi castle\n" $((16#f619))
+printf "\uf61a f61a %d mdi cat\n" $((16#f61a))
+printf "\uf61b f61b %d mdi cellphone\n" $((16#f61b))
+printf "\uf61c f61c %d mdi cellphone android\n" $((16#f61c))
+printf "\uf61d f61d %d mdi cellphone basic\n" $((16#f61d))
+printf "\uf61e f61e %d mdi cellphone dock\n" $((16#f61e))
+printf "\uf61f f61f %d mdi cellphone iphone\n" $((16#f61f))
+printf "\uf620 f620 %d mdi cellphone link\n" $((16#f620))
+printf "\uf621 f621 %d mdi cellphone link off\n" $((16#f621))
+printf "\uf622 f622 %d mdi cellphone settings\n" $((16#f622))
+printf "\uf623 f623 %d mdi certificate\n" $((16#f623))
+printf "\uf624 f624 %d mdi chair school\n" $((16#f624))
+printf "\uf625 f625 %d mdi chart arc\n" $((16#f625))
+printf "\uf626 f626 %d mdi chart areaspline\n" $((16#f626))
+printf "\uf627 f627 %d mdi chart bar\n" $((16#f627))
+printf "\uf628 f628 %d mdi chart histogram\n" $((16#f628))
+printf "\uf629 f629 %d mdi chart line\n" $((16#f629))
+printf "\uf62a f62a %d mdi chart pie\n" $((16#f62a))
+printf "\uf62b f62b %d mdi check\n" $((16#f62b))
+printf "\uf62c f62c %d mdi check all\n" $((16#f62c))
+printf "\uf62d f62d %d mdi checkbox blank\n" $((16#f62d))
+printf "\uf62e f62e %d mdi checkbox blank circle\n" $((16#f62e))
+printf "\uf62f f62f %d mdi checkbox blank circle outline\n" $((16#f62f))
+printf "\uf630 f630 %d mdi checkbox blank outline\n" $((16#f630))
+printf "\uf631 f631 %d mdi checkbox marked\n" $((16#f631))
+printf "\uf632 f632 %d mdi checkbox marked circle\n" $((16#f632))
+printf "\uf633 f633 %d mdi checkbox marked circle outline\n" $((16#f633))
+printf "\uf634 f634 %d mdi checkbox marked outline\n" $((16#f634))
+printf "\uf635 f635 %d mdi checkbox multiple blank\n" $((16#f635))
+printf "\uf636 f636 %d mdi checkbox multiple blank outline\n" $((16#f636))
+printf "\uf637 f637 %d mdi checkbox multiple marked\n" $((16#f637))
+printf "\uf638 f638 %d mdi checkbox multiple marked outline\n" $((16#f638))
+printf "\uf639 f639 %d mdi checkerboard\n" $((16#f639))
+printf "\uf63a f63a %d mdi chemical weapon\n" $((16#f63a))
+printf "\uf63b f63b %d mdi chevron double down\n" $((16#f63b))
+printf "\uf63c f63c %d mdi chevron double left\n" $((16#f63c))
+printf "\uf63d f63d %d mdi chevron double right\n" $((16#f63d))
+printf "\uf63e f63e %d mdi chevron double up\n" $((16#f63e))
+printf "\uf63f f63f %d mdi chevron down\n" $((16#f63f))
+printf "\uf640 f640 %d mdi chevron left\n" $((16#f640))
+printf "\uf641 f641 %d mdi chevron right\n" $((16#f641))
+printf "\uf642 f642 %d mdi chevron up\n" $((16#f642))
+printf "\uf643 f643 %d mdi church\n" $((16#f643))
+printf "\uf644 f644 %d mdi cisco webex\n" $((16#f644))
+printf "\uf645 f645 %d mdi city\n" $((16#f645))
+printf "\uf646 f646 %d mdi clipboard\n" $((16#f646))
+printf "\uf647 f647 %d mdi clipboard account\n" $((16#f647))
+printf "\uf648 f648 %d mdi clipboard alert\n" $((16#f648))
+printf "\uf649 f649 %d mdi clipboard arrow down\n" $((16#f649))
+printf "\uf64a f64a %d mdi clipboard arrow left\n" $((16#f64a))
+printf "\uf64b f64b %d mdi clipboard check\n" $((16#f64b))
+printf "\uf64c f64c %d mdi clipboard outline\n" $((16#f64c))
+printf "\uf64d f64d %d mdi clipboard text\n" $((16#f64d))
+printf "\uf64e f64e %d mdi clippy\n" $((16#f64e))
+printf "\uf64f f64f %d mdi clock\n" $((16#f64f))
+printf "\uf650 f650 %d mdi clock end\n" $((16#f650))
+printf "\uf651 f651 %d mdi clock fast\n" $((16#f651))
+printf "\uf652 f652 %d mdi clock in\n" $((16#f652))
+printf "\uf653 f653 %d mdi clock out\n" $((16#f653))
+printf "\uf654 f654 %d mdi clock start\n" $((16#f654))
+printf "\uf655 f655 %d mdi close\n" $((16#f655))
+printf "\uf656 f656 %d mdi close box\n" $((16#f656))
+printf "\uf657 f657 %d mdi close box outline\n" $((16#f657))
+printf "\uf658 f658 %d mdi close circle\n" $((16#f658))
+printf "\uf659 f659 %d mdi close circle outline\n" $((16#f659))
+printf "\uf65a f65a %d mdi close network\n" $((16#f65a))
+printf "\uf65b f65b %d mdi close octagon\n" $((16#f65b))
+printf "\uf65c f65c %d mdi close octagon outline\n" $((16#f65c))
+printf "\uf65d f65d %d mdi closed caption\n" $((16#f65d))
+printf "\uf65e f65e %d mdi cloud\n" $((16#f65e))
+printf "\uf65f f65f %d mdi cloud check\n" $((16#f65f))
+printf "\uf660 f660 %d mdi cloud circle\n" $((16#f660))
+printf "\uf661 f661 %d mdi cloud download\n" $((16#f661))
+printf "\uf662 f662 %d mdi cloud outline\n" $((16#f662))
+printf "\uf663 f663 %d mdi cloud off outline\n" $((16#f663))
+printf "\uf664 f664 %d mdi cloud print\n" $((16#f664))
+printf "\uf665 f665 %d mdi cloud print outline\n" $((16#f665))
+printf "\uf666 f666 %d mdi cloud upload\n" $((16#f666))
+printf "\uf667 f667 %d mdi code array\n" $((16#f667))
+printf "\uf668 f668 %d mdi code braces\n" $((16#f668))
+printf "\uf669 f669 %d mdi code brackets\n" $((16#f669))
+printf "\uf66a f66a %d mdi code equal\n" $((16#f66a))
+printf "\uf66b f66b %d mdi code greater than\n" $((16#f66b))
+printf "\uf66c f66c %d mdi code greater than or equal\n" $((16#f66c))
+printf "\uf66d f66d %d mdi code less than\n" $((16#f66d))
+printf "\uf66e f66e %d mdi code less than or equal\n" $((16#f66e))
+printf "\uf66f f66f %d mdi code not equal\n" $((16#f66f))
+printf "\uf670 f670 %d mdi code not equal variant\n" $((16#f670))
+printf "\uf671 f671 %d mdi code parentheses\n" $((16#f671))
+printf "\uf672 f672 %d mdi code string\n" $((16#f672))
+printf "\uf673 f673 %d mdi code tags\n" $((16#f673))
+printf "\uf674 f674 %d mdi codepen\n" $((16#f674))
+printf "\uf675 f675 %d mdi coffee\n" $((16#f675))
+printf "\uf676 f676 %d mdi coffee to go\n" $((16#f676))
+printf "\uf677 f677 %d mdi coin\n" $((16#f677))
+printf "\uf678 f678 %d mdi color helper\n" $((16#f678))
+printf "\uf679 f679 %d mdi comment\n" $((16#f679))
+printf "\uf67a f67a %d mdi comment account\n" $((16#f67a))
+printf "\uf67b f67b %d mdi comment account outline\n" $((16#f67b))
+printf "\uf67c f67c %d mdi comment alert\n" $((16#f67c))
+printf "\uf67d f67d %d mdi comment alert outline\n" $((16#f67d))
+printf "\uf67e f67e %d mdi comment check\n" $((16#f67e))
+printf "\uf67f f67f %d mdi comment check outline\n" $((16#f67f))
+printf "\uf680 f680 %d mdi comment multiple outline\n" $((16#f680))
+printf "\uf681 f681 %d mdi comment outline\n" $((16#f681))
+printf "\uf682 f682 %d mdi comment plus outline\n" $((16#f682))
+printf "\uf683 f683 %d mdi comment processing\n" $((16#f683))
+printf "\uf684 f684 %d mdi comment processing outline\n" $((16#f684))
+printf "\uf685 f685 %d mdi comment question outline\n" $((16#f685))
+printf "\uf686 f686 %d mdi comment remove outline\n" $((16#f686))
+printf "\uf687 f687 %d mdi comment text\n" $((16#f687))
+printf "\uf688 f688 %d mdi comment text outline\n" $((16#f688))
+printf "\uf689 f689 %d mdi compare\n" $((16#f689))
+printf "\uf68a f68a %d mdi compass\n" $((16#f68a))
+printf "\uf68b f68b %d mdi compass outline\n" $((16#f68b))
+printf "\uf68c f68c %d mdi console\n" $((16#f68c))
+printf "\uf68d f68d %d mdi contact mail\n" $((16#f68d))
+printf "\uf68e f68e %d mdi content copy\n" $((16#f68e))
+printf "\uf68f f68f %d mdi content cut\n" $((16#f68f))
+printf "\uf690 f690 %d mdi content duplicate\n" $((16#f690))
+printf "\uf691 f691 %d mdi content paste\n" $((16#f691))
+printf "\uf692 f692 %d mdi content save\n" $((16#f692))
+printf "\uf693 f693 %d mdi content save all\n" $((16#f693))
+printf "\uf694 f694 %d mdi contrast\n" $((16#f694))
+printf "\uf695 f695 %d mdi contrast box\n" $((16#f695))
+printf "\uf696 f696 %d mdi contrast circle\n" $((16#f696))
+printf "\uf697 f697 %d mdi cookie\n" $((16#f697))
+printf "\uf698 f698 %d mdi counter\n" $((16#f698))
+printf "\uf699 f699 %d mdi cow\n" $((16#f699))
+printf "\uf69a f69a %d mdi credit card\n" $((16#f69a))
+printf "\uf69b f69b %d mdi credit card multiple\n" $((16#f69b))
+printf "\uf69c f69c %d mdi credit card scan\n" $((16#f69c))
+printf "\uf69d f69d %d mdi crop\n" $((16#f69d))
+printf "\uf69e f69e %d mdi crop free\n" $((16#f69e))
+printf "\uf69f f69f %d mdi crop landscape\n" $((16#f69f))
+printf "\uf6a0 f6a0 %d mdi crop portrait\n" $((16#f6a0))
+printf "\uf6a1 f6a1 %d mdi crop square\n" $((16#f6a1))
+printf "\uf6a2 f6a2 %d mdi crosshairs\n" $((16#f6a2))
+printf "\uf6a3 f6a3 %d mdi crosshairs gps\n" $((16#f6a3))
+printf "\uf6a4 f6a4 %d mdi crown\n" $((16#f6a4))
+printf "\uf6a5 f6a5 %d mdi cube\n" $((16#f6a5))
+printf "\uf6a6 f6a6 %d mdi cube outline\n" $((16#f6a6))
+printf "\uf6a7 f6a7 %d mdi cube send\n" $((16#f6a7))
+printf "\uf6a8 f6a8 %d mdi cube unfolded\n" $((16#f6a8))
+printf "\uf6a9 f6a9 %d mdi cup\n" $((16#f6a9))
+printf "\uf6aa f6aa %d mdi cup water\n" $((16#f6aa))
+printf "\uf6ab f6ab %d mdi currency btc\n" $((16#f6ab))
+printf "\uf6ac f6ac %d mdi currency eur\n" $((16#f6ac))
+printf "\uf6ad f6ad %d mdi currency gbp\n" $((16#f6ad))
+printf "\uf6ae f6ae %d mdi currency inr\n" $((16#f6ae))
+printf "\uf6af f6af %d mdi currency ngn\n" $((16#f6af))
+printf "\uf6b0 f6b0 %d mdi currency rub\n" $((16#f6b0))
+printf "\uf6b1 f6b1 %d mdi currency try\n" $((16#f6b1))
+printf "\uf6b2 f6b2 %d mdi currency usd\n" $((16#f6b2))
+printf "\uf6b3 f6b3 %d mdi cursor default\n" $((16#f6b3))
+printf "\uf6b4 f6b4 %d mdi cursor default outline\n" $((16#f6b4))
+printf "\uf6b5 f6b5 %d mdi cursor move\n" $((16#f6b5))
+printf "\uf6b6 f6b6 %d mdi cursor pointer\n" $((16#f6b6))
+printf "\uf6b7 f6b7 %d mdi database\n" $((16#f6b7))
+printf "\uf6b8 f6b8 %d mdi database minus\n" $((16#f6b8))
+printf "\uf6b9 f6b9 %d mdi database plus\n" $((16#f6b9))
+printf "\uf6ba f6ba %d mdi debug step into\n" $((16#f6ba))
+printf "\uf6bb f6bb %d mdi debug step out\n" $((16#f6bb))
+printf "\uf6bc f6bc %d mdi debug step over\n" $((16#f6bc))
+printf "\uf6bd f6bd %d mdi decimal decrease\n" $((16#f6bd))
+printf "\uf6be f6be %d mdi decimal increase\n" $((16#f6be))
+printf "\uf6bf f6bf %d mdi delete\n" $((16#f6bf))
+printf "\uf6c0 f6c0 %d mdi delete variant\n" $((16#f6c0))
+printf "\uf6c1 f6c1 %d mdi delta\n" $((16#f6c1))
+printf "\uf6c2 f6c2 %d mdi deskphone\n" $((16#f6c2))
+printf "\uf6c3 f6c3 %d mdi desktop mac\n" $((16#f6c3))
+printf "\uf6c4 f6c4 %d mdi desktop tower\n" $((16#f6c4))
+printf "\uf6c5 f6c5 %d mdi details\n" $((16#f6c5))
+printf "\uf6c6 f6c6 %d mdi deviantart\n" $((16#f6c6))
+printf "\uf6c7 f6c7 %d mdi diamond\n" $((16#f6c7))
+printf "\uf6c8 f6c8 %d mdi creation\n" $((16#f6c8))
+printf "\uf6c9 f6c9 %d mdi dice 1\n" $((16#f6c9))
+printf "\uf6ca f6ca %d mdi dice 2\n" $((16#f6ca))
+printf "\uf6cb f6cb %d mdi dice 3\n" $((16#f6cb))
+printf "\uf6cc f6cc %d mdi dice 4\n" $((16#f6cc))
+printf "\uf6cd f6cd %d mdi dice 5\n" $((16#f6cd))
+printf "\uf6ce f6ce %d mdi dice 6\n" $((16#f6ce))
+printf "\uf6cf f6cf %d mdi directions\n" $((16#f6cf))
+printf "\uf6d0 f6d0 %d mdi disk alert\n" $((16#f6d0))
+printf "\uf6d1 f6d1 %d mdi disqus\n" $((16#f6d1))
+printf "\uf6d2 f6d2 %d mdi disqus outline\n" $((16#f6d2))
+printf "\uf6d3 f6d3 %d mdi division\n" $((16#f6d3))
+printf "\uf6d4 f6d4 %d mdi division box\n" $((16#f6d4))
+printf "\uf6d5 f6d5 %d mdi dns\n" $((16#f6d5))
+printf "\uf6d6 f6d6 %d mdi domain\n" $((16#f6d6))
+printf "\uf6d7 f6d7 %d mdi dots horizontal\n" $((16#f6d7))
+printf "\uf6d8 f6d8 %d mdi dots vertical\n" $((16#f6d8))
+printf "\uf6d9 f6d9 %d mdi download\n" $((16#f6d9))
+printf "\uf6da f6da %d mdi drag\n" $((16#f6da))
+printf "\uf6db f6db %d mdi drag horizontal\n" $((16#f6db))
+printf "\uf6dc f6dc %d mdi drag vertical\n" $((16#f6dc))
+printf "\uf6dd f6dd %d mdi drawing\n" $((16#f6dd))
+printf "\uf6de f6de %d mdi drawing box\n" $((16#f6de))
+printf "\uf6df f6df %d mdi dribbble\n" $((16#f6df))
+printf "\uf6e0 f6e0 %d mdi dribbble box\n" $((16#f6e0))
+printf "\uf6e1 f6e1 %d mdi drone\n" $((16#f6e1))
+printf "\uf6e2 f6e2 %d mdi dropbox\n" $((16#f6e2))
+printf "\uf6e3 f6e3 %d mdi drupal\n" $((16#f6e3))
+printf "\uf6e4 f6e4 %d mdi duck\n" $((16#f6e4))
+printf "\uf6e5 f6e5 %d mdi dumbbell\n" $((16#f6e5))
+printf "\uf6e6 f6e6 %d mdi earth\n" $((16#f6e6))
+printf "\uf6e7 f6e7 %d mdi earth off\n" $((16#f6e7))
+printf "\uf6e8 f6e8 %d mdi edge\n" $((16#f6e8))
+printf "\uf6e9 f6e9 %d mdi eject\n" $((16#f6e9))
+printf "\uf6ea f6ea %d mdi elevation decline\n" $((16#f6ea))
+printf "\uf6eb f6eb %d mdi elevation rise\n" $((16#f6eb))
+printf "\uf6ec f6ec %d mdi elevator\n" $((16#f6ec))
+printf "\uf6ed f6ed %d mdi email\n" $((16#f6ed))
+printf "\uf6ee f6ee %d mdi email open\n" $((16#f6ee))
+printf "\uf6ef f6ef %d mdi email outline\n" $((16#f6ef))
+printf "\uf6f0 f6f0 %d mdi email secure\n" $((16#f6f0))
+printf "\uf6f1 f6f1 %d mdi emoticon\n" $((16#f6f1))
+printf "\uf6f2 f6f2 %d mdi emoticon cool\n" $((16#f6f2))
+printf "\uf6f3 f6f3 %d mdi emoticon devil\n" $((16#f6f3))
+printf "\uf6f4 f6f4 %d mdi emoticon happy\n" $((16#f6f4))
+printf "\uf6f5 f6f5 %d mdi emoticon neutral\n" $((16#f6f5))
+printf "\uf6f6 f6f6 %d mdi emoticon poop\n" $((16#f6f6))
+printf "\uf6f7 f6f7 %d mdi emoticon sad\n" $((16#f6f7))
+printf "\uf6f8 f6f8 %d mdi emoticon tongue\n" $((16#f6f8))
+printf "\uf6f9 f6f9 %d mdi engine\n" $((16#f6f9))
+printf "\uf6fa f6fa %d mdi engine outline\n" $((16#f6fa))
+printf "\uf6fb f6fb %d mdi equal\n" $((16#f6fb))
+printf "\uf6fc f6fc %d mdi equal box\n" $((16#f6fc))
+printf "\uf6fd f6fd %d mdi eraser\n" $((16#f6fd))
+printf "\uf6fe f6fe %d mdi escalator\n" $((16#f6fe))
+printf "\uf6ff f6ff %d mdi ethernet\n" $((16#f6ff))
+printf "\uf700 f700 %d mdi ethernet cable\n" $((16#f700))
+printf "\uf701 f701 %d mdi ethernet cable off\n" $((16#f701))
+printf "\uf702 f702 %d mdi etsy\n" $((16#f702))
+printf "\uf703 f703 %d mdi evernote\n" $((16#f703))
+printf "\uf704 f704 %d mdi exclamation\n" $((16#f704))
+printf "\uf705 f705 %d mdi exit to app\n" $((16#f705))
+printf "\uf706 f706 %d mdi export\n" $((16#f706))
+printf "\uf707 f707 %d mdi eye\n" $((16#f707))
+printf "\uf708 f708 %d mdi eye off\n" $((16#f708))
+printf "\uf709 f709 %d mdi eyedropper\n" $((16#f709))
+printf "\uf70a f70a %d mdi eyedropper variant\n" $((16#f70a))
+printf "\uf70b f70b %d mdi facebook\n" $((16#f70b))
+printf "\uf70c f70c %d mdi facebook box\n" $((16#f70c))
+printf "\uf70d f70d %d mdi facebook messenger\n" $((16#f70d))
+printf "\uf70e f70e %d mdi factory\n" $((16#f70e))
+printf "\uf70f f70f %d mdi fan\n" $((16#f70f))
+printf "\uf710 f710 %d mdi fast forward\n" $((16#f710))
+printf "\uf711 f711 %d mdi fax\n" $((16#f711))
+printf "\uf712 f712 %d mdi ferry\n" $((16#f712))
+printf "\uf713 f713 %d mdi file\n" $((16#f713))
+printf "\uf714 f714 %d mdi file chart\n" $((16#f714))
+printf "\uf715 f715 %d mdi file check\n" $((16#f715))
+printf "\uf716 f716 %d mdi file cloud\n" $((16#f716))
+printf "\uf717 f717 %d mdi file delimited\n" $((16#f717))
+printf "\uf718 f718 %d mdi file document\n" $((16#f718))
+printf "\uf719 f719 %d mdi file document box\n" $((16#f719))
+printf "\uf71a f71a %d mdi file excel\n" $((16#f71a))
+printf "\uf71b f71b %d mdi file excel box\n" $((16#f71b))
+printf "\uf71c f71c %d mdi file export\n" $((16#f71c))
+printf "\uf71d f71d %d mdi file find\n" $((16#f71d))
+printf "\uf71e f71e %d mdi file image\n" $((16#f71e))
+printf "\uf71f f71f %d mdi file import\n" $((16#f71f))
+printf "\uf720 f720 %d mdi file lock\n" $((16#f720))
+printf "\uf721 f721 %d mdi file multiple\n" $((16#f721))
+printf "\uf722 f722 %d mdi file music\n" $((16#f722))
+printf "\uf723 f723 %d mdi file outline\n" $((16#f723))
+printf "\uf724 f724 %d mdi file pdf\n" $((16#f724))
+printf "\uf725 f725 %d mdi file pdf box\n" $((16#f725))
+printf "\uf726 f726 %d mdi file powerpoint\n" $((16#f726))
+printf "\uf727 f727 %d mdi file powerpoint box\n" $((16#f727))
+printf "\uf728 f728 %d mdi file presentation box\n" $((16#f728))
+printf "\uf729 f729 %d mdi file send\n" $((16#f729))
+printf "\uf72a f72a %d mdi file video\n" $((16#f72a))
+printf "\uf72b f72b %d mdi file word\n" $((16#f72b))
+printf "\uf72c f72c %d mdi file word box\n" $((16#f72c))
+printf "\uf72d f72d %d mdi file xml\n" $((16#f72d))
+printf "\uf72e f72e %d mdi film\n" $((16#f72e))
+printf "\uf72f f72f %d mdi filmstrip\n" $((16#f72f))
+printf "\uf730 f730 %d mdi filmstrip off\n" $((16#f730))
+printf "\uf731 f731 %d mdi filter\n" $((16#f731))
+printf "\uf732 f732 %d mdi filter outline\n" $((16#f732))
+printf "\uf733 f733 %d mdi filter remove\n" $((16#f733))
+printf "\uf734 f734 %d mdi filter remove outline\n" $((16#f734))
+printf "\uf735 f735 %d mdi filter variant\n" $((16#f735))
+printf "\uf736 f736 %d mdi fingerprint\n" $((16#f736))
+printf "\uf737 f737 %d mdi fire\n" $((16#f737))
+printf "\uf738 f738 %d mdi firefox\n" $((16#f738))
+printf "\uf739 f739 %d mdi fish\n" $((16#f739))
+printf "\uf73a f73a %d mdi flag\n" $((16#f73a))
+printf "\uf73b f73b %d mdi flag checkered\n" $((16#f73b))
+printf "\uf73c f73c %d mdi flag outline\n" $((16#f73c))
+printf "\uf73d f73d %d mdi flag variant outline\n" $((16#f73d))
+printf "\uf73e f73e %d mdi flag triangle\n" $((16#f73e))
+printf "\uf73f f73f %d mdi flag variant\n" $((16#f73f))
+printf "\uf740 f740 %d mdi flash\n" $((16#f740))
+printf "\uf741 f741 %d mdi flash auto\n" $((16#f741))
+printf "\uf742 f742 %d mdi flash off\n" $((16#f742))
+printf "\uf743 f743 %d mdi flashlight\n" $((16#f743))
+printf "\uf744 f744 %d mdi flashlight off\n" $((16#f744))
+printf "\uf745 f745 %d mdi flattr\n" $((16#f745))
+printf "\uf746 f746 %d mdi flip to back\n" $((16#f746))
+printf "\uf747 f747 %d mdi flip to front\n" $((16#f747))
+printf "\uf748 f748 %d mdi floppy\n" $((16#f748))
+printf "\uf749 f749 %d mdi flower\n" $((16#f749))
+printf "\uf74a f74a %d mdi folder\n" $((16#f74a))
+printf "\uf74b f74b %d mdi folder account\n" $((16#f74b))
+printf "\uf74c f74c %d mdi folder download\n" $((16#f74c))
+printf "\uf74d f74d %d mdi folder google drive\n" $((16#f74d))
+printf "\uf74e f74e %d mdi folder image\n" $((16#f74e))
+printf "\uf74f f74f %d mdi folder lock\n" $((16#f74f))
+printf "\uf750 f750 %d mdi folder lock open\n" $((16#f750))
+printf "\uf751 f751 %d mdi folder move\n" $((16#f751))
+printf "\uf752 f752 %d mdi folder multiple\n" $((16#f752))
+printf "\uf753 f753 %d mdi folder multiple image\n" $((16#f753))
+printf "\uf754 f754 %d mdi folder multiple outline\n" $((16#f754))
+printf "\uf755 f755 %d mdi folder outline\n" $((16#f755))
+printf "\uf756 f756 %d mdi folder plus\n" $((16#f756))
+printf "\uf757 f757 %d mdi folder remove\n" $((16#f757))
+printf "\uf758 f758 %d mdi folder upload\n" $((16#f758))
+printf "\uf759 f759 %d mdi food\n" $((16#f759))
+printf "\uf75a f75a %d mdi food apple\n" $((16#f75a))
+printf "\uf75b f75b %d mdi food variant\n" $((16#f75b))
+printf "\uf75c f75c %d mdi football\n" $((16#f75c))
+printf "\uf75d f75d %d mdi football australian\n" $((16#f75d))
+printf "\uf75e f75e %d mdi football helmet\n" $((16#f75e))
+printf "\uf75f f75f %d mdi format align center\n" $((16#f75f))
+printf "\uf760 f760 %d mdi format align justify\n" $((16#f760))
+printf "\uf761 f761 %d mdi format align left\n" $((16#f761))
+printf "\uf762 f762 %d mdi format align right\n" $((16#f762))
+printf "\uf763 f763 %d mdi format bold\n" $((16#f763))
+printf "\uf764 f764 %d mdi format clear\n" $((16#f764))
+printf "\uf765 f765 %d mdi format color fill\n" $((16#f765))
+printf "\uf766 f766 %d mdi format float center\n" $((16#f766))
+printf "\uf767 f767 %d mdi format float left\n" $((16#f767))
+printf "\uf768 f768 %d mdi format float none\n" $((16#f768))
+printf "\uf769 f769 %d mdi format float right\n" $((16#f769))
+printf "\uf76a f76a %d mdi format header 1\n" $((16#f76a))
+printf "\uf76b f76b %d mdi format header 2\n" $((16#f76b))
+printf "\uf76c f76c %d mdi format header 3\n" $((16#f76c))
+printf "\uf76d f76d %d mdi format header 4\n" $((16#f76d))
+printf "\uf76e f76e %d mdi format header 5\n" $((16#f76e))
+printf "\uf76f f76f %d mdi format header 6\n" $((16#f76f))
+printf "\uf770 f770 %d mdi format header decrease\n" $((16#f770))
+printf "\uf771 f771 %d mdi format header equal\n" $((16#f771))
+printf "\uf772 f772 %d mdi format header increase\n" $((16#f772))
+printf "\uf773 f773 %d mdi format header pound\n" $((16#f773))
+printf "\uf774 f774 %d mdi format indent decrease\n" $((16#f774))
+printf "\uf775 f775 %d mdi format indent increase\n" $((16#f775))
+printf "\uf776 f776 %d mdi format italic\n" $((16#f776))
+printf "\uf777 f777 %d mdi format line spacing\n" $((16#f777))
+printf "\uf778 f778 %d mdi format list bulleted\n" $((16#f778))
+printf "\uf779 f779 %d mdi format list bulleted type\n" $((16#f779))
+printf "\uf77a f77a %d mdi format list numbers\n" $((16#f77a))
+printf "\uf77b f77b %d mdi format paint\n" $((16#f77b))
+printf "\uf77c f77c %d mdi format paragraph\n" $((16#f77c))
+printf "\uf77d f77d %d mdi format quote close\n" $((16#f77d))
+printf "\uf77e f77e %d mdi format size\n" $((16#f77e))
+printf "\uf77f f77f %d mdi format strikethrough\n" $((16#f77f))
+printf "\uf780 f780 %d mdi format strikethrough variant\n" $((16#f780))
+printf "\uf781 f781 %d mdi format subscript\n" $((16#f781))
+printf "\uf782 f782 %d mdi format superscript\n" $((16#f782))
+printf "\uf783 f783 %d mdi format text\n" $((16#f783))
+printf "\uf784 f784 %d mdi format textdirection l to r\n" $((16#f784))
+printf "\uf785 f785 %d mdi format textdirection r to l\n" $((16#f785))
+printf "\uf786 f786 %d mdi format underline\n" $((16#f786))
+printf "\uf787 f787 %d mdi format wrap inline\n" $((16#f787))
+printf "\uf788 f788 %d mdi format wrap square\n" $((16#f788))
+printf "\uf789 f789 %d mdi format wrap tight\n" $((16#f789))
+printf "\uf78a f78a %d mdi format wrap top bottom\n" $((16#f78a))
+printf "\uf78b f78b %d mdi forum\n" $((16#f78b))
+printf "\uf78c f78c %d mdi forward\n" $((16#f78c))
+printf "\uf78d f78d %d mdi foursquare\n" $((16#f78d))
+printf "\uf78e f78e %d mdi fridge\n" $((16#f78e))
+printf "\uf78f f78f %d mdi fridge filled\n" $((16#f78f))
+printf "\uf790 f790 %d mdi fridge filled bottom\n" $((16#f790))
+printf "\uf791 f791 %d mdi fridge filled top\n" $((16#f791))
+printf "\uf792 f792 %d mdi fullscreen\n" $((16#f792))
+printf "\uf793 f793 %d mdi fullscreen exit\n" $((16#f793))
+printf "\uf794 f794 %d mdi function\n" $((16#f794))
+printf "\uf795 f795 %d mdi gamepad\n" $((16#f795))
+printf "\uf796 f796 %d mdi gamepad variant\n" $((16#f796))
+printf "\uf797 f797 %d mdi gas station\n" $((16#f797))
+printf "\uf798 f798 %d mdi gate\n" $((16#f798))
+printf "\uf799 f799 %d mdi gauge\n" $((16#f799))
+printf "\uf79a f79a %d mdi gavel\n" $((16#f79a))
+printf "\uf79b f79b %d mdi gender female\n" $((16#f79b))
+printf "\uf79c f79c %d mdi gender male\n" $((16#f79c))
+printf "\uf79d f79d %d mdi gender male female\n" $((16#f79d))
+printf "\uf79e f79e %d mdi gender transgender\n" $((16#f79e))
+printf "\uf79f f79f %d mdi ghost\n" $((16#f79f))
+printf "\uf7a0 f7a0 %d mdi gift\n" $((16#f7a0))
+printf "\uf7a1 f7a1 %d mdi git\n" $((16#f7a1))
+printf "\uf7a2 f7a2 %d mdi github box\n" $((16#f7a2))
+printf "\uf7a3 f7a3 %d mdi github circle\n" $((16#f7a3))
+printf "\uf7a4 f7a4 %d mdi glass flute\n" $((16#f7a4))
+printf "\uf7a5 f7a5 %d mdi glass mug\n" $((16#f7a5))
+printf "\uf7a6 f7a6 %d mdi glass stange\n" $((16#f7a6))
+printf "\uf7a7 f7a7 %d mdi glass tulip\n" $((16#f7a7))
+printf "\uf7a8 f7a8 %d mdi glassdoor\n" $((16#f7a8))
+printf "\uf7a9 f7a9 %d mdi glasses\n" $((16#f7a9))
+printf "\uf7aa f7aa %d mdi gmail\n" $((16#f7aa))
+printf "\uf7ab f7ab %d mdi gnome\n" $((16#f7ab))
+printf "\uf7ac f7ac %d mdi google\n" $((16#f7ac))
+printf "\uf7ad f7ad %d mdi google cardboard\n" $((16#f7ad))
+printf "\uf7ae f7ae %d mdi google chrome\n" $((16#f7ae))
+printf "\uf7af f7af %d mdi google circles\n" $((16#f7af))
+printf "\uf7b0 f7b0 %d mdi google circles communities\n" $((16#f7b0))
+printf "\uf7b1 f7b1 %d mdi google circles extended\n" $((16#f7b1))
+printf "\uf7b2 f7b2 %d mdi google circles group\n" $((16#f7b2))
+printf "\uf7b3 f7b3 %d mdi google controller\n" $((16#f7b3))
+printf "\uf7b4 f7b4 %d mdi google controller off\n" $((16#f7b4))
+printf "\uf7b5 f7b5 %d mdi google drive\n" $((16#f7b5))
+printf "\uf7b6 f7b6 %d mdi google earth\n" $((16#f7b6))
+printf "\uf7b7 f7b7 %d mdi google glass\n" $((16#f7b7))
+printf "\uf7b8 f7b8 %d mdi google nearby\n" $((16#f7b8))
+printf "\uf7b9 f7b9 %d mdi google pages\n" $((16#f7b9))
+printf "\uf7ba f7ba %d mdi google physical web\n" $((16#f7ba))
+printf "\uf7bb f7bb %d mdi google play\n" $((16#f7bb))
+printf "\uf7bc f7bc %d mdi google plus\n" $((16#f7bc))
+printf "\uf7bd f7bd %d mdi google plus box\n" $((16#f7bd))
+printf "\uf7be f7be %d mdi google translate\n" $((16#f7be))
+printf "\uf7bf f7bf %d mdi google wallet\n" $((16#f7bf))
+printf "\uf7c0 f7c0 %d mdi grid\n" $((16#f7c0))
+printf "\uf7c1 f7c1 %d mdi grid off\n" $((16#f7c1))
+printf "\uf7c2 f7c2 %d mdi group\n" $((16#f7c2))
+printf "\uf7c3 f7c3 %d mdi guitar electric\n" $((16#f7c3))
+printf "\uf7c4 f7c4 %d mdi guitar pick\n" $((16#f7c4))
+printf "\uf7c5 f7c5 %d mdi guitar pick outline\n" $((16#f7c5))
+printf "\uf7c6 f7c6 %d mdi hand pointing right\n" $((16#f7c6))
+printf "\uf7c7 f7c7 %d mdi hanger\n" $((16#f7c7))
+printf "\uf7c8 f7c8 %d mdi hangouts\n" $((16#f7c8))
+printf "\uf7c9 f7c9 %d mdi harddisk\n" $((16#f7c9))
+printf "\uf7ca f7ca %d mdi headphones\n" $((16#f7ca))
+printf "\uf7cb f7cb %d mdi headphones box\n" $((16#f7cb))
+printf "\uf7cc f7cc %d mdi headphones settings\n" $((16#f7cc))
+printf "\uf7cd f7cd %d mdi headset\n" $((16#f7cd))
+printf "\uf7ce f7ce %d mdi headset dock\n" $((16#f7ce))
+printf "\uf7cf f7cf %d mdi headset off\n" $((16#f7cf))
+printf "\uf7d0 f7d0 %d mdi heart\n" $((16#f7d0))
+printf "\uf7d1 f7d1 %d mdi heart box\n" $((16#f7d1))
+printf "\uf7d2 f7d2 %d mdi heart box outline\n" $((16#f7d2))
+printf "\uf7d3 f7d3 %d mdi heart broken\n" $((16#f7d3))
+printf "\uf7d4 f7d4 %d mdi heart outline\n" $((16#f7d4))
+printf "\uf7d5 f7d5 %d mdi help\n" $((16#f7d5))
+printf "\uf7d6 f7d6 %d mdi help circle\n" $((16#f7d6))
+printf "\uf7d7 f7d7 %d mdi hexagon\n" $((16#f7d7))
+printf "\uf7d8 f7d8 %d mdi hexagon outline\n" $((16#f7d8))
+printf "\uf7d9 f7d9 %d mdi history\n" $((16#f7d9))
+printf "\uf7da f7da %d mdi hololens\n" $((16#f7da))
+printf "\uf7db f7db %d mdi home\n" $((16#f7db))
+printf "\uf7dc f7dc %d mdi home modern\n" $((16#f7dc))
+printf "\uf7dd f7dd %d mdi home variant\n" $((16#f7dd))
+printf "\uf7de f7de %d mdi hops\n" $((16#f7de))
+printf "\uf7df f7df %d mdi hospital\n" $((16#f7df))
+printf "\uf7e0 f7e0 %d mdi hospital building\n" $((16#f7e0))
+printf "\uf7e1 f7e1 %d mdi hospital marker\n" $((16#f7e1))
+printf "\uf7e2 f7e2 %d mdi hotel\n" $((16#f7e2))
+printf "\uf7e3 f7e3 %d mdi houzz\n" $((16#f7e3))
+printf "\uf7e4 f7e4 %d mdi houzz box\n" $((16#f7e4))
+printf "\uf7e5 f7e5 %d mdi human\n" $((16#f7e5))
+printf "\uf7e6 f7e6 %d mdi human child\n" $((16#f7e6))
+printf "\uf7e7 f7e7 %d mdi human male female\n" $((16#f7e7))
+printf "\uf7e8 f7e8 %d mdi image\n" $((16#f7e8))
+printf "\uf7e9 f7e9 %d mdi image album\n" $((16#f7e9))
+printf "\uf7ea f7ea %d mdi image area\n" $((16#f7ea))
+printf "\uf7eb f7eb %d mdi image area close\n" $((16#f7eb))
+printf "\uf7ec f7ec %d mdi image broken\n" $((16#f7ec))
+printf "\uf7ed f7ed %d mdi image broken variant\n" $((16#f7ed))
+printf "\uf7ee f7ee %d mdi image filter\n" $((16#f7ee))
+printf "\uf7ef f7ef %d mdi image filter black white\n" $((16#f7ef))
+printf "\uf7f0 f7f0 %d mdi image filter center focus\n" $((16#f7f0))
+printf "\uf7f1 f7f1 %d mdi image filter center focus weak\n" $((16#f7f1))
+printf "\uf7f2 f7f2 %d mdi image filter drama\n" $((16#f7f2))
+printf "\uf7f3 f7f3 %d mdi image filter frames\n" $((16#f7f3))
+printf "\uf7f4 f7f4 %d mdi image filter hdr\n" $((16#f7f4))
+printf "\uf7f5 f7f5 %d mdi image filter none\n" $((16#f7f5))
+printf "\uf7f6 f7f6 %d mdi image filter tilt shift\n" $((16#f7f6))
+printf "\uf7f7 f7f7 %d mdi image filter vintage\n" $((16#f7f7))
+printf "\uf7f8 f7f8 %d mdi image multiple\n" $((16#f7f8))
+printf "\uf7f9 f7f9 %d mdi import\n" $((16#f7f9))
+printf "\uf7fa f7fa %d mdi inbox arrow down\n" $((16#f7fa))
+printf "\uf7fb f7fb %d mdi information\n" $((16#f7fb))
+printf "\uf7fc f7fc %d mdi information outline\n" $((16#f7fc))
+printf "\uf7fd f7fd %d mdi instagram\n" $((16#f7fd))
+printf "\uf7fe f7fe %d mdi instapaper\n" $((16#f7fe))
+printf "\uf7ff f7ff %d mdi internet explorer\n" $((16#f7ff))
+printf "\uf800 f800 %d mdi invert colors\n" $((16#f800))
+printf "\uf801 f801 %d mdi jeepney\n" $((16#f801))
+printf "\uf802 f802 %d mdi jira\n" $((16#f802))
+printf "\uf803 f803 %d mdi jsfiddle\n" $((16#f803))
+printf "\uf804 f804 %d mdi keg\n" $((16#f804))
+printf "\uf805 f805 %d mdi key\n" $((16#f805))
+printf "\uf806 f806 %d mdi key change\n" $((16#f806))
+printf "\uf807 f807 %d mdi key minus\n" $((16#f807))
+printf "\uf808 f808 %d mdi key plus\n" $((16#f808))
+printf "\uf809 f809 %d mdi key remove\n" $((16#f809))
+printf "\uf80a f80a %d mdi key variant\n" $((16#f80a))
+printf "\uf80b f80b %d mdi keyboard\n" $((16#f80b))
+printf "\uf80c f80c %d mdi keyboard backspace\n" $((16#f80c))
+printf "\uf80d f80d %d mdi keyboard caps\n" $((16#f80d))
+printf "\uf80e f80e %d mdi keyboard close\n" $((16#f80e))
+printf "\uf80f f80f %d mdi keyboard off\n" $((16#f80f))
+printf "\uf810 f810 %d mdi keyboard return\n" $((16#f810))
+printf "\uf811 f811 %d mdi keyboard tab\n" $((16#f811))
+printf "\uf812 f812 %d mdi keyboard variant\n" $((16#f812))
+printf "\uf813 f813 %d mdi kodi\n" $((16#f813))
+printf "\uf814 f814 %d mdi label\n" $((16#f814))
+printf "\uf815 f815 %d mdi label outline\n" $((16#f815))
+printf "\uf816 f816 %d mdi lan\n" $((16#f816))
+printf "\uf817 f817 %d mdi lan connect\n" $((16#f817))
+printf "\uf818 f818 %d mdi lan disconnect\n" $((16#f818))
+printf "\uf819 f819 %d mdi lan pending\n" $((16#f819))
+printf "\uf81a f81a %d mdi language csharp\n" $((16#f81a))
+printf "\uf81b f81b %d mdi language css3\n" $((16#f81b))
+printf "\uf81c f81c %d mdi language html5\n" $((16#f81c))
+printf "\uf81d f81d %d mdi language javascript\n" $((16#f81d))
+printf "\uf81e f81e %d mdi language php\n" $((16#f81e))
+printf "\uf81f f81f %d mdi language python\n" $((16#f81f))
+printf "\uf820 f820 %d mdi language python text\n" $((16#f820))
+printf "\uf821 f821 %d mdi laptop\n" $((16#f821))
+printf "\uf822 f822 %d mdi laptop chromebook\n" $((16#f822))
+printf "\uf823 f823 %d mdi laptop mac\n" $((16#f823))
+printf "\uf824 f824 %d mdi laptop windows\n" $((16#f824))
+printf "\uf825 f825 %d mdi lastfm\n" $((16#f825))
+printf "\uf826 f826 %d mdi launch\n" $((16#f826))
+printf "\uf827 f827 %d mdi layers\n" $((16#f827))
+printf "\uf828 f828 %d mdi layers off\n" $((16#f828))
+printf "\uf829 f829 %d mdi leaf\n" $((16#f829))
+printf "\uf82a f82a %d mdi led off\n" $((16#f82a))
+printf "\uf82b f82b %d mdi led on\n" $((16#f82b))
+printf "\uf82c f82c %d mdi led outline\n" $((16#f82c))
+printf "\uf82d f82d %d mdi led variant off\n" $((16#f82d))
+printf "\uf82e f82e %d mdi led variant on\n" $((16#f82e))
+printf "\uf82f f82f %d mdi led variant outline\n" $((16#f82f))
+printf "\uf830 f830 %d mdi library\n" $((16#f830))
+printf "\uf831 f831 %d mdi library books\n" $((16#f831))
+printf "\uf832 f832 %d mdi library music\n" $((16#f832))
+printf "\uf833 f833 %d mdi library plus\n" $((16#f833))
+printf "\uf834 f834 %d mdi lightbulb\n" $((16#f834))
+printf "\uf835 f835 %d mdi lightbulb outline\n" $((16#f835))
+printf "\uf836 f836 %d mdi link\n" $((16#f836))
+printf "\uf837 f837 %d mdi link off\n" $((16#f837))
+printf "\uf838 f838 %d mdi link variant\n" $((16#f838))
+printf "\uf839 f839 %d mdi link variant off\n" $((16#f839))
+printf "\uf83a f83a %d mdi linkedin\n" $((16#f83a))
+printf "\uf83b f83b %d mdi linkedin box\n" $((16#f83b))
+printf "\uf83c f83c %d mdi linux\n" $((16#f83c))
+printf "\uf83d f83d %d mdi lock\n" $((16#f83d))
+printf "\uf83e f83e %d mdi lock open\n" $((16#f83e))
+printf "\uf83f f83f %d mdi lock open outline\n" $((16#f83f))
+printf "\uf840 f840 %d mdi lock outline\n" $((16#f840))
+printf "\uf841 f841 %d mdi login\n" $((16#f841))
+printf "\uf842 f842 %d mdi logout\n" $((16#f842))
+printf "\uf843 f843 %d mdi looks\n" $((16#f843))
+printf "\uf844 f844 %d mdi loupe\n" $((16#f844))
+printf "\uf845 f845 %d mdi lumx\n" $((16#f845))
+printf "\uf846 f846 %d mdi magnet\n" $((16#f846))
+printf "\uf847 f847 %d mdi magnet on\n" $((16#f847))
+printf "\uf848 f848 %d mdi magnify\n" $((16#f848))
+printf "\uf849 f849 %d mdi magnify minus\n" $((16#f849))
+printf "\uf84a f84a %d mdi magnify plus\n" $((16#f84a))
+printf "\uf84b f84b %d mdi mail ru\n" $((16#f84b))
+printf "\uf84c f84c %d mdi map\n" $((16#f84c))
+printf "\uf84d f84d %d mdi map marker\n" $((16#f84d))
+printf "\uf84e f84e %d mdi map marker circle\n" $((16#f84e))
+printf "\uf84f f84f %d mdi map marker multiple\n" $((16#f84f))
+printf "\uf850 f850 %d mdi map marker off\n" $((16#f850))
+printf "\uf851 f851 %d mdi map marker radius\n" $((16#f851))
+printf "\uf852 f852 %d mdi margin\n" $((16#f852))
+printf "\uf853 f853 %d mdi markdown\n" $((16#f853))
+printf "\uf854 f854 %d mdi marker check\n" $((16#f854))
+printf "\uf855 f855 %d mdi martini\n" $((16#f855))
+printf "\uf856 f856 %d mdi material ui\n" $((16#f856))
+printf "\uf857 f857 %d mdi math compass\n" $((16#f857))
+printf "\uf858 f858 %d mdi maxcdn\n" $((16#f858))
+printf "\uf859 f859 %d mdi medium\n" $((16#f859))
+printf "\uf85a f85a %d mdi memory\n" $((16#f85a))
+printf "\uf85b f85b %d mdi menu\n" $((16#f85b))
+printf "\uf85c f85c %d mdi menu down\n" $((16#f85c))
+printf "\uf85d f85d %d mdi menu left\n" $((16#f85d))
+printf "\uf85e f85e %d mdi menu right\n" $((16#f85e))
+printf "\uf85f f85f %d mdi menu up\n" $((16#f85f))
+printf "\uf860 f860 %d mdi message\n" $((16#f860))
+printf "\uf861 f861 %d mdi message alert\n" $((16#f861))
+printf "\uf862 f862 %d mdi message draw\n" $((16#f862))
+printf "\uf863 f863 %d mdi message image\n" $((16#f863))
+printf "\uf864 f864 %d mdi message outline\n" $((16#f864))
+printf "\uf865 f865 %d mdi message processing\n" $((16#f865))
+printf "\uf866 f866 %d mdi message reply\n" $((16#f866))
+printf "\uf867 f867 %d mdi message reply text\n" $((16#f867))
+printf "\uf868 f868 %d mdi message text\n" $((16#f868))
+printf "\uf869 f869 %d mdi message text outline\n" $((16#f869))
+printf "\uf86a f86a %d mdi message video\n" $((16#f86a))
+printf "\uf86b f86b %d mdi microphone\n" $((16#f86b))
+printf "\uf86c f86c %d mdi microphone off\n" $((16#f86c))
+printf "\uf86d f86d %d mdi microphone outline\n" $((16#f86d))
+printf "\uf86e f86e %d mdi microphone settings\n" $((16#f86e))
+printf "\uf86f f86f %d mdi microphone variant\n" $((16#f86f))
+printf "\uf870 f870 %d mdi microphone variant off\n" $((16#f870))
+printf "\uf871 f871 %d mdi microsoft\n" $((16#f871))
+printf "\uf872 f872 %d mdi minecraft\n" $((16#f872))
+printf "\uf873 f873 %d mdi minus\n" $((16#f873))
+printf "\uf874 f874 %d mdi minus box\n" $((16#f874))
+printf "\uf875 f875 %d mdi minus circle\n" $((16#f875))
+printf "\uf876 f876 %d mdi minus circle outline\n" $((16#f876))
+printf "\uf877 f877 %d mdi minus network\n" $((16#f877))
+printf "\uf878 f878 %d mdi monitor\n" $((16#f878))
+printf "\uf879 f879 %d mdi monitor multiple\n" $((16#f879))
+printf "\uf87a f87a %d mdi more\n" $((16#f87a))
+printf "\uf87b f87b %d mdi motorbike\n" $((16#f87b))
+printf "\uf87c f87c %d mdi mouse\n" $((16#f87c))
+printf "\uf87d f87d %d mdi mouse off\n" $((16#f87d))
+printf "\uf87e f87e %d mdi mouse variant\n" $((16#f87e))
+printf "\uf87f f87f %d mdi mouse variant off\n" $((16#f87f))
+printf "\uf880 f880 %d mdi movie\n" $((16#f880))
+printf "\uf881 f881 %d mdi multiplication\n" $((16#f881))
+printf "\uf882 f882 %d mdi multiplication box\n" $((16#f882))
+printf "\uf883 f883 %d mdi music box\n" $((16#f883))
+printf "\uf884 f884 %d mdi music box outline\n" $((16#f884))
+printf "\uf885 f885 %d mdi music circle\n" $((16#f885))
+printf "\uf886 f886 %d mdi music note\n" $((16#f886))
+printf "\uf887 f887 %d mdi music note eighth\n" $((16#f887))
+printf "\uf888 f888 %d mdi music note half\n" $((16#f888))
+printf "\uf889 f889 %d mdi music note off\n" $((16#f889))
+printf "\uf88a f88a %d mdi music note quarter\n" $((16#f88a))
+printf "\uf88b f88b %d mdi music note sixteenth\n" $((16#f88b))
+printf "\uf88c f88c %d mdi music note whole\n" $((16#f88c))
+printf "\uf88d f88d %d mdi nature\n" $((16#f88d))
+printf "\uf88e f88e %d mdi nature people\n" $((16#f88e))
+printf "\uf88f f88f %d mdi navigation\n" $((16#f88f))
+printf "\uf890 f890 %d mdi needle\n" $((16#f890))
+printf "\uf891 f891 %d mdi nest protect\n" $((16#f891))
+printf "\uf892 f892 %d mdi nest thermostat\n" $((16#f892))
+printf "\uf893 f893 %d mdi new box\n" $((16#f893))
+printf "\uf894 f894 %d mdi newspaper\n" $((16#f894))
+printf "\uf895 f895 %d mdi nfc\n" $((16#f895))
+printf "\uf896 f896 %d mdi nfc tap\n" $((16#f896))
+printf "\uf897 f897 %d mdi nfc variant\n" $((16#f897))
+printf "\uf898 f898 %d mdi nodejs\n" $((16#f898))
+printf "\uf899 f899 %d mdi note\n" $((16#f899))
+printf "\uf89a f89a %d mdi note outline\n" $((16#f89a))
+printf "\uf89b f89b %d mdi note plus\n" $((16#f89b))
+printf "\uf89c f89c %d mdi note plus outline\n" $((16#f89c))
+printf "\uf89d f89d %d mdi note text\n" $((16#f89d))
+printf "\uf89e f89e %d mdi notification clear all\n" $((16#f89e))
+printf "\uf89f f89f %d mdi numeric\n" $((16#f89f))
+printf "\uf8a0 f8a0 %d mdi numeric 0 box\n" $((16#f8a0))
+printf "\uf8a1 f8a1 %d mdi numeric 0 box multiple outline\n" $((16#f8a1))
+printf "\uf8a2 f8a2 %d mdi numeric 0 box outline\n" $((16#f8a2))
+printf "\uf8a3 f8a3 %d mdi numeric 1 box\n" $((16#f8a3))
+printf "\uf8a4 f8a4 %d mdi numeric 1 box multiple outline\n" $((16#f8a4))
+printf "\uf8a5 f8a5 %d mdi numeric 1 box outline\n" $((16#f8a5))
+printf "\uf8a6 f8a6 %d mdi numeric 2 box\n" $((16#f8a6))
+printf "\uf8a7 f8a7 %d mdi numeric 2 box multiple outline\n" $((16#f8a7))
+printf "\uf8a8 f8a8 %d mdi numeric 2 box outline\n" $((16#f8a8))
+printf "\uf8a9 f8a9 %d mdi numeric 3 box\n" $((16#f8a9))
+printf "\uf8aa f8aa %d mdi numeric 3 box multiple outline\n" $((16#f8aa))
+printf "\uf8ab f8ab %d mdi numeric 3 box outline\n" $((16#f8ab))
+printf "\uf8ac f8ac %d mdi numeric 4 box\n" $((16#f8ac))
+printf "\uf8ad f8ad %d mdi numeric 4 box multiple outline\n" $((16#f8ad))
+printf "\uf8ae f8ae %d mdi numeric 4 box outline\n" $((16#f8ae))
+printf "\uf8af f8af %d mdi numeric 5 box\n" $((16#f8af))
+printf "\uf8b0 f8b0 %d mdi numeric 5 box multiple outline\n" $((16#f8b0))
+printf "\uf8b1 f8b1 %d mdi numeric 5 box outline\n" $((16#f8b1))
+printf "\uf8b2 f8b2 %d mdi numeric 6 box\n" $((16#f8b2))
+printf "\uf8b3 f8b3 %d mdi numeric 6 box multiple outline\n" $((16#f8b3))
+printf "\uf8b4 f8b4 %d mdi numeric 6 box outline\n" $((16#f8b4))
+printf "\uf8b5 f8b5 %d mdi numeric 7 box\n" $((16#f8b5))
+printf "\uf8b6 f8b6 %d mdi numeric 7 box multiple outline\n" $((16#f8b6))
+printf "\uf8b7 f8b7 %d mdi numeric 7 box outline\n" $((16#f8b7))
+printf "\uf8b8 f8b8 %d mdi numeric 8 box\n" $((16#f8b8))
+printf "\uf8b9 f8b9 %d mdi numeric 8 box multiple outline\n" $((16#f8b9))
+printf "\uf8ba f8ba %d mdi numeric 8 box outline\n" $((16#f8ba))
+printf "\uf8bb f8bb %d mdi numeric 9 box\n" $((16#f8bb))
+printf "\uf8bc f8bc %d mdi numeric 9 box multiple outline\n" $((16#f8bc))
+printf "\uf8bd f8bd %d mdi numeric 9 box outline\n" $((16#f8bd))
+printf "\uf8be f8be %d mdi numeric 9 plus box\n" $((16#f8be))
+printf "\uf8bf f8bf %d mdi numeric 9 plus box multiple outline\n" $((16#f8bf))
+printf "\uf8c0 f8c0 %d mdi numeric 9 plus box outline\n" $((16#f8c0))
+printf "\uf8c1 f8c1 %d mdi nutrition\n" $((16#f8c1))
+printf "\uf8c2 f8c2 %d mdi octagon\n" $((16#f8c2))
+printf "\uf8c3 f8c3 %d mdi octagon outline\n" $((16#f8c3))
+printf "\uf8c4 f8c4 %d mdi odnoklassniki\n" $((16#f8c4))
+printf "\uf8c5 f8c5 %d mdi office\n" $((16#f8c5))
+printf "\uf8c6 f8c6 %d mdi oil\n" $((16#f8c6))
+printf "\uf8c7 f8c7 %d mdi oil temperature\n" $((16#f8c7))
+printf "\uf8c8 f8c8 %d mdi omega\n" $((16#f8c8))
+printf "\uf8c9 f8c9 %d mdi onedrive\n" $((16#f8c9))
+printf "\uf8ca f8ca %d mdi open in app\n" $((16#f8ca))
+printf "\uf8cb f8cb %d mdi open in new\n" $((16#f8cb))
+printf "\uf8cc f8cc %d mdi openid\n" $((16#f8cc))
+printf "\uf8cd f8cd %d mdi opera\n" $((16#f8cd))
+printf "\uf8ce f8ce %d mdi ornament\n" $((16#f8ce))
+printf "\uf8cf f8cf %d mdi ornament variant\n" $((16#f8cf))
+printf "\uf8d0 f8d0 %d mdi inbox arrow up\n" $((16#f8d0))
+printf "\uf8d1 f8d1 %d mdi owl\n" $((16#f8d1))
+printf "\uf8d2 f8d2 %d mdi package\n" $((16#f8d2))
+printf "\uf8d3 f8d3 %d mdi package down\n" $((16#f8d3))
+printf "\uf8d4 f8d4 %d mdi package up\n" $((16#f8d4))
+printf "\uf8d5 f8d5 %d mdi package variant\n" $((16#f8d5))
+printf "\uf8d6 f8d6 %d mdi package variant closed\n" $((16#f8d6))
+printf "\uf8d7 f8d7 %d mdi palette\n" $((16#f8d7))
+printf "\uf8d8 f8d8 %d mdi palette advanced\n" $((16#f8d8))
+printf "\uf8d9 f8d9 %d mdi panda\n" $((16#f8d9))
+printf "\uf8da f8da %d mdi pandora\n" $((16#f8da))
+printf "\uf8db f8db %d mdi panorama\n" $((16#f8db))
+printf "\uf8dc f8dc %d mdi panorama fisheye\n" $((16#f8dc))
+printf "\uf8dd f8dd %d mdi panorama horizontal\n" $((16#f8dd))
+printf "\uf8de f8de %d mdi panorama vertical\n" $((16#f8de))
+printf "\uf8df f8df %d mdi panorama wide angle\n" $((16#f8df))
+printf "\uf8e0 f8e0 %d mdi paper cut vertical\n" $((16#f8e0))
+printf "\uf8e1 f8e1 %d mdi paperclip\n" $((16#f8e1))
+printf "\uf8e2 f8e2 %d mdi parking\n" $((16#f8e2))
+printf "\uf8e3 f8e3 %d mdi pause\n" $((16#f8e3))
+printf "\uf8e4 f8e4 %d mdi pause circle\n" $((16#f8e4))
+printf "\uf8e5 f8e5 %d mdi pause circle outline\n" $((16#f8e5))
+printf "\uf8e6 f8e6 %d mdi pause octagon\n" $((16#f8e6))
+printf "\uf8e7 f8e7 %d mdi pause octagon outline\n" $((16#f8e7))
+printf "\uf8e8 f8e8 %d mdi paw\n" $((16#f8e8))
+printf "\uf8e9 f8e9 %d mdi pen\n" $((16#f8e9))
+printf "\uf8ea f8ea %d mdi pencil\n" $((16#f8ea))
+printf "\uf8eb f8eb %d mdi pencil box\n" $((16#f8eb))
+printf "\uf8ec f8ec %d mdi pencil box outline\n" $((16#f8ec))
+printf "\uf8ed f8ed %d mdi pencil lock\n" $((16#f8ed))
+printf "\uf8ee f8ee %d mdi pencil off\n" $((16#f8ee))
+printf "\uf8ef f8ef %d mdi percent\n" $((16#f8ef))
+printf "\uf8f0 f8f0 %d mdi pharmacy\n" $((16#f8f0))
+printf "\uf8f1 f8f1 %d mdi phone\n" $((16#f8f1))
+printf "\uf8f2 f8f2 %d mdi phone bluetooth\n" $((16#f8f2))
+printf "\uf8f3 f8f3 %d mdi phone forward\n" $((16#f8f3))
+printf "\uf8f4 f8f4 %d mdi phone hangup\n" $((16#f8f4))
+printf "\uf8f5 f8f5 %d mdi phone in talk\n" $((16#f8f5))
+printf "\uf8f6 f8f6 %d mdi phone incoming\n" $((16#f8f6))
+printf "\uf8f7 f8f7 %d mdi phone locked\n" $((16#f8f7))
+printf "\uf8f8 f8f8 %d mdi phone log\n" $((16#f8f8))
+printf "\uf8f9 f8f9 %d mdi phone missed\n" $((16#f8f9))
+printf "\uf8fa f8fa %d mdi phone outgoing\n" $((16#f8fa))
+printf "\uf8fb f8fb %d mdi phone paused\n" $((16#f8fb))
+printf "\uf8fc f8fc %d mdi phone settings\n" $((16#f8fc))
+printf "\uf8fd f8fd %d mdi phone voip\n" $((16#f8fd))
+printf "\uf8fe f8fe %d mdi pi\n" $((16#f8fe))
+printf "\uf8ff f8ff %d mdi pi box\n" $((16#f8ff))
+printf "\uf900 f900 %d mdi pig\n" $((16#f900))
+printf "\uf901 f901 %d mdi pill\n" $((16#f901))
+printf "\uf902 f902 %d mdi pin\n" $((16#f902))
+printf "\uf903 f903 %d mdi pin off\n" $((16#f903))
+printf "\uf904 f904 %d mdi pine tree\n" $((16#f904))
+printf "\uf905 f905 %d mdi pine tree box\n" $((16#f905))
+printf "\uf906 f906 %d mdi pinterest\n" $((16#f906))
+printf "\uf907 f907 %d mdi pinterest box\n" $((16#f907))
+printf "\uf908 f908 %d mdi pizza\n" $((16#f908))
+printf "\uf909 f909 %d mdi play\n" $((16#f909))
+printf "\uf90a f90a %d mdi play box outline\n" $((16#f90a))
+printf "\uf90b f90b %d mdi play circle\n" $((16#f90b))
+printf "\uf90c f90c %d mdi play circle outline\n" $((16#f90c))
+printf "\uf90d f90d %d mdi play pause\n" $((16#f90d))
+printf "\uf90e f90e %d mdi play protected content\n" $((16#f90e))
+printf "\uf90f f90f %d mdi playlist minus\n" $((16#f90f))
+printf "\uf910 f910 %d mdi playlist play\n" $((16#f910))
+printf "\uf911 f911 %d mdi playlist plus\n" $((16#f911))
+printf "\uf912 f912 %d mdi playlist remove\n" $((16#f912))
+printf "\uf913 f913 %d mdi playstation\n" $((16#f913))
+printf "\uf914 f914 %d mdi plus\n" $((16#f914))
+printf "\uf915 f915 %d mdi plus box\n" $((16#f915))
+printf "\uf916 f916 %d mdi plus circle\n" $((16#f916))
+printf "\uf917 f917 %d mdi plus circle multiple outline\n" $((16#f917))
+printf "\uf918 f918 %d mdi plus circle outline\n" $((16#f918))
+printf "\uf919 f919 %d mdi plus network\n" $((16#f919))
+printf "\uf91a f91a %d mdi plus one\n" $((16#f91a))
+printf "\uf91b f91b %d mdi pocket\n" $((16#f91b))
+printf "\uf91c f91c %d mdi pokeball\n" $((16#f91c))
+printf "\uf91d f91d %d mdi polaroid\n" $((16#f91d))
+printf "\uf91e f91e %d mdi poll\n" $((16#f91e))
+printf "\uf91f f91f %d mdi poll box\n" $((16#f91f))
+printf "\uf920 f920 %d mdi polymer\n" $((16#f920))
+printf "\uf921 f921 %d mdi popcorn\n" $((16#f921))
+printf "\uf922 f922 %d mdi pound\n" $((16#f922))
+printf "\uf923 f923 %d mdi pound box\n" $((16#f923))
+printf "\uf924 f924 %d mdi power\n" $((16#f924))
+printf "\uf925 f925 %d mdi power settings\n" $((16#f925))
+printf "\uf926 f926 %d mdi power socket\n" $((16#f926))
+printf "\uf927 f927 %d mdi presentation\n" $((16#f927))
+printf "\uf928 f928 %d mdi presentation play\n" $((16#f928))
+printf "\uf929 f929 %d mdi printer\n" $((16#f929))
+printf "\uf92a f92a %d mdi printer 3d\n" $((16#f92a))
+printf "\uf92b f92b %d mdi printer alert\n" $((16#f92b))
+printf "\uf92c f92c %d mdi professional hexagon\n" $((16#f92c))
+printf "\uf92d f92d %d mdi projector\n" $((16#f92d))
+printf "\uf92e f92e %d mdi projector screen\n" $((16#f92e))
+printf "\uf92f f92f %d mdi pulse\n" $((16#f92f))
+printf "\uf930 f930 %d mdi puzzle\n" $((16#f930))
+printf "\uf931 f931 %d mdi qrcode\n" $((16#f931))
+printf "\uf932 f932 %d mdi qrcode scan\n" $((16#f932))
+printf "\uf933 f933 %d mdi quadcopter\n" $((16#f933))
+printf "\uf934 f934 %d mdi quality high\n" $((16#f934))
+printf "\uf935 f935 %d mdi quicktime\n" $((16#f935))
+printf "\uf936 f936 %d mdi radar\n" $((16#f936))
+printf "\uf937 f937 %d mdi radiator\n" $((16#f937))
+printf "\uf938 f938 %d mdi radio\n" $((16#f938))
+printf "\uf939 f939 %d mdi radio handheld\n" $((16#f939))
+printf "\uf93a f93a %d mdi radio tower\n" $((16#f93a))
+printf "\uf93b f93b %d mdi radioactive\n" $((16#f93b))
+printf "\uf93c f93c %d mdi radiobox blank\n" $((16#f93c))
+printf "\uf93d f93d %d mdi radiobox marked\n" $((16#f93d))
+printf "\uf93e f93e %d mdi raspberrypi\n" $((16#f93e))
+printf "\uf93f f93f %d mdi ray end\n" $((16#f93f))
+printf "\uf940 f940 %d mdi ray end arrow\n" $((16#f940))
+printf "\uf941 f941 %d mdi ray start\n" $((16#f941))
+printf "\uf942 f942 %d mdi ray start arrow\n" $((16#f942))
+printf "\uf943 f943 %d mdi ray start end\n" $((16#f943))
+printf "\uf944 f944 %d mdi ray vertex\n" $((16#f944))
+printf "\uf945 f945 %d mdi lastpass\n" $((16#f945))
+printf "\uf946 f946 %d mdi read\n" $((16#f946))
+printf "\uf947 f947 %d mdi youtube tv\n" $((16#f947))
+printf "\uf948 f948 %d mdi receipt\n" $((16#f948))
+printf "\uf949 f949 %d mdi record\n" $((16#f949))
+printf "\uf94a f94a %d mdi record rec\n" $((16#f94a))
+printf "\uf94b f94b %d mdi recycle\n" $((16#f94b))
+printf "\uf94c f94c %d mdi reddit\n" $((16#f94c))
+printf "\uf94d f94d %d mdi redo\n" $((16#f94d))
+printf "\uf94e f94e %d mdi redo variant\n" $((16#f94e))
+printf "\uf94f f94f %d mdi refresh\n" $((16#f94f))
+printf "\uf950 f950 %d mdi regex\n" $((16#f950))
+printf "\uf951 f951 %d mdi relative scale\n" $((16#f951))
+printf "\uf952 f952 %d mdi reload\n" $((16#f952))
+printf "\uf953 f953 %d mdi remote\n" $((16#f953))
+printf "\uf954 f954 %d mdi rename box\n" $((16#f954))
+printf "\uf955 f955 %d mdi repeat\n" $((16#f955))
+printf "\uf956 f956 %d mdi repeat off\n" $((16#f956))
+printf "\uf957 f957 %d mdi repeat once\n" $((16#f957))
+printf "\uf958 f958 %d mdi replay\n" $((16#f958))
+printf "\uf959 f959 %d mdi reply\n" $((16#f959))
+printf "\uf95a f95a %d mdi reply all\n" $((16#f95a))
+printf "\uf95b f95b %d mdi reproduction\n" $((16#f95b))
+printf "\uf95c f95c %d mdi resize bottom right\n" $((16#f95c))
+printf "\uf95d f95d %d mdi responsive\n" $((16#f95d))
+printf "\uf95e f95e %d mdi rewind\n" $((16#f95e))
+printf "\uf95f f95f %d mdi ribbon\n" $((16#f95f))
+printf "\uf960 f960 %d mdi road\n" $((16#f960))
+printf "\uf961 f961 %d mdi road variant\n" $((16#f961))
+printf "\uf962 f962 %d mdi rocket\n" $((16#f962))
+printf "\uf963 f963 %d mdi rotate 3d\n" $((16#f963))
+printf "\uf964 f964 %d mdi rotate left\n" $((16#f964))
+printf "\uf965 f965 %d mdi rotate left variant\n" $((16#f965))
+printf "\uf966 f966 %d mdi rotate right\n" $((16#f966))
+printf "\uf967 f967 %d mdi rotate right variant\n" $((16#f967))
+printf "\uf968 f968 %d mdi router wireless\n" $((16#f968))
+printf "\uf969 f969 %d mdi routes\n" $((16#f969))
+printf "\uf96a f96a %d mdi rss\n" $((16#f96a))
+printf "\uf96b f96b %d mdi rss box\n" $((16#f96b))
+printf "\uf96c f96c %d mdi ruler\n" $((16#f96c))
+printf "\uf96d f96d %d mdi run fast\n" $((16#f96d))
+printf "\uf96e f96e %d mdi sale\n" $((16#f96e))
+printf "\uf96f f96f %d mdi satellite\n" $((16#f96f))
+printf "\uf970 f970 %d mdi satellite variant\n" $((16#f970))
+printf "\uf971 f971 %d mdi scale\n" $((16#f971))
+printf "\uf972 f972 %d mdi scale bathroom\n" $((16#f972))
+printf "\uf973 f973 %d mdi school\n" $((16#f973))
+printf "\uf974 f974 %d mdi screen rotation\n" $((16#f974))
+printf "\uf975 f975 %d mdi screen rotation lock\n" $((16#f975))
+printf "\uf976 f976 %d mdi screwdriver\n" $((16#f976))
+printf "\uf977 f977 %d mdi script\n" $((16#f977))
+printf "\uf978 f978 %d mdi sd\n" $((16#f978))
+printf "\uf979 f979 %d mdi seal\n" $((16#f979))
+printf "\uf97a f97a %d mdi seat flat\n" $((16#f97a))
+printf "\uf97b f97b %d mdi seat flat angled\n" $((16#f97b))
+printf "\uf97c f97c %d mdi seat individual suite\n" $((16#f97c))
+printf "\uf97d f97d %d mdi seat legroom extra\n" $((16#f97d))
+printf "\uf97e f97e %d mdi seat legroom normal\n" $((16#f97e))
+printf "\uf97f f97f %d mdi seat legroom reduced\n" $((16#f97f))
+printf "\uf980 f980 %d mdi seat recline extra\n" $((16#f980))
+printf "\uf981 f981 %d mdi seat recline normal\n" $((16#f981))
+printf "\uf982 f982 %d mdi security\n" $((16#f982))
+printf "\uf983 f983 %d mdi security network\n" $((16#f983))
+printf "\uf984 f984 %d mdi select\n" $((16#f984))
+printf "\uf985 f985 %d mdi select all\n" $((16#f985))
+printf "\uf986 f986 %d mdi select inverse\n" $((16#f986))
+printf "\uf987 f987 %d mdi select off\n" $((16#f987))
+printf "\uf988 f988 %d mdi selection\n" $((16#f988))
+printf "\uf989 f989 %d mdi send\n" $((16#f989))
+printf "\uf98a f98a %d mdi server\n" $((16#f98a))
+printf "\uf98b f98b %d mdi server minus\n" $((16#f98b))
+printf "\uf98c f98c %d mdi server network\n" $((16#f98c))
+printf "\uf98d f98d %d mdi server network off\n" $((16#f98d))
+printf "\uf98e f98e %d mdi server off\n" $((16#f98e))
+printf "\uf98f f98f %d mdi server plus\n" $((16#f98f))
+printf "\uf990 f990 %d mdi server remove\n" $((16#f990))
+printf "\uf991 f991 %d mdi server security\n" $((16#f991))
+printf "\uf992 f992 %d mdi settings\n" $((16#f992))
+printf "\uf993 f993 %d mdi settings box\n" $((16#f993))
+printf "\uf994 f994 %d mdi shape plus\n" $((16#f994))
+printf "\uf995 f995 %d mdi share\n" $((16#f995))
+printf "\uf996 f996 %d mdi share variant\n" $((16#f996))
+printf "\uf997 f997 %d mdi shield\n" $((16#f997))
+printf "\uf998 f998 %d mdi shield outline\n" $((16#f998))
+printf "\uf999 f999 %d mdi shopping\n" $((16#f999))
+printf "\uf99a f99a %d mdi shopping music\n" $((16#f99a))
+printf "\uf99b f99b %d mdi shredder\n" $((16#f99b))
+printf "\uf99c f99c %d mdi shuffle\n" $((16#f99c))
+printf "\uf99d f99d %d mdi shuffle disabled\n" $((16#f99d))
+printf "\uf99e f99e %d mdi shuffle variant\n" $((16#f99e))
+printf "\uf99f f99f %d mdi sigma\n" $((16#f99f))
+printf "\uf9a0 f9a0 %d mdi sign caution\n" $((16#f9a0))
+printf "\uf9a1 f9a1 %d mdi signal\n" $((16#f9a1))
+printf "\uf9a2 f9a2 %d mdi silverware\n" $((16#f9a2))
+printf "\uf9a3 f9a3 %d mdi silverware fork\n" $((16#f9a3))
+printf "\uf9a4 f9a4 %d mdi silverware spoon\n" $((16#f9a4))
+printf "\uf9a5 f9a5 %d mdi silverware variant\n" $((16#f9a5))
+printf "\uf9a6 f9a6 %d mdi sim\n" $((16#f9a6))
+printf "\uf9a7 f9a7 %d mdi sim alert\n" $((16#f9a7))
+printf "\uf9a8 f9a8 %d mdi sim off\n" $((16#f9a8))
+printf "\uf9a9 f9a9 %d mdi sitemap\n" $((16#f9a9))
+printf "\uf9aa f9aa %d mdi skip backward\n" $((16#f9aa))
+printf "\uf9ab f9ab %d mdi skip forward\n" $((16#f9ab))
+printf "\uf9ac f9ac %d mdi skip next\n" $((16#f9ac))
+printf "\uf9ad f9ad %d mdi skip previous\n" $((16#f9ad))
+printf "\uf9ae f9ae %d mdi skype\n" $((16#f9ae))
+printf "\uf9af f9af %d mdi skype business\n" $((16#f9af))
+printf "\uf9b0 f9b0 %d mdi slack\n" $((16#f9b0))
+printf "\uf9b1 f9b1 %d mdi sleep\n" $((16#f9b1))
+printf "\uf9b2 f9b2 %d mdi sleep off\n" $((16#f9b2))
+printf "\uf9b3 f9b3 %d mdi smoking\n" $((16#f9b3))
+printf "\uf9b4 f9b4 %d mdi smoking off\n" $((16#f9b4))
+printf "\uf9b5 f9b5 %d mdi snapchat\n" $((16#f9b5))
+printf "\uf9b6 f9b6 %d mdi snowman\n" $((16#f9b6))
+printf "\uf9b7 f9b7 %d mdi soccer\n" $((16#f9b7))
+printf "\uf9b8 f9b8 %d mdi sofa\n" $((16#f9b8))
+printf "\uf9b9 f9b9 %d mdi sort\n" $((16#f9b9))
+printf "\uf9ba f9ba %d mdi sort alphabetical\n" $((16#f9ba))
+printf "\uf9bb f9bb %d mdi sort ascending\n" $((16#f9bb))
+printf "\uf9bc f9bc %d mdi sort descending\n" $((16#f9bc))
+printf "\uf9bd f9bd %d mdi sort numeric\n" $((16#f9bd))
+printf "\uf9be f9be %d mdi sort variant\n" $((16#f9be))
+printf "\uf9bf f9bf %d mdi soundcloud\n" $((16#f9bf))
+printf "\uf9c0 f9c0 %d mdi source fork\n" $((16#f9c0))
+printf "\uf9c1 f9c1 %d mdi source pull\n" $((16#f9c1))
+printf "\uf9c2 f9c2 %d mdi speaker\n" $((16#f9c2))
+printf "\uf9c3 f9c3 %d mdi speaker off\n" $((16#f9c3))
+printf "\uf9c4 f9c4 %d mdi speedometer\n" $((16#f9c4))
+printf "\uf9c5 f9c5 %d mdi spellcheck\n" $((16#f9c5))
+printf "\uf9c6 f9c6 %d mdi spotify\n" $((16#f9c6))
+printf "\uf9c7 f9c7 %d mdi spotlight\n" $((16#f9c7))
+printf "\uf9c8 f9c8 %d mdi spotlight beam\n" $((16#f9c8))
+printf "\uf9c9 f9c9 %d mdi square inc\n" $((16#f9c9))
+printf "\uf9ca f9ca %d mdi square inc cash\n" $((16#f9ca))
+printf "\uf9cb f9cb %d mdi stack overflow\n" $((16#f9cb))
+printf "\uf9cc f9cc %d mdi stairs\n" $((16#f9cc))
+printf "\uf9cd f9cd %d mdi star\n" $((16#f9cd))
+printf "\uf9ce f9ce %d mdi star circle\n" $((16#f9ce))
+printf "\uf9cf f9cf %d mdi star half\n" $((16#f9cf))
+printf "\uf9d0 f9d0 %d mdi star off\n" $((16#f9d0))
+printf "\uf9d1 f9d1 %d mdi star outline\n" $((16#f9d1))
+printf "\uf9d2 f9d2 %d mdi steam\n" $((16#f9d2))
+printf "\uf9d3 f9d3 %d mdi steering\n" $((16#f9d3))
+printf "\uf9d4 f9d4 %d mdi step backward\n" $((16#f9d4))
+printf "\uf9d5 f9d5 %d mdi step backward 2\n" $((16#f9d5))
+printf "\uf9d6 f9d6 %d mdi step forward\n" $((16#f9d6))
+printf "\uf9d7 f9d7 %d mdi step forward 2\n" $((16#f9d7))
+printf "\uf9d8 f9d8 %d mdi stethoscope\n" $((16#f9d8))
+printf "\uf9d9 f9d9 %d mdi stocking\n" $((16#f9d9))
+printf "\uf9da f9da %d mdi stop\n" $((16#f9da))
+printf "\uf9db f9db %d mdi store\n" $((16#f9db))
+printf "\uf9dc f9dc %d mdi store 24 hour\n" $((16#f9dc))
+printf "\uf9dd f9dd %d mdi stove\n" $((16#f9dd))
+printf "\uf9de f9de %d mdi subway variant\n" $((16#f9de))
+printf "\uf9df f9df %d mdi sunglasses\n" $((16#f9df))
+printf "\uf9e0 f9e0 %d mdi swap horizontal\n" $((16#f9e0))
+printf "\uf9e1 f9e1 %d mdi swap vertical\n" $((16#f9e1))
+printf "\uf9e2 f9e2 %d mdi swim\n" $((16#f9e2))
+printf "\uf9e3 f9e3 %d mdi switch\n" $((16#f9e3))
+printf "\uf9e4 f9e4 %d mdi sword\n" $((16#f9e4))
+printf "\uf9e5 f9e5 %d mdi sync\n" $((16#f9e5))
+printf "\uf9e6 f9e6 %d mdi sync alert\n" $((16#f9e6))
+printf "\uf9e7 f9e7 %d mdi sync off\n" $((16#f9e7))
+printf "\uf9e8 f9e8 %d mdi tab\n" $((16#f9e8))
+printf "\uf9e9 f9e9 %d mdi tab unselected\n" $((16#f9e9))
+printf "\uf9ea f9ea %d mdi table\n" $((16#f9ea))
+printf "\uf9eb f9eb %d mdi table column plus after\n" $((16#f9eb))
+printf "\uf9ec f9ec %d mdi table column plus before\n" $((16#f9ec))
+printf "\uf9ed f9ed %d mdi table column remove\n" $((16#f9ed))
+printf "\uf9ee f9ee %d mdi table column width\n" $((16#f9ee))
+printf "\uf9ef f9ef %d mdi table edit\n" $((16#f9ef))
+printf "\uf9f0 f9f0 %d mdi table large\n" $((16#f9f0))
+printf "\uf9f1 f9f1 %d mdi table row height\n" $((16#f9f1))
+printf "\uf9f2 f9f2 %d mdi table row plus after\n" $((16#f9f2))
+printf "\uf9f3 f9f3 %d mdi table row plus before\n" $((16#f9f3))
+printf "\uf9f4 f9f4 %d mdi table row remove\n" $((16#f9f4))
+printf "\uf9f5 f9f5 %d mdi tablet\n" $((16#f9f5))
+printf "\uf9f6 f9f6 %d mdi tablet android\n" $((16#f9f6))
+printf "\uf9f7 f9f7 %d mdi tablet ipad\n" $((16#f9f7))
+printf "\uf9f8 f9f8 %d mdi tag\n" $((16#f9f8))
+printf "\uf9f9 f9f9 %d mdi tag faces\n" $((16#f9f9))
+printf "\uf9fa f9fa %d mdi tag multiple\n" $((16#f9fa))
+printf "\uf9fb f9fb %d mdi tag outline\n" $((16#f9fb))
+printf "\uf9fc f9fc %d mdi tag text outline\n" $((16#f9fc))
+printf "\uf9fd f9fd %d mdi target\n" $((16#f9fd))
+printf "\uf9fe f9fe %d mdi taxi\n" $((16#f9fe))
+printf "\uf9ff f9ff %d mdi teamviewer\n" $((16#f9ff))
+printf "\ufa00 fa00 %d mdi telegram\n" $((16#fa00))
+printf "\ufa01 fa01 %d mdi television\n" $((16#fa01))
+printf "\ufa02 fa02 %d mdi television guide\n" $((16#fa02))
+printf "\ufa03 fa03 %d mdi temperature celsius\n" $((16#fa03))
+printf "\ufa04 fa04 %d mdi temperature fahrenheit\n" $((16#fa04))
+printf "\ufa05 fa05 %d mdi temperature kelvin\n" $((16#fa05))
+printf "\ufa06 fa06 %d mdi tennis\n" $((16#fa06))
+printf "\ufa07 fa07 %d mdi tent\n" $((16#fa07))
+printf "\ufa08 fa08 %d mdi terrain\n" $((16#fa08))
+printf "\ufa09 fa09 %d mdi text to speech\n" $((16#fa09))
+printf "\ufa0a fa0a %d mdi text to speech off\n" $((16#fa0a))
+printf "\ufa0b fa0b %d mdi texture\n" $((16#fa0b))
+printf "\ufa0c fa0c %d mdi theater\n" $((16#fa0c))
+printf "\ufa0d fa0d %d mdi theme light dark\n" $((16#fa0d))
+printf "\ufa0e fa0e %d mdi thermometer\n" $((16#fa0e))
+printf "\ufa0f fa0f %d mdi thermometer lines\n" $((16#fa0f))
+printf "\ufa10 fa10 %d mdi thumb down\n" $((16#fa10))
+printf "\ufa11 fa11 %d mdi thumb down outline\n" $((16#fa11))
+printf "\ufa12 fa12 %d mdi thumb up\n" $((16#fa12))
+printf "\ufa13 fa13 %d mdi thumb up outline\n" $((16#fa13))
+printf "\ufa14 fa14 %d mdi thumbs up down\n" $((16#fa14))
+printf "\ufa15 fa15 %d mdi ticket\n" $((16#fa15))
+printf "\ufa16 fa16 %d mdi ticket account\n" $((16#fa16))
+printf "\ufa17 fa17 %d mdi ticket confirmation\n" $((16#fa17))
+printf "\ufa18 fa18 %d mdi tie\n" $((16#fa18))
+printf "\ufa19 fa19 %d mdi timelapse\n" $((16#fa19))
+printf "\ufa1a fa1a %d mdi timer\n" $((16#fa1a))
+printf "\ufa1b fa1b %d mdi timer 10\n" $((16#fa1b))
+printf "\ufa1c fa1c %d mdi timer 3\n" $((16#fa1c))
+printf "\ufa1d fa1d %d mdi timer off\n" $((16#fa1d))
+printf "\ufa1e fa1e %d mdi timer sand\n" $((16#fa1e))
+printf "\ufa1f fa1f %d mdi timetable\n" $((16#fa1f))
+printf "\ufa20 fa20 %d mdi toggle switch\n" $((16#fa20))
+printf "\ufa21 fa21 %d mdi toggle switch off\n" $((16#fa21))
+printf "\ufa22 fa22 %d mdi tooltip\n" $((16#fa22))
+printf "\ufa23 fa23 %d mdi tooltip edit\n" $((16#fa23))
+printf "\ufa24 fa24 %d mdi tooltip image\n" $((16#fa24))
+printf "\ufa25 fa25 %d mdi tooltip outline\n" $((16#fa25))
+printf "\ufa26 fa26 %d mdi tooltip outline plus\n" $((16#fa26))
+printf "\ufa27 fa27 %d mdi tooltip text\n" $((16#fa27))
+printf "\ufa28 fa28 %d mdi tooth\n" $((16#fa28))
+printf "\ufa29 fa29 %d mdi tor\n" $((16#fa29))
+printf "\ufa2a fa2a %d mdi traffic light\n" $((16#fa2a))
+printf "\ufa2b fa2b %d mdi train\n" $((16#fa2b))
+printf "\ufa2c fa2c %d mdi tram\n" $((16#fa2c))
+printf "\ufa2d fa2d %d mdi transcribe\n" $((16#fa2d))
+printf "\ufa2e fa2e %d mdi transcribe close\n" $((16#fa2e))
+printf "\ufa2f fa2f %d mdi transfer\n" $((16#fa2f))
+printf "\ufa30 fa30 %d mdi tree\n" $((16#fa30))
+printf "\ufa31 fa31 %d mdi trello\n" $((16#fa31))
+printf "\ufa32 fa32 %d mdi trending down\n" $((16#fa32))
+printf "\ufa33 fa33 %d mdi trending neutral\n" $((16#fa33))
+printf "\ufa34 fa34 %d mdi trending up\n" $((16#fa34))
+printf "\ufa35 fa35 %d mdi triangle\n" $((16#fa35))
+printf "\ufa36 fa36 %d mdi triangle outline\n" $((16#fa36))
+printf "\ufa37 fa37 %d mdi trophy\n" $((16#fa37))
+printf "\ufa38 fa38 %d mdi trophy award\n" $((16#fa38))
+printf "\ufa39 fa39 %d mdi trophy outline\n" $((16#fa39))
+printf "\ufa3a fa3a %d mdi trophy variant\n" $((16#fa3a))
+printf "\ufa3b fa3b %d mdi trophy variant outline\n" $((16#fa3b))
+printf "\ufa3c fa3c %d mdi truck\n" $((16#fa3c))
+printf "\ufa3d fa3d %d mdi truck delivery\n" $((16#fa3d))
+printf "\ufa3e fa3e %d mdi tshirt crew\n" $((16#fa3e))
+printf "\ufa3f fa3f %d mdi tshirt v\n" $((16#fa3f))
+printf "\ufa40 fa40 %d mdi tumblr\n" $((16#fa40))
+printf "\ufa41 fa41 %d mdi tumblr reblog\n" $((16#fa41))
+printf "\ufa42 fa42 %d mdi twitch\n" $((16#fa42))
+printf "\ufa43 fa43 %d mdi twitter\n" $((16#fa43))
+printf "\ufa44 fa44 %d mdi twitter box\n" $((16#fa44))
+printf "\ufa45 fa45 %d mdi twitter circle\n" $((16#fa45))
+printf "\ufa46 fa46 %d mdi twitter retweet\n" $((16#fa46))
+printf "\ufa47 fa47 %d mdi ubuntu\n" $((16#fa47))
+printf "\ufa48 fa48 %d mdi umbraco\n" $((16#fa48))
+printf "\ufa49 fa49 %d mdi umbrella\n" $((16#fa49))
+printf "\ufa4a fa4a %d mdi umbrella outline\n" $((16#fa4a))
+printf "\ufa4b fa4b %d mdi undo\n" $((16#fa4b))
+printf "\ufa4c fa4c %d mdi undo variant\n" $((16#fa4c))
+printf "\ufa4d fa4d %d mdi unfold less horizontal\n" $((16#fa4d))
+printf "\ufa4e fa4e %d mdi unfold more horizontal\n" $((16#fa4e))
+printf "\ufa4f fa4f %d mdi ungroup\n" $((16#fa4f))
+printf "\ufa50 fa50 %d mdi untappd\n" $((16#fa50))
+printf "\ufa51 fa51 %d mdi upload\n" $((16#fa51))
+printf "\ufa52 fa52 %d mdi usb\n" $((16#fa52))
+printf "\ufa53 fa53 %d mdi vector arrange above\n" $((16#fa53))
+printf "\ufa54 fa54 %d mdi vector arrange below\n" $((16#fa54))
+printf "\ufa55 fa55 %d mdi vector circle\n" $((16#fa55))
+printf "\ufa56 fa56 %d mdi vector circle variant\n" $((16#fa56))
+printf "\ufa57 fa57 %d mdi vector combine\n" $((16#fa57))
+printf "\ufa58 fa58 %d mdi vector curve\n" $((16#fa58))
+printf "\ufa59 fa59 %d mdi vector difference\n" $((16#fa59))
+printf "\ufa5a fa5a %d mdi vector difference ab\n" $((16#fa5a))
+printf "\ufa5b fa5b %d mdi vector difference ba\n" $((16#fa5b))
+printf "\ufa5c fa5c %d mdi vector intersection\n" $((16#fa5c))
+printf "\ufa5d fa5d %d mdi vector line\n" $((16#fa5d))
+printf "\ufa5e fa5e %d mdi vector point\n" $((16#fa5e))
+printf "\ufa5f fa5f %d mdi vector polygon\n" $((16#fa5f))
+printf "\ufa60 fa60 %d mdi vector polyline\n" $((16#fa60))
+printf "\ufa61 fa61 %d mdi vector selection\n" $((16#fa61))
+printf "\ufa62 fa62 %d mdi vector triangle\n" $((16#fa62))
+printf "\ufa63 fa63 %d mdi vector union\n" $((16#fa63))
+printf "\ufa64 fa64 %d mdi verified\n" $((16#fa64))
+printf "\ufa65 fa65 %d mdi vibrate\n" $((16#fa65))
+printf "\ufa66 fa66 %d mdi video\n" $((16#fa66))
+printf "\ufa67 fa67 %d mdi video off\n" $((16#fa67))
+printf "\ufa68 fa68 %d mdi video switch\n" $((16#fa68))
+printf "\ufa69 fa69 %d mdi view agenda\n" $((16#fa69))
+printf "\ufa6a fa6a %d mdi view array\n" $((16#fa6a))
+printf "\ufa6b fa6b %d mdi view carousel\n" $((16#fa6b))
+printf "\ufa6c fa6c %d mdi view column\n" $((16#fa6c))
+printf "\ufa6d fa6d %d mdi view dashboard\n" $((16#fa6d))
+printf "\ufa6e fa6e %d mdi view day\n" $((16#fa6e))
+printf "\ufa6f fa6f %d mdi view grid\n" $((16#fa6f))
+printf "\ufa70 fa70 %d mdi view headline\n" $((16#fa70))
+printf "\ufa71 fa71 %d mdi view list\n" $((16#fa71))
+printf "\ufa72 fa72 %d mdi view module\n" $((16#fa72))
+printf "\ufa73 fa73 %d mdi view quilt\n" $((16#fa73))
+printf "\ufa74 fa74 %d mdi view stream\n" $((16#fa74))
+printf "\ufa75 fa75 %d mdi view week\n" $((16#fa75))
+printf "\ufa76 fa76 %d mdi vimeo\n" $((16#fa76))
+printf "\ufa77 fa77 %d mdi venmo\n" $((16#fa77))
+printf "\ufa78 fa78 %d mdi vk\n" $((16#fa78))
+printf "\ufa79 fa79 %d mdi vk box\n" $((16#fa79))
+printf "\ufa7a fa7a %d mdi vk circle\n" $((16#fa7a))
+printf "\ufa7b fa7b %d mdi vlc\n" $((16#fa7b))
+printf "\ufa7c fa7c %d mdi voicemail\n" $((16#fa7c))
+printf "\ufa7d fa7d %d mdi volume high\n" $((16#fa7d))
+printf "\ufa7e fa7e %d mdi volume low\n" $((16#fa7e))
+printf "\ufa7f fa7f %d mdi volume medium\n" $((16#fa7f))
+printf "\ufa80 fa80 %d mdi volume off\n" $((16#fa80))
+printf "\ufa81 fa81 %d mdi vpn\n" $((16#fa81))
+printf "\ufa82 fa82 %d mdi walk\n" $((16#fa82))
+printf "\ufa83 fa83 %d mdi wallet\n" $((16#fa83))
+printf "\ufa84 fa84 %d mdi wallet giftcard\n" $((16#fa84))
+printf "\ufa85 fa85 %d mdi wallet membership\n" $((16#fa85))
+printf "\ufa86 fa86 %d mdi wallet travel\n" $((16#fa86))
+printf "\ufa87 fa87 %d mdi wan\n" $((16#fa87))
+printf "\ufa88 fa88 %d mdi watch\n" $((16#fa88))
+printf "\ufa89 fa89 %d mdi watch export\n" $((16#fa89))
+printf "\ufa8a fa8a %d mdi watch import\n" $((16#fa8a))
+printf "\ufa8b fa8b %d mdi water\n" $((16#fa8b))
+printf "\ufa8c fa8c %d mdi water off\n" $((16#fa8c))
+printf "\ufa8d fa8d %d mdi water percent\n" $((16#fa8d))
+printf "\ufa8e fa8e %d mdi water pump\n" $((16#fa8e))
+printf "\ufa8f fa8f %d mdi weather cloudy\n" $((16#fa8f))
+printf "\ufa90 fa90 %d mdi weather fog\n" $((16#fa90))
+printf "\ufa91 fa91 %d mdi weather hail\n" $((16#fa91))
+printf "\ufa92 fa92 %d mdi weather lightning\n" $((16#fa92))
+printf "\ufa93 fa93 %d mdi weather night\n" $((16#fa93))
+printf "\ufa94 fa94 %d mdi weather partlycloudy\n" $((16#fa94))
+printf "\ufa95 fa95 %d mdi weather pouring\n" $((16#fa95))
+printf "\ufa96 fa96 %d mdi weather rainy\n" $((16#fa96))
+printf "\ufa97 fa97 %d mdi weather snowy\n" $((16#fa97))
+printf "\ufa98 fa98 %d mdi weather sunny\n" $((16#fa98))
+printf "\ufa99 fa99 %d mdi weather sunset\n" $((16#fa99))
+printf "\ufa9a fa9a %d mdi weather sunset down\n" $((16#fa9a))
+printf "\ufa9b fa9b %d mdi weather sunset up\n" $((16#fa9b))
+printf "\ufa9c fa9c %d mdi weather windy\n" $((16#fa9c))
+printf "\ufa9d fa9d %d mdi weather windy variant\n" $((16#fa9d))
+printf "\ufa9e fa9e %d mdi web\n" $((16#fa9e))
+printf "\ufa9f fa9f %d mdi webcam\n" $((16#fa9f))
+printf "\ufaa0 faa0 %d mdi weight\n" $((16#faa0))
+printf "\ufaa1 faa1 %d mdi weight kilogram\n" $((16#faa1))
+printf "\ufaa2 faa2 %d mdi whatsapp\n" $((16#faa2))
+printf "\ufaa3 faa3 %d mdi wheelchair accessibility\n" $((16#faa3))
+printf "\ufaa4 faa4 %d mdi white balance auto\n" $((16#faa4))
+printf "\ufaa5 faa5 %d mdi white balance incandescent\n" $((16#faa5))
+printf "\ufaa6 faa6 %d mdi white balance iridescent\n" $((16#faa6))
+printf "\ufaa7 faa7 %d mdi white balance sunny\n" $((16#faa7))
+printf "\ufaa8 faa8 %d mdi wifi\n" $((16#faa8))
+printf "\ufaa9 faa9 %d mdi wifi off\n" $((16#faa9))
+printf "\ufaaa faaa %d mdi wii\n" $((16#faaa))
+printf "\ufaab faab %d mdi wikipedia\n" $((16#faab))
+printf "\ufaac faac %d mdi window close\n" $((16#faac))
+printf "\ufaad faad %d mdi window closed\n" $((16#faad))
+printf "\ufaae faae %d mdi window maximize\n" $((16#faae))
+printf "\ufaaf faaf %d mdi window minimize\n" $((16#faaf))
+printf "\ufab0 fab0 %d mdi window open\n" $((16#fab0))
+printf "\ufab1 fab1 %d mdi window restore\n" $((16#fab1))
+printf "\ufab2 fab2 %d mdi windows\n" $((16#fab2))
+printf "\ufab3 fab3 %d mdi wordpress\n" $((16#fab3))
+printf "\ufab4 fab4 %d mdi worker\n" $((16#fab4))
+printf "\ufab5 fab5 %d mdi wrap\n" $((16#fab5))
+printf "\ufab6 fab6 %d mdi wrench\n" $((16#fab6))
+printf "\ufab7 fab7 %d mdi wunderlist\n" $((16#fab7))
+printf "\ufab8 fab8 %d mdi xbox\n" $((16#fab8))
+printf "\ufab9 fab9 %d mdi xbox controller\n" $((16#fab9))
+printf "\ufaba faba %d mdi xbox controller off\n" $((16#faba))
+printf "\ufabb fabb %d mdi xda\n" $((16#fabb))
+printf "\ufabc fabc %d mdi xing\n" $((16#fabc))
+printf "\ufabd fabd %d mdi xing box\n" $((16#fabd))
+printf "\ufabe fabe %d mdi xing circle\n" $((16#fabe))
+printf "\ufabf fabf %d mdi xml\n" $((16#fabf))
+printf "\ufac0 fac0 %d mdi yeast\n" $((16#fac0))
+printf "\ufac1 fac1 %d mdi yelp\n" $((16#fac1))
+printf "\ufac2 fac2 %d mdi youtube play\n" $((16#fac2))
+printf "\ufac3 fac3 %d mdi zip box\n" $((16#fac3))
+printf "\ufac4 fac4 %d mdi surround sound\n" $((16#fac4))
+printf "\ufac5 fac5 %d mdi vector rectangle\n" $((16#fac5))
+printf "\ufac6 fac6 %d mdi playlist check\n" $((16#fac6))
+printf "\ufac7 fac7 %d mdi format line style\n" $((16#fac7))
+printf "\ufac8 fac8 %d mdi format line weight\n" $((16#fac8))
+printf "\ufac9 fac9 %d mdi translate\n" $((16#fac9))
+printf "\ufaca faca %d mdi voice\n" $((16#faca))
+printf "\ufacb facb %d mdi opacity\n" $((16#facb))
+printf "\ufacc facc %d mdi near me\n" $((16#facc))
+printf "\ufacd facd %d mdi clock alert\n" $((16#facd))
+printf "\uface face %d mdi human pregnant\n" $((16#face))
+printf "\ufacf facf %d mdi sticker\n" $((16#facf))
+printf "\ufad0 fad0 %d mdi scale balance\n" $((16#fad0))
+printf "\ufad1 fad1 %d mdi account card details\n" $((16#fad1))
+printf "\ufad2 fad2 %d mdi account multiple minus\n" $((16#fad2))
+printf "\ufad3 fad3 %d mdi airplane landing\n" $((16#fad3))
+printf "\ufad4 fad4 %d mdi airplane takeoff\n" $((16#fad4))
+printf "\ufad5 fad5 %d mdi alert circle outline\n" $((16#fad5))
+printf "\ufad6 fad6 %d mdi altimeter\n" $((16#fad6))
+printf "\ufad7 fad7 %d mdi animation\n" $((16#fad7))
+printf "\ufad8 fad8 %d mdi book minus\n" $((16#fad8))
+printf "\ufad9 fad9 %d mdi book open page variant\n" $((16#fad9))
+printf "\ufada fada %d mdi book plus\n" $((16#fada))
+printf "\ufadb fadb %d mdi boombox\n" $((16#fadb))
+printf "\ufadc fadc %d mdi bullseye\n" $((16#fadc))
+printf "\ufadd fadd %d mdi comment remove\n" $((16#fadd))
+printf "\ufade fade %d mdi camera off\n" $((16#fade))
+printf "\ufadf fadf %d mdi check circle\n" $((16#fadf))
+printf "\ufae0 fae0 %d mdi check circle outline\n" $((16#fae0))
+printf "\ufae1 fae1 %d mdi candle\n" $((16#fae1))
+printf "\ufae2 fae2 %d mdi chart bubble\n" $((16#fae2))
+printf "\ufae3 fae3 %d mdi credit card off\n" $((16#fae3))
+printf "\ufae4 fae4 %d mdi cup off\n" $((16#fae4))
+printf "\ufae5 fae5 %d mdi copyright\n" $((16#fae5))
+printf "\ufae6 fae6 %d mdi cursor text\n" $((16#fae6))
+printf "\ufae7 fae7 %d mdi delete forever\n" $((16#fae7))
+printf "\ufae8 fae8 %d mdi delete sweep\n" $((16#fae8))
+printf "\ufae9 fae9 %d mdi dice d20\n" $((16#fae9))
+printf "\ufaea faea %d mdi dice d4\n" $((16#faea))
+printf "\ufaeb faeb %d mdi dice d6\n" $((16#faeb))
+printf "\ufaec faec %d mdi dice d8\n" $((16#faec))
+printf "\ufaed faed %d mdi disk\n" $((16#faed))
+printf "\ufaee faee %d mdi email open outline\n" $((16#faee))
+printf "\ufaef faef %d mdi email variant\n" $((16#faef))
+printf "\ufaf0 faf0 %d mdi ev station\n" $((16#faf0))
+printf "\ufaf1 faf1 %d mdi food fork drink\n" $((16#faf1))
+printf "\ufaf2 faf2 %d mdi food off\n" $((16#faf2))
+printf "\ufaf3 faf3 %d mdi format title\n" $((16#faf3))
+printf "\ufaf4 faf4 %d mdi google maps\n" $((16#faf4))
+printf "\ufaf5 faf5 %d mdi heart pulse\n" $((16#faf5))
+printf "\ufaf6 faf6 %d mdi highway\n" $((16#faf6))
+printf "\ufaf7 faf7 %d mdi home map marker\n" $((16#faf7))
+printf "\ufaf8 faf8 %d mdi incognito\n" $((16#faf8))
+printf "\ufaf9 faf9 %d mdi kettle\n" $((16#faf9))
+printf "\ufafa fafa %d mdi lock plus\n" $((16#fafa))
+printf "\ufafb fafb %d mdi login variant\n" $((16#fafb))
+printf "\ufafc fafc %d mdi logout variant\n" $((16#fafc))
+printf "\ufafd fafd %d mdi music note bluetooth\n" $((16#fafd))
+printf "\ufafe fafe %d mdi music note bluetooth off\n" $((16#fafe))
+printf "\ufaff faff %d mdi page first\n" $((16#faff))
+printf "\ufb00 fb00 %d mdi page last\n" $((16#fb00))
+printf "\ufb01 fb01 %d mdi phone classic\n" $((16#fb01))
+printf "\ufb02 fb02 %d mdi priority high\n" $((16#fb02))
+printf "\ufb03 fb03 %d mdi priority low\n" $((16#fb03))
+printf "\ufb04 fb04 %d mdi qqchat\n" $((16#fb04))
+printf "\ufb05 fb05 %d mdi pool\n" $((16#fb05))
+printf "\ufb06 fb06 %d mdi rounded corner\n" $((16#fb06))
+printf "\ufb07 fb07 %d mdi rowing\n" $((16#fb07))
+printf "\ufb08 fb08 %d mdi saxophone\n" $((16#fb08))
+printf "\ufb09 fb09 %d mdi signal variant\n" $((16#fb09))
+printf "\ufb0a fb0a %d mdi stackexchange\n" $((16#fb0a))
+printf "\ufb0b fb0b %d mdi subdirectory arrow left\n" $((16#fb0b))
+printf "\ufb0c fb0c %d mdi subdirectory arrow right\n" $((16#fb0c))
+printf "\ufb0d fb0d %d mdi textbox\n" $((16#fb0d))
+printf "\ufb0e fb0e %d mdi violin\n" $((16#fb0e))
+printf "\ufb0f fb0f %d mdi visualstudio\n" $((16#fb0f))
+printf "\ufb10 fb10 %d mdi wechat\n" $((16#fb10))
+printf "\ufb11 fb11 %d mdi watermark\n" $((16#fb11))
+printf "\ufb12 fb12 %d mdi file hidden\n" $((16#fb12))
+printf "\ufb13 fb13 %d mdi application\n" $((16#fb13))
+printf "\ufb14 fb14 %d mdi arrow collapse\n" $((16#fb14))
+printf "\ufb15 fb15 %d mdi arrow expand\n" $((16#fb15))
+printf "\ufb16 fb16 %d mdi bowl\n" $((16#fb16))
+printf "\ufb17 fb17 %d mdi bridge\n" $((16#fb17))
+printf "\ufb18 fb18 %d mdi buffer\n" $((16#fb18))
+printf "\ufb19 fb19 %d mdi chip\n" $((16#fb19))
+printf "\ufb1a fb1a %d mdi content save settings\n" $((16#fb1a))
+printf "\ufb1b fb1b %d mdi dialpad\n" $((16#fb1b))
+printf "\ufb1c fb1c %d mdi dictionary\n" $((16#fb1c))
+printf "\ufb1d fb1d %d mdi format horizontal align center\n" $((16#fb1d))
+printf "\ufb1e fb1e %d mdi format horizontal align left\n" $((16#fb1e))
+printf "\ufb1f fb1f %d mdi format horizontal align right\n" $((16#fb1f))
+printf "\ufb20 fb20 %d mdi format vertical align bottom\n" $((16#fb20))
+printf "\ufb21 fb21 %d mdi format vertical align center\n" $((16#fb21))
+printf "\ufb22 fb22 %d mdi format vertical align top\n" $((16#fb22))
+printf "\ufb23 fb23 %d mdi hackernews\n" $((16#fb23))
+printf "\ufb24 fb24 %d mdi help circle outline\n" $((16#fb24))
+printf "\ufb25 fb25 %d mdi json\n" $((16#fb25))
+printf "\ufb26 fb26 %d mdi lambda\n" $((16#fb26))
+printf "\ufb27 fb27 %d mdi matrix\n" $((16#fb27))
+printf "\ufb28 fb28 %d mdi meteor\n" $((16#fb28))
+printf "\ufb29 fb29 %d mdi mixcloud\n" $((16#fb29))
+printf "\ufb2a fb2a %d mdi sigma lower\n" $((16#fb2a))
+printf "\ufb2b fb2b %d mdi source branch\n" $((16#fb2b))
+printf "\ufb2c fb2c %d mdi source merge\n" $((16#fb2c))
+printf "\ufb2d fb2d %d mdi tune\n" $((16#fb2d))
+printf "\ufb2e fb2e %d mdi webhook\n" $((16#fb2e))
+printf "\ufb2f fb2f %d mdi account settings\n" $((16#fb2f))
+printf "\ufb30 fb30 %d mdi account settings variant\n" $((16#fb30))
+printf "\ufb31 fb31 %d mdi apple keyboard caps\n" $((16#fb31))
+printf "\ufb32 fb32 %d mdi apple keyboard command\n" $((16#fb32))
+printf "\ufb33 fb33 %d mdi apple keyboard control\n" $((16#fb33))
+printf "\ufb34 fb34 %d mdi apple keyboard option\n" $((16#fb34))
+printf "\ufb35 fb35 %d mdi apple keyboard shift\n" $((16#fb35))
+printf "\ufb36 fb36 %d mdi box shadow\n" $((16#fb36))
+printf "\ufb37 fb37 %d mdi cards\n" $((16#fb37))
+printf "\ufb38 fb38 %d mdi cards outline\n" $((16#fb38))
+printf "\ufb39 fb39 %d mdi cards playing outline\n" $((16#fb39))
+printf "\ufb3a fb3a %d mdi checkbox multiple blank circle\n" $((16#fb3a))
+printf "\ufb3b fb3b %d mdi checkbox multiple blank circle outline\n" $((16#fb3b))
+printf "\ufb3c fb3c %d mdi checkbox multiple marked circle\n" $((16#fb3c))
+printf "\ufb3d fb3d %d mdi checkbox multiple marked circle outline\n" $((16#fb3d))
+printf "\ufb3e fb3e %d mdi cloud sync\n" $((16#fb3e))
+printf "\ufb3f fb3f %d mdi collage\n" $((16#fb3f))
+printf "\ufb40 fb40 %d mdi directions fork\n" $((16#fb40))
+printf "\ufb41 fb41 %d mdi eraser variant\n" $((16#fb41))
+printf "\ufb42 fb42 %d mdi face\n" $((16#fb42))
+printf "\ufb43 fb43 %d mdi face profile\n" $((16#fb43))
+printf "\ufb44 fb44 %d mdi file tree\n" $((16#fb44))
+printf "\ufb45 fb45 %d mdi format annotation plus\n" $((16#fb45))
+printf "\ufb46 fb46 %d mdi gas cylinder\n" $((16#fb46))
+printf "\ufb47 fb47 %d mdi grease pencil\n" $((16#fb47))
+printf "\ufb48 fb48 %d mdi human female\n" $((16#fb48))
+printf "\ufb49 fb49 %d mdi human greeting\n" $((16#fb49))
+printf "\ufb4a fb4a %d mdi human handsdown\n" $((16#fb4a))
+printf "\ufb4b fb4b %d mdi human handsup\n" $((16#fb4b))
+printf "\ufb4c fb4c %d mdi human male\n" $((16#fb4c))
+printf "\ufb4d fb4d %d mdi information variant\n" $((16#fb4d))
+printf "\ufb4e fb4e %d mdi lead pencil\n" $((16#fb4e))
+printf "\ufb4f fb4f %d mdi map marker minus\n" $((16#fb4f))
+printf "\ufb50 fb50 %d mdi map marker plus\n" $((16#fb50))
+printf "\ufb51 fb51 %d mdi marker\n" $((16#fb51))
+printf "\ufb52 fb52 %d mdi message plus\n" $((16#fb52))
+printf "\ufb53 fb53 %d mdi microscope\n" $((16#fb53))
+printf "\ufb54 fb54 %d mdi move resize\n" $((16#fb54))
+printf "\ufb55 fb55 %d mdi move resize variant\n" $((16#fb55))
+printf "\ufb56 fb56 %d mdi paw off\n" $((16#fb56))
+printf "\ufb57 fb57 %d mdi phone minus\n" $((16#fb57))
+printf "\ufb58 fb58 %d mdi phone plus\n" $((16#fb58))
+printf "\ufb59 fb59 %d mdi pot\n" $((16#fb59))
+printf "\ufb5a fb5a %d mdi pot mix\n" $((16#fb5a))
+printf "\ufb5b fb5b %d mdi serial port\n" $((16#fb5b))
+printf "\ufb5c fb5c %d mdi shape circle plus\n" $((16#fb5c))
+printf "\ufb5d fb5d %d mdi shape polygon plus\n" $((16#fb5d))
+printf "\ufb5e fb5e %d mdi shape rectangle plus\n" $((16#fb5e))
+printf "\ufb5f fb5f %d mdi shape square plus\n" $((16#fb5f))
+printf "\ufb60 fb60 %d mdi skip next circle\n" $((16#fb60))
+printf "\ufb61 fb61 %d mdi skip next circle outline\n" $((16#fb61))
+printf "\ufb62 fb62 %d mdi skip previous circle\n" $((16#fb62))
+printf "\ufb63 fb63 %d mdi skip previous circle outline\n" $((16#fb63))
+printf "\ufb64 fb64 %d mdi spray\n" $((16#fb64))
+printf "\ufb65 fb65 %d mdi stop circle\n" $((16#fb65))
+printf "\ufb66 fb66 %d mdi stop circle outline\n" $((16#fb66))
+printf "\ufb67 fb67 %d mdi test tube\n" $((16#fb67))
+printf "\ufb68 fb68 %d mdi text shadow\n" $((16#fb68))
+printf "\ufb69 fb69 %d mdi tune vertical\n" $((16#fb69))
+printf "\ufb6a fb6a %d mdi cart off\n" $((16#fb6a))
+printf "\ufb6b fb6b %d mdi chart gantt\n" $((16#fb6b))
+printf "\ufb6c fb6c %d mdi chart scatterplot hexbin\n" $((16#fb6c))
+printf "\ufb6d fb6d %d mdi chart timeline\n" $((16#fb6d))
+printf "\ufb6e fb6e %d mdi discord\n" $((16#fb6e))
+printf "\ufb6f fb6f %d mdi file restore\n" $((16#fb6f))
+printf "\ufb70 fb70 %d mdi language c\n" $((16#fb70))
+printf "\ufb71 fb71 %d mdi language cpp\n" $((16#fb71))
+printf "\ufb72 fb72 %d mdi xaml\n" $((16#fb72))
+printf "\ufb73 fb73 %d mdi bandcamp\n" $((16#fb73))
+printf "\ufb74 fb74 %d mdi credit card plus\n" $((16#fb74))
+printf "\ufb75 fb75 %d mdi itunes\n" $((16#fb75))
+printf "\ufb76 fb76 %d mdi bow tie\n" $((16#fb76))
+printf "\ufb77 fb77 %d mdi calendar range\n" $((16#fb77))
+printf "\ufb78 fb78 %d mdi currency usd off\n" $((16#fb78))
+printf "\ufb79 fb79 %d mdi flash red eye\n" $((16#fb79))
+printf "\ufb7a fb7a %d mdi oar\n" $((16#fb7a))
+printf "\ufb7b fb7b %d mdi piano\n" $((16#fb7b))
+printf "\ufb7c fb7c %d mdi weather lightning rainy\n" $((16#fb7c))
+printf "\ufb7d fb7d %d mdi weather snowy rainy\n" $((16#fb7d))
+printf "\ufb7e fb7e %d mdi yin yang\n" $((16#fb7e))
+printf "\ufb7f fb7f %d mdi tower beach\n" $((16#fb7f))
+printf "\ufb80 fb80 %d mdi tower fire\n" $((16#fb80))
+printf "\ufb81 fb81 %d mdi delete circle\n" $((16#fb81))
+printf "\ufb82 fb82 %d mdi dna\n" $((16#fb82))
+printf "\ufb83 fb83 %d mdi hamburger\n" $((16#fb83))
+printf "\ufb84 fb84 %d mdi gondola\n" $((16#fb84))
+printf "\ufb85 fb85 %d mdi inbox\n" $((16#fb85))
+printf "\ufb86 fb86 %d mdi reorder horizontal\n" $((16#fb86))
+printf "\ufb87 fb87 %d mdi reorder vertical\n" $((16#fb87))
+printf "\ufb88 fb88 %d mdi security home\n" $((16#fb88))
+printf "\ufb89 fb89 %d mdi tag heart\n" $((16#fb89))
+printf "\ufb8a fb8a %d mdi skull\n" $((16#fb8a))
+printf "\ufb8b fb8b %d mdi solid\n" $((16#fb8b))
+printf "\ufb8c fb8c %d mdi alarm snooze\n" $((16#fb8c))
+printf "\ufb8d fb8d %d mdi baby buggy\n" $((16#fb8d))
+printf "\ufb8e fb8e %d mdi beaker\n" $((16#fb8e))
+printf "\ufb8f fb8f %d mdi bomb\n" $((16#fb8f))
+printf "\ufb90 fb90 %d mdi calendar question\n" $((16#fb90))
+printf "\ufb91 fb91 %d mdi camera burst\n" $((16#fb91))
+printf "\ufb92 fb92 %d mdi code tags check\n" $((16#fb92))
+printf "\ufb93 fb93 %d mdi coins\n" $((16#fb93))
+printf "\ufb94 fb94 %d mdi crop rotate\n" $((16#fb94))
+printf "\ufb95 fb95 %d mdi developer board\n" $((16#fb95))
+printf "\ufb96 fb96 %d mdi do not disturb\n" $((16#fb96))
+printf "\ufb97 fb97 %d mdi do not disturb off\n" $((16#fb97))
+printf "\ufb98 fb98 %d mdi douban\n" $((16#fb98))
+printf "\ufb99 fb99 %d mdi emoticon dead\n" $((16#fb99))
+printf "\ufb9a fb9a %d mdi emoticon excited\n" $((16#fb9a))
+printf "\ufb9b fb9b %d mdi folder star\n" $((16#fb9b))
+printf "\ufb9c fb9c %d mdi format color text\n" $((16#fb9c))
+printf "\ufb9d fb9d %d mdi format section\n" $((16#fb9d))
+printf "\ufb9e fb9e %d mdi gradient\n" $((16#fb9e))
+printf "\ufb9f fb9f %d mdi home outline\n" $((16#fb9f))
+printf "\ufba0 fba0 %d mdi message bulleted\n" $((16#fba0))
+printf "\ufba1 fba1 %d mdi message bulleted off\n" $((16#fba1))
+printf "\ufba2 fba2 %d mdi nuke\n" $((16#fba2))
+printf "\ufba3 fba3 %d mdi power plug\n" $((16#fba3))
+printf "\ufba4 fba4 %d mdi power plug off\n" $((16#fba4))
+printf "\ufba5 fba5 %d mdi publish\n" $((16#fba5))
+printf "\ufba6 fba6 %d mdi restore\n" $((16#fba6))
+printf "\ufba7 fba7 %d mdi robot\n" $((16#fba7))
+printf "\ufba8 fba8 %d mdi format rotate 90\n" $((16#fba8))
+printf "\ufba9 fba9 %d mdi scanner\n" $((16#fba9))
+printf "\ufbaa fbaa %d mdi subway\n" $((16#fbaa))
+printf "\ufbab fbab %d mdi timer sand empty\n" $((16#fbab))
+printf "\ufbac fbac %d mdi transit transfer\n" $((16#fbac))
+printf "\ufbad fbad %d mdi unity\n" $((16#fbad))
+printf "\ufbae fbae %d mdi update\n" $((16#fbae))
+printf "\ufbaf fbaf %d mdi watch vibrate\n" $((16#fbaf))
+printf "\ufbb0 fbb0 %d mdi angular\n" $((16#fbb0))
+printf "\ufbb1 fbb1 %d mdi dolby\n" $((16#fbb1))
+printf "\ufbb2 fbb2 %d mdi emby\n" $((16#fbb2))
+printf "\ufbb3 fbb3 %d mdi lamp\n" $((16#fbb3))
+printf "\ufbb4 fbb4 %d mdi menu down outline\n" $((16#fbb4))
+printf "\ufbb5 fbb5 %d mdi menu up outline\n" $((16#fbb5))
+printf "\ufbb6 fbb6 %d mdi note multiple\n" $((16#fbb6))
+printf "\ufbb7 fbb7 %d mdi note multiple outline\n" $((16#fbb7))
+printf "\ufbb8 fbb8 %d mdi plex\n" $((16#fbb8))
+printf "\ufbb9 fbb9 %d mdi plane shield\n" $((16#fbb9))
+printf "\ufbba fbba %d mdi account edit\n" $((16#fbba))
+printf "\ufbbb fbbb %d mdi alert decagram\n" $((16#fbbb))
+printf "\ufbbc fbbc %d mdi all inclusive\n" $((16#fbbc))
+printf "\ufbbd fbbd %d mdi angularjs\n" $((16#fbbd))
+printf "\ufbbe fbbe %d mdi arrow down box\n" $((16#fbbe))
+printf "\ufbbf fbbf %d mdi arrow left box\n" $((16#fbbf))
+printf "\ufbc0 fbc0 %d mdi arrow right box\n" $((16#fbc0))
+printf "\ufbc1 fbc1 %d mdi arrow up box\n" $((16#fbc1))
+printf "\ufbc2 fbc2 %d mdi asterisk\n" $((16#fbc2))
+printf "\ufbc3 fbc3 %d mdi bomb off\n" $((16#fbc3))
+printf "\ufbc4 fbc4 %d mdi bootstrap\n" $((16#fbc4))
+printf "\ufbc5 fbc5 %d mdi cards variant\n" $((16#fbc5))
+printf "\ufbc6 fbc6 %d mdi clipboard flow\n" $((16#fbc6))
+printf "\ufbc7 fbc7 %d mdi close outline\n" $((16#fbc7))
+printf "\ufbc8 fbc8 %d mdi coffee outline\n" $((16#fbc8))
+printf "\ufbc9 fbc9 %d mdi contacts\n" $((16#fbc9))
+printf "\ufbca fbca %d mdi delete empty\n" $((16#fbca))
+printf "\ufbcb fbcb %d mdi earth box\n" $((16#fbcb))
+printf "\ufbcc fbcc %d mdi earth box off\n" $((16#fbcc))
+printf "\ufbcd fbcd %d mdi email alert\n" $((16#fbcd))
+printf "\ufbce fbce %d mdi eye outline\n" $((16#fbce))
+printf "\ufbcf fbcf %d mdi eye off outline\n" $((16#fbcf))
+printf "\ufbd0 fbd0 %d mdi fast forward outline\n" $((16#fbd0))
+printf "\ufbd1 fbd1 %d mdi feather\n" $((16#fbd1))
+printf "\ufbd2 fbd2 %d mdi find replace\n" $((16#fbd2))
+printf "\ufbd3 fbd3 %d mdi flash outline\n" $((16#fbd3))
+printf "\ufbd4 fbd4 %d mdi format font\n" $((16#fbd4))
+printf "\ufbd5 fbd5 %d mdi format page break\n" $((16#fbd5))
+printf "\ufbd6 fbd6 %d mdi format pilcrow\n" $((16#fbd6))
+printf "\ufbd7 fbd7 %d mdi garage\n" $((16#fbd7))
+printf "\ufbd8 fbd8 %d mdi garage open\n" $((16#fbd8))
+printf "\ufbd9 fbd9 %d mdi github face\n" $((16#fbd9))
+printf "\ufbda fbda %d mdi google keep\n" $((16#fbda))
+printf "\ufbdb fbdb %d mdi google photos\n" $((16#fbdb))
+printf "\ufbdc fbdc %d mdi heart half full\n" $((16#fbdc))
+printf "\ufbdd fbdd %d mdi heart half\n" $((16#fbdd))
+printf "\ufbde fbde %d mdi heart half outline\n" $((16#fbde))
+printf "\ufbdf fbdf %d mdi hexagon multiple\n" $((16#fbdf))
+printf "\ufbe0 fbe0 %d mdi hook\n" $((16#fbe0))
+printf "\ufbe1 fbe1 %d mdi hook off\n" $((16#fbe1))
+printf "\ufbe2 fbe2 %d mdi infinity\n" $((16#fbe2))
+printf "\ufbe3 fbe3 %d mdi language swift\n" $((16#fbe3))
+printf "\ufbe4 fbe4 %d mdi language typescript\n" $((16#fbe4))
+printf "\ufbe5 fbe5 %d mdi laptop off\n" $((16#fbe5))
+printf "\ufbe6 fbe6 %d mdi lightbulb on\n" $((16#fbe6))
+printf "\ufbe7 fbe7 %d mdi lightbulb on outline\n" $((16#fbe7))
+printf "\ufbe8 fbe8 %d mdi lock pattern\n" $((16#fbe8))
+printf "\ufbe9 fbe9 %d mdi loop\n" $((16#fbe9))
+printf "\ufbea fbea %d mdi magnify minus outline\n" $((16#fbea))
+printf "\ufbeb fbeb %d mdi magnify plus outline\n" $((16#fbeb))
+printf "\ufbec fbec %d mdi mailbox\n" $((16#fbec))
+printf "\ufbed fbed %d mdi medical bag\n" $((16#fbed))
+printf "\ufbee fbee %d mdi message settings\n" $((16#fbee))
+printf "\ufbef fbef %d mdi message settings variant\n" $((16#fbef))
+printf "\ufbf0 fbf0 %d mdi minus box outline\n" $((16#fbf0))
+printf "\ufbf1 fbf1 %d mdi network\n" $((16#fbf1))
+printf "\ufbf2 fbf2 %d mdi download network\n" $((16#fbf2))
+printf "\ufbf3 fbf3 %d mdi help network\n" $((16#fbf3))
+printf "\ufbf4 fbf4 %d mdi upload network\n" $((16#fbf4))
+printf "\ufbf5 fbf5 %d mdi npm\n" $((16#fbf5))
+printf "\ufbf6 fbf6 %d mdi nut\n" $((16#fbf6))
+printf "\ufbf7 fbf7 %d mdi octagram\n" $((16#fbf7))
+printf "\ufbf8 fbf8 %d mdi page layout body\n" $((16#fbf8))
+printf "\ufbf9 fbf9 %d mdi page layout footer\n" $((16#fbf9))
+printf "\ufbfa fbfa %d mdi page layout header\n" $((16#fbfa))
+printf "\ufbfb fbfb %d mdi page layout sidebar left\n" $((16#fbfb))
+printf "\ufbfc fbfc %d mdi page layout sidebar right\n" $((16#fbfc))
+printf "\ufbfd fbfd %d mdi pencil circle\n" $((16#fbfd))
+printf "\ufbfe fbfe %d mdi pentagon\n" $((16#fbfe))
+printf "\ufbff fbff %d mdi pentagon outline\n" $((16#fbff))
+printf "\ufc00 fc00 %d mdi pillar\n" $((16#fc00))
+printf "\ufc01 fc01 %d mdi pistol\n" $((16#fc01))
+printf "\ufc02 fc02 %d mdi plus box outline\n" $((16#fc02))
+printf "\ufc03 fc03 %d mdi plus outline\n" $((16#fc03))
+printf "\ufc04 fc04 %d mdi prescription\n" $((16#fc04))
+printf "\ufc05 fc05 %d mdi printer settings\n" $((16#fc05))
+printf "\ufc06 fc06 %d mdi react\n" $((16#fc06))
+printf "\ufc07 fc07 %d mdi restart\n" $((16#fc07))
+printf "\ufc08 fc08 %d mdi rewind outline\n" $((16#fc08))
+printf "\ufc09 fc09 %d mdi rhombus\n" $((16#fc09))
+printf "\ufc0a fc0a %d mdi rhombus outline\n" $((16#fc0a))
+printf "\ufc0b fc0b %d mdi roomba\n" $((16#fc0b))
+printf "\ufc0c fc0c %d mdi run\n" $((16#fc0c))
+printf "\ufc0d fc0d %d mdi search web\n" $((16#fc0d))
+printf "\ufc0e fc0e %d mdi shovel\n" $((16#fc0e))
+printf "\ufc0f fc0f %d mdi shovel off\n" $((16#fc0f))
+printf "\ufc10 fc10 %d mdi signal 2g\n" $((16#fc10))
+printf "\ufc11 fc11 %d mdi signal 3g\n" $((16#fc11))
+printf "\ufc12 fc12 %d mdi signal 4g\n" $((16#fc12))
+printf "\ufc13 fc13 %d mdi signal hspa\n" $((16#fc13))
+printf "\ufc14 fc14 %d mdi signal hspa plus\n" $((16#fc14))
+printf "\ufc15 fc15 %d mdi snowflake\n" $((16#fc15))
+printf "\ufc16 fc16 %d mdi source commit\n" $((16#fc16))
+printf "\ufc17 fc17 %d mdi source commit end\n" $((16#fc17))
+printf "\ufc18 fc18 %d mdi source commit end local\n" $((16#fc18))
+printf "\ufc19 fc19 %d mdi source commit local\n" $((16#fc19))
+printf "\ufc1a fc1a %d mdi source commit next local\n" $((16#fc1a))
+printf "\ufc1b fc1b %d mdi source commit start\n" $((16#fc1b))
+printf "\ufc1c fc1c %d mdi source commit start next local\n" $((16#fc1c))
+printf "\ufc1d fc1d %d mdi speaker wireless\n" $((16#fc1d))
+printf "\ufc1e fc1e %d mdi stadium\n" $((16#fc1e))
+printf "\ufc1f fc1f %d mdi svg\n" $((16#fc1f))
+printf "\ufc20 fc20 %d mdi tag plus\n" $((16#fc20))
+printf "\ufc21 fc21 %d mdi tag remove\n" $((16#fc21))
+printf "\ufc22 fc22 %d mdi ticket percent\n" $((16#fc22))
+printf "\ufc23 fc23 %d mdi tilde\n" $((16#fc23))
+printf "\ufc24 fc24 %d mdi treasure chest\n" $((16#fc24))
+printf "\ufc25 fc25 %d mdi truck trailer\n" $((16#fc25))
+printf "\ufc26 fc26 %d mdi view parallel\n" $((16#fc26))
+printf "\ufc27 fc27 %d mdi view sequential\n" $((16#fc27))
+printf "\ufc28 fc28 %d mdi washing machine\n" $((16#fc28))
+printf "\ufc29 fc29 %d mdi webpack\n" $((16#fc29))
+printf "\ufc2a fc2a %d mdi widgets\n" $((16#fc2a))
+printf "\ufc2b fc2b %d mdi wiiu\n" $((16#fc2b))
+printf "\ufc2c fc2c %d mdi arrow down bold\n" $((16#fc2c))
+printf "\ufc2d fc2d %d mdi arrow down bold box\n" $((16#fc2d))
+printf "\ufc2e fc2e %d mdi arrow down bold box outline\n" $((16#fc2e))
+printf "\ufc2f fc2f %d mdi arrow left bold\n" $((16#fc2f))
+printf "\ufc30 fc30 %d mdi arrow left bold box\n" $((16#fc30))
+printf "\ufc31 fc31 %d mdi arrow left bold box outline\n" $((16#fc31))
+printf "\ufc32 fc32 %d mdi arrow right bold\n" $((16#fc32))
+printf "\ufc33 fc33 %d mdi arrow right bold box\n" $((16#fc33))
+printf "\ufc34 fc34 %d mdi arrow right bold box outline\n" $((16#fc34))
+printf "\ufc35 fc35 %d mdi arrow up bold\n" $((16#fc35))
+printf "\ufc36 fc36 %d mdi arrow up bold box\n" $((16#fc36))
+printf "\ufc37 fc37 %d mdi arrow up bold box outline\n" $((16#fc37))
+printf "\ufc38 fc38 %d mdi cancel\n" $((16#fc38))
+printf "\ufc39 fc39 %d mdi file account\n" $((16#fc39))
+printf "\ufc3a fc3a %d mdi gesture double tap\n" $((16#fc3a))
+printf "\ufc3b fc3b %d mdi gesture swipe down\n" $((16#fc3b))
+printf "\ufc3c fc3c %d mdi gesture swipe left\n" $((16#fc3c))
+printf "\ufc3d fc3d %d mdi gesture swipe right\n" $((16#fc3d))
+printf "\ufc3e fc3e %d mdi gesture swipe up\n" $((16#fc3e))
+printf "\ufc3f fc3f %d mdi gesture tap\n" $((16#fc3f))
+printf "\ufc40 fc40 %d mdi gesture two double tap\n" $((16#fc40))
+printf "\ufc41 fc41 %d mdi gesture two tap\n" $((16#fc41))
+printf "\ufc42 fc42 %d mdi humble bundle\n" $((16#fc42))
+printf "\ufc43 fc43 %d mdi kickstarter\n" $((16#fc43))
+printf "\ufc44 fc44 %d mdi netflix\n" $((16#fc44))
+printf "\ufc45 fc45 %d mdi onenote\n" $((16#fc45))
+printf "\ufc46 fc46 %d mdi periscope\n" $((16#fc46))
+printf "\ufc47 fc47 %d mdi uber\n" $((16#fc47))
+printf "\ufc48 fc48 %d mdi vector radius\n" $((16#fc48))
+printf "\ufc49 fc49 %d mdi xbox controller battery alert\n" $((16#fc49))
+printf "\ufc4a fc4a %d mdi xbox controller battery empty\n" $((16#fc4a))
+printf "\ufc4b fc4b %d mdi xbox controller battery full\n" $((16#fc4b))
+printf "\ufc4c fc4c %d mdi xbox controller battery low\n" $((16#fc4c))
+printf "\ufc4d fc4d %d mdi xbox controller battery medium\n" $((16#fc4d))
+printf "\ufc4e fc4e %d mdi xbox controller battery unknown\n" $((16#fc4e))
+printf "\ufc4f fc4f %d mdi clipboard plus\n" $((16#fc4f))
+printf "\ufc50 fc50 %d mdi file plus\n" $((16#fc50))
+printf "\ufc51 fc51 %d mdi format align bottom\n" $((16#fc51))
+printf "\ufc52 fc52 %d mdi format align middle\n" $((16#fc52))
+printf "\ufc53 fc53 %d mdi format align top\n" $((16#fc53))
+printf "\ufc54 fc54 %d mdi format list checks\n" $((16#fc54))
+printf "\ufc55 fc55 %d mdi format quote open\n" $((16#fc55))
+printf "\ufc56 fc56 %d mdi grid large\n" $((16#fc56))
+printf "\ufc57 fc57 %d mdi heart off\n" $((16#fc57))
+printf "\ufc58 fc58 %d mdi music\n" $((16#fc58))
+printf "\ufc59 fc59 %d mdi music off\n" $((16#fc59))
+printf "\ufc5a fc5a %d mdi tab plus\n" $((16#fc5a))
+printf "\ufc5b fc5b %d mdi volume plus\n" $((16#fc5b))
+printf "\ufc5c fc5c %d mdi volume minus\n" $((16#fc5c))
+printf "\ufc5d fc5d %d mdi volume mute\n" $((16#fc5d))
+printf "\ufc5e fc5e %d mdi unfold less vertical\n" $((16#fc5e))
+printf "\ufc5f fc5f %d mdi unfold more vertical\n" $((16#fc5f))
+printf "\ufc60 fc60 %d mdi taco\n" $((16#fc60))
+printf "\ufc61 fc61 %d mdi square outline\n" $((16#fc61))
+printf "\ufc62 fc62 %d mdi square\n" $((16#fc62))
+printf "\ufc63 fc63 %d mdi circle\n" $((16#fc63))
+printf "\ufc64 fc64 %d mdi circle outline\n" $((16#fc64))
+printf "\ufc65 fc65 %d mdi alert octagram\n" $((16#fc65))
+printf "\ufc66 fc66 %d mdi atom\n" $((16#fc66))
+printf "\ufc67 fc67 %d mdi ceiling light\n" $((16#fc67))
+printf "\ufc68 fc68 %d mdi chart bar stacked\n" $((16#fc68))
+printf "\ufc69 fc69 %d mdi chart line stacked\n" $((16#fc69))
+printf "\ufc6a fc6a %d mdi decagram\n" $((16#fc6a))
+printf "\ufc6b fc6b %d mdi decagram outline\n" $((16#fc6b))
+printf "\ufc6c fc6c %d mdi dice multiple\n" $((16#fc6c))
+printf "\ufc6d fc6d %d mdi dice d10\n" $((16#fc6d))
+printf "\ufc6e fc6e %d mdi folder open\n" $((16#fc6e))
+printf "\ufc6f fc6f %d mdi guitar acoustic\n" $((16#fc6f))
+printf "\ufc70 fc70 %d mdi loading\n" $((16#fc70))
+printf "\ufc71 fc71 %d mdi lock reset\n" $((16#fc71))
+printf "\ufc72 fc72 %d mdi ninja\n" $((16#fc72))
+printf "\ufc73 fc73 %d mdi octagram outline\n" $((16#fc73))
+printf "\ufc74 fc74 %d mdi pencil circle outline\n" $((16#fc74))
+printf "\ufc75 fc75 %d mdi selection off\n" $((16#fc75))
+printf "\ufc76 fc76 %d mdi set all\n" $((16#fc76))
+printf "\ufc77 fc77 %d mdi set center\n" $((16#fc77))
+printf "\ufc78 fc78 %d mdi set center right\n" $((16#fc78))
+printf "\ufc79 fc79 %d mdi set left\n" $((16#fc79))
+printf "\ufc7a fc7a %d mdi set left center\n" $((16#fc7a))
+printf "\ufc7b fc7b %d mdi set left right\n" $((16#fc7b))
+printf "\ufc7c fc7c %d mdi set none\n" $((16#fc7c))
+printf "\ufc7d fc7d %d mdi set right\n" $((16#fc7d))
+printf "\ufc7e fc7e %d mdi shield half full\n" $((16#fc7e))
+printf "\ufc7f fc7f %d mdi sign direction\n" $((16#fc7f))
+printf "\ufc80 fc80 %d mdi sign text\n" $((16#fc80))
+printf "\ufc81 fc81 %d mdi signal off\n" $((16#fc81))
+printf "\ufc82 fc82 %d mdi square root\n" $((16#fc82))
+printf "\ufc83 fc83 %d mdi sticker emoji\n" $((16#fc83))
+printf "\ufc84 fc84 %d mdi summit\n" $((16#fc84))
+printf "\ufc85 fc85 %d mdi sword cross\n" $((16#fc85))
+printf "\ufc86 fc86 %d mdi truck fast\n" $((16#fc86))
+printf "\ufc87 fc87 %d mdi yammer\n" $((16#fc87))
+printf "\ufc88 fc88 %d mdi cast off\n" $((16#fc88))
+printf "\ufc89 fc89 %d mdi help box\n" $((16#fc89))
+printf "\ufc8a fc8a %d mdi timer sand full\n" $((16#fc8a))
+printf "\ufc8b fc8b %d mdi waves\n" $((16#fc8b))
+printf "\ufc8c fc8c %d mdi alarm bell\n" $((16#fc8c))
+printf "\ufc8d fc8d %d mdi alarm light\n" $((16#fc8d))
+printf "\ufc8e fc8e %d mdi android head\n" $((16#fc8e))
+printf "\ufc8f fc8f %d mdi approval\n" $((16#fc8f))
+printf "\ufc90 fc90 %d mdi arrow collapse down\n" $((16#fc90))
+printf "\ufc91 fc91 %d mdi arrow collapse left\n" $((16#fc91))
+printf "\ufc92 fc92 %d mdi arrow collapse right\n" $((16#fc92))
+printf "\ufc93 fc93 %d mdi arrow collapse up\n" $((16#fc93))
+printf "\ufc94 fc94 %d mdi arrow expand down\n" $((16#fc94))
+printf "\ufc95 fc95 %d mdi arrow expand left\n" $((16#fc95))
+printf "\ufc96 fc96 %d mdi arrow expand right\n" $((16#fc96))
+printf "\ufc97 fc97 %d mdi arrow expand up\n" $((16#fc97))
+printf "\ufc98 fc98 %d mdi book secure\n" $((16#fc98))
+printf "\ufc99 fc99 %d mdi book unsecure\n" $((16#fc99))
+printf "\ufc9a fc9a %d mdi bus articulated end\n" $((16#fc9a))
+printf "\ufc9b fc9b %d mdi bus articulated front\n" $((16#fc9b))
+printf "\ufc9c fc9c %d mdi bus double decker\n" $((16#fc9c))
+printf "\ufc9d fc9d %d mdi bus school\n" $((16#fc9d))
+printf "\ufc9e fc9e %d mdi bus side\n" $((16#fc9e))
+printf "\ufc9f fc9f %d mdi camera gopro\n" $((16#fc9f))
+printf "\ufca0 fca0 %d mdi camera metering center\n" $((16#fca0))
+printf "\ufca1 fca1 %d mdi camera metering matrix\n" $((16#fca1))
+printf "\ufca2 fca2 %d mdi camera metering partial\n" $((16#fca2))
+printf "\ufca3 fca3 %d mdi camera metering spot\n" $((16#fca3))
+printf "\ufca4 fca4 %d mdi cannabis\n" $((16#fca4))
+printf "\ufca5 fca5 %d mdi car convertible\n" $((16#fca5))
+printf "\ufca6 fca6 %d mdi car estate\n" $((16#fca6))
+printf "\ufca7 fca7 %d mdi car hatchback\n" $((16#fca7))
+printf "\ufca8 fca8 %d mdi car pickup\n" $((16#fca8))
+printf "\ufca9 fca9 %d mdi car side\n" $((16#fca9))
+printf "\ufcaa fcaa %d mdi car sports\n" $((16#fcaa))
+printf "\ufcab fcab %d mdi caravan\n" $((16#fcab))
+printf "\ufcac fcac %d mdi cctv\n" $((16#fcac))
+printf "\ufcad fcad %d mdi chart donut\n" $((16#fcad))
+printf "\ufcae fcae %d mdi chart donut variant\n" $((16#fcae))
+printf "\ufcaf fcaf %d mdi chart line variant\n" $((16#fcaf))
+printf "\ufcb0 fcb0 %d mdi chili hot\n" $((16#fcb0))
+printf "\ufcb1 fcb1 %d mdi chili medium\n" $((16#fcb1))
+printf "\ufcb2 fcb2 %d mdi chili mild\n" $((16#fcb2))
+printf "\ufcb3 fcb3 %d mdi cloud braces\n" $((16#fcb3))
+printf "\ufcb4 fcb4 %d mdi cloud tags\n" $((16#fcb4))
+printf "\ufcb5 fcb5 %d mdi console line\n" $((16#fcb5))
+printf "\ufcb6 fcb6 %d mdi corn\n" $((16#fcb6))
+printf "\ufcb7 fcb7 %d mdi currency chf\n" $((16#fcb7))
+printf "\ufcb8 fcb8 %d mdi currency cny\n" $((16#fcb8))
+printf "\ufcb9 fcb9 %d mdi currency eth\n" $((16#fcb9))
+printf "\ufcba fcba %d mdi currency jpy\n" $((16#fcba))
+printf "\ufcbb fcbb %d mdi currency krw\n" $((16#fcbb))
+printf "\ufcbc fcbc %d mdi currency sign\n" $((16#fcbc))
+printf "\ufcbd fcbd %d mdi currency twd\n" $((16#fcbd))
+printf "\ufcbe fcbe %d mdi desktop classic\n" $((16#fcbe))
+printf "\ufcbf fcbf %d mdi dip switch\n" $((16#fcbf))
+printf "\ufcc0 fcc0 %d mdi donkey\n" $((16#fcc0))
+printf "\ufcc1 fcc1 %d mdi dots horizontal circle\n" $((16#fcc1))
+printf "\ufcc2 fcc2 %d mdi dots vertical circle\n" $((16#fcc2))
+printf "\ufcc3 fcc3 %d mdi ear hearing\n" $((16#fcc3))
+printf "\ufcc4 fcc4 %d mdi elephant\n" $((16#fcc4))
+printf "\ufcc5 fcc5 %d mdi eventbrite\n" $((16#fcc5))
+printf "\ufcc6 fcc6 %d mdi food croissant\n" $((16#fcc6))
+printf "\ufcc7 fcc7 %d mdi forklift\n" $((16#fcc7))
+printf "\ufcc8 fcc8 %d mdi fuel\n" $((16#fcc8))
+printf "\ufcc9 fcc9 %d mdi gesture\n" $((16#fcc9))
+printf "\ufcca fcca %d mdi google analytics\n" $((16#fcca))
+printf "\ufccb fccb %d mdi google assistant\n" $((16#fccb))
+printf "\ufccc fccc %d mdi headphones off\n" $((16#fccc))
+printf "\ufccd fccd %d mdi high definition\n" $((16#fccd))
+printf "\ufcce fcce %d mdi home assistant\n" $((16#fcce))
+printf "\ufccf fccf %d mdi home automation\n" $((16#fccf))
+printf "\ufcd0 fcd0 %d mdi home circle\n" $((16#fcd0))
+printf "\ufcd1 fcd1 %d mdi language go\n" $((16#fcd1))
+printf "\ufcd2 fcd2 %d mdi language r\n" $((16#fcd2))
+printf "\ufcd3 fcd3 %d mdi lava lamp\n" $((16#fcd3))
+printf "\ufcd4 fcd4 %d mdi led strip\n" $((16#fcd4))
+printf "\ufcd5 fcd5 %d mdi locker\n" $((16#fcd5))
+printf "\ufcd6 fcd6 %d mdi locker multiple\n" $((16#fcd6))
+printf "\ufcd7 fcd7 %d mdi map marker outline\n" $((16#fcd7))
+printf "\ufcd8 fcd8 %d mdi metronome\n" $((16#fcd8))
+printf "\ufcd9 fcd9 %d mdi metronome tick\n" $((16#fcd9))
+printf "\ufcda fcda %d mdi micro sd\n" $((16#fcda))
+printf "\ufcdb fcdb %d mdi mixer\n" $((16#fcdb))
+printf "\ufcdc fcdc %d mdi movie roll\n" $((16#fcdc))
+printf "\ufcdd fcdd %d mdi mushroom\n" $((16#fcdd))
+printf "\ufcde fcde %d mdi mushroom outline\n" $((16#fcde))
+printf "\ufcdf fcdf %d mdi nintendo switch\n" $((16#fcdf))
+printf "\ufce0 fce0 %d mdi null\n" $((16#fce0))
+printf "\ufce1 fce1 %d mdi passport\n" $((16#fce1))
+printf "\ufce2 fce2 %d mdi periodic table co2\n" $((16#fce2))
+printf "\ufce3 fce3 %d mdi pipe\n" $((16#fce3))
+printf "\ufce4 fce4 %d mdi pipe disconnected\n" $((16#fce4))
+printf "\ufce5 fce5 %d mdi power socket eu\n" $((16#fce5))
+printf "\ufce6 fce6 %d mdi power socket uk\n" $((16#fce6))
+printf "\ufce7 fce7 %d mdi power socket us\n" $((16#fce7))
+printf "\ufce8 fce8 %d mdi rice\n" $((16#fce8))
+printf "\ufce9 fce9 %d mdi ring\n" $((16#fce9))
+printf "\ufcea fcea %d mdi sass\n" $((16#fcea))
+printf "\ufceb fceb %d mdi send secure\n" $((16#fceb))
+printf "\ufcec fcec %d mdi soy sauce\n" $((16#fcec))
+printf "\ufced fced %d mdi standard definition\n" $((16#fced))
+printf "\ufcee fcee %d mdi surround sound 2 0\n" $((16#fcee))
+printf "\ufcef fcef %d mdi surround sound 3 1\n" $((16#fcef))
+printf "\ufcf0 fcf0 %d mdi surround sound 5 1\n" $((16#fcf0))
+printf "\ufcf1 fcf1 %d mdi surround sound 7 1\n" $((16#fcf1))
+printf "\ufcf2 fcf2 %d mdi television classic\n" $((16#fcf2))
+printf "\ufcf3 fcf3 %d mdi textbox password\n" $((16#fcf3))
+printf "\ufcf4 fcf4 %d mdi thought bubble\n" $((16#fcf4))
+printf "\ufcf5 fcf5 %d mdi thought bubble outline\n" $((16#fcf5))
+printf "\ufcf6 fcf6 %d mdi trackpad\n" $((16#fcf6))
+printf "\ufcf7 fcf7 %d mdi ultra high definition\n" $((16#fcf7))
+printf "\ufcf8 fcf8 %d mdi van passenger\n" $((16#fcf8))
+printf "\ufcf9 fcf9 %d mdi van utility\n" $((16#fcf9))
+printf "\ufcfa fcfa %d mdi vanish\n" $((16#fcfa))
+printf "\ufcfb fcfb %d mdi video 3d\n" $((16#fcfb))
+printf "\ufcfc fcfc %d mdi wall\n" $((16#fcfc))
+printf "\ufcfd fcfd %d mdi xmpp\n" $((16#fcfd))
+printf "\ufcfe fcfe %d mdi account multiple plus outline\n" $((16#fcfe))
+printf "\ufcff fcff %d mdi account plus outline\n" $((16#fcff))
+printf "\ufd00 fd00 %d mdi allo\n" $((16#fd00))
+printf "\ufd01 fd01 %d mdi artist\n" $((16#fd01))
+printf "\ufd02 fd02 %d mdi atlassian\n" $((16#fd02))
+printf "\ufd03 fd03 %d mdi azure\n" $((16#fd03))
+printf "\ufd04 fd04 %d mdi basketball\n" $((16#fd04))
+printf "\ufd05 fd05 %d mdi battery charging wireless\n" $((16#fd05))
+printf "\ufd06 fd06 %d mdi battery charging wireless 10\n" $((16#fd06))
+printf "\ufd07 fd07 %d mdi battery charging wireless 20\n" $((16#fd07))
+printf "\ufd08 fd08 %d mdi battery charging wireless 30\n" $((16#fd08))
+printf "\ufd09 fd09 %d mdi battery charging wireless 40\n" $((16#fd09))
+printf "\ufd0a fd0a %d mdi battery charging wireless 50\n" $((16#fd0a))
+printf "\ufd0b fd0b %d mdi battery charging wireless 60\n" $((16#fd0b))
+printf "\ufd0c fd0c %d mdi battery charging wireless 70\n" $((16#fd0c))
+printf "\ufd0d fd0d %d mdi battery charging wireless 80\n" $((16#fd0d))
+printf "\ufd0e fd0e %d mdi battery charging wireless 90\n" $((16#fd0e))
+printf "\ufd0f fd0f %d mdi battery charging wireless alert\n" $((16#fd0f))
+printf "\ufd10 fd10 %d mdi battery charging wireless outline\n" $((16#fd10))
+printf "\ufd11 fd11 %d mdi bitcoin\n" $((16#fd11))
+printf "\ufd12 fd12 %d mdi briefcase outline\n" $((16#fd12))
+printf "\ufd13 fd13 %d mdi cellphone wireless\n" $((16#fd13))
+printf "\ufd14 fd14 %d mdi clover\n" $((16#fd14))
+printf "\ufd15 fd15 %d mdi comment question\n" $((16#fd15))
+printf "\ufd16 fd16 %d mdi content save outline\n" $((16#fd16))
+printf "\ufd17 fd17 %d mdi delete restore\n" $((16#fd17))
+printf "\ufd18 fd18 %d mdi door\n" $((16#fd18))
+printf "\ufd19 fd19 %d mdi door closed\n" $((16#fd19))
+printf "\ufd1a fd1a %d mdi door open\n" $((16#fd1a))
+printf "\ufd1b fd1b %d mdi fan off\n" $((16#fd1b))
+printf "\ufd1c fd1c %d mdi file percent\n" $((16#fd1c))
+printf "\ufd1d fd1d %d mdi finance\n" $((16#fd1d))
+printf "\ufd1e fd1e %d mdi flash circle\n" $((16#fd1e))
+printf "\ufd1f fd1f %d mdi floor plan\n" $((16#fd1f))
+printf "\ufd20 fd20 %d mdi forum outline\n" $((16#fd20))
+printf "\ufd21 fd21 %d mdi golf\n" $((16#fd21))
+printf "\ufd22 fd22 %d mdi google home\n" $((16#fd22))
+printf "\ufd23 fd23 %d mdi guy fawkes mask\n" $((16#fd23))
+printf "\ufd24 fd24 %d mdi home account\n" $((16#fd24))
+printf "\ufd25 fd25 %d mdi home heart\n" $((16#fd25))
+printf "\ufd26 fd26 %d mdi hot tub\n" $((16#fd26))
+printf "\ufd27 fd27 %d mdi hulu\n" $((16#fd27))
+printf "\ufd28 fd28 %d mdi ice cream\n" $((16#fd28))
+printf "\ufd29 fd29 %d mdi image off\n" $((16#fd29))
+printf "\ufd2a fd2a %d mdi karate\n" $((16#fd2a))
+printf "\ufd2b fd2b %d mdi ladybug\n" $((16#fd2b))
+printf "\ufd2c fd2c %d mdi notebook\n" $((16#fd2c))
+printf "\ufd2d fd2d %d mdi phone return\n" $((16#fd2d))
+printf "\ufd2e fd2e %d mdi poker chip\n" $((16#fd2e))
+printf "\ufd2f fd2f %d mdi shape\n" $((16#fd2f))
+printf "\ufd30 fd30 %d mdi shape outline\n" $((16#fd30))
+printf "\ufd31 fd31 %d mdi ship wheel\n" $((16#fd31))
+printf "\ufd32 fd32 %d mdi soccer field\n" $((16#fd32))
+printf "\ufd33 fd33 %d mdi table column\n" $((16#fd33))
+printf "\ufd34 fd34 %d mdi table of contents\n" $((16#fd34))
+printf "\ufd35 fd35 %d mdi table row\n" $((16#fd35))
+printf "\ufd36 fd36 %d mdi table settings\n" $((16#fd36))
+printf "\ufd37 fd37 %d mdi television box\n" $((16#fd37))
+printf "\ufd38 fd38 %d mdi television classic off\n" $((16#fd38))
+printf "\ufd39 fd39 %d mdi television off\n" $((16#fd39))
+printf "\ufd3a fd3a %d mdi towing\n" $((16#fd3a))
+printf "\ufd3b fd3b %d mdi upload multiple\n" $((16#fd3b))
+printf "\ufd3c fd3c %d mdi video 4k box\n" $((16#fd3c))
+printf "\ufd3d fd3d %d mdi video input antenna\n" $((16#fd3d))
+printf "\ufd3e fd3e %d mdi video input component\n" $((16#fd3e))
+printf "\ufd3f fd3f %d mdi video input hdmi\n" $((16#fd3f))
+printf "\ufd40 fd40 %d mdi video input svideo\n" $((16#fd40))
+printf "\ufd41 fd41 %d mdi view dashboard variant\n" $((16#fd41))
+printf "\ufd42 fd42 %d mdi vuejs\n" $((16#fd42))
+printf "\ufd43 fd43 %d mdi xamarin\n" $((16#fd43))
+printf "\ufd44 fd44 %d mdi xamarin outline\n" $((16#fd44))
+printf "\ufd45 fd45 %d mdi youtube creator studio\n" $((16#fd45))
+printf "\ufd46 fd46 %d mdi youtube gaming\n" $((16#fd46))
+printf "\ue300 e300 %d weather day cloudy gusts\n" $((16#e300))
+printf "\ue301 e301 %d weather day cloudy windy\n" $((16#e301))
+printf "\ue302 e302 %d weather day cloudy\n" $((16#e302))
+printf "\ue303 e303 %d weather day fog\n" $((16#e303))
+printf "\ue304 e304 %d weather day hail\n" $((16#e304))
+printf "\ue305 e305 %d weather day lightning\n" $((16#e305))
+printf "\ue306 e306 %d weather day rain mix\n" $((16#e306))
+printf "\ue307 e307 %d weather day rain wind\n" $((16#e307))
+printf "\ue308 e308 %d weather day rain\n" $((16#e308))
+printf "\ue309 e309 %d weather day showers\n" $((16#e309))
+printf "\ue30a e30a %d weather day snow\n" $((16#e30a))
+printf "\ue30b e30b %d weather day sprinkle\n" $((16#e30b))
+printf "\ue30c e30c %d weather day sunny overcast\n" $((16#e30c))
+printf "\ue30d e30d %d weather day sunny\n" $((16#e30d))
+printf "\ue30e e30e %d weather day storm showers\n" $((16#e30e))
+printf "\ue30f e30f %d weather day thunderstorm\n" $((16#e30f))
+printf "\ue310 e310 %d weather cloudy gusts\n" $((16#e310))
+printf "\ue311 e311 %d weather cloudy windy\n" $((16#e311))
+printf "\ue312 e312 %d weather cloudy\n" $((16#e312))
+printf "\ue313 e313 %d weather fog\n" $((16#e313))
+printf "\ue314 e314 %d weather hail\n" $((16#e314))
+printf "\ue315 e315 %d weather lightning\n" $((16#e315))
+printf "\ue316 e316 %d weather rain mix\n" $((16#e316))
+printf "\ue317 e317 %d weather rain wind\n" $((16#e317))
+printf "\ue318 e318 %d weather rain\n" $((16#e318))
+printf "\ue319 e319 %d weather showers\n" $((16#e319))
+printf "\ue31a e31a %d weather snow\n" $((16#e31a))
+printf "\ue31b e31b %d weather sprinkle\n" $((16#e31b))
+printf "\ue31c e31c %d weather storm showers\n" $((16#e31c))
+printf "\ue31d e31d %d weather thunderstorm\n" $((16#e31d))
+printf "\ue31e e31e %d weather windy\n" $((16#e31e))
+printf "\ue31f e31f %d weather night alt cloudy gusts\n" $((16#e31f))
+printf "\ue320 e320 %d weather night alt cloudy windy\n" $((16#e320))
+printf "\ue321 e321 %d weather night alt hail\n" $((16#e321))
+printf "\ue322 e322 %d weather night alt lightning\n" $((16#e322))
+printf "\ue323 e323 %d weather night alt rain mix\n" $((16#e323))
+printf "\ue324 e324 %d weather night alt rain wind\n" $((16#e324))
+printf "\ue325 e325 %d weather night alt rain\n" $((16#e325))
+printf "\ue326 e326 %d weather night alt rain mix\n" $((16#e326))
+printf "\ue327 e327 %d weather night alt snow\n" $((16#e327))
+printf "\ue328 e328 %d weather night alt sprinkle\n" $((16#e328))
+printf "\ue329 e329 %d weather night alt storm showers\n" $((16#e329))
+printf "\ue32a e32a %d weather night alt thunderstorm\n" $((16#e32a))
+printf "\ue32b e32b %d weather night clear\n" $((16#e32b))
+printf "\ue32c e32c %d weather night cloudy gusts\n" $((16#e32c))
+printf "\ue32d e32d %d weather night cloudy windy\n" $((16#e32d))
+printf "\ue32e e32e %d weather night cloudy\n" $((16#e32e))
+printf "\ue32f e32f %d weather night hail\n" $((16#e32f))
+printf "\ue330 e330 %d weather night lightning\n" $((16#e330))
+printf "\ue331 e331 %d weather night rain mix\n" $((16#e331))
+printf "\ue332 e332 %d weather night rain wind\n" $((16#e332))
+printf "\ue333 e333 %d weather night rain\n" $((16#e333))
+printf "\ue334 e334 %d weather night showers\n" $((16#e334))
+printf "\ue335 e335 %d weather night snow\n" $((16#e335))
+printf "\ue336 e336 %d weather night sprinkle\n" $((16#e336))
+printf "\ue337 e337 %d weather night storm showers\n" $((16#e337))
+printf "\ue338 e338 %d weather night thunderstorm\n" $((16#e338))
+printf "\ue339 e339 %d weather celsius\n" $((16#e339))
+printf "\ue33a e33a %d weather cloud down\n" $((16#e33a))
+printf "\ue33b e33b %d weather cloud refresh\n" $((16#e33b))
+printf "\ue33c e33c %d weather cloud up\n" $((16#e33c))
+printf "\ue33d e33d %d weather cloud\n" $((16#e33d))
+printf "\ue33e e33e %d weather degrees\n" $((16#e33e))
+printf "\ue33f e33f %d weather direction down left\n" $((16#e33f))
+printf "\ue340 e340 %d weather direction down\n" $((16#e340))
+printf "\ue341 e341 %d weather fahrenheit\n" $((16#e341))
+printf "\ue342 e342 %d weather horizon alt\n" $((16#e342))
+printf "\ue343 e343 %d weather horizon\n" $((16#e343))
+printf "\ue344 e344 %d weather direction left\n" $((16#e344))
+printf "\ue345 e345 %d weather aliens\n" $((16#e345))
+printf "\ue346 e346 %d weather night fog\n" $((16#e346))
+printf "\ue347 e347 %d weather refresh alt\n" $((16#e347))
+printf "\ue348 e348 %d weather refresh\n" $((16#e348))
+printf "\ue349 e349 %d weather direction right\n" $((16#e349))
+printf "\ue34a e34a %d weather raindrops\n" $((16#e34a))
+printf "\ue34b e34b %d weather strong wind\n" $((16#e34b))
+printf "\ue34c e34c %d weather sunrise\n" $((16#e34c))
+printf "\ue34d e34d %d weather sunset\n" $((16#e34d))
+printf "\ue34e e34e %d weather thermometer exterior\n" $((16#e34e))
+printf "\ue34f e34f %d weather thermometer internal\n" $((16#e34f))
+printf "\ue350 e350 %d weather thermometer\n" $((16#e350))
+printf "\ue351 e351 %d weather tornado\n" $((16#e351))
+printf "\ue352 e352 %d weather direction up right\n" $((16#e352))
+printf "\ue353 e353 %d weather direction up\n" $((16#e353))
+printf "\ue354 e354 %d weather wind west\n" $((16#e354))
+printf "\ue355 e355 %d weather wind south west\n" $((16#e355))
+printf "\ue356 e356 %d weather wind south east\n" $((16#e356))
+printf "\ue357 e357 %d weather wind south\n" $((16#e357))
+printf "\ue358 e358 %d weather wind north west\n" $((16#e358))
+printf "\ue359 e359 %d weather wind north east\n" $((16#e359))
+printf "\ue35a e35a %d weather wind north\n" $((16#e35a))
+printf "\ue35b e35b %d weather wind east\n" $((16#e35b))
+printf "\ue35c e35c %d weather smoke\n" $((16#e35c))
+printf "\ue35d e35d %d weather dust\n" $((16#e35d))
+printf "\ue35e e35e %d weather snow wind\n" $((16#e35e))
+printf "\ue35f e35f %d weather day snow wind\n" $((16#e35f))
+printf "\ue360 e360 %d weather night snow wind\n" $((16#e360))
+printf "\ue361 e361 %d weather night alt snow wind\n" $((16#e361))
+printf "\ue362 e362 %d weather day sleet storm\n" $((16#e362))
+printf "\ue363 e363 %d weather night sleet storm\n" $((16#e363))
+printf "\ue364 e364 %d weather night alt sleet storm\n" $((16#e364))
+printf "\ue365 e365 %d weather day snow thunderstorm\n" $((16#e365))
+printf "\ue366 e366 %d weather night snow thunderstorm\n" $((16#e366))
+printf "\ue367 e367 %d weather night alt snow thunderstorm\n" $((16#e367))
+printf "\ue368 e368 %d weather solar eclipse\n" $((16#e368))
+printf "\ue369 e369 %d weather lunar eclipse\n" $((16#e369))
+printf "\ue36a e36a %d weather meteor\n" $((16#e36a))
+printf "\ue36b e36b %d weather hot\n" $((16#e36b))
+printf "\ue36c e36c %d weather hurricane\n" $((16#e36c))
+printf "\ue36d e36d %d weather smog\n" $((16#e36d))
+printf "\ue36e e36e %d weather alien\n" $((16#e36e))
+printf "\ue36f e36f %d weather snowflake cold\n" $((16#e36f))
+printf "\ue370 e370 %d weather stars\n" $((16#e370))
+printf "\ue371 e371 %d weather raindrop\n" $((16#e371))
+printf "\ue372 e372 %d weather barometer\n" $((16#e372))
+printf "\ue373 e373 %d weather humidity\n" $((16#e373))
+printf "\ue374 e374 %d weather na\n" $((16#e374))
+printf "\ue375 e375 %d weather flood\n" $((16#e375))
+printf "\ue376 e376 %d weather day cloudy high\n" $((16#e376))
+printf "\ue377 e377 %d weather night alt cloudy high\n" $((16#e377))
+printf "\ue378 e378 %d weather night cloudy high\n" $((16#e378))
+printf "\ue379 e379 %d weather night alt partly cloudy\n" $((16#e379))
+printf "\ue37a e37a %d weather sandstorm\n" $((16#e37a))
+printf "\ue37b e37b %d weather night partly cloudy\n" $((16#e37b))
+printf "\ue37c e37c %d weather umbrella\n" $((16#e37c))
+printf "\ue37d e37d %d weather day windy\n" $((16#e37d))
+printf "\ue37e e37e %d weather night alt cloudy\n" $((16#e37e))
+printf "\ue37f e37f %d weather direction up left\n" $((16#e37f))
+printf "\ue380 e380 %d weather direction down right\n" $((16#e380))
+printf "\ue381 e381 %d weather time 12\n" $((16#e381))
+printf "\ue382 e382 %d weather time 1\n" $((16#e382))
+printf "\ue383 e383 %d weather time 2\n" $((16#e383))
+printf "\ue384 e384 %d weather time 3\n" $((16#e384))
+printf "\ue385 e385 %d weather time 4\n" $((16#e385))
+printf "\ue386 e386 %d weather time 5\n" $((16#e386))
+printf "\ue387 e387 %d weather time 6\n" $((16#e387))
+printf "\ue388 e388 %d weather time 7\n" $((16#e388))
+printf "\ue389 e389 %d weather time 8\n" $((16#e389))
+printf "\ue38a e38a %d weather time 9\n" $((16#e38a))
+printf "\ue38b e38b %d weather time 10\n" $((16#e38b))
+printf "\ue38c e38c %d weather time 11\n" $((16#e38c))
+printf "\ue38d e38d %d weather moon new\n" $((16#e38d))
+printf "\ue38e e38e %d weather moon waxing crescent 1\n" $((16#e38e))
+printf "\ue38f e38f %d weather moon waxing crescent 2\n" $((16#e38f))
+printf "\ue390 e390 %d weather moon waxing crescent 3\n" $((16#e390))
+printf "\ue391 e391 %d weather moon waxing crescent 4\n" $((16#e391))
+printf "\ue392 e392 %d weather moon waxing crescent 5\n" $((16#e392))
+printf "\ue393 e393 %d weather moon waxing crescent 6\n" $((16#e393))
+printf "\ue394 e394 %d weather moon first quarter\n" $((16#e394))
+printf "\ue395 e395 %d weather moon waxing gibbous 1\n" $((16#e395))
+printf "\ue396 e396 %d weather moon waxing gibbous 2\n" $((16#e396))
+printf "\ue397 e397 %d weather moon waxing gibbous 3\n" $((16#e397))
+printf "\ue398 e398 %d weather moon waxing gibbous 4\n" $((16#e398))
+printf "\ue399 e399 %d weather moon waxing gibbous 5\n" $((16#e399))
+printf "\ue39a e39a %d weather moon waxing gibbous 6\n" $((16#e39a))
+printf "\ue39b e39b %d weather moon full\n" $((16#e39b))
+printf "\ue39c e39c %d weather moon waning gibbous 1\n" $((16#e39c))
+printf "\ue39d e39d %d weather moon waning gibbous 2\n" $((16#e39d))
+printf "\ue39e e39e %d weather moon waning gibbous 3\n" $((16#e39e))
+printf "\ue39f e39f %d weather moon waning gibbous 4\n" $((16#e39f))
+printf "\ue3a0 e3a0 %d weather moon waning gibbous 5\n" $((16#e3a0))
+printf "\ue3a1 e3a1 %d weather moon waning gibbous 6\n" $((16#e3a1))
+printf "\ue3a2 e3a2 %d weather moon third quarter\n" $((16#e3a2))
+printf "\ue3a3 e3a3 %d weather moon waning crescent 1\n" $((16#e3a3))
+printf "\ue3a4 e3a4 %d weather moon waning crescent 2\n" $((16#e3a4))
+printf "\ue3a5 e3a5 %d weather moon waning crescent 3\n" $((16#e3a5))
+printf "\ue3a6 e3a6 %d weather moon waning crescent 4\n" $((16#e3a6))
+printf "\ue3a7 e3a7 %d weather moon waning crescent 5\n" $((16#e3a7))
+printf "\ue3a8 e3a8 %d weather moon waning crescent 6\n" $((16#e3a8))
+printf "\ue3a9 e3a9 %d weather wind direction\n" $((16#e3a9))
+printf "\ue3aa e3aa %d weather day sleet\n" $((16#e3aa))
+printf "\ue3ab e3ab %d weather night sleet\n" $((16#e3ab))
+printf "\ue3ac e3ac %d weather night alt sleet\n" $((16#e3ac))
+printf "\ue3ad e3ad %d weather sleet\n" $((16#e3ad))
+printf "\ue3ae e3ae %d weather day haze\n" $((16#e3ae))
+printf "\ue3af e3af %d weather wind beaufort 0\n" $((16#e3af))
+printf "\ue3b0 e3b0 %d weather wind beaufort 1\n" $((16#e3b0))
+printf "\ue3b1 e3b1 %d weather wind beaufort 2\n" $((16#e3b1))
+printf "\ue3b2 e3b2 %d weather wind beaufort 3\n" $((16#e3b2))
+printf "\ue3b3 e3b3 %d weather wind beaufort 4\n" $((16#e3b3))
+printf "\ue3b4 e3b4 %d weather wind beaufort 5\n" $((16#e3b4))
+printf "\ue3b5 e3b5 %d weather wind beaufort 6\n" $((16#e3b5))
+printf "\ue3b6 e3b6 %d weather wind beaufort 7\n" $((16#e3b6))
+printf "\ue3b7 e3b7 %d weather wind beaufort 8\n" $((16#e3b7))
+printf "\ue3b8 e3b8 %d weather wind beaufort 9\n" $((16#e3b8))
+printf "\ue3b9 e3b9 %d weather wind beaufort 10\n" $((16#e3b9))
+printf "\ue3ba e3ba %d weather wind beaufort 11\n" $((16#e3ba))
+printf "\ue3bb e3bb %d weather wind beaufort 12\n" $((16#e3bb))
+printf "\ue3bc e3bc %d weather day light wind\n" $((16#e3bc))
+printf "\ue3bd e3bd %d weather tsunami\n" $((16#e3bd))
+printf "\ue3be e3be %d weather earthquake\n" $((16#e3be))
+printf "\ue3bf e3bf %d weather fire\n" $((16#e3bf))
+printf "\ue3c0 e3c0 %d weather volcano\n" $((16#e3c0))
+printf "\ue3c1 e3c1 %d weather moonrise\n" $((16#e3c1))
+printf "\ue3c2 e3c2 %d weather moonset\n" $((16#e3c2))
+printf "\ue3c3 e3c3 %d weather train\n" $((16#e3c3))
+printf "\ue3c4 e3c4 %d weather small craft advisory\n" $((16#e3c4))
+printf "\ue3c5 e3c5 %d weather gale warning\n" $((16#e3c5))
+printf "\ue3c6 e3c6 %d weather storm warning\n" $((16#e3c6))
+printf "\ue3c7 e3c7 %d weather hurricane warning\n" $((16#e3c7))
+printf "\ue3c8 e3c8 %d weather moon alt waxing crescent 1\n" $((16#e3c8))
+printf "\ue3c9 e3c9 %d weather moon alt waxing crescent 2\n" $((16#e3c9))
+printf "\ue3ca e3ca %d weather moon alt waxing crescent 3\n" $((16#e3ca))
+printf "\ue3cb e3cb %d weather moon alt waxing crescent 4\n" $((16#e3cb))
+printf "\ue3cc e3cc %d weather moon alt waxing crescent 5\n" $((16#e3cc))
+printf "\ue3cd e3cd %d weather moon alt waxing crescent 6\n" $((16#e3cd))
+printf "\ue3ce e3ce %d weather moon alt first quarter\n" $((16#e3ce))
+printf "\ue3cf e3cf %d weather moon alt waxing gibbous 1\n" $((16#e3cf))
+printf "\ue3d0 e3d0 %d weather moon alt waxing gibbous 2\n" $((16#e3d0))
+printf "\ue3d1 e3d1 %d weather moon alt waxing gibbous 3\n" $((16#e3d1))
+printf "\ue3d2 e3d2 %d weather moon alt waxing gibbous 4\n" $((16#e3d2))
+printf "\ue3d3 e3d3 %d weather moon alt waxing gibbous 5\n" $((16#e3d3))
+printf "\ue3d4 e3d4 %d weather moon alt waxing gibbous 6\n" $((16#e3d4))
+printf "\ue3d5 e3d5 %d weather moon alt full\n" $((16#e3d5))
+printf "\ue3d6 e3d6 %d weather moon alt waning gibbous 1\n" $((16#e3d6))
+printf "\ue3d7 e3d7 %d weather moon alt waning gibbous 2\n" $((16#e3d7))
+printf "\ue3d8 e3d8 %d weather moon alt waning gibbous 3\n" $((16#e3d8))
+printf "\ue3d9 e3d9 %d weather moon alt waning gibbous 4\n" $((16#e3d9))
+printf "\ue3da e3da %d weather moon alt waning gibbous 5\n" $((16#e3da))
+printf "\ue3db e3db %d weather moon alt waning gibbous 6\n" $((16#e3db))
+printf "\ue3dc e3dc %d weather moon alt third quarter\n" $((16#e3dc))
+printf "\ue3dd e3dd %d weather moon alt waning crescent 1\n" $((16#e3dd))
+printf "\ue3de e3de %d weather moon alt waning crescent 2\n" $((16#e3de))
+printf "\ue3df e3df %d weather moon alt waning crescent 3\n" $((16#e3df))
+printf "\ue3e0 e3e0 %d weather moon alt waning crescent 4\n" $((16#e3e0))
+printf "\ue3e1 e3e1 %d weather moon alt waning crescent 5\n" $((16#e3e1))
+printf "\ue3e2 e3e2 %d weather moon alt waning crescent 6\n" $((16#e3e2))
+printf "\ue3e3 e3e3 %d weather moon alt new\n" $((16#e3e3))
