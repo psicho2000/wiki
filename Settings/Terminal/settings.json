@@ -81,13 +81,6 @@
         },
         "list": [
             {
-                "colorScheme": "Markus",
-                "guid": "{17bf3de4-5353-5709-bcf9-835bd952a95e}",
-                "hidden": false,
-                "name": "Ubuntu",
-                "source": "Windows.Terminal.Wsl"
-            },
-            {
                 "background": "#350719",
                 "colorScheme": "Markus",
                 "commandline": "\"%PROGRAMFILES%/git/usr/bin/bash.exe\" -i -l",
@@ -96,11 +89,25 @@
                 "name": "Git Bash"
             },
             {
+                "colorScheme": "Campbell Powershell",
+                "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+                "hidden": false,
+                "name": "PowerShell",
+                "source": "Windows.Terminal.PowershellCore"
+            },
+            {
                 "backgroundImage": "D:/Projects/wiki/Settings/Terminal/Background2.jpg",
                 "colorScheme": "Markus",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
                 "name": "Eingabeaufforderung"
+            },
+            {
+                "colorScheme": "Markus",
+                "guid": "{17bf3de4-5353-5709-bcf9-835bd952a95e}",
+                "hidden": false,
+                "name": "Ubuntu",
+                "source": "Windows.Terminal.Wsl"
             },
             {
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
@@ -112,13 +119,6 @@
                 "hidden": true,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
-            },
-            {
-                "colorScheme": "Campbell Powershell",
-                "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
-                "hidden": false,
-                "name": "PowerShell",
-                "source": "Windows.Terminal.PowershellCore"
             }
         ]
     },
