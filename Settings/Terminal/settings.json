@@ -74,7 +74,7 @@
             "bellStyle": "none",
             "closeOnExit": "always",
             "font": {
-                "face": "CaskaydiaCove Nerd Font"
+                "face": "CaskaydiaCove NF"
             },
             "historySize": 16000,
             "startingDirectory": "%userprofile%"
