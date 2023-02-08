@@ -38,7 +38,7 @@ python3 -m venv .venv
 
 Before each run in project directory:
 ```bash
-source ./env/bin/activate
+source ./.venv/bin/activate
 ```
 
 Deactivate the venv:
