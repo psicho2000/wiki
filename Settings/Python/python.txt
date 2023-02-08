@@ -35,6 +35,9 @@ VS Code Settings (Ctrl+,)
 One time in project directory:
 ```bash
 python3 -m venv .venv
+mkdir .vscode
+echo "{\n    \"python.linting.pylintPath\": \".venv/bin/pylint\"\n}" > .vscode/settings.json
+```
 
 Before each run in project directory:
 ```bash
