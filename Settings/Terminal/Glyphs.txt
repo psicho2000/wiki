@@ -9,18 +9,18 @@ Use these Glyphs and Ligatures with a compatible font. Best experience in Window
     * Variants:
       * CaskaydiaCove Nerd Font (files `Caskaydia Cove Nerd Font Complete*.otf`)
       * CaskaydiaCove NF (files `Caskaydia Cove Nerd Font Complete Windows Compatible*.otf`)
-        -> best in Microsoft Windows Terminal
+        -> best in Microsoft Windows Terminal (enable via "Show all Fonts")
       * CaskaydiaCove Nerd Font Mono (files `Caskaydia Cove Nerd Font Complete Mono*.otf`)
       * CaskaydiaCove NFM (files `Caskaydia Cove Nerd Font Complete Mono Windows Compatible*.otf`)
         -> best in Visual Studio Code
 * Definition of Glyph and Ligature: https://luthert.web.illinois.edu/blog/posts/163.html
 * Example: https://youtu.be/_mZBa3sqTrI?t=3050
 
-CaskaydaCove Variants overview:
-                    | Wide      | Mono           |
---------------------------------------------------
-Default             | Nerd Font | Nerd Font Mono |
-Windows Compatible  | NF        | NFM            |
+CaskaydiaCove Variants overview:
+                    │ Variable width │ Mono spaced    │
+────────────────────┼────────────────┼────────────────┤
+Default             │ Nerd Font      │ Nerd Font Mono │
+Windows Compatible  │ NF             │ NFM            │
 
 ## Characters
 iIlL1  oO08 CGQ  qg9  G6  5S  2Z
