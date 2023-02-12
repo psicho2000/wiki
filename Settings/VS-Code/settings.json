@@ -6,7 +6,7 @@
     "editor.formatOnSave": true,
     "editor.mouseWheelZoom": true,
     "editor.cursorBlinking": "expand",
-    "window.title": "${dirty}${activeEditorShort}${separator}${rootPath}"
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootPath}",
     "window.zoomLevel": 2,
     "workbench.colorTheme": "Solarized Dark",
     "workbench.editor.enablePreview": false,
