@@ -6,6 +6,10 @@
     "editor.formatOnSave": true,
     "editor.mouseWheelZoom": true,
     "editor.cursorBlinking": "expand",
+    "files.trimTrailingWhitespace": true,
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    },
     "window.title": "${dirty}${activeEditorShort}${separator}${rootPath}",
     "window.zoomLevel": 2,
     "workbench.colorTheme": "Solarized Dark",
