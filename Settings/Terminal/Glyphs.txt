@@ -12,7 +12,8 @@ Use these Glyphs and Ligatures with a compatible font. Best experience in Window
         -> best in Microsoft Windows Terminal (enable via "Show all Fonts")
       * CaskaydiaCove Nerd Font Mono (files `Caskaydia Cove Nerd Font Complete Mono*.otf`)
       * CaskaydiaCove NFM (files `Caskaydia Cove Nerd Font Complete Mono Windows Compatible*.otf`)
-        -> best in Visual Studio Code
+        -> best in Visual Studio Code and IntelliJ
+    * To work within IntelliJ, we need to install the fonts for all users
 * Definition of Glyph and Ligature: https://luthert.web.illinois.edu/blog/posts/163.html
 * Example: https://youtu.be/_mZBa3sqTrI?t=3050
 
@@ -65,6 +66,7 @@ Arrows and Boxes (most of them repeatable, or any longer, or combinable)
 /\      \/
 
 Tables / Frames
+see also: https://asciiflow.com
 ╭───────╮ ╭───┬───╮ ┌───────┐ ┌───┬───┐
 │       │ │   │   │ │       │ │   │   │
 │       │ ├───┼───┤ │       │ ├───┼───┤
