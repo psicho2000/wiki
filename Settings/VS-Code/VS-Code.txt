@@ -2,12 +2,20 @@ Copy keybindings.json and settings.json to
     %appdata%\Code\User
 
 Plugins
+    # encoding
     flesler.url-encode
     adamhartford.vscode-base64
+
+    # formatting
     timonwong.shellcheck
+    clemenspeters.format-json
+    tamasfe.even-better-toml
+
+    # python
+    matangover.mypy
+    ms-python.pylint
+
+    # ...and the rest
     johnpapa.vscode-peacock
     fr43nk.seito-openfile
-    clemenspeters.format-json
     eamodio.gitlens
-    tamasfe.even-better-toml
-    matangover.mypy
