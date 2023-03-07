@@ -1,0 +1,27 @@
+Execute as Admin to avoid getting UAC popups.
+
+$ winget settings
+"installBehavior": {
+    "defaultInstallRoot": "C:/Program Files"
+}
+
+Autohotkey Ctrl+Alt+[ -> C:\Users\m.meier\AppData\Local\slack\slack.exe
+
+Batch Installation:
+$ cat winget-input-file | xargs --max-args=1 winget.exe install
+
+Batch upgrades:
+$ winget upgrade --all
+
+Update deprecated Choco and add winget aliases:
+`cfg edit`
+```bash
+alias clist=`choco.exe list`
+alias cup=`choco.exe upgrade`
+alias cinst=`choco.exe install`
+alias cuninst=`choco.exe uninstall`
+alias wg='winget.exe'
+```
+
+ToDo:
+ * Autocompletion in Ubuntu

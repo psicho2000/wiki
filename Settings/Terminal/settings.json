@@ -95,7 +95,8 @@
                 "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
                 "hidden": false,
                 "name": "PowerShell",
-                "source": "Windows.Terminal.PowershellCore"
+                "source": "Windows.Terminal.PowershellCore",
+                "colorScheme": "Campbell Powershell"
             },
             {
                 "backgroundImage": "D:/Projects/wiki/Settings/Terminal/Background2.jpg",
