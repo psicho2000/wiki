@@ -10,6 +10,7 @@ SC056::RAlt
 ; Win-E starts Explorer with drive D: active and brings it to front
 #e::{
         Run("explorer.exe D:")
+        Sleep 700
         WinActivate("D:\")
     }
 
