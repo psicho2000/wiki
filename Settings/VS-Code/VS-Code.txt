@@ -19,3 +19,4 @@ Plugins
     johnpapa.vscode-peacock
     fr43nk.seito-openfile
     eamodio.gitlens
+    medo64.render-crlf
