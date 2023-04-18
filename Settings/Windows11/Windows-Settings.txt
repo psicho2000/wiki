@@ -68,18 +68,14 @@ Windows Settings (Win+I)
 ========================
 
 US-International-Undead.7z > setup.exe ausführen
-    löschen: setup.exe erneut ausführen; falls das nicht klappt: regedit > HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts\ > gewünschtes Layout entfernen
+    löschen: setup.exe erneut ausführen; falls das nicht klappt:
+        1. regedit > HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts\ > gewünschtes Layout entfernen
+        2. Markus.dll von %windir%\System32 und %windir%\SysWow64 entfernen
 
-Windows Settings > Zeit und Sprache > Sprache
-    Bevorzugte Sprache hinzufügen: Englisch (US)
-        alle Checkboxen aus (d.h. ohne Sprachpaket, Spracherkennung, Sprachausgabe, Handschrift)
-    Englisch (United States) > Optionen
-        Tastatur hinzufügen: Englisch (USA, International) - Undead
-        Englisch QWERTY > entfernen
-    Tastatur > Außerkraftsetzen für Standardeingabemethode
-        Englisch (USA, International) - Undead (in diese Eingabemethode wird nach jedem Login gewechselt)
-    Tastenkombinationen für Eingabesprachen > Tastenkombination ändern
-        Eingabesprache wechseln: Nicht zugewiesen
+Windows Settings > Zeit und Sprache > Sprache und Region
+    Deutsch (Deutschland) > Optionen
+        Tastatur hinzufügen: Englisch (USA, International) - Undead - Custom
+        Tastaturen in der Reihenfolge hinzufügen, so dass Primärtastatur oben in der Liste ist (in diese Eingabemethode wird nach jedem Login gewechselt)
 
 ### Computerkonfiguration
 =========================
