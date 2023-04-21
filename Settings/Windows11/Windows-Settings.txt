@@ -85,6 +85,16 @@ Datenträgerverwaltung
 
 Disable-all.reg ausführen
 
+Windows 10 Kontextmenü reaktvieren (geht nicht per .reg-file):
+    ```powershell
+    reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+    ```
+    Dann Neustart vom Explorer:
+    ```powershell
+    taskkill -IM explorer.exe -f
+    explorer.exe
+    ```
+
 Energieoptionen (Win+X, N)
     Auswählen, was beim Drücken von Netzschaltern geschehen soll
         Einige Einstellungen sind momentan nicht verfügbar
