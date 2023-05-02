@@ -56,5 +56,6 @@
     ],
     "shellcheck.customArgs": [
         "-x"
-    ]
+    ],
+    "zenMode.hideLineNumbers": false
 }
