@@ -5,6 +5,7 @@ Plugins
     # encoding
     flesler.url-encode
     adamhartford.vscode-base64
+    ms-vscode.hexeditor
 
     # formatting
     timonwong.shellcheck
