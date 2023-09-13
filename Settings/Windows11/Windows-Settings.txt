@@ -29,11 +29,11 @@ Mobilitätscenter (Win+X, M)
 
 Windows Settings (Win+I)
     Apps > Standard-Apps (nach deren Installation)
-        E-Mail: Thunderbird/Outlook
+        E-Mail: Outlook
         Musikplayer: Winamp
-        Bildanzeige: FastStone Image Viewer/qView
+        Bildanzeige: ImageGlass
         Videoplayer: VLC
-        Webbrowser: Firefox/Chrome
+        Webbrowser: Chrome
     Geräte
         Maus > Maus- und Cursorgröße anpassen
         Touchpad
@@ -50,8 +50,6 @@ Windows Settings (Win+I)
     Netzerk und Internet > Proxy
         o Einstellungen automatisch erkennen (aus)
     System > Benachrichtigungen und Aktionen > Schnelle Aktionen bearbeiten
-    Telefon
-        ggf. Handy verbinden
     Personalisierung
         Hintergrund: Diashow
         Farben
@@ -59,7 +57,7 @@ Windows Settings (Win+I)
             Transparenz: Ein
             Akzent: Auto
             Akzent zeigen auf: Start, Taskleiste, Info-Center
-    Suche > Windows durchsuchen
+    Datenschutz und Sicherheit > Windows durchsuchen
         Erweitert
     Konten > Anmeldeoptionen
         Apps neu starten: Ein
