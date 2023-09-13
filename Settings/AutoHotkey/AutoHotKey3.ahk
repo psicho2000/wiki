@@ -16,6 +16,6 @@ F13::Run("`"C:\Program Files\KeePassXC\KeePassXC.exe`"")
 F14::Run("`"C:\Users\Markus\AppData\Local\Programs\franz\Franz.exe`"")
 
 ; Map Ctrl+Alt+[ to KeePassXC
-^![::Run("`"C:\Program Files\KeePassXC\KeePassXC.exe`"")
+;^![::Run("`"C:\Program Files\KeePassXC\KeePassXC.exe`"")
 ; Map Ctrl+Alt+] to Slack
-^!]::Run("`"C:\Users\Markus\AppData\Local\Programs\franz\Franz.exe`"")
+;^!]::Run("`"C:\Users\Markus\AppData\Local\Programs\franz\Franz.exe`"")

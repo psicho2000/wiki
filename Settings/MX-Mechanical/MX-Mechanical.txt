@@ -1,0 +1,4 @@
+# Umkonfigurierte Tasten
+Desktop  -> Anwendung öffnen (KeePassXC)
+Suche    -> Anwendung öffnen (Franz)
+Win Lock -> Keine
