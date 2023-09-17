@@ -1,4 +1,5 @@
 {
+    "diffEditor.ignoreTrimWhitespace": false,
     "editor.bracketPairColorization.enabled": true,
     "editor.largeFileOptimizations": false,
     "editor.fontFamily": "CaskaydiaCove NFM",
@@ -6,21 +7,16 @@
     "editor.formatOnSave": true,
     "editor.mouseWheelZoom": true,
     "editor.cursorBlinking": "expand",
-    "files.trimTrailingWhitespace": true,
     "[markdown]": {
         "files.trimTrailingWhitespace": false
     },
-    "window.title": "${dirty}${activeEditorShort}${separator}${rootPath}",
-    "window.zoomLevel": 2,
-    "workbench.colorTheme": "Solarized Dark",
-    "workbench.editor.enablePreview": false,
-    "workbench.startupEditor": "newUntitledFile",
-    "diffEditor.ignoreTrimWhitespace": false,
+    "files.hotExit": "off",
+    "files.insertFinalNewline": true,
+    // https://thoughtbot.com/blog/no-newline-at-end-of-file
+    "files.trimTrailingWhitespace": true,
     "git.enableSmartCommit": true,
     "git.autofetch": true,
     "git.confirmSync": false,
-    // https://thoughtbot.com/blog/no-newline-at-end-of-file
-    "files.insertFinalNewline": true,
     "isort.args": [
         "--profile",
         "black"
@@ -47,15 +43,26 @@
     ],
     "python.testing.pytestEnabled": true,
     "python.testing.unittestEnabled": false,
-    "terminal.explorerKind": "external",
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.shell.linux": "/bin/zsh",
-    "terminal.integrated.shellArgs.linux": [
-        "--login"
-    ],
     "shellcheck.customArgs": [
         "-x"
     ],
+    "terminal.explorerKind": "external",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.fontFamily": "CaskaydiaCove NF",
+    "terminal.integrated.hideOnStartup": "always",
+    "terminal.integrated.profiles.linux": {
+        "zsh": {
+            "path": "zsh",
+            "args": ["--login"]
+        }
+    },
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootPath}",
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "newUntitledFile",
     "zenMode.hideLineNumbers": false
 }
