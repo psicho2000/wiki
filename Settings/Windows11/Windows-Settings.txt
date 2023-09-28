@@ -49,7 +49,10 @@ Windows Settings (Win+I)
                 Tippeingaben: Wiedergabe/Pause
     Netzerk und Internet > Proxy
         o Einstellungen automatisch erkennen (aus)
-    System > Benachrichtigungen und Aktionen > Schnelle Aktionen bearbeiten
+    System
+        Multitasking > Fenster andocken (SnapLayout / Snap Assistent)
+            o Andocklayouts anzeigen, zu denen die App gehört, wenn ich mit dem Mauszeiger über die Schaltflächen der Taskleiste fahre
+        Benachrichtigungen und Aktionen > Schnelle Aktionen bearbeiten
     Personalisierung
         Hintergrund: Diashow
         Farben
