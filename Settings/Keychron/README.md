@@ -32,6 +32,17 @@
   * Crop:  kann anders belegt werden (Screenshot ist bereits `Win+Shift+S`)
   * X:     frei
 
+## Android Konfiguration
+
+1. Keychron mit Android verbinden
+2. Android Einstellungen > System > Tastatur > Pyhsische Tastatur > Keychron K5 Pro Keyboard
+    Deutsch (Deutschland) (QWERTZ)
+    Englisch (US), international
+
+Fast wie auf dem PC
+  * Englisch international (allerdings mit Dead Keys und ohne meine personalisierten Remappings)
+  * Keychron bringt das Remapping für Caps -> Esc und vor allen Dingen <|> (NUBS) -> AltGr mit
+
 ## Wo sind die weiteren Shortcuts dokumentiert?
 https://usevia.app/ > Load profile > Layer 1/3
 
