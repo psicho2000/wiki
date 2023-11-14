@@ -1,5 +1,6 @@
 ## Config
 * Editor
+    * o Show indentation guides (off)
     * o Indent using tabs (off)
     * x Vim key bindings (confirm with `:q!`, not `ZQ`)
 * Appearance
@@ -7,12 +8,23 @@
     * Monospace font: CaskaydiaCove NF
     * Ribbon menu > Manage
         * o Open today's daily note (removed)
+    * CSS Snippets
+        * x styles (activated)
+* Hotkeys
+   * Files: Show file explorer  -> Ctrl + Shift + E 
+   * Bookmarks: Show bookmarks  -> Ctrl + Shift + B
+   * Slides: Start presentation -> F5
+   * Toggle left sidebar        -> Ctrl + \`
+   * Toggle right sidebar       -> Alt + \`
+   * Reset zoom                 -> Ctrl + Numpad0
+   * Zoom in                    -> Ctrl + +
+   * Zoom out                   -> Ctrl + -
 * Plugins
     * Core
         * Slides
     * Community
-        * obsidian://show-plugin?id=obsidian-plugin-toc ✅
-        * obsidian://show-plugin?id=table-editor-obsidian ✅
+        * obsidian://show-plugin?id=obsidian-plugin-toc
+        * obsidian://show-plugin?id=table-editor-obsidian
 * Themes
     * Everforest Enchanted (Everforest does not Support Glyphs)
     * Gruvbox
