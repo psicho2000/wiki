@@ -1,0 +1,86 @@
+/* source+live preview mode font */
+.markdown-source-view.mod-cm6 {
+    font-family: 'Consolas';
+}
+
+/* reading mode font */
+.markdown-preview-view {
+    font-family: 'Calibri';
+}
+
+/* bullet style level 1 */
+.markdown-reading-view ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-1 .list-bullet:after {
+    /* Bullet */
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+}
+
+/* bullet style level 2 */
+.markdown-reading-view ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-2 .list-bullet:after {
+    /* Hollow Bullet */
+    height: 4px;
+    width: 4px;
+    background-color: Transparent;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 1px;
+}
+
+/* bullet style level 3 */
+.markdown-reading-view ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-3 .list-bullet:after {
+    /* Solid Square */
+    height: 5px;
+    width: 5px;
+    background-color: var(--text-faint);
+    border-style: none;
+    border-radius: 0%;
+}
+
+/* bullet style level 4 */
+.markdown-reading-view ul > li > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-4 .list-bullet:after {
+    /* Hollow Square */
+    height: 4px;
+    width: 4px;
+    background-color: Transparent;
+    border-style: solid;
+    border-radius: 0%;
+    border-width: 1px;
+}
+
+/* bullet style level 5 */
+.markdown-reading-view ul > li > ul > li > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-5 .list-bullet:after {
+    /* Dash */
+    height: 1px;
+    width: 7px;
+    background-color: var(--text-faint);
+    border-style: none;
+    border-radius: 0%;
+}
+
+/* bullet style level 6 */
+.markdown-reading-view ul > li > ul > li > ul > li > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-6 .list-bullet:after {
+    /* Small Bullet */
+    height: 2px;
+    width: 2px;
+    background-color: var(--text-faint);
+    border-style: none;
+    border-radius: 50%;
+}
+
+/* bullet style level 7 */
+.markdown-reading-view ul > li > ul > li > ul > li > ul > li > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-7 .list-bullet:after {
+    /* Bullet */
+    height: 5px;
+    width: 5px;
+    background-color: var(--text-faint);
+    border-style: none;
+    border-radius: 50%;
+}

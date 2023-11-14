@@ -1,0 +1,35 @@
+{
+  "obsidian-plugin-toc:create-toc": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "window:reset-zoom": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad0"
+    }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "+"
+    }
+  ],
+  "window:zoom-out": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ]
+}

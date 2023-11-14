@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "CaskaydiaCove NF",
+  "textFontFamily": "Consolas",
+  "nativeMenus": false,
+  "cssTheme": "Everforest Enchanted",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "view-based-font"
+  ]
+}
