@@ -28,6 +28,7 @@
         * obsidian://show-plugin?id=obsidian-plugin-toc
         * obsidian://show-plugin?id=table-editor-obsidian
         * obsidian://show-plugin?id=obsidian-kanban
+        * obsidian://show-plugin?id=remotely-save (Android only)
 * Themes
     * Everforest Enchanted (Everforest does not Support Glyphs)
     * Gruvbox
@@ -35,6 +36,11 @@
     * Solarized
 * Snippets
     * see `.\.obsidian\snippets`
+* Remotely Save (Sync Plugin)
+    1. Setup Sync with OneDrive on Android
+    2. Setup OneDrive on Windows
+        * Settings > Account > Choose directories: include "Application" (esp. remotely-save)
+    3. Copy Obsidian backup to OneDrive location
 
 ---
 
@@ -44,8 +50,6 @@
 * Wo ist Papierkorb? ✅ (System Trash)
 * Checklists ✅
 * Vim key bindings ✅
-* Plugins Review
-    * obsidian://show-plugin?id=remotely-save
 * Hotkeys
 * Templates
 * The Rabbit Hole: https://www.patreon.com/posts/67310539
