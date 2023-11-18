@@ -29,6 +29,7 @@
         * obsidian://show-plugin?id=table-editor-obsidian
         * obsidian://show-plugin?id=obsidian-kanban
         * obsidian://show-plugin?id=remotely-save (Android only)
+        * obsidian://show-plugin?id=obsidian-livesync
 * Themes
     * Everforest Enchanted (Everforest does not Support Glyphs)
     * Gruvbox
@@ -37,10 +38,26 @@
 * Snippets
     * see `.\.obsidian\snippets`
 * Remotely Save (Sync Plugin)
+    _Note:_ Files deleted on PC will be recreated by Remotely Save. This is a known issue.
+    * https://github.com/remotely-save/remotely-save/issues/302
+    * https://github.com/remotely-save/remotely-save/issues/118
+    Installation
     1. Setup Sync with OneDrive on Android
     2. Setup OneDrive on Windows
         * Settings > Account > Choose directories: include "Application" (esp. remotely-save)
     3. Copy Obsidian backup to OneDrive location
+* Self-hosted LiveSync
+    * Install https://gitlab.com/psicho/couchdb
+        * Open UI (see README) and create database `obsidian`
+    * Install Plugin on PC
+        * Remote Database configuration
+            * enter URI, Username, Password, Database name
+            * Check database configuration + fix (only on first device)
+            * Test Database Connection
+            * Enable End to End Encryption
+        *  Sync Settings
+            *  Presets: LiveSync > Apply
+    * Install Plugin on Mobile
 
 ---
 
