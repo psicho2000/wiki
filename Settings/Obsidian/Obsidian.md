@@ -63,9 +63,10 @@
 
 ## Migrate
 * Vaults
-    * Private (Evernote, Trello) `->` private Sync
-    * Shared (Dev-Wiki.one) `->` private Sync
-    * Work (OneNote, Trello) `->` Sharepoint
+    * Private (Evernote) `->` private Sync (70%)
+    * Private (Trello) `->` private Sync ⚠️
+    * Shared (Dev-Wiki.one) `->` GitHub wiki ⚠️
+    * Work (OneNote, Trello) `->` Sharepoint ✅
 * Private Sync Store
     * Google Drive (Free plan: 15 GB minus Google Photos/Gmail)
     * OneDrive (Free plan: 5 GB)
