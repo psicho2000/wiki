@@ -1,3 +1,8 @@
+/* left align images */
+img {
+    margin-left: initial;
+}
+
 /* source+live preview mode font */
 .markdown-source-view.mod-cm6 {
     font-family: 'Consolas';
