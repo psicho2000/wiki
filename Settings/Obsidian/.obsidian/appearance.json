@@ -8,6 +8,7 @@
   "cssTheme": "Everforest Enchanted",
   "baseFontSize": 18,
   "enabledCssSnippets": [
-    "view-based-font"
+    "view-based-font",
+    "styles"
   ]
 }

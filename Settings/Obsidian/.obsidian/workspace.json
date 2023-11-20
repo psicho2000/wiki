@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
+                "file": "Demo.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "09b788b4cdee86ad",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Demo.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,8 +159,10 @@
   },
   "active": "16ba78396fa9c56c",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Obsidian.md",
+    "Demo.md",
+    "styles.css",
+    "Untitled.canvas",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
