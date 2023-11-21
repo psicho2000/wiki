@@ -68,7 +68,6 @@ https://forum.obsidian.md/t/support-for-vaults-in-windows-subsystem-for-linux-ws
 * Checklists ✅
 * Vim key bindings ✅
 * Hotkeys
-    * Add Tray shortcuts Ctrl+Shift+Tab and Ctrl+Shift+Q
     * Add existing shortcuts like Ctrl+B, Ctrl+I
     * Evaluate whether to add more shortcuts, like Toggle bullet/numbered list, Toggle code, Toggle heading, Toggle highlight, Toggle strikethrough
 * Templates
@@ -84,13 +83,13 @@ https://forum.obsidian.md/t/support-for-vaults-in-windows-subsystem-for-linux-ws
     * Private (Trello) `->` private Sync ⚠️
     * Shared (Dev-Wiki.one) `->` GitHub wiki ⚠️
     * Work (OneNote, Trello) `->` Sharepoint ✅
-* Private Sync Store
-    * Google Drive (Free plan: 15 GB minus Google Photos/Gmail)
-    * OneDrive (Free plan: 5 GB)
-    * Sync Thing (free)
-    * https://www.pixelx.de/ NextCloud (5 GB: 1€/month)
-    * https://www.tcrserver.de/nextcloud NextCloud (Free plan: 3 GB)
-* Sync App
-    * FolderSync: https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite&hl=en_US
-    * Autosync for Google Drive: https://play.google.com/store/apps/details?id=com.ttxapps.drivesync (Ads)
-    * Google Drive (no folder sync on Android, only Desktop)
+
+---
+
+## Shortcuts
+| Shortcut           | Effect                          |
+| ------------------ | ------------------------------- |
+| Ctrl + Shift + I   | Toggle Developer Console        |
+| Ctrl + Shift + Tab | Toggle Obsidian Window (global) |
+| Ctrl + Shift + Q   | Create new note (global)        |
+
