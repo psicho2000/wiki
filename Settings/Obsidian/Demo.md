@@ -19,7 +19,7 @@ This is normal text
 ***bold and italics can be combined***
 ~~**Strikethrough and bold**~~
 ~~*Strikethrough and italics*~~
-We can not combine <u>underlined</u> with **other types**
+We can not combine <u>html defined types</u> with **markdown defined types**. Instead, use html to combine e.g. <u><b>underline + bold</b></u>.
 ## Lists
 We have structured ordered lists with up to 7 levels offering different bullet points:
 * Level 1

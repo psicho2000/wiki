@@ -25,9 +25,9 @@
     * Core
         * Slides
     * Community
-        * obsidian://show-plugin?id=obsidian-plugin-toc
         * obsidian://show-plugin?id=table-editor-obsidian
         * obsidian://show-plugin?id=obsidian-kanban
+        * obsidian://show-plugin?id=tray
         * obsidian://show-plugin?id=obsidian-livesync
 * Themes
     * Everforest Enchanted (Everforest does not Support Glyphs)
@@ -36,18 +36,28 @@
     * Solarized
 * Snippets
     * see `.\.obsidian\snippets`
-* Self-hosted LiveSync
-    * Install https://gitlab.com/psicho/couchdb
-        * Open UI (see README) and create database `obsidian`
-    * Install Plugin on PC
-        * Remote Database configuration
-            * enter URI, Username, Password, Database name
-            * Check database configuration + fix (only on first device)
-            * Test Database Connection
-            * Enable End to End Encryption
-        *  Sync Settings
-            *  Presets: LiveSync > Apply
-    * Install Plugin on Mobile
+* Community plugins
+    * Tray
+        * Launch on startup
+        * Hide on launch
+        * Run in background
+    * Self-hosted LiveSync
+        * Install https://gitlab.com/psicho/couchdb
+            * Open UI (see README) and create database `obsidian`
+        * Install Plugin on PC
+            * Remote Database configuration
+                * enter URI, Username, Password, Database name
+                * Check database configuration + fix (only on first device)
+                * Test Database Connection
+                * Enable End to End Encryption
+            *  Sync Settings
+                *  Presets: LiveSync > Apply
+        * Install Plugin on Mobile
+
+---
+
+## Feature requests
+https://forum.obsidian.md/t/support-for-vaults-in-windows-subsystem-for-linux-wsl/8580/1
 
 ---
 
@@ -58,8 +68,15 @@
 * Checklists ✅
 * Vim key bindings ✅
 * Hotkeys
+    * Add Tray shortcuts Ctrl+Shift+Tab and Ctrl+Shift+Q
+    * Add existing shortcuts like Ctrl+B, Ctrl+I
+    * Evaluate whether to add more shortcuts, like Toggle bullet/numbered list, Toggle code, Toggle heading, Toggle highlight, Toggle strikethrough
 * Templates
 * The Rabbit Hole: https://www.patreon.com/posts/67310539
+* Plugins
+    * Obsidian Git
+
+---
 
 ## Migrate
 * Vaults
