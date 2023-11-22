@@ -21,6 +21,14 @@
    * Zoom in                    -> Ctrl + +
    * Zoom out                   -> Ctrl + -
    * Show in system explorer    -> Alt + Shift + R
+   * Rename this heading...     -> Ctrl + Alt + R
+   * Remove heading             -> Ctrl + Alt + \`
+   * Set as heading 1           -> Ctrl + Alt + 1
+   * Set as heading 2           -> Ctrl + Alt + 2
+   * Set as heading 3           -> Ctrl + Alt + 3
+   * Set as heading 4           -> Ctrl + Alt + 4
+   * Set as heading 5           -> Ctrl + Alt + 5
+   * Set as heading 6           -> Ctrl + Alt + 6
 * Plugins
     * Core
         * Slides
