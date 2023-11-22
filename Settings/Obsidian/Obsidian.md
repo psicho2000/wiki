@@ -75,9 +75,6 @@ https://forum.obsidian.md/t/support-for-vaults-in-windows-subsystem-for-linux-ws
 * Wo ist Papierkorb? ✅ (System Trash)
 * Checklists ✅
 * Vim key bindings ✅
-* Hotkeys
-    * Add existing shortcuts like Ctrl+B, Ctrl+I
-    * Evaluate whether to add more shortcuts, like Toggle bullet/numbered list, Toggle code, Toggle heading, Toggle highlight, Toggle strikethrough
 * Templates
 * The Rabbit Hole: https://www.patreon.com/posts/67310539
 * Plugins
@@ -91,13 +88,3 @@ https://forum.obsidian.md/t/support-for-vaults-in-windows-subsystem-for-linux-ws
     * Private (Trello) `->` private Sync ⚠️
     * Shared (Dev-Wiki.one) `->` GitHub wiki ⚠️
     * Work (OneNote, Trello) `->` Sharepoint ✅
-
----
-
-## Shortcuts
-| Shortcut           | Effect                          |
-| ------------------ | ------------------------------- |
-| Ctrl + Shift + I   | Toggle Developer Console        |
-| Ctrl + Shift + Tab | Toggle Obsidian Window (global) |
-| Ctrl + Shift + Q   | Create new note (global)        |
-
