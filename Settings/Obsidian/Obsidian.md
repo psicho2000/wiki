@@ -10,25 +10,7 @@
         * o Open today's daily note (removed)
     * CSS Snippets
         * x styles (activated)
-* Hotkeys
-   * Files: Show file explorer  -> Ctrl + Shift + E 
-   * Bookmarks: Show bookmarks  -> Ctrl + Shift + B
-   * Outline: Show outline      -> Ctrl + Shift + O
-   * Slides: Start presentation -> F5
-   * Toggle left sidebar        -> Ctrl + \`
-   * Toggle right sidebar       -> Alt + \`
-   * Reset zoom                 -> Ctrl + Numpad0
-   * Zoom in                    -> Ctrl + +
-   * Zoom out                   -> Ctrl + -
-   * Show in system explorer    -> Alt + Shift + R
-   * Rename this heading...     -> Ctrl + Alt + R
-   * Remove heading             -> Ctrl + Alt + \`
-   * Set as heading 1           -> Ctrl + Alt + 1
-   * Set as heading 2           -> Ctrl + Alt + 2
-   * Set as heading 3           -> Ctrl + Alt + 3
-   * Set as heading 4           -> Ctrl + Alt + 4
-   * Set as heading 5           -> Ctrl + Alt + 5
-   * Set as heading 6           -> Ctrl + Alt + 6
+* Hotkeys: see ../Shortcuts.docx > section Obsidian > Shortcuts with gray background
 * Plugins
     * Core
         * Slides
@@ -66,6 +48,7 @@
 
 ## Feature requests
 https://forum.obsidian.md/t/support-for-vaults-in-windows-subsystem-for-linux-wsl/8580/1
+https://github.com/mgmeyers/obsidian-kanban/issues/94
 
 ---
 
