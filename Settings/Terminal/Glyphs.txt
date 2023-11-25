@@ -3,17 +3,20 @@
 Use these Glyphs and Ligatures with a compatible font. Best experience in Windows Terminal.
 * Cascadia Code (https://github.com/microsoft/cascadia-code/)
     * Support for programming ligatures, glyphs, unicode icons
-* CaskaydiaCove Nerd Font (https://github.com/ryanoasis/nerd-fonts/releases/latest/download/CascadiaCode.zip)
+* CaskaydiaCove Nerd Font (https://github.com/ryanoasis/nerd-fonts/releases/latest/download/CascadiaCode.tar.xz)
     * Patched variant of Cascadia Code
     * Broad support for programming ligatures, glyphs, unicode icons
     * Variants:
-      * CaskaydiaCove Nerd Font (files `Caskaydia Cove Nerd Font Complete*.otf`)
-      * CaskaydiaCove NF (files `Caskaydia Cove Nerd Font Complete Windows Compatible*.otf`)
+      * CaskaydiaCove NF (files `CaskaydiaCoveNerdFont-*.ttf`)
         -> best in Microsoft Windows Terminal (enable via "Show all Fonts")
-      * CaskaydiaCove Nerd Font Mono (files `Caskaydia Cove Nerd Font Complete Mono*.otf`)
-      * CaskaydiaCove NFM (files `Caskaydia Cove Nerd Font Complete Mono Windows Compatible*.otf`)
+      * CaskaydiaCove NFM (files `CaskaydiaCoveNerdFontMono-*.ttf`)
         -> best in Visual Studio Code and IntelliJ
+      * CaskaydiaCove NFP (files `CaskaydiaCoveNerdFontPropo-*.ttf`)
+        -> Proportional, for GUI use cases
     * To work within IntelliJ, we need to install the fonts for all users
+* Monaspace (https://monaspace.githubnext.com/)
+* Monaspice Nerd Font (https://github.com/ryanoasis/nerd-fonts/releases/latest/download/Monaspace.tar.xz)
+    * Patched variant of Monaspace
 * Definition of Glyph and Ligature: https://luthert.web.illinois.edu/blog/posts/163.html
 * Example: https://youtu.be/_mZBa3sqTrI?t=3050
 
