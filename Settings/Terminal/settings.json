@@ -78,7 +78,20 @@
             "bellStyle": "none",
             "closeOnExit": "always",
             "font": {
-                "face": "CaskaydiaCove NF"
+                "face": "MonaspiceNe Nerd Font",
+                // https://monaspace.githubnext.com/, see ligatures
+                "features": {
+                    "calt": 1,
+                    "dlig": 1,
+                    "ss01": 1,
+                    "ss02": 1,
+                    "ss03": 1,
+                    "ss04": 1,
+                    "ss05": 1,
+                    "ss06": 1,
+                    "ss07": 1,
+                    "ss08": 1
+                }
             },
             "historySize": 16000,
             "startingDirectory": "%userprofile%"

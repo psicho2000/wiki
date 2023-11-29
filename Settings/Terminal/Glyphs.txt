@@ -1,30 +1,34 @@
 # General Info
 
 Use these Glyphs and Ligatures with a compatible font. Best experience in Windows Terminal.
+
+## General info
+* Definition of Glyph and Ligature: https://luthert.web.illinois.edu/blog/posts/163.html
+* Example: https://youtu.be/_mZBa3sqTrI?t=3050
+* Registered Features: https://learn.microsoft.com/en-us/typography/opentype/spec/featurelist
+* To work within IntelliJ, we need to install the fonts for all users
+
+## Fonts
 * Cascadia Code (https://github.com/microsoft/cascadia-code/)
     * Support for programming ligatures, glyphs, unicode icons
 * CaskaydiaCove Nerd Font (https://github.com/ryanoasis/nerd-fonts/releases/latest/download/CascadiaCode.tar.xz)
-    * Patched variant of Cascadia Code
-    * Broad support for programming ligatures, glyphs, unicode icons
-    * Variants:
-      * CaskaydiaCove NF (files `CaskaydiaCoveNerdFont-*.ttf`)
-        -> best in Microsoft Windows Terminal (enable via "Show all Fonts")
-      * CaskaydiaCove NFM (files `CaskaydiaCoveNerdFontMono-*.ttf`)
-        -> best in Visual Studio Code and IntelliJ
-      * CaskaydiaCove NFP (files `CaskaydiaCoveNerdFontPropo-*.ttf`)
-        -> Proportional, for GUI use cases
-    * To work within IntelliJ, we need to install the fonts for all users
+    * Patched variants of Cascadia Code
+    * Enhanced support for ligatures, glyphs, unicode icons
 * Monaspace (https://monaspace.githubnext.com/)
+    * 5 mixable font variants
+    * texture healing
+    * ligatures
 * Monaspice Nerd Font (https://github.com/ryanoasis/nerd-fonts/releases/latest/download/Monaspace.tar.xz)
-    * Patched variant of Monaspace
-* Definition of Glyph and Ligature: https://luthert.web.illinois.edu/blog/posts/163.html
-* Example: https://youtu.be/_mZBa3sqTrI?t=3050
+    * Patched variants of Monaspace
+    * Enhanced support for ligatures, glyphs, unicode icons
+    * Favorite variant: MonaspiceNe Nerd Font
 
-CaskaydiaCove Variants overview:
-                    │ Variable width │ Mono spaced    │
-────────────────────┼────────────────┼────────────────┤
-Default             │ Nerd Font      │ Nerd Font Mono │
-Windows Compatible  │ NF             │ NFM            │
+## Nerd Font Variants overview
+│ Variant         │ Usage                           │
+├─────────────────┼─────────────────────────────────┤
+│ Nerd Font       │ Variable width                  │
+│ Nerd Font Mono  │ Mono spaced                     │
+│ Nerd Font Propo │ Proportional, for GUI use cases │
 
 ## Characters
 iIlL1  oO08 CGQ  qg9  G6  5S  2Z
