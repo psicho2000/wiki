@@ -120,6 +120,13 @@ So-called "Callouts" create special boxes:
 > * this one
 > * or this one
 
+> [!quote]
+> Someone said that
+
+> [!cite]
+> This is a citation
+> \- famous person
+
 ## Tags
 Last, we'll add tags.
 #tag #example #demo

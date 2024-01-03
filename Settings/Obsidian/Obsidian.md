@@ -15,7 +15,6 @@
     * Core
         * Slides
     * Community
-        * obsidian://show-plugin?id=table-editor-obsidian
         * obsidian://show-plugin?id=obsidian-kanban
         * obsidian://show-plugin?id=tray
         * obsidian://show-plugin?id=obsidian-livesync
