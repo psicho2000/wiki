@@ -69,6 +69,8 @@ https://keychron.de/products/keychron-k5-pro-qmk-via-wireless-custom-mechanical-
 ## Keychron Doku
 * https://www.keychron.com/blogs/archived/how-to-use-via-to-program-your-keyboard
 * https://www.keychron.com/blogs/news/why-qmk-via-is-one-of-the-most-essential-features-for-a-custom-keyboard
+* https://www.keychron.com/pages/keychron-k5-pro-user-guide
+* https://www.keychron.com/blogs/archived/k5-pro-factory-reset-and-firmware-flash
 
 ## Fragen
 * Was bewirkt die NKRO-Taste?
