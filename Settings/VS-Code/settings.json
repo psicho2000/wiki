@@ -62,6 +62,7 @@
     },
     "terminal.integrated.shell.linux": "/bin/zsh",
     "window.autoDetectColorScheme": true,
+    "window.restoreWindows": "none",
     "window.title": "${dirty}${activeEditorShort}${separator}${rootPath}",
     "window.zoomLevel": 2,
     "workbench.colorTheme": "Solarized Dark",
