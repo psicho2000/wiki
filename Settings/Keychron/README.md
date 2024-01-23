@@ -27,10 +27,13 @@
 ## Aktuelle Konfiguration
 * Keys.xlsx
   * Sheet "Default": `keychron_k5_pro.layout.json`
+    * Erhält man per Factory Reset: `Fn+J+Z` (4 Sek.) bis alle Backlights aufblinken.
   * Sheet "Custom": `keychron_k5_pro_custom.layout.json`
 * Noch verfügbare Keys in Layer 2
   * Crop:  kann anders belegt werden (Screenshot ist bereits `Win+Shift+S`)
   * X:     frei
+
+_ACHTUNG: Die Layouts (VIA) sind eng verknüpft mit der Firmware (QMK). Bei einem Firmware Change müssen ggf. die Layouts erneuert werden!_
 
 ## Android Konfiguration
 
@@ -54,6 +57,8 @@ https://keychron.de/products/keychron-k5-pro-qmk-via-wireless-custom-mechanical-
 ## QMK/VIA
 * QMK: Firmware
 * VIA: Layout definition
+
+Beachte "ACHTUNG" in [Aktuelle Konfiguration](#aktuelle-konfiguration).
 
 ### Links
 * https://www.caniusevia.com/ (u.a. Read the docs, Start now)
