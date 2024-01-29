@@ -11,6 +11,7 @@
     * CSS Snippets
         * x styles (activated)
 * Hotkeys: see ../Shortcuts.docx > section Obsidian > Shortcuts with gray background
+    * also for Mobile (to be used when Keyboard is active)
 * Plugins
     * Core
         * Slides
