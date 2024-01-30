@@ -3,8 +3,6 @@
     "editor.bracketPairColorization.enabled": true,
     "editor.largeFileOptimizations": false,
     "editor.fontFamily": "MonaspiceNe Nerd Font",
-    // https://monaspace.githubnext.com/, see ligatures
-    // for CaskaydiaCove, any value here is interpreted as true
     "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig'",
     "editor.formatOnSave": true,
     "editor.mouseWheelZoom": true,
@@ -14,7 +12,6 @@
     },
     "files.hotExit": "off",
     "files.insertFinalNewline": true,
-    // https://thoughtbot.com/blog/no-newline-at-end-of-file
     "files.trimTrailingWhitespace": true,
     "git.enableSmartCommit": true,
     "git.autofetch": true,
@@ -57,7 +54,9 @@
     "terminal.integrated.profiles.linux": {
         "zsh": {
             "path": "zsh",
-            "args": ["--login"]
+            "args": [
+                "--login"
+            ]
         }
     },
     "terminal.integrated.shell.linux": "/bin/zsh",

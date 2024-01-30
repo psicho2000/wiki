@@ -21,3 +21,12 @@ Plugins
     fr43nk.seito-openfile
     eamodio.gitlens
     medo64.render-crlf
+
+settings.json
+    Comments are not allowed in json and in particular a problem for jq (used by dotfiles theming), there adding it here.
+
+    // https://monaspace.githubnext.com/, see ligatures
+    // for CaskaydiaCove, any value here is interpreted as true
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig'",
+    // https://thoughtbot.com/blog/no-newline-at-end-of-file
+    "files.trimTrailingWhitespace": true,
