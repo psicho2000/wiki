@@ -42,6 +42,10 @@
     ],
     "python.testing.pytestEnabled": true,
     "python.testing.unittestEnabled": false,
+    "search.exclude": {
+        "tags": true,
+        "tags.temp": true
+    },
     "shellcheck.customArgs": [
         "-x"
     ],
