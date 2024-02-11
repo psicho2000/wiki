@@ -23,7 +23,7 @@ Plugins
     medo64.render-crlf
 
 settings.json
-    Comments are not allowed in json and in particular a problem for jq (used by dotfiles theming), there adding it here.
+    Comments are not allowed in json and in particular a problem for jq (used by dotfiles theming), therefore adding it here.
 
     // https://monaspace.githubnext.com/, see ligatures
     // for CaskaydiaCove, any value here is interpreted as true
