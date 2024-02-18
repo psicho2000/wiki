@@ -1,0 +1,168 @@
+{
+    "description": "Umlaute",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "q",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "u",
+                    "modifiers": "left_option"
+                },
+                {
+                    "key_code": "a"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "q",
+                "modifiers": {
+                    "mandatory": [
+                        "fn",
+                        "left_shift"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "u",
+                    "modifiers": "left_option"
+                },
+                {
+                    "key_code": "a",
+                    "modifiers": "left_shift"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "y",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "u",
+                    "modifiers": "left_option"
+                },
+                {
+                    "key_code": "u"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "y",
+                "modifiers": {
+                    "mandatory": [
+                        "fn",
+                        "left_shift"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "u",
+                    "modifiers": "left_option"
+                },
+                {
+                    "key_code": "u",
+                    "modifiers": "left_shift"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "p",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "u",
+                    "modifiers": "left_option"
+                },
+                {
+                    "key_code": "o"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "p",
+                "modifiers": {
+                    "mandatory": [
+                        "fn",
+                        "left_shift"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "u",
+                    "modifiers": "left_option"
+                },
+                {
+                    "key_code": "o",
+                    "modifiers": "left_shift"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "s",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "s",
+                    "modifiers": "left_option"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "5",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "2",
+                    "modifiers": [
+                        "left_option",
+                        "left_shift"
+                    ]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
