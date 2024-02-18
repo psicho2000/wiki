@@ -1,0 +1,90 @@
+Systemeinstellungen
+    Bedienungshilfen
+        Anzeige
+            x Kontrast erhöhen
+    Kontrollzentrum
+        Stage Manager: Nicht in Menüleiste anzeigen
+    Datenschutz & Sicherheit
+        Entwickler-Werkzeuge
+            x Terminal
+    Schreibtisch & Dock
+        Standard-Webbrowser: Google Chrome
+        Aktive Ecken...
+            Launchpad     Mitteilungszentrale
+            Schreibtisch  Bildschirmschoner ein
+    Netzwerk
+        Firewall: aktiv
+            Optionen
+                Tarnmodus aktivieren (ICMP aus)
+    Tastatur
+        Tastaturkurzbefehle
+            Launchpad & Dock
+                Launchpad einblenden: Cmd+Opt+X
+            Tastatur
+                o Ändern des Fokus mit der Tabulatortaste (vorher einmal mit Ctrl+F7 aktivieren)
+                o Tastatursteuerung ein- oder ausschalaten
+                alle anderen Optionen aktivieren
+                x Fokus in nächstes Fenster: ⌥⇥
+            Funktionstasten
+                x Die Tasten F1, F2 usw. als Standard-Funktionstasten verwenden
+            Sondertasten (jeweils jede Tastatur, inkl. Karabiner)
+                Feststelltaste: esc-Taste
+        Eingabequellen Bearbeiten...
+            + Englisch > US International - Custom (dazu vorher "US International - Custom.bundle" [mit Ukelele erzeugt] installieren)
+    Trackpad
+        Weitere Gesten
+            Mit Streichen Seiten blättern: Mit zwei Fingern horizontal scrollen
+
+Finder
+    Allgemein
+        Neue Finder-Fenster anzeigen: Schreibtisch
+    Seitenleiste
+        Favoriten
+            x Musik: ein
+            x Personal (markus)
+        Orte
+            x MacBook Pro von Markus
+            x Festplatten
+        Tags
+            o Benutzte Tags
+    Erweitert
+        x Alle Dateinamensuffixe einblenden
+        Ordner oben anzeigen
+            x Beim Sortieren nach Namen in Fenstern
+            x Auf dem Schreibtisch
+
+Favoriten
+    Finder: Favorisierte Ordner in Seitenleiste legen
+    Dock
+        1. Verzeichnis "Favorites" in's Home-Dir legen
+        2. Favorisierte Dateien per Alias in das Verzeichnis legen
+        3. Favorites in's Dock packen
+
+Logi Options+
+    MX Mechanical
+        Desktop-Taste (über Num/): Launchpad
+
+Karabiner
+    Simple Modifications
+        For all devices
+            Controls and symboles > grave_accent_and_tilde (`) -> Others > key_code::fn
+            Modifier keys > right_shift                        -> Modifier keys > left_shift
+        Complex Modifications
+            Add your own rule: Karabiner.json
+
+Rectangle
+    x Beim Anmelden starten
+    x Fußabdruck animieren
+
+Outlook
+    Extras > Konten > + > Konto hinzufügen
+        1. EMail-Adresse eingeben
+        2. "Nicht Gmail?" anklicken
+        3. IMAP/POP
+            1. Typ: POP
+            2. Benutzername und EMail-Adresse sind vorausgefüllt
+            3. Kennwort: Gmail App Passwort für Outlook (s. KeePass / Google)
+            4. Eingangsserver: pop.gmail.com:995
+            5. Ausgangsserver: smtp.gmail.com:587
+    E-Mail > Leselayout
+        E-Mail als gelesen markieren: Nur beim Öffnen in einem gesonderten Fenster
