@@ -96,12 +96,12 @@ Table rows are colorized in alternating order and the header row can be clearly 
 | Repeating myself | It's a nice day   | content      |
 | And so on        | we go             |              |
 ## Callouts
-So-called "Callouts" create special boxes:
+So-called "Callouts" create special boxes. They can be collapsable - either collapsed (title suffic `-`) or expanded (title suffix `+`) by default.
 
-> [!info]
+> [!info]+
 > Provide some info
 
-> [!warning]
+> [!warning]-
 > Warn about things
 
 > [!note]
@@ -116,14 +116,14 @@ So-called "Callouts" create special boxes:
 > [!error]
 > Callouts can have aliases. For example, `error` is an alias to `danger`.
 
-> [!examples]
+> [!examples]+
 > * this one
 > * or this one
 
-> [!quote]
+> [!quote]+
 > Someone said that
 
-> [!cite]
+> [!cite]+
 > This is a citation
 > \- famous person
 
