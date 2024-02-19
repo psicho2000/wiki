@@ -2,6 +2,8 @@ Systemeinstellungen
     Bedienungshilfen
         Anzeige
             x Kontrast erhöhen
+        Audio
+            o Den Bildschirm blinken lassen, wenn ein Warnton ertönt (sonst blinkt der Bildschirm jedes Mal, wenn Outlook synct)
     Kontrollzentrum
         Stage Manager: Nicht in Menüleiste anzeigen
     Datenschutz & Sicherheit
