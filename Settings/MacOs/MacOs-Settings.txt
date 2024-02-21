@@ -4,6 +4,9 @@ Systemeinstellungen
             x Kontrast erhöhen
         Audio
             o Den Bildschirm blinken lassen, wenn ein Warnton ertönt (sonst blinkt der Bildschirm jedes Mal, wenn Outlook synct)
+        Zeigersteuerung > Trackpad-Optionen
+            x Trackpad zum ziehen verwenden
+            Zugstil: Mit drei Fingern bewegen
     Kontrollzentrum
         Stage Manager: Nicht in Menüleiste anzeigen
     Datenschutz & Sicherheit
@@ -34,6 +37,8 @@ Systemeinstellungen
         Eingabequellen Bearbeiten...
             + Englisch > US International - Custom (dazu vorher "US International - Custom.bundle" [mit Ukelele erzeugt] installieren)
     Trackpad
+        Zeigen und Klicken
+            Zeigerbewegung: 8
         Weitere Gesten
             Mit Streichen Seiten blättern: Mit zwei Fingern horizontal scrollen
 
