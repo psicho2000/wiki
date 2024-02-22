@@ -96,36 +96,44 @@ Table rows are colorized in alternating order and the header row can be clearly 
 | Repeating myself | It's a nice day   | content      |
 | And so on        | we go             |              |
 ## Callouts
-So-called "Callouts" create special boxes. They can be collapsable - either collapsed (title suffic `-`) or expanded (title suffix `+`) by default.
-
-> [!info]+
-> Provide some info
-
-> [!warning]-
-> Warn about things
-
+So-called "Callouts" create special boxes. They can be collapsable - either collapsed (suffix `-`) or expanded (suffix `+`) by default. The can have a custom title.
 > [!note]
-> Add some notes
 
-> [!tip]
-> I'll provide a hint.
+> [!info] Info, Todo
 
-> [!danger]
-> That's also dangerous
+> [!abstract] Abstract, Summary, Tldr
 
-> [!error]
-> Callouts can have aliases. For example, `error` is an alias to `danger`.
+> [!tip] Tip, Hint, Important
 
-> [!examples]+
+> [!success] Success, Check, Done
+
+> [!question] Question, Help, FAQ
+
+> [!warning] Warning, Caution, Attention
+
+> [!failure] Failure, Fail, Missing
+
+> [!danger] Danger, Error
+
+> [!bug]
+
+> [!example]
+
+> [!cite]
+
+> [!quote]
+
+### Examples
+> [!info]+ Collapsable table
+> 
+| Function | Key |
+| ---- | ---- |
+| Foo | `Ctrl+A` |
+| Bar | `Alt+F1` |
+
+> [!example]- Collapsed list
 > * this one
 > * or this one
-
-> [!quote]+
-> Someone said that
-
-> [!cite]+
-> This is a citation
-> \- famous person
 
 ## Tags
 Last, we'll add tags.
