@@ -63,9 +63,9 @@ Finder
 Favoriten
     Finder: Favorisierte Ordner in Seitenleiste legen
     Dock
-        1. Verzeichnis "Favorites" in's Home-Dir legen
+        1. md ~/.config/Favorites
         2. Favorisierte Dateien per Alias in das Verzeichnis legen
-        3. Favorites in's Dock packen
+        3. Favorites in's Dock packen (⌃⇧⌘T)
 
 Logi Options+
     MX Mechanical
