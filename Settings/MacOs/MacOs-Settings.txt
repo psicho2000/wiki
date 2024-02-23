@@ -6,6 +6,7 @@ Systemeinstellungen
     Bedienungshilfen
         Anzeige
             x Kontrast erhöhen
+            Größe der Menüleiste: Groß
         Audio
             o Den Bildschirm blinken lassen, wenn ein Warnton ertönt (sonst blinkt der Bildschirm jedes Mal, wenn Outlook synct)
         Zeigersteuerung > Trackpad-Optionen
