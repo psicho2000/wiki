@@ -1,3 +1,7 @@
+############
+## MacOs
+############
+
 Systemeinstellungen
     Bedienungshilfen
         Anzeige
@@ -67,6 +71,10 @@ Favoriten
         2. Favorisierte Dateien per Alias in das Verzeichnis legen
         3. Favorites in's Dock packen (⌃⇧⌘T)
 
+############
+## Apps
+############
+
 Logi Options+
     MX Mechanical
         Desktop-Taste (über Num/): Launchpad
@@ -90,6 +98,7 @@ Maccy
     Maccy-Einstellungen
         Allgemein
             x Beim Anmelden starten
+            Suche: Fuzzy
             Verhalten: x Automatisch einfügen
         Erscheinungsbild
             x In Menüleiste anzeigen: Clipboard
