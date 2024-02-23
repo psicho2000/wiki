@@ -83,6 +83,17 @@ Rectangle
     x Beim Anmelden starten
     x Fußabdruck animieren
 
+Maccy
+    Systemeinstellungen
+        Mitteilungen > Maccy: Aus
+        Datenschutz & Sicherheit > Bedienungshilfen: Maccy hinzufügen
+    Maccy-Einstellungen
+        Allgemein
+            x Beim Anmelden starten
+            Verhalten: x Automatisch einfügen
+        Erscheinungsbild
+            x In Menüleiste anzeigen: Clipboard
+
 Outlook
     Extras > Konten > + > Konto hinzufügen
         1. EMail-Adresse eingeben
