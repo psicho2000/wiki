@@ -121,6 +121,9 @@ Outlook
             5. Ausgangsserver: smtp.gmail.com:587
     E-Mail > Leselayout
         E-Mail als gelesen markieren: Nur beim Öffnen in einem gesonderten Fenster
+    Apple Mail App öffnen
+        Einstellungen > Allgemein
+            Standardprogramm für E-Mails: Microsoft Outlook
 
 iTerm2
     Appearance
