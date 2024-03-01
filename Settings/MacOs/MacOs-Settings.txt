@@ -121,3 +121,16 @@ Outlook
             5. Ausgangsserver: smtp.gmail.com:587
     E-Mail > Leselayout
         E-Mail als gelesen markieren: Nur beim Öffnen in einem gesonderten Fenster
+
+iTerm2
+    Appearance
+        Dimming
+            Dimming amount: 15
+    Profiles
+        Text
+            Font: CaskaydiaCove Nerd Font
+            x Use ligatures
+            x Anti-aliased
+        Keys > General
+            Left Option key: Esc+
+            Right Option key: Esc+
