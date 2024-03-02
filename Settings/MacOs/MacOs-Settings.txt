@@ -39,7 +39,10 @@ Systemeinstellungen
                 o Ändern des Fokus mit der Tabulatortaste (vorher einmal mit Ctrl+F7 aktivieren)
                 o Tastatursteuerung ein- oder ausschalaten
                 alle anderen Optionen aktivieren
-                x Fokus in nächstes Fenster: ⌥⇥
+                x Fokus in nächstes Fenster: 󰘵 
+            Eingabequellen
+                x Die vorherige Eingabequelle auswählen: 󰘴 󰘵 󱁐
+                o Nächste Quelle aus dem Eingabemenü auswählen
             Funktionstasten
                 x Die Tasten F1, F2 usw. als Standard-Funktionstasten verwenden
             Sondertasten (jeweils jede Tastatur, inkl. Karabiner)
@@ -126,6 +129,9 @@ Outlook
             Standardprogramm für E-Mails: Microsoft Outlook
 
 iTerm2
+    General
+        Selection
+            x Applications in terminal may access clipboard
     Appearance
         Dimming
             Dimming amount: 15
