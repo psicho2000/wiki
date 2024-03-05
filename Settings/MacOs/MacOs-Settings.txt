@@ -140,6 +140,20 @@ iTerm2
             Font: CaskaydiaCove Nerd Font
             x Use ligatures
             x Anti-aliased
-        Keys > General
-            Left Option key: Esc+
-            Right Option key: Esc+
+        Keys
+            General
+                Left Option key: Esc+
+                Right Option key: Esc+
+            Key Mappings (Preset... > Import ... > Custom-Key-Mappings.itermkeymap)
+                + 󰘴 F6: Send Escape Sequence "[17;5~"
+                + 󰘴 F11: Send Escape Sequence "[23;5~"
+                + 󰘵 F11: Send Escape Sequence "[23;3~"
+                + 󰘵 F12: Send Escape Sequence "[24;3~"
+                + ⇧ Page Up: Send Escape Sequence "[5;2~"
+                + ⇧ Page Down: Send Escape Sequence "[6;2~"
+                + 󰘴 Page Up: Send Escape Sequence "[5;5~"
+                + 󰘴 Page Down: Send Escape Sequence "[6;5~"
+    Keys
+        Key Bindings
+            - "Scroll One Page Up: ⇧ Page Up"
+            - "Scroll One Page Down: ⇧ Page Down"
