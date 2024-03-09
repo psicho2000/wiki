@@ -132,6 +132,10 @@ iTerm2
     General
         Selection
             x Applications in terminal may access clipboard
+        Preferences
+            x Load preferences from a custom folder or URL
+                ~/Projects/wiki/Settings/iTerm2
+            Save changes Automatically
     Appearance
         Dimming
             Dimming amount: 15
@@ -157,3 +161,6 @@ iTerm2
         Key Bindings
             - "Scroll One Page Up: ⇧ Page Up"
             - "Scroll One Page Down: ⇧ Page Down"
+
+    Quit iTerm2, then call
+        `plutil -convert xml1 "${WIKI_DIR}/Settings/iTerm2/com.googlecode.iterm2.plist"`
