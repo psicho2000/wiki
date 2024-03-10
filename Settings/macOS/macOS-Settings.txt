@@ -129,38 +129,54 @@ Outlook
             Standardprogramm für E-Mails: Microsoft Outlook
 
 iTerm2
-    General
-        Selection
-            x Applications in terminal may access clipboard
-        Preferences
-            x Load preferences from a custom folder or URL
-                ~/Projects/wiki/Settings/iTerm2
-            Save changes Automatically
-    Appearance
-        Dimming
-            Dimming amount: 15
-    Profiles
-        Text
-            Font: CaskaydiaCove Nerd Font
-            x Use ligatures
-            x Anti-aliased
+    Settings
+        General
+            Selection
+                x Applications in terminal may access clipboard
+            Preferences
+                x Load preferences from a custom folder or URL
+                    ~/Projects/wiki/Settings/iTerm2
+                Save changes Automatically
+        Appearance
+            Dimming
+                Dimming amount: 15
+        Profiles
+            Text
+                Font: CaskaydiaCove Nerd Font
+                x Use ligatures
+                x Anti-aliased
+            Keys
+                General
+                    Left Option key: Esc+
+                    Right Option key: Esc+
+                Key Mappings (Preset... > Import ... > Custom-Key-Mappings.itermkeymap)
+                    + 󰘴 F6: Send Escape Sequence "[17;5~"
+                    + 󰘴 F11: Send Escape Sequence "[23;5~"
+                    + 󰘵 F11: Send Escape Sequence "[23;3~"
+                    + 󰘵 F12: Send Escape Sequence "[24;3~"
+                    + ⇧ Page Up: Send Escape Sequence "[5;2~"
+                    + ⇧ Page Down: Send Escape Sequence "[6;2~"
+                    + 󰘴 Page Up: Send Escape Sequence "[5;5~"
+                    + 󰘴 Page Down: Send Escape Sequence "[6;5~"
         Keys
-            General
-                Left Option key: Esc+
-                Right Option key: Esc+
-            Key Mappings (Preset... > Import ... > Custom-Key-Mappings.itermkeymap)
-                + 󰘴 F6: Send Escape Sequence "[17;5~"
-                + 󰘴 F11: Send Escape Sequence "[23;5~"
-                + 󰘵 F11: Send Escape Sequence "[23;3~"
-                + 󰘵 F12: Send Escape Sequence "[24;3~"
-                + ⇧ Page Up: Send Escape Sequence "[5;2~"
-                + ⇧ Page Down: Send Escape Sequence "[6;2~"
-                + 󰘴 Page Up: Send Escape Sequence "[5;5~"
-                + 󰘴 Page Down: Send Escape Sequence "[6;5~"
-    Keys
-        Key Bindings
-            - "Scroll One Page Up: ⇧ Page Up"
-            - "Scroll One Page Down: ⇧ Page Down"
+            Key Bindings
+                - "Scroll One Page Up: ⇧ Page Up"
+                - "Scroll One Page Down: ⇧ Page Down"
+    Menu > iTerm2 > Install Shell Integration
+        adds it2setcolor, used by dotfiles theming
 
     Quit iTerm2, then call
         `plutil -convert xml1 "${WIKI_DIR}/Settings/iTerm2/com.googlecode.iterm2.plist"`
+
+Ukelele
+'US International - Custom.bundle' hat folgende Konfiguration:
+    * basiert auf 'US International - PC'
+    * 1. Ebene
+        * Paragraph (links von 1)           -> `
+        * Dead ` (rechts von Left Shift)    -> Undead `
+        * Dead ' (rechts von ;)             -> Undead '
+    * 2. Ebene (Shift)
+        * +- (links von 1)                  -> ~
+        * kleines ^ (6)                     -> normales ^
+        * Dead ~ (rechts von Left Shift)    -> Undead ~
+        * Dead " (rechts von :)             -> Undead "
