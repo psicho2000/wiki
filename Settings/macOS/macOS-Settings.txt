@@ -145,6 +145,9 @@ iTerm2
                 Font: CaskaydiaCove Nerd Font
                 x Use ligatures
                 x Anti-aliased
+            Terminal
+                Shell Integration
+                    o Show mark indicators
             Keys
                 General
                     Left Option key: Esc+
