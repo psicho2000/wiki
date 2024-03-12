@@ -161,6 +161,9 @@ iTerm2
                     + ⇧ Page Down: Send Escape Sequence "[6;2~"
                     + 󰘴 Page Up: Send Escape Sequence "[5;5~"
                     + 󰘴 Page Down: Send Escape Sequence "[6;5~"
+                    + 󰘴 󰘳 k: Send Escape Sequence "[29~"
+                    + 󰘴 󰘳 k: Send Escape Sequence "[31~"
+                    + 󰘴 󰘳 l: Send Escape Sequence "[30~"
         Keys
             Key Bindings
                 - "Scroll One Page Up: ⇧ Page Up"
