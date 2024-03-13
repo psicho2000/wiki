@@ -141,6 +141,8 @@ iTerm2
             Dimming
                 Dimming amount: 15
         Profiles
+            Colors
+                Configure a color scheme, e.g. Gruvbox dark
             Text
                 Font: CaskaydiaCove Nerd Font
                 x Use ligatures
@@ -173,6 +175,9 @@ iTerm2
 
     Quit iTerm2, then call
         `plutil -convert xml1 "${WIKI_DIR}/Settings/iTerm2/com.googlecode.iterm2.plist"`
+
+    # Note: com.googlecode.iterm2.plist stores the configuration manually set. It contains a default color scheme.
+    # it2setcolor temporarily overwrites the default scheme. it2setcolor is called via dotfiles at login.
 
 Ukelele
 'US International - Custom.bundle' hat folgende Konfiguration:
