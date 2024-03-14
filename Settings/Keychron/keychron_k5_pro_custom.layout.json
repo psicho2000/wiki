@@ -3,7 +3,7 @@
   "vendorProductId": 875823697,
   "macros": [
     "{+KC_LALT}{+KC_LCTL}k{-KC_LCTL}{-KC_LALT}",
-    "",
+    "{+KC_LGUI}l{-KC_LGUI}",
     "",
     "",
     "",
@@ -297,7 +297,7 @@
       "KC_CALC",
       "KC_F13",
       "KC_F14",
-      "KC_TRNS",
+      "MACRO(1)",
       "KC_GRV",
       "KC_1",
       "KC_2",
