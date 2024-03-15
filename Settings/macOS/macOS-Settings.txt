@@ -100,6 +100,7 @@ Karabiner
             Add your own rule
                 Karabiner Umlaute.json (maps äöüÄÖUß€ to US International Layout on Windows)
                 Karabiner Snap Companion.json (maps  Num -> 󰘴 󰘳 Num for Num in 1...4)
+                Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows)
 
 Rectangle
     x Beim Anmelden starten
