@@ -2,6 +2,8 @@
 ## MacOs
 ############
 
+"US International - Custom.bundle" [mit Ukelele erzeugt] installieren
+
 Systemeinstellungen
     Bedienungshilfen
         Anzeige
@@ -39,7 +41,7 @@ Systemeinstellungen
                 o Ändern des Fokus mit der Tabulatortaste (vorher einmal mit Ctrl+F7 aktivieren)
                 o Tastatursteuerung ein- oder ausschalaten
                 alle anderen Optionen aktivieren
-                x Fokus in nächstes Fenster: 󰘵 
+                x Fokus in nächstes Fenster: ⌘`
             Eingabequellen
                 x Die vorherige Eingabequelle auswählen: 󰘴 󰘵 󱁐
                 o Nächste Quelle aus dem Eingabemenü auswählen
@@ -48,7 +50,7 @@ Systemeinstellungen
             Sondertasten (jeweils jede Tastatur, inkl. Karabiner)
                 Feststelltaste: esc-Taste
         Eingabequellen Bearbeiten...
-            + Englisch > US International - Custom (dazu vorher "US International - Custom.bundle" [mit Ukelele erzeugt] installieren)
+            + Englisch > US International - Custom
     Trackpad
         Zeigen und Klicken
             Zeigerbewegung: 8
@@ -86,7 +88,8 @@ Favoriten
 
 Logi Options+
     MX Mechanical
-        Desktop-Taste (über Num/): Launchpad
+        Desktop-Taste (über Num/): Anwendung öffnen "/Applications/KeePassXC.app"
+        Such-Taste (über Num*): Anwendung öffnen "/Applications/WhatsApp.app"
 
 Karabiner
     Simple Modifications
@@ -107,6 +110,7 @@ Maccy
     Maccy-Einstellungen
         Allgemein
             x Beim Anmelden starten
+            Offen: 󰘶 󰘳 V
             Suche: Fuzzy
             Verhalten: x Automatisch einfügen
         Erscheinungsbild
@@ -166,10 +170,20 @@ iTerm2
                     + 󰘴 󰘳 k: Send Escape Sequence "[29~"
                     + 󰘴 󰘳 k: Send Escape Sequence "[31~"
                     + 󰘴 󰘳 l: Send Escape Sequence "[30~"
+                    + 󰘳 Back: Send Escape Sequence "[32~"
+                    + 󰘳 Del: Send Escape Sequence "[33~"
+                    + 󰘵 Del: Send Escape Sequence "[3;3~"
+                    + 󰘳 ◀︎: Send Hex Code "0x01" (Home)
+                    + 󰘳 ▶: Send Hex Code "0x05" (End)
+                    + 󰘳 z: Send Hex Code "0x1f" (Undo) # FIXME
         Keys
             Key Bindings
-                - "Scroll One Page Up: ⇧ Page Up"
-                - "Scroll One Page Down: ⇧ Page Down"
+                * "Scroll One Page Up: 󰘳 Page Up" (Change)
+                * "Scroll One Page Down: 󰘳 Page Down" (Change)
+                - "Scroll One Page Up: ⇧ Page Up" (Remove)
+                - "Scroll One Page Down: ⇧ Page Down" (Remove)
+                - "Previous Tab": 󰘳 ◀︎ (Remove)
+                - "Next Tab": 󰘳 ▶ (Remove)
     Menu > iTerm2 > Install Shell Integration
         adds it2setcolor, used by dotfiles theming
 
