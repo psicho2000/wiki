@@ -41,7 +41,7 @@ Systemeinstellungen
                 o Ändern des Fokus mit der Tabulatortaste (vorher einmal mit Ctrl+F7 aktivieren)
                 o Tastatursteuerung ein- oder ausschalaten
                 alle anderen Optionen aktivieren
-                x Fokus in nächstes Fenster: ⌘`
+                x Fokus in nächstes Fenster: 󰘳 `
             Eingabequellen
                 x Die vorherige Eingabequelle auswählen: 󰘴 󰘵 󱁐
                 o Nächste Quelle aus dem Eingabemenü auswählen
@@ -80,7 +80,7 @@ Favoriten
     Dock
         1. md ~/.config/Favorites
         2. Favorisierte Dateien per Alias in das Verzeichnis legen
-        3. Favorites in's Dock packen (⌃⇧⌘T)
+        3. Favorites in's Dock packen (󰘴 󰘶 󰘳 T)
 
 ############
 ## Apps
@@ -97,7 +97,9 @@ Karabiner
             Controls and symboles > grave_accent_and_tilde (`) -> Others > key_code::fn
             Modifier keys > right_shift                        -> Modifier keys > left_shift
         Complex Modifications
-            Add your own rule: Karabiner.json
+            Add your own rule
+                Karabiner Umlaute.json (maps äöüÄÖUß€ to US International Layout on Windows)
+                Karabiner Snap Companion.json (maps  Num -> 󰘴 󰘳 Num for Num in 1...4)
 
 Rectangle
     x Beim Anmelden starten
@@ -115,6 +117,14 @@ Maccy
             Verhalten: x Automatisch einfügen
         Erscheinungsbild
             x In Menüleiste anzeigen: Clipboard
+
+Snap
+    Automatic
+        x Start Snap at login
+        x Snap menu bar icon
+        Launch Dock Apps with: 󰘴 󰘳
+    Manual
+        Finder: 󰘴 󰘳 `
 
 Outlook
     Extras > Konten > + > Konto hinzufügen
@@ -163,8 +173,8 @@ iTerm2
                     + 󰘴 F11: Send Escape Sequence "[23;5~"
                     + 󰘵 F11: Send Escape Sequence "[23;3~"
                     + 󰘵 F12: Send Escape Sequence "[24;3~"
-                    + ⇧ Page Up: Send Escape Sequence "[5;2~"
-                    + ⇧ Page Down: Send Escape Sequence "[6;2~"
+                    + 󰘶 Page Up: Send Escape Sequence "[5;2~"
+                    + 󰘶 Page Down: Send Escape Sequence "[6;2~"
                     + 󰘴 Page Up: Send Escape Sequence "[5;5~"
                     + 󰘴 Page Down: Send Escape Sequence "[6;5~"
                     + 󰘴 󰘳 h: Send Escape Sequence "[29~"
@@ -173,7 +183,7 @@ iTerm2
                     + 󰘳 Back: Send Escape Sequence "[32~"
                     + 󰘳 Del: Send Escape Sequence "[33~"
                     + 󰘳 z: Send Escape Sequence "[34~"
-                    + ⇧ 󰘳 : Send Escape Sequence "[35~"
+                    + 󰘶 󰘳 : Send Escape Sequence "[35~"
                     + 󰘵 Del: Send Escape Sequence "[3;3~"
                     + 󰘳 ◀︎: Send Hex Code "0x01" (Home)
                     + 󰘳 ▶: Send Hex Code "0x05" (End)
@@ -181,8 +191,8 @@ iTerm2
             Key Bindings
                 * "Scroll One Page Up: 󰘳 Page Up" (Change)
                 * "Scroll One Page Down: 󰘳 Page Down" (Change)
-                - "Scroll One Page Up: ⇧ Page Up" (Remove)
-                - "Scroll One Page Down: ⇧ Page Down" (Remove)
+                - "Scroll One Page Up: 󰘶 Page Up" (Remove)
+                - "Scroll One Page Down: 󰘶 Page Down" (Remove)
                 - "Previous Tab": 󰘳 ◀︎ (Remove)
                 - "Next Tab": 󰘳 ▶ (Remove)
     Menu > iTerm2 > Install Shell Integration

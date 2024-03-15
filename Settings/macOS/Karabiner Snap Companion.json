@@ -1,0 +1,85 @@
+{
+    "description": "Snap Companion",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "1",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "1",
+                    "modifiers": [
+                        "left_control",
+                        "left_command"
+                    ]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "2",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "2",
+                    "modifiers": [
+                        "left_control",
+                        "left_command"
+                    ]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "3",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "3",
+                    "modifiers": [
+                        "left_control",
+                        "left_command"
+                    ]
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "4",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "4",
+                    "modifiers": [
+                        "left_control",
+                        "left_command"
+                    ]
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
