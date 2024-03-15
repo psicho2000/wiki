@@ -167,15 +167,16 @@ iTerm2
                     + ⇧ Page Down: Send Escape Sequence "[6;2~"
                     + 󰘴 Page Up: Send Escape Sequence "[5;5~"
                     + 󰘴 Page Down: Send Escape Sequence "[6;5~"
-                    + 󰘴 󰘳 k: Send Escape Sequence "[29~"
+                    + 󰘴 󰘳 h: Send Escape Sequence "[29~"
                     + 󰘴 󰘳 k: Send Escape Sequence "[31~"
                     + 󰘴 󰘳 l: Send Escape Sequence "[30~"
                     + 󰘳 Back: Send Escape Sequence "[32~"
                     + 󰘳 Del: Send Escape Sequence "[33~"
+                    + 󰘳 z: Send Escape Sequence "[34~"
+                    + ⇧ 󰘳 : Send Escape Sequence "[35~"
                     + 󰘵 Del: Send Escape Sequence "[3;3~"
                     + 󰘳 ◀︎: Send Hex Code "0x01" (Home)
                     + 󰘳 ▶: Send Hex Code "0x05" (End)
-                    + 󰘳 z: Send Hex Code "0x1f" (Undo) # FIXME
         Keys
             Key Bindings
                 * "Scroll One Page Up: 󰘳 Page Up" (Change)
