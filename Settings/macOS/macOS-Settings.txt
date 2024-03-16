@@ -176,8 +176,8 @@ iTerm2
                     + 󰘵 F12: Send Escape Sequence "[24;3~"
                     + 󰘶 Page Up: Send Escape Sequence "[5;2~"
                     + 󰘶 Page Down: Send Escape Sequence "[6;2~"
-                    + 󰘴 Page Up: Send Escape Sequence "[5;5~"
-                    + 󰘴 Page Down: Send Escape Sequence "[6;5~"
+                    + 󰘴 󰘵 Page Up: Send Escape Sequence "[5;7~"
+                    + 󰘴 󰘵 Page Down: Send Escape Sequence "[6;7~"
                     + 󰘴 󰘳 h: Send Escape Sequence "[29~"
                     + 󰘴 󰘳 k: Send Escape Sequence "[31~"
                     + 󰘴 󰘳 l: Send Escape Sequence "[30~"
@@ -196,6 +196,8 @@ iTerm2
                 - "Scroll One Page Down: 󰘶 Page Down" (Remove)
                 - "Previous Tab": 󰘳 ◀︎ (Remove)
                 - "Next Tab": 󰘳 ▶ (Remove)
+                + "Previous Tab": 󰘴 Page Up (Add)
+                + "Next Tab": 󰘴 Page Down (Add)
     Menu > iTerm2 > Install Shell Integration
         adds it2setcolor, used by dotfiles theming
 
