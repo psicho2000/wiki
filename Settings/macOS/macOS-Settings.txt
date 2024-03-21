@@ -45,6 +45,9 @@ Systemeinstellungen
             Eingabequellen
                 x Die vorherige Eingabequelle auswählen: 󰘴 󰘵 󱁐
                 o Nächste Quelle aus dem Eingabemenü auswählen
+            App-Tastaturkurzbefehle
+                Alle Programme
+                    Hilfemenü anzeigen: 󰘶 󰘳 /
             Funktionstasten
                 x Die Tasten F1, F2 usw. als Standard-Funktionstasten verwenden
             Sondertasten (jeweils jede Tastatur, inkl. Karabiner)
@@ -79,7 +82,7 @@ Favoriten
     Finder: Favorisierte Ordner in Seitenleiste legen
     Dock
         1. md ~/.config/Favorites
-        2. Favorisierte Dateien per Alias in das Verzeichnis legen
+        2. Favorisierte Dateien per Alias in das Verzeichnis legen (󰘴 󰘳 A)
         3. Favorites in's Dock packen (󰘴 󰘶 󰘳 T)
 
 ############
