@@ -79,7 +79,6 @@
             "closeOnExit": "always",
             "font": {
                 "face": "MonaspiceNe Nerd Font",
-                // https://monaspace.githubnext.com/, see ligatures
                 "features": {
                     "calt": 1,
                     "dlig": 1,
