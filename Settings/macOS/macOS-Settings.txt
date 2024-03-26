@@ -173,24 +173,24 @@ iTerm2
                     Left Option key: Esc+
                     Right Option key: Esc+
                 Key Mappings (Preset... > Import ... > Custom-Key-Mappings.itermkeymap)
-                    + 󰘴 F6: Send Escape Sequence "[17;5~"
-                    + 󰘴 F11: Send Escape Sequence "[23;5~"
-                    + 󰘵 F11: Send Escape Sequence "[23;3~"
-                    + 󰘵 F12: Send Escape Sequence "[24;3~"
-                    + 󰘶 Page Up: Send Escape Sequence "[5;2~"
-                    + 󰘶 Page Down: Send Escape Sequence "[6;2~"
-                    + 󰘴 󰘵 Page Up: Send Escape Sequence "[5;7~"
-                    + 󰘴 󰘵 Page Down: Send Escape Sequence "[6;7~"
-                    + 󰘴 󰘳 h: Send Escape Sequence "[29~"
-                    + 󰘴 󰘳 k: Send Escape Sequence "[31~"
-                    + 󰘴 󰘳 l: Send Escape Sequence "[30~"
-                    + 󰘳 Back: Send Escape Sequence "[32~"
-                    + 󰘳 Del: Send Escape Sequence "[33~"
-                    + 󰘳 z: Send Escape Sequence "[34~"
-                    + 󰘶 󰘳 : Send Escape Sequence "[35~"
-                    + 󰘵 Del: Send Escape Sequence "[3;3~"
-                    + 󰘳 ◀︎: Send Hex Code "0x01" (Home)
-                    + 󰘳 ▶: Send Hex Code "0x05" (End)
+                    + 󰘴 F6:             Send Escape Sequence "[17;5~"   (tmux: Rename session)
+                    + 󰘴 F11:            Send Escape Sequence "[23;5~"   (tmux: Join window)
+                    + 󰘵 F11:            Send Escape Sequence "[23;3~"   (tmux: Expand split)
+                    + 󰘵 F12:            Send Escape Sequence "[24;3~"   (tmux: Toggle mouse)
+                    + 󰘶 Page Up:        Send Escape Sequence "[5;2~"    (tmux: Move split up)
+                    + 󰘶 Page Down:      Send Escape Sequence "[6;2~"    (tmux: Move split down)
+                    + 󰘴 󰘵 Page Up:      Send Escape Sequence "[5;7~"    (tmux: Move window)
+                    + 󰘴 󰘵 Page Down:    Send Escape Sequence "[6;7~"    (tmux: Move window)
+                    + 󰘴 󰘳 h:            Send Escape Sequence "[9~"      (dir cycle left)
+                    + 󰘴 󰘳 k:            Send Escape Sequence "[16~"     (dir up)
+                    + 󰘴 󰘳 l:            Send Escape Sequence "[22~"     (dir cycle right)
+                    + 󰘳 Back:           Send Escape Sequence "[27~"     (backward-kill-line)
+                    + 󰘳 Del:            Send Escape Sequence "[30~"     (kill-line)
+                    + 󰘳 z:              Send Escape Sequence "[35~"     (undo)
+                    + 󰘶 󰘳 :             Send Escape Sequence "[36~"     (redo)
+                    + 󰘵 Del:            Send Escape Sequence "[3;3~"    (kill-word)
+                    + 󰘳 ◀︎:              Send Hex Code "0x01"            (Home)
+                    + 󰘳 ▶:              Send Hex Code "0x05"            (End)
         Keys
             Key Bindings
                 * "Scroll One Page Up: 󰘳 Page Up" (Change)

@@ -561,7 +561,7 @@
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string>[35~</string>
+					<string>[36~</string>
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
@@ -572,7 +572,7 @@
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string>[29~</string>
+					<string>[9~</string>
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
@@ -583,7 +583,7 @@
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string>[31~</string>
+					<string>[16~</string>
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
@@ -594,7 +594,7 @@
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string>[30~</string>
+					<string>[22~</string>
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
@@ -605,7 +605,7 @@
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string>[34~</string>
+					<string>[35~</string>
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
@@ -616,7 +616,7 @@
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string>[32~</string>
+					<string>[27~</string>
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
@@ -889,7 +889,7 @@
 					<key>Label</key>
 					<string></string>
 					<key>Text</key>
-					<string>[33~</string>
+					<string>[30~</string>
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
