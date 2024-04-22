@@ -16,6 +16,8 @@ Plugins
     # python
     matangover.mypy
     ms-python.pylint
+    ms-python.mypy-type-checker
+    ms-python.black-formatter
 
     # ...and the rest
     johnpapa.vscode-peacock
