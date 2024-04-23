@@ -3,8 +3,15 @@
 ############
 
 "US International - Custom.bundle" [mit Ukelele erzeugt] installieren
+    Ukelele > File > Install > Show Organiser
+        Set Folder...: Pfad zu o.g. Datei
+        Schieben zu "Installed for Current User"
 
 Systemeinstellungen
+    Netzwerk
+        Firewall: aktiv
+            Optionen
+                Tarnmodus aktivieren (ICMP aus)
     Bedienungshilfen
         Anzeige
             x Kontrast erhöhen
@@ -20,6 +27,12 @@ Systemeinstellungen
             alle im Kontrollzentrum anzeigen
             Batterie
                 x Prozent anzeigen
+            Schneller Benutzerwechsel
+                In Menüleisten anzeigen: Symbol
+        Uhr > Uhroptionen
+            Datum anzeigen: immer
+            Wochentag anzeigen: x
+            Uhrzeit mit Sekunden azeigen: x
     Datenschutz & Sicherheit
         Entwickler-Werkzeuge
             x Terminal
@@ -28,26 +41,25 @@ Systemeinstellungen
         Aktive Ecken...
             Launchpad     Mitteilungszentrale
             Schreibtisch  Bildschirmschoner ein
-    Netzwerk
-        Firewall: aktiv
-            Optionen
-                Tarnmodus aktivieren (ICMP aus)
+    Displays
+        Zeitplan: Eigener
+        Von 22:00 bis 08:00
     Tastatur
         Beim Drücken der Globe-Taste: Kein Aktion
         Tastaturkurzbefehle
             Launchpad & Dock
-                Launchpad einblenden: Cmd+Opt+X
+                Launchpad einblenden: 󰘵 󰘳 X (Opt+Cmd+X)
             Tastatur
                 o Ändern des Fokus mit der Tabulatortaste (vorher einmal mit Ctrl+F7 aktivieren)
                 o Tastatursteuerung ein- oder ausschalaten
                 alle anderen Optionen aktivieren
-                x Fokus in nächstes Fenster: 󰘳 `
+                x Fokus in nächstes Fenster: 󰘳 ` (Cmd+Backtick)
             Eingabequellen
-                x Die vorherige Eingabequelle auswählen: 󰘴 󰘵 󱁐
+                x Die vorherige Eingabequelle auswählen: 󰘴 󰘵 󱁐 (Ctrl+Opt+Space)
                 o Nächste Quelle aus dem Eingabemenü auswählen
             App-Tastaturkurzbefehle
                 Alle Programme
-                    Hilfemenü anzeigen: 󰘶 󰘳 /
+                    Hilfemenü anzeigen: 󰘶 󰘳 / (Shift+Cmd+Slash)
             Funktionstasten
                 x Die Tasten F1, F2 usw. als Standard-Funktionstasten verwenden
             Sondertasten (jeweils jede Tastatur, inkl. Karabiner)
@@ -57,8 +69,14 @@ Systemeinstellungen
     Trackpad
         Zeigen und Klicken
             Zeigerbewegung: 8
+            o Klick durch Tippen
         Weitere Gesten
             Mit Streichen Seiten blättern: Mit zwei Fingern horizontal scrollen
+
+Widgets
+    Wetter | Uhr
+       Kalender
+    Bildschirmzeit
 
 Finder
     Allgemein
@@ -82,8 +100,8 @@ Favoriten
     Finder: Favorisierte Ordner in Seitenleiste legen
     Dock
         1. md ~/.config/Favorites
-        2. Favorisierte Dateien per Alias in das Verzeichnis legen (󰘴 󰘳 A)
-        3. Favorites in's Dock packen (󰘴 󰘶 󰘳 T)
+        2. Favorisierte Dateien per Alias in das Verzeichnis legen (󰘴 󰘳 A [Ctrl+Cmd+A])
+        3. Favorites in's Dock packen (󰘴 󰘶 󰘳 T [Ctrl+Shift+Cmd+T])
 
 ############
 ## Apps
@@ -122,7 +140,7 @@ Maccy
     Maccy-Einstellungen
         Allgemein
             x Beim Anmelden starten
-            Offen: 󰘶 󰘳 V
+            Offen: 󰘶 󰘳 V (Shift+Cmd+V)
             Suche: Fuzzy
             Verhalten: x Automatisch einfügen
         Erscheinungsbild
@@ -132,9 +150,9 @@ Snap
     Automatic
         x Start Snap at login
         x Snap menu bar icon
-        Launch Dock Apps with: 󰘴 󰘳
+        Launch Dock Apps with: 󰘴 󰘳 (Ctrl+Cmd)
     Manual
-        Finder: 󰘴 󰘳 `
+        Finder: 󰘴 󰘳 ` (Ctrl+Cmd+Backtick)
 
 Outlook
     Extras > Konten > + > Konto hinzufügen
@@ -198,7 +216,7 @@ iTerm2
                     + 󰘳 ◀︎:              Send Hex Code "0x01"            (Home)
                     + 󰘳 ▶:              Send Hex Code "0x05"            (End)
         Keys
-            Key Bindings
+            Key Bindings (Presets... > Import... > Custom-Key-Bindings.itermkeymap)
                 * "Scroll One Page Up: 󰘳 Page Up" (Change)
                 * "Scroll One Page Down: 󰘳 Page Down" (Change)
                 - "Scroll One Page Up: 󰘶 Page Up" (Remove)
