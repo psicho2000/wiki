@@ -1,5 +1,6 @@
 Copy keybindings.json and settings.json to
-    %appdata%\Code\User
+    %appdata%\Code\User                         # Windows
+    ~/Library/Application\ Support/Code/User    # macOS
 
 Plugins
     # encoding
@@ -18,6 +19,9 @@ Plugins
     ms-python.pylint
     ms-python.mypy-type-checker
     ms-python.black-formatter
+
+    # theming
+    see https://gitlab.com/psicho/dotfiles#global-theming-prerequisites
 
     # ...and the rest
     johnpapa.vscode-peacock
