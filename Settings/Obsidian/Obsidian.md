@@ -31,6 +31,8 @@
         * Launch on startup
         * Hide on launch
         * Run in background
+        * Toggle window focus hotkey: Ctrl+Shift+Tab
+        * Quick note hotkey: empty
     * Self-hosted LiveSync
         * Install https://gitlab.com/psicho/couchdb
             * Open UI (see README) and create database `obsidian`
