@@ -48,3 +48,10 @@ Deactivate the venv:
 ```bash
 deactivate
 ```
+
+Alternatively use poetry to creating and activating virtual environment and deactivate it:
+```bash
+poetry env use python
+poetry env remove
+```
+
