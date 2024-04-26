@@ -1,3 +1,15 @@
+## Anleitung Via
+1. Connect Keyboard using USB
+2. https://usevia.app/
+3. Settings > Show Design Tab: x
+4. Design > Load > `k5_pro_iso_rgb.json`
+5. Settings > Show Design Tab: o (off)
+6. Configure > Authorize device + > Select device
+
+Notes:
+* Needs to be done for every browser separately.
+* Funktioniert auf Dell nur, wenn Kabel direkt an den Laptop angeschlossen wird - nicht über die Docking Station
+
 ## Gibt es verschiedene onboard-Profile?
 * https://www.reddit.com/r/MechanicalKeyboards/comments/jvls2z/question_about_via_qmk/
 * https://www.reddit.com/r/MechanicalKeyboards/comments/mq3n12/via_how_to_add_more_than_4_layers/
@@ -63,7 +75,6 @@ Beachte "ACHTUNG" in [Aktuelle Konfiguration](#aktuelle-konfiguration).
 ### Links
 * https://www.caniusevia.com/ (u.a. Read the docs, Start now)
 * https://usevia.app/ (Web App)
-  * Funktioniert auf Dell nur, wenn Kabel direkt an den Laptop angeschlossen wird - nicht über die Docking Station
 * https://github.com/the-via/releases (Electron App, nutzt Web App)
   * Funktioniert nicht auf dem Dell
 * https://www.caniusevia.com/docs/specification
