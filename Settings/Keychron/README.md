@@ -89,4 +89,26 @@ Beachte "ACHTUNG" in [Aktuelle Konfiguration](#aktuelle-konfiguration).
 * https://www.keychron.com/blogs/archived/k5-pro-factory-reset-and-firmware-flash
 
 ## Fragen
-* Was bewirkt die NKRO-Taste?
+* Was bewirkt die NKRO-Taste? -> ohne NKRO: 6 Keys gleichzeitig; mit NKRO: beliebig viele Keys gleichzeitig
+
+## NOTE: Bug with Custom keys (as of 2024-04-28)
+
+Some or all Keys of the Custom tab are show wrong, i.e.
+
+| Custom Key | Via.app          | Keychron K5 Pro  |
+| ---------- | ---------------- | ---------------- |
+| 0          | Left Option      | ?                |
+| 1          | Right Option     | ?                |
+| 2          | Left Cmd         | ?                |
+| 0          | Right Cmd        | ?                |
+| 4          | Task View        | ?                |
+| 5          | File Explorer    | ?                |
+| 6          | Screenshot       | ?                |
+| 7          | Cortana          | ?                |
+| 8          | Siri             | ?                |
+| 9          | Bluetooth Host 1 | ?                |
+| 10         | Bluetooth Host 2 | ?                |
+| 11         | Bluetooth Host 3 | Bluetooth Host 1 |
+| 12         | Battery Level    | Bluetooth Host 2 |
+| 13         | n.a.             | Bluetooth Host 3 |
+| 14         | n.a.             | Battery Level    |
