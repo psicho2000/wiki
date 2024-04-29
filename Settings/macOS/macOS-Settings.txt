@@ -130,8 +130,12 @@ Karabiner
                 Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows)
 
 Rectangle
-    x Beim Anmelden starten
-    x Fußabdruck animieren
+    Tab 2
+        x Fußabdruck animieren
+    Tab 3
+        x Beim Anmelden starten
+        Wiederholte Befehle: Zum benachbarten Bildschirm auf der linken oder rechten Seite bewegen
+        x Mauszeiger zusammen mit dem Fenster ueber die Bilschirme bewegen
 
 Maccy
     Systemeinstellungen
@@ -186,9 +190,13 @@ iTerm2
             Colors
                 Configure a color scheme, e.g. Gruvbox dark
             Text
-                Font: CaskaydiaCove Nerd Font
+                Font: CaskaydiaCove Nerd Font | Size: 18
                 x Use ligatures
                 x Anti-aliased
+            Window
+                Columns: 115
+                Rows: 65
+                Screen: Screen with Cursor
             Terminal
                 Shell Integration
                     o Show mark indicators
