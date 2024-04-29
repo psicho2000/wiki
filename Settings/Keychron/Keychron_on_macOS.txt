@@ -1,37 +1,45 @@
 [1]
 macOS Settings > Tastatur > Tastaturkurzbefehle > Sondertasten
-    Keychron K5 Pro:
+    # Configure Keychron K5 Pro instead if Karabiner is not used
+    Karabiner
+        # Needs to be applied when and only when Keychron is the active Keyboard. Will break Esc of native Keyboard.
         Feststelltaste: Feststelltaste
-    This needs to be applied to Karabiner when and only when Keychron is the active Keyboard.
 
-Via Layer 0
-    ^: NUBS
-    <|>: tilde/grave accent
-    Caps: Esc
+Via (https://usevia.app)
+    Via Layer 0
+        ^: NUBS
+        <|>: tilde/grave accent
+        Caps: Esc
 
-    F1-F12: F1-F12
-    Lampe: RGBToggle
-    Kreis: Calc
-    Macro M2: {+KC_LCTL}{+KC_LGUI}q{-KC_LCTL}{-KC_LGUI}
-    Dreieck:
-    Viereck:
-    X: Macro M2 (lock screen)
+        F1-F12: F1-F12
+        Lampe: RGBToggle
+        Kreis: Calc
+        Macro M2: {+KC_LCTL}{+KC_LGUI}q{-KC_LCTL}{-KC_LGUI}
+        Dreieck:
+        Viereck:
+        X: Macro M2 (lock screen)
 
 
-Via Layer 1
-    Caps: Caps (see [1])
-    F1: Scr-
-    F2: Scr+
-    F3:
-    F4:
-    F5: Brght-
-    F6: Brght+
-    F7: Prvs
-    F8: Play
-    F9: Next
-    F10: Mute
-    F11: Vol-
-    F12: Vol+
+    Via Layer 1
+        Caps: Caps (see [1])
+        F1: Scr-
+        F2: Scr+
+        F3:
+        F4:
+        F5: Brght-
+        F6: Brght+
+        F7: Prvs
+        F8: Play
+        F9: Next
+        F10: Mute
+        F11: Vol-
+        F12: Vol+
+
+Karabiner-Elements > Settings > Devices
+    Keychron K5 Pro
+        Modify Events: x
+
+---
 
 Note: When connected via USB, Keychron shows up as an additional, different Keyboard on mac.
 
