@@ -243,6 +243,9 @@ iTerm2
     # Note: com.googlecode.iterm2.plist stores the configuration manually set. It contains a default color scheme.
     # it2setcolor temporarily overwrites the default scheme. it2setcolor is called via dotfiles at login.
 
+QNAP
+    https://www.qnap.com/de-de/how-to/tutorial/article/so-sichern-sie-ihren-mac-mit-time-machine-auf-einem-qnap-nas
+
 Ukelele
 'US International - Custom.bundle' hat folgende Konfiguration:
     * basiert auf 'US International - PC'
