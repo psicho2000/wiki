@@ -33,6 +33,8 @@ Systemeinstellungen
             Datum anzeigen: immer
             Wochentag anzeigen: x
             Uhrzeit mit Sekunden azeigen: x
+        Spotlight: Nicht in Menüleiste anzeigen
+        Time Machine: In Menüleiste anzeigen
     Datenschutz & Sicherheit
         Entwickler-Werkzeuge
             x Terminal
