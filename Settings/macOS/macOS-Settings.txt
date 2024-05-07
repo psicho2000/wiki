@@ -136,7 +136,7 @@ Rectangle
     Tab 3
         x Beim Anmelden starten
         Wiederholte Befehle: Zum benachbarten Bildschirm auf der linken oder rechten Seite bewegen
-        x Mauszeiger zusammen mit dem Fenster ueber die Bilschirme bewegen
+        o Mauszeiger zusammen mit dem Fenster über die Bilschirme bewegen
 
 Maccy
     Systemeinstellungen
