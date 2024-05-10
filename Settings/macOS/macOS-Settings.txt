@@ -64,8 +64,6 @@ Systemeinstellungen
                     Hilfemenü anzeigen: 󰘶 󰘳 / (Shift+Cmd+Slash)
             Funktionstasten
                 x Die Tasten F1, F2 usw. als Standard-Funktionstasten verwenden
-            Sondertasten (jeweils jede Tastatur, inkl. Karabiner)
-                Feststelltaste: esc-Taste
         Eingabequellen Bearbeiten...
             + Englisch > US International - Custom
     Trackpad
@@ -131,6 +129,7 @@ Karabiner
                 Karabiner Umlaute.json (maps äöüÄÖUß€ to US International Layout on Windows)
                 Karabiner Snap Companion.json (maps  Num -> 󰘴 󰘳 Num for Num in 1...4)
                 Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows)
+                Karabiner CapsLock.json (maps CapsLock without Modifier to Escape)
 
 Rectangle
     Tab 2
