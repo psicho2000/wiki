@@ -75,6 +75,7 @@ Beachte "ACHTUNG" in [Aktuelle Konfiguration](#aktuelle-konfiguration).
 ### Links
 * https://www.caniusevia.com/ (u.a. Read the docs, Start now)
 * https://usevia.app/ (Web App)
+* https://launcher.keychron.com/ (Web App **neu**)
 * https://github.com/the-via/releases (Electron App, nutzt Web App)
   * Funktioniert nicht auf dem Dell
 * https://www.caniusevia.com/docs/specification
