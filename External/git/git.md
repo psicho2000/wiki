@@ -2,6 +2,7 @@
 https://blog.gitbutler.com/
 https://www.youtube.com/watch?v=aolI_Rz0ZqY (So You Think You Know Git - Part 1)
 https://www.youtube.com/watch?v=Md44rcw13k4 (So You Think You Know Git - Part 2)
+https://ohshitgit.com/
 
 # Commit Hooks
 
