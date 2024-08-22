@@ -25,3 +25,16 @@ Chrome Integration
 Plugins (https://keepass.info/plugins.html)
     * KeePassHttp (install via Chocolatey)
     * QuickSearch
+
+New Entry
+    Entry
+        Title: This is unsafe
+        Username: <empty>
+        PW: thisisunsafe
+    Auto-Type
+        Use custom Auto-Type sequence: {PASSWORD}
+        Window title: Privacy error*
+
+KeePassXC
+    Settings > General > Auto-Type
+        Global Auto-Type shortcut: Ctrl+Shift+S
