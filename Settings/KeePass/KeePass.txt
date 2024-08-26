@@ -34,6 +34,7 @@ New Entry
     Auto-Type
         Use custom Auto-Type sequence: {PASSWORD}
         Window title: Privacy error*
+        Window title: Datenschutzfehler*
 
 KeePassXC
     Settings > General > Auto-Type
