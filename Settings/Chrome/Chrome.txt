@@ -40,7 +40,8 @@ chrome://flags/#omnibox-keyword-search-button: Disable
                 Einstellungen > Erweiterungen > Hamburger-Menu > Tastenkombinationen
                     Toggle between the last 2 recent tabs: Ctrl+Z
                 Close Chrome (all instances (!) - e.g. Chrometana, etc. See Taskmanager, if unsure).
-                Open %LOCALAPPDATA%\Google\Chrome\User Data\Default\Preferences
+                Open %LOCALAPPDATA%\Google\Chrome\User Data\Default\Preferences (Windows)
+                      ~/Library/Application Support/Google/Chrome/Default/Preferences (macOS)
                     Search for Ctrl+Z and replace by Ctrl+Tab
                 Open Chrome and enjoy
         Backlog
