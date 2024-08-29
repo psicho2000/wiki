@@ -31,11 +31,14 @@ chrome://flags/#omnibox-keyword-search-button: Disable
 ... > Weitere Tools > Erweiterungen
     Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
         Top
-            ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern)
             Web Search Navigator        (Shortcuts für Google Suchergebnisseite)
                 https://github.com/infokiller/web-search-navigator
                 https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek
             I dont care about Cookies
+            Vimium
+            KeePassXC-Browser
+        Backlog
+            ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern)
             Recent Tabs: https://chrome.google.com/webstore/detail/recent-tabs/ocllfmhjhfmogablefmibmjcodggknml
                 Einstellungen > Erweiterungen > Hamburger-Menu > Tastenkombinationen
                     Toggle between the last 2 recent tabs: Ctrl+Z
@@ -44,7 +47,6 @@ chrome://flags/#omnibox-keyword-search-button: Disable
                       ~/Library/Application Support/Google/Chrome/Default/Preferences (macOS)
                     Search for Ctrl+Z and replace by Ctrl+Tab
                 Open Chrome and enjoy
-        Backlog
             Rearrange Tabs: https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga
                 // Update 2022-09-08: Seems to be deprecated, as this might be builtin now
                 Einstellungen > Erweiterungen > Hamburger-Menu > Tastenkombinationen
