@@ -101,10 +101,10 @@
                 }
             },
             "historySize": 16000,
-            "opacity": 80,
+            "opacity": 100,
             "showMarksOnScrollbar": true,
             "startingDirectory": "%userprofile%",
-            "useAcrylic": true
+            "useAcrylic": false
         },
         "list": [
             {
