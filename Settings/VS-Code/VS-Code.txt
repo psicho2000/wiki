@@ -28,6 +28,10 @@ Plugins
     fr43nk.seito-openfile
     eamodio.gitlens
     medo64.render-crlf
+    # Presentation
+    # Syntax: https://marpit.marp.app/markdown
+    # transitions only work when exported to html; favorite: cover explode fade fade-out glow implode reveal slide
+    marp-team.marp-vscode
 
 settings.json
     Comments are not allowed in json and in particular a problem for jq (used by dotfiles theming), therefore adding it here.
