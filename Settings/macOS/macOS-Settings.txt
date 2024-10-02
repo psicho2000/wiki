@@ -130,6 +130,7 @@ Karabiner
                 Karabiner Snap Companion.json (maps  Key -> 󰘴 󰘳 Key for Key in `,1...4)
                 Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows)
                 Karabiner CapsLock.json (maps CapsLock incl. most modifiers to Escape, keeps Cmd+CapsLock to CapsLock)
+                Karabiner Youtube Scrolling.json (maps Ctrl+, to 5x , and Ctrl+Shift+, to 15x , - same for .)
 
 Rectangle
     Tab 2

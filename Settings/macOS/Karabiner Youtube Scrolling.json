@@ -1,0 +1,211 @@
+{
+    "description": "Youtube Scrolling",
+    "manipulators": [
+        {
+            "type": "basic",
+            "from": {
+                "key_code": "comma",
+                "modifiers": {
+                    "mandatory": [
+                        "left_control"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                }
+            ],
+            "conditions": [
+                {
+                    "type": "frontmost_application_if",
+                    "bundle_identifiers": [
+                        "^com\\.google\\.Chrome$"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "basic",
+            "from": {
+                "key_code": "period",
+                "modifiers": {
+                    "mandatory": [
+                        "left_control"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                }
+            ],
+            "conditions": [
+                {
+                    "type": "frontmost_application_if",
+                    "bundle_identifiers": [
+                        "^com\\.google\\.Chrome$"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "basic",
+            "from": {
+                "key_code": "comma",
+                "modifiers": {
+                    "mandatory": [
+                        "left_control",
+                        "left_shift"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                },
+                {
+                    "key_code": "comma"
+                }
+            ],
+            "conditions": [
+                {
+                    "type": "frontmost_application_if",
+                    "bundle_identifiers": [
+                        "^com\\.google\\.Chrome$"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "basic",
+            "from": {
+                "key_code": "period",
+                "modifiers": {
+                    "mandatory": [
+                        "left_control",
+                        "left_shift"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                },
+                {
+                    "key_code": "period"
+                }
+            ],
+            "conditions": [
+                {
+                    "type": "frontmost_application_if",
+                    "bundle_identifiers": [
+                        "^com\\.google\\.Chrome$"
+                    ]
+                }
+            ]
+        }
+    ]
+}
