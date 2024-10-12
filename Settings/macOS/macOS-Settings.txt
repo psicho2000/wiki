@@ -3,9 +3,14 @@
 ############
 
 "US International - Custom.bundle" [mit Ukelele erzeugt] installieren
-    Ukelele > File > Install > Show Organiser
-        Set Folder...: Pfad zu o.g. Datei
-        Schieben zu "Installed for Current User"
+    1. Install bundle
+       a) Ukelele > File > Install > Show Organiser
+           Set Folder...: Pfad zu o.g. Datei
+           Schieben zu "Installed for Current User"
+       b) Alternativ: Kopieren nach "~/Library/Keyboard Layouts/"
+    2. Logout and Login again
+    3. Note: Karabiner might be obstructing the key "non_us_backlash" (`~). If so, edit Karabiner settings:
+       Virtual Keyboard > Keyboard type: ANSI
 
 Systemeinstellungen
     Netzwerk
@@ -124,13 +129,15 @@ Karabiner
         For all devices
             Controls and symboles > grave_accent_and_tilde (`) -> Others > key_code::fn
             Modifier keys > right_shift                        -> Modifier keys > left_shift
-        Complex Modifications
-            Add your own rule
-                Karabiner Umlaute.json (maps äöüÄÖUß€ to US International Layout on Windows)
-                Karabiner Snap Companion.json (maps  Key -> 󰘴 󰘳 Key for Key in `,1...4)
-                Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows)
-                Karabiner CapsLock.json (maps CapsLock incl. most modifiers to Escape, keeps Cmd+CapsLock to CapsLock)
-                Karabiner Youtube Scrolling.json (maps Ctrl+, to 5x , and Ctrl+Shift+, to 15x , - same for .)
+    Complex Modifications
+        Add your own rule
+            Karabiner Umlaute.json (maps äöüÄÖUß€ to US International Layout on Windows)
+            Karabiner Snap Companion.json (maps  Key -> 󰘴 󰘳 Key for Key in `,1...4)
+            Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows)
+            Karabiner CapsLock.json (maps CapsLock incl. most modifiers to Escape, keeps Cmd+CapsLock to CapsLock)
+            Karabiner Youtube Scrolling.json (maps Ctrl+, to 5x , and Ctrl+Shift+, to 15x , - same for .)
+    Virtual Keyboard > Keyboard type: ANSI
+
 
 Rectangle
     Tab 2
