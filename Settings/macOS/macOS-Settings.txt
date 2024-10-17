@@ -46,8 +46,7 @@ Systemeinstellungen
     Schreibtisch & Dock
         Standard-Webbrowser: Google Chrome
         Aktive Ecken...
-            Launchpad     Mitteilungszentrale
-            Schreibtisch  Bildschirmschoner ein
+            Rechts unten: Bildschirmschoner ein
     Displays
         Zeitplan: Eigener
         Von 22:00 bis 08:00
