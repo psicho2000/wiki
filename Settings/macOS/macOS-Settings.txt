@@ -45,6 +45,8 @@ Systemeinstellungen
             x Terminal
     Schreibtisch & Dock
         Standard-Webbrowser: Google Chrome
+        Fenster
+            o Als Kacheln angezeigte Fenster haben Abstand
         Aktive Ecken...
             Rechts unten: Bildschirmschoner ein
     Displays
