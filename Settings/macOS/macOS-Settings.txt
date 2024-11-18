@@ -90,8 +90,10 @@ Finder
         Neue Finder-Fenster anzeigen: Schreibtisch
     Seitenleiste
         Favoriten
-            x Musik: ein
+            x Musik
             x Personal (markus)
+            x Schreibtisch
+                Known issue: https://www.reddit.com/r/MacOS/comments/tad7e3/desktop_keeps_disappearing_from_finders_sidebar/
         Orte
             x MacBook Pro von Markus
             x Festplatten
