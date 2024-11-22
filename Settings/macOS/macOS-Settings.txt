@@ -44,6 +44,8 @@ Systemeinstellungen
         Entwickler-Werkzeuge
             x Terminal
     Schreibtisch & Dock
+        Schreibtisch und Stage Manager
+            Zum Anzeigen des Schreibtischs auf Hintergrundbild klicken: Nur in Stage Manager
         Standard-Webbrowser: Google Chrome
         Fenster
             o Als Kacheln angezeigte Fenster haben Abstand
