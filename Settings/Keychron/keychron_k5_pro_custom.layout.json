@@ -2,7 +2,7 @@
   "name": "Keychron K5 Pro",
   "vendorProductId": 875823697,
   "macros": [
-    "{+KC_LALT}{+KC_LCTL}k{-KC_LCTL}{-KC_LALT}",
+    "{+KC_LGUI}{+KC_LALT}k{-KC_LALT}{-KC_LGUI}",
     "{+KC_LGUI}l{-KC_LGUI}",
     "",
     "",
