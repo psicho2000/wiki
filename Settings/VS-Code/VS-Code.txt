@@ -13,6 +13,7 @@ Plugins
     clemenspeters.format-json
     tamasfe.even-better-toml
     redhat.vscode-yaml # good for Kubernetes
+    editorconfig.editorconfig
 
     # python
     matangover.mypy
