@@ -31,6 +31,8 @@ chrome://flags/#omnibox-keyword-search-button: Disable
 ... > Weitere Tools > Erweiterungen
     Erweiterungen (links oben) > Chrome Web Store öffnen (links unten)
         Top
+            AdGuard Werbeblocker
+            Authentifizierung (Authenticator)
             Google Search Keyboard Shortcuts    (Shortcuts für Google Suchergebnisseite)
                 https://github.com/jchafik/google-search-shortcuts
                 https://chromewebstore.google.com/detail/google-search-keyboard-sh/iobmefdldoplhmonnnkchglfdeepnfhd
