@@ -124,11 +124,7 @@ Logi Options+
         Desktop-Taste (über Num/): Anwendung öffnen "/Applications/KeePassXC.app"
         Such-Taste (über Num*): Anwendung öffnen "/Applications/WhatsApp.app"
     MX Master 3
-        Verbindung über Logi Unifying Empfänger nicht geschafft, daher Bluetooth
-        Zeigen und Scrollen
-            Scrollrad
-                o Smartshift (falls Smartshift ein, verliert die Maus die Verbindung, sobald Smartshift triggert)
-                Bildlaufmodus: Freilauf
+        siehe MX-Master3/MX-Master3.txt
 
 Karabiner
     Simple Modifications

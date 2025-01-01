@@ -1,9 +1,14 @@
 Tastenbelegung
-    Taste unter dem Mausrad: Zeiger-Geschwindigkeit (1: maximal, 2: mittel)
+    Taste unter dem Mausrad:
+        [schwarz] Zeiger-Geschwindigkeit (1: maximal, 2: mittel)
+        [grau]    Stumm
+    Vertikales Scrollrad: Lautstärke
 
 Mauszeiger & Bildlauf
     Daumenradrichtung: Invertiert
     Smartshift: Deaktiviert (sonst verliert die Maus beim Modus-Wechsel kurz die Verbindung!)
 
 Allgemein:
-    SmartShift sowie Mausrad-Modus-Wechsel ist bei der MX Master 3 defekt! Bei jedem Modus-Wechsel verliert sie kurz die Verbindung. Sowohl per Bluetooth als auch per Unifying Receiver.
+    SmartShift sowie Mausrad-Modus-Wechsel ist bei der *schwarzen* MX Master 3 defekt! Bei jedem Modus-Wechsel verliert sie kurz die Verbindung. Sowohl per Bluetooth als auch per Unifying Receiver.
+    Die *graue* MX Master 3 hat diesen Defekt nicht.
+    Die schwarze MX Master 3 lässt sich nicht mehr über Unifying verbinden. Die graue schon.
