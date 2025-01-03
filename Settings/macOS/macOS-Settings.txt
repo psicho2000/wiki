@@ -211,6 +211,8 @@ iTerm2
                 Rows: 65
                 Screen: Screen with Cursor
             Terminal
+                Notifications
+                    x Silence bell
                 Shell Integration
                     o Show mark indicators
             Keys
