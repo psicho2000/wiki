@@ -236,6 +236,8 @@ iTerm2
                     + 󰘳 z:              Send Escape Sequence "[35~"     (undo)
                     + 󰘶 󰘳 :             Send Escape Sequence "[36~"     (redo)
                     + 󰘵 Del:            Send Escape Sequence "[3;3~"    (kill-word)
+                    + 󰘵 ◀︎:              Send Escape Sequence "h"        (Jump word wise left)
+                    + 󰘵 ▶:              Send Escape Sequence "l"        (Jump word wise right)
                     + 󰘳 ◀︎:              Send Hex Code "0x01"            (Home)
                     + 󰘳 ▶:              Send Hex Code "0x05"            (End)
         Keys
