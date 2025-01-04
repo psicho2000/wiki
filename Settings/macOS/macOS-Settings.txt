@@ -240,6 +240,7 @@ iTerm2
                     + 󰘵 ▶:              Send Escape Sequence "l"        (Jump word wise right)
                     + 󰘳 ◀︎:              Send Hex Code "0x01"            (Home)
                     + 󰘳 ▶:              Send Hex Code "0x05"            (End)
+                    + 󰘶 󱁐:              Send Text " "                   (Otherwise Shift+Space deletes line)
         Keys
             Key Bindings (Presets... > Import... > Custom-Key-Bindings.itermkeymap)
                 * "Scroll One Page Up: 󰘳 Page Up" (Change)
