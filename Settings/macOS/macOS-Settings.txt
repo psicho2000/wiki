@@ -218,7 +218,7 @@ iTerm2
             Keys
                 General
                     Left Option key: Esc+
-                    Right Option key: Esc+
+                    Right Option key: Normal
                 Key Mappings (Preset... > Import ... > Custom-Key-Mappings.itermkeymap)
                     + 󰘴 F6:             Send Escape Sequence "[17;5~"   (tmux: Rename session)
                     + 󰘴 F11:            Send Escape Sequence "[23;5~"   (tmux: Join window)

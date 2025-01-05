@@ -1,0 +1,144 @@
+{
+    "description": "Umlaute Experimental",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "q",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "keypad_1",
+                    "modifiers": "right_option"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "q",
+                "modifiers": {
+                    "mandatory": [
+                        "fn",
+                        "left_shift"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "keypad_4",
+                    "modifiers": "right_option"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "y",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "keypad_3",
+                    "modifiers": "right_option"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "y",
+                "modifiers": {
+                    "mandatory": [
+                        "fn",
+                        "left_shift"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "keypad_6",
+                    "modifiers": "right_option"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "p",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "keypad_2",
+                    "modifiers": "right_option"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "p",
+                "modifiers": {
+                    "mandatory": [
+                        "fn",
+                        "left_shift"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "keypad_5",
+                    "modifiers": "right_option"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "s",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "keypad_7",
+                    "modifiers": "right_option"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "5",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "keypad_8",
+                    "modifiers": "right_option"
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
