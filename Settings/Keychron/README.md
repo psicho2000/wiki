@@ -22,6 +22,7 @@ Notes:
   * German ISO / US Int. ISO bleibt im selbst konfigurierten Windows-Treiber
   * Media, Volume +/-, Mute: konfigurierbar, falls gewünscht
   * Mic Mute: bedingt konfigurierbar, s. unten
+* Konfigurationsmöglichkeiten sind dokumentiert in https://launcher.keychron.com/#/keymap > Layer > Hover über ?
 
 ## Microphone Mute
 * In Windows: Win+Alt+K auf ein Makro setzen
@@ -45,7 +46,7 @@ Notes:
   * Crop:  kann anders belegt werden (Screenshot ist bereits `Win+Shift+S`)
   * X:     frei
 
-_ACHTUNG: Die Layouts (VIA) sind eng verknüpft mit der Firmware (QMK). Bei einem Firmware Change müssen ggf. die Layouts erneuert werden!_
+Beachte Notizen in [QMK/VIA](#qmkvia).
 
 ## Android Konfiguration
 
@@ -70,7 +71,32 @@ https://keychron.de/products/keychron-k5-pro-qmk-via-wireless-custom-mechanical-
 * QMK: Firmware
 * VIA: Layout definition
 
-Beachte "ACHTUNG" in [Aktuelle Konfiguration](#aktuelle-konfiguration).
+_ACHTUNG: Die Layouts (VIA) sind eng verknüpft mit der Firmware (QMK). Bei einem Firmware Change müssen ggf. die Layouts erneuert werden!_
+
+### NOTE: Bug with Custom keys (as of 2024-04-28)
+
+Keys of the Custom tab are offset by 2, i.e.
+
+| Custom Key | Via.app¹         | Keychron K5 Pro² |
+| ---------- | ---------------- | ---------------- |
+| 0          | Left Option      | ?                |
+| 1          | Right Option     | ?                |
+| 2          | Left Cmd         | Left Option      |
+| 0          | Right Cmd        | Right Option     |
+| 4          | Task View        | Left Cmd         |
+| 5          | File Explorer    | Right Cmd        |
+| 6          | Screenshot       | Task?            |
+| 7          | Cortana          | File?            |
+| 8          | Siri             | Screenshot?      |
+| 9          | Bluetooth Host 1 | Cortana?         |
+| 10         | Bluetooth Host 2 | Siri?            |
+| 11         | Bluetooth Host 3 | Bluetooth Host 1 |
+| 12         | Battery Level    | Bluetooth Host 2 |
+| 13         | Any              | Bluetooth Host 3 |
+| 14         | Custom(14)       | Battery Level    |
+
+¹ Shown in the app
+² Actual outcome
 
 ### Links
 * https://www.caniusevia.com/ (u.a. Read the docs, Start now)
@@ -92,24 +118,3 @@ Beachte "ACHTUNG" in [Aktuelle Konfiguration](#aktuelle-konfiguration).
 ## Fragen
 * Was bewirkt die NKRO-Taste? -> ohne NKRO: 6 Keys gleichzeitig; mit NKRO: beliebig viele Keys gleichzeitig
 
-## NOTE: Bug with Custom keys (as of 2024-04-28)
-
-Some or all Keys of the Custom tab are show wrong, i.e.
-
-| Custom Key | Via.app          | Keychron K5 Pro  |
-| ---------- | ---------------- | ---------------- |
-| 0          | Left Option      | ?                |
-| 1          | Right Option     | ?                |
-| 2          | Left Cmd         | ?                |
-| 0          | Right Cmd        | ?                |
-| 4          | Task View        | ?                |
-| 5          | File Explorer    | ?                |
-| 6          | Screenshot       | ?                |
-| 7          | Cortana          | ?                |
-| 8          | Siri             | ?                |
-| 9          | Bluetooth Host 1 | ?                |
-| 10         | Bluetooth Host 2 | ?                |
-| 11         | Bluetooth Host 3 | Bluetooth Host 1 |
-| 12         | Battery Level    | Bluetooth Host 2 |
-| 13         | n.a.             | Bluetooth Host 3 |
-| 14         | n.a.             | Battery Level    |
