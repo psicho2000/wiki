@@ -23,6 +23,7 @@ Notes:
   * Media, Volume +/-, Mute: konfigurierbar, falls gewünscht
   * Mic Mute: bedingt konfigurierbar, s. unten
 * Konfigurationsmöglichkeiten sind dokumentiert in https://launcher.keychron.com/#/keymap > Layer > Hover über ?
+  * Kopie siehe unten
 
 ## Microphone Mute
 * In Windows: Win+Alt+K auf ein Makro setzen
@@ -118,3 +119,11 @@ Keys of the Custom tab are offset by 2, i.e.
 ## Fragen
 * Was bewirkt die NKRO-Taste? -> ohne NKRO: 6 Keys gleichzeitig; mit NKRO: beliebig viele Keys gleichzeitig
 
+## Layer behavior
+
+MO(n)   Temporarily activate layer n. Once the key is released, the layer will deactivate. The Fn key on the keybard typically uses this setting.
+TG(n)   Change the state of layer n: if it is inactive, activate it; if it is active, deactivate it.
+TT(n)   When holding down this key, the layer will be activated and deactivated upon release (similar to MO). Repated tapping will toggle the layer on or off (similar to TG). By default, this requires 5 taps.
+OSL(n)  Temporarily activate layer n until the next key is pressed.
+TO(N)   Activate layer n and deactivate all other layers (except the default layer). This unique function allows a lower layer to replace a higher layer. It activates when the key is pressed (as lon as the key is held down).
+DF(n)   Temporarily switch the default layer to layer n. Note that this is a temporary switch and will be invalid after the keyboard is powered off.
