@@ -201,7 +201,6 @@ iTerm2
         Profiles
             Colors
                 Configure a color scheme, e.g. Gruvbox dark
-                Cursor Colors > Cursor: 7f7f7f (workaround for non effective `it2setcolor curbg`)
             Text
                 Font: CaskaydiaCove Nerd Font | Size: 18
                 x Use ligatures
