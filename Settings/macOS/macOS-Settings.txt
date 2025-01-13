@@ -191,10 +191,10 @@ iTerm2
         General
             Selection
                 x Applications in terminal may access clipboard
-            Preferences
-                x Load preferences from a custom folder or URL
+            Settings
+                x Load settings from a custom folder or URL
                     ~/Projects/wiki/Settings/iTerm2
-                Save changes Automatically
+                Save changes: Automatically
         Appearance
             Dimming
                 Dimming amount: 15
@@ -202,6 +202,7 @@ iTerm2
             Colors
                 Configure a color scheme, e.g. Gruvbox dark
             Text
+                Cursor: Blinking cursor
                 Font: CaskaydiaCove Nerd Font | Size: 18
                 x Use ligatures
                 x Anti-aliased
