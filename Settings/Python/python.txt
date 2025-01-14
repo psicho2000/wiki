@@ -55,3 +55,10 @@ poetry env use python
 poetry env remove
 ```
 
+# Usage
+
+Testing
+```bash
+poetry run pytest -vv
+python3 -m unittest
+```
