@@ -47,6 +47,10 @@ Notes:
   * Crop:  kann anders belegt werden (Screenshot ist bereits `Win+Shift+S`)
   * X:     frei
 
+Achtung:
+* Layouts mit Suffix `-a` sind kompatibel mit usevia.app
+* Layouts mit Suffix `-b` sind kompatibel mit launcher.keychron.com
+
 Beachte Notizen in [QMK/VIA](#qmkvia).
 
 ## Android Konfiguration
