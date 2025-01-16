@@ -60,6 +60,10 @@ Windows Settings (Win+I)
             Transparenz: Ein
             Akzent: Auto
             Akzent zeigen auf: Start, Taskleiste, Info-Center
+    Zeit und Sprache
+        Datum und Zeit
+            Uhrzeit und Datum in der Taskleiste anzeigen: x
+                x Sekunden in der Taskleistenuhr anzeigen
     Datenschutz und Sicherheit > Windows durchsuchen
         Erweitert
     Konten > Anmeldeoptionen
