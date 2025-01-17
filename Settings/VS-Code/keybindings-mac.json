@@ -1,0 +1,58 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "alt+right",
+        "command": "cursorWordPartRight",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+shift+right",
+        "command": "cursorWordPartRightSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+left",
+        "command": "cursorWordPartLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+shift+left",
+        "command": "cursorWordPartLeftSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "cmd+k tab",
+        "command": "type",
+        "args": {
+            "text": "\t"
+        },
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+pagedown",
+        "command": "workbench.action.moveEditorRightInGroup"
+    },
+    {
+        "key": "ctrl+shift+pageup",
+        "command": "workbench.action.moveEditorLeftInGroup"
+    },
+    {
+        "key": "insert",
+        "command": "editor.action.toggleOvertypeInsertMode"
+    },
+    {
+        "key": "alt+backspace",
+        "command": "-deleteWordLeft",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+backspace",
+        "command": "deleteWordPartLeft",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+alt+backspace",
+        "command": "-deleteWordPartLeft",
+        "when": "textInputFocus && !editorReadonly"
+    }
+]

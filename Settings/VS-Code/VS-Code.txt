@@ -1,6 +1,7 @@
 Copy keybindings.json and settings.json to
     %appdata%\Code\User                         # Windows
     ~/Library/Application\ Support/Code/User    # macOS
+Rename keybindings-win.json/keybindings-mac.json to keybindings.json
 
 Plugins
     # encoding
