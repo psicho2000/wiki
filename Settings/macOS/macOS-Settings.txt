@@ -238,6 +238,7 @@ iTerm2
                     + 󰘵 Del:            Send Escape Sequence "[3;3~"    (kill-word)
                     + 󰘵 ◀︎:              Send Escape Sequence "h"        (Jump word wise left)
                     + 󰘵 ▶:              Send Escape Sequence "l"        (Jump word wise right)
+                    + Help:             Send Escape Sequence "[2~"      (Insert; note: pressing Insert yields Help)
                     + 󰘳 ◀︎:              Send Hex Code "0x01"            (Home)
                     + 󰘳 ▶:              Send Hex Code "0x05"            (End)
                     + 󰘶 󱁐:              Send Text " "                   (Otherwise Shift+Space deletes line)

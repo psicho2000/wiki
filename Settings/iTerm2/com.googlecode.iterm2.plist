@@ -735,6 +735,19 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
+				<key>0xf746-0x0-0x72</key>
+				<dict>
+					<key>Action</key>
+					<integer>10</integer>
+					<key>Apply Mode</key>
+					<integer>0</integer>
+					<key>Escaping</key>
+					<integer>2</integer>
+					<key>Text</key>
+					<string>[2~</string>
+					<key>Version</key>
+					<integer>2</integer>
+				</dict>
 			</dict>
 			<key>Left Option Key Changeable</key>
 			<false/>
