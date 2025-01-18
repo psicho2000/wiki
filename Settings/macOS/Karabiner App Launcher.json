@@ -1,0 +1,35 @@
+{
+    "description": "App Launcher",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "f14"
+            },
+            "to": [
+                {
+                    "software_function": {
+                        "open_application": {
+                            "file_path": "/Applications/KeePassXC.app"
+                        }
+                    }
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "f15"
+            },
+            "to": [
+                {
+                    "software_function": {
+                        "open_application": {
+                            "file_path": "/Applications/WhatsApp.app"
+                        }
+                    }
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
