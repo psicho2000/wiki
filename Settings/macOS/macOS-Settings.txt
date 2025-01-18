@@ -276,3 +276,12 @@ Ukelele
         * kleines ^ (6)                     -> normales ^
         * Dead ~ (rechts von Left Shift)    -> Undead ~
         * Dead " (rechts von :)             -> Undead "
+    * 3. Ebene (Option)
+        * Num1                              -> ä
+        * Num2                              -> ö
+        * Num3                              -> ü
+        * Num4                              -> Ä
+        * Num5                              -> Ö
+        * Num6                              -> ü
+        * Num7                              -> ß
+        * Num8                              -> €

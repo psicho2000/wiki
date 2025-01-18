@@ -12,11 +12,8 @@
             },
             "to": [
                 {
-                    "key_code": "u",
-                    "modifiers": "left_option"
-                },
-                {
-                    "key_code": "a"
+                    "key_code": "keypad_1",
+                    "modifiers": "right_option"
                 }
             ],
             "type": "basic"
@@ -33,12 +30,8 @@
             },
             "to": [
                 {
-                    "key_code": "u",
-                    "modifiers": "left_option"
-                },
-                {
-                    "key_code": "a",
-                    "modifiers": "left_shift"
+                    "key_code": "keypad_4",
+                    "modifiers": "right_option"
                 }
             ],
             "type": "basic"
@@ -54,11 +47,8 @@
             },
             "to": [
                 {
-                    "key_code": "u",
-                    "modifiers": "left_option"
-                },
-                {
-                    "key_code": "u"
+                    "key_code": "keypad_3",
+                    "modifiers": "right_option"
                 }
             ],
             "type": "basic"
@@ -75,12 +65,8 @@
             },
             "to": [
                 {
-                    "key_code": "u",
-                    "modifiers": "left_option"
-                },
-                {
-                    "key_code": "u",
-                    "modifiers": "left_shift"
+                    "key_code": "keypad_6",
+                    "modifiers": "right_option"
                 }
             ],
             "type": "basic"
@@ -96,11 +82,8 @@
             },
             "to": [
                 {
-                    "key_code": "u",
-                    "modifiers": "left_option"
-                },
-                {
-                    "key_code": "o"
+                    "key_code": "keypad_2",
+                    "modifiers": "right_option"
                 }
             ],
             "type": "basic"
@@ -117,12 +100,8 @@
             },
             "to": [
                 {
-                    "key_code": "u",
-                    "modifiers": "left_option"
-                },
-                {
-                    "key_code": "o",
-                    "modifiers": "left_shift"
+                    "key_code": "keypad_5",
+                    "modifiers": "right_option"
                 }
             ],
             "type": "basic"
@@ -138,8 +117,8 @@
             },
             "to": [
                 {
-                    "key_code": "s",
-                    "modifiers": "left_option"
+                    "key_code": "keypad_7",
+                    "modifiers": "right_option"
                 }
             ],
             "type": "basic"
@@ -155,11 +134,8 @@
             },
             "to": [
                 {
-                    "key_code": "2",
-                    "modifiers": [
-                        "left_option",
-                        "left_shift"
-                    ]
+                    "key_code": "keypad_8",
+                    "modifiers": "right_option"
                 }
             ],
             "type": "basic"
