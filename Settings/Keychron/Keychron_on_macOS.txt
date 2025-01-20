@@ -1,10 +1,3 @@
-[1]
-macOS Settings > Tastatur > Tastaturkurzbefehle > Sondertasten
-    # Configure Keychron K5 Pro instead if Karabiner is not used
-    Karabiner
-        # Needs to be applied when and only when Keychron is the active Keyboard. Will break Esc of native Keyboard.
-        Feststelltaste: Feststelltaste
-
 Via (https://usevia.app)
     Via Layer 0
         ^: NUBS
@@ -14,18 +7,17 @@ Via (https://usevia.app)
         F1-F12: F1-F12
         Lampe: RGBToggle
         Kreis: Calc
-        Macro M2: {+KC_LCTL}{+KC_LGUI}q{-KC_LCTL}{-KC_LGUI}
-        Dreieck:
-        Viereck:
+        Dreieck: F14 (Karabiner App Launcher.json)
+        Viereck: F15 (Karabiner App Launcher.json)
         X: Macro M2 (lock screen)
-
+            Macro M2: {+KC_LCTL}{+KC_LGUI}q{-KC_LCTL}{-KC_LGUI}
 
     Via Layer 1
-        Caps: Caps (see [1])
+        Caps: Caps
         F1: Scr-
         F2: Scr+
-        F3:
-        F4:
+        F3: Task
+        F4: File
         F5: Brght-
         F6: Brght+
         F7: Prvs
@@ -41,9 +33,12 @@ Karabiner-Elements > Settings > Devices
 
 ---
 
-Note: When connected via USB, Keychron shows up as an additional, different Keyboard on mac.
+Notes:
+* When connected via USB, Keychron shows up as an additional, different Keyboard on mac.
+* For Fn+Caps to work in a compatible way, Karabiner needs to Simple Modifications > Apple Internal Keyboard
+    caps_lock -> escape
 
 ToDo:
-    * assign F3, F4 on Layer 1
-    * assign Triangle, Square to KeepassXC, WhatsApp
-    * Find a compatible way to use Fn+Caps for Caps (see first abstract)
+    * assign F3, F4 on Layer 1 to Task, File, resp. (cf. Lemokey)
+    * assign Dreiect, Viereck to F14, F15, resp. (cf. Lemokey)
+    * test CapsLock behavior
