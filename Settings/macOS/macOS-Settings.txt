@@ -131,6 +131,8 @@ Karabiner
         For all devices
             Controls and symboles > grave_accent_and_tilde (`) -> Others > key_code::fn
             Modifier keys > right_shift                        -> Modifier keys > left_shift
+        Apple Internal Keyboard
+            Modifier keys > caps_lock                          -> Controls and symbols > escape
     Complex Modifications
         Add your own rule
             Karabiner Umlaute.json (maps äöüÄÖUß€ to US International Layout on Windows)
@@ -139,7 +141,6 @@ Karabiner
             Karabiner CapsLock.json (maps CapsLock incl. most modifiers to Escape, keeps Globe+CapsLock to CapsLock)
             Karabiner Youtube Scrolling.json (maps Ctrl+, to 5x , and Ctrl+Shift+, to 15x , - same for .)
     Virtual Keyboard > Keyboard type: ANSI
-
 
 Rectangle
     Tab 2

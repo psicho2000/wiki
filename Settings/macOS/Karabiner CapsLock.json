@@ -3,19 +3,15 @@
     "manipulators": [
         {
             "from": {
-                "key_code": "caps_lock",
+                "key_code": "escape",
                 "modifiers": {
-                    "optional": [
-                        "left_shift",
-                        "left_control",
-                        "left_option",
-                        "left_command"
-                    ]
+                    "mandatory": "fn",
+                    "optional": "caps_lock"
                 }
             },
             "to": [
                 {
-                    "key_code": "escape"
+                    "key_code": "caps_lock"
                 }
             ],
             "type": "basic"
