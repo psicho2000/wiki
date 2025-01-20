@@ -54,5 +54,21 @@
         "key": "ctrl+alt+backspace",
         "command": "-deleteWordPartLeft",
         "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+up",
+        "command": "workbench.action.navigateBackInEditLocations"
+    },
+    {
+        "key": "ctrl+shift+[",
+        "command": "workbench.action.navigateBackInEditLocations"
+    },
+    {
+        "key": "ctrl+shift+]",
+        "command": "workbench.action.navigateForwardInEditLocations"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "workbench.action.navigateForwardInEditLocations"
     }
 ]
