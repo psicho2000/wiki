@@ -15,6 +15,13 @@ apt install -y python3-pip python3-venv pylint mypy
 curl -sSL https://install.python-poetry.org | python3 -
 ```
 
+Install specific version:
+```bash
+sudo add-apt-repository ppa:deadsnakes/ppa --yes
+sudo apt update
+sudo apt install python3.11 python3.11-venv --yes
+```
+
 Add to shell config:
 `export PATH="/home/markus/.local/bin:$PATH"`
 
@@ -49,7 +56,8 @@ Deactivate the venv:
 deactivate
 ```
 
-Alternatively use poetry to creating and activating virtual environment and deactivate it:
+Alternatively use poetry to creating and activating virtual environment and deactivate it.
+Be sure to use the right python variant (i.e., replace python by a concrete path or version).
 ```bash
 poetry env use python
 poetry env remove
