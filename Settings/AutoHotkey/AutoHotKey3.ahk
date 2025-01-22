@@ -2,20 +2,21 @@
 ; Place Shortcut to this file in Autostart (Win+R: "shell:startup")
 
 ; Start Explorer with Desktop activated (needs a Desktop Shortcut)
-#e::Run('D:\Installs\Desktop')
-
-; Fallback for Keyboards not configuring the following remaps
-; Remap Capslock to Escape
-Capslock::Esc
-; Remap left \| (<>|) to AltGR
-SC056::RAlt
+; #e::Run('D:\Installs\Desktop')
 
 ; Map F13 to KeePassXC
 F13::Run("`"C:\Program Files\KeePassXC\KeePassXC.exe`"")
-; Map F14 to Franz
-F14::Run("`"C:\Users\Markus\AppData\Local\Programs\franz\Franz.exe`"")
+; Map F14 to Slack
+F14::Run("`"\path\to\slack`"")
 
-; Map Ctrl+Alt+[ to KeePassXC
-;^![::Run("`"C:\Program Files\KeePassXC\KeePassXC.exe`"")
-; Map Ctrl+Alt+] to Slack
-;^!]::Run("`"C:\Users\Markus\AppData\Local\Programs\franz\Franz.exe`"")
+;;;;;; Fallbacks for Keyboards not configuring the following remaps
+
+; Remap Capslock to Escape and AltGR+Capslock to Capslock
+; Keychron: Caps->Esc and Fn+Caps->Caps, which only works if AutoHotKey is inactive (blocked by Capslock::Esc)
+; Note: This mapping also overwrites the (unused) Windows Shortcut AltGR+Esc, which is switching Apps without Popup
+Capslock::Esc
+^!Capslock::Capslock
+^!Esc::Capslock         ; needed for Keychron
+
+; Remap left \| (<>|) to AltGR
+SC056::RAlt
