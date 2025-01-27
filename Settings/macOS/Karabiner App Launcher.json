@@ -30,6 +30,21 @@
                 }
             ],
             "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "f16"
+            },
+            "to": [
+                {
+                    "software_function": {
+                        "open_application": {
+                            "file_path": "/System/Applications/Utilities/Digital Color Meter.app"
+                        }
+                    }
+                }
+            ],
+            "type": "basic"
         }
     ]
 }
