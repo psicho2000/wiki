@@ -137,7 +137,7 @@ Karabiner
         Add your own rule
             Karabiner Umlaute.json (maps äöüÄÖUß€ to US International Layout on Windows)
             Karabiner Snap Companion.json (maps  Key -> 󰘴 󰘳 Key for Key in `,1...4)
-            Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows)
+            Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows and  + i to Insert)
             Karabiner CapsLock.json (maps CapsLock incl. most modifiers to Escape, keeps Globe+CapsLock to CapsLock)
             Karabiner Youtube Scrolling.json (maps Ctrl+, to 5x , and Ctrl+Shift+, to 15x , - same for .)
     Virtual Keyboard > Keyboard type: ANSI

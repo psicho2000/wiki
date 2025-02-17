@@ -64,6 +64,22 @@
                 }
             ],
             "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "i",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "insert"
+                }
+            ],
+            "type": "basic"
         }
     ]
 }
