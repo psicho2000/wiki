@@ -4,10 +4,10 @@
 ; Start Explorer with Desktop activated (needs a Desktop Shortcut)
 ; #e::Run('D:\Installs\Desktop')
 
-; Map F13 to KeePassXC
-F13::Run("`"C:\Program Files\KeePassXC\KeePassXC.exe`"")
-; Map F14 to Slack
-F14::Run("`"\path\to\slack`"")
+; Map F14 to KeePass
+F14::Run("`"\path\to\keepass`"")
+; Map F15 to chat app
+F15::Run("`"\path\to\chat-app`"")
 
 ;;;;;; Fallbacks for Keyboards not configuring the following remaps
 
