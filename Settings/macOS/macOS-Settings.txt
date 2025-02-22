@@ -278,6 +278,10 @@ Ukelele
         * Dead ~ (rechts von Left Shift)    -> Undead ~
         * Dead " (rechts von :)             -> Undead "
     * 3. Ebene (Option)
+        * 1                                 -> ¹
+        * 2                                 -> ²
+        * 3                                 -> ³
+        * 4                                 -> ⁴
         * Num1                              -> ä
         * Num2                              -> ö
         * Num3                              -> ü
@@ -286,3 +290,15 @@ Ukelele
         * Num6                              -> ü
         * Num7                              -> ß
         * Num8                              -> €
+
+* Always install for Current User (Installing for All Users crashes)
+* Update procedure:
+    1. Ukelele > File > Install > Show Organiser
+        a. Set Folder... > Documents
+        b. Remove from current user
+    2. Copy 'US International - Custom.bundle' to Documents
+    3. Ukelele > File > Install > Show Organiser
+        a. Install for Current User
+    4. Relogin
+    5. Systemeinstellungen > Keyboard > Texteingabe > Eingabequellen > Bearbeiten...
+        + > Englisch > US International - Custom > Hinzufügen
