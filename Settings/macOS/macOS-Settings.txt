@@ -80,6 +80,7 @@ Systemeinstellungen
             o Klick durch Tippen
         Weitere Gesten
             Mit Streichen Seiten blättern: Mit zwei Fingern horizontal scrollen
+            App-Exposé: Mit vier Fingern abwärts streichen
 
 Widgets
     Wetter | Uhr
