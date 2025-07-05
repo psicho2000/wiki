@@ -1,0 +1,5 @@
+Macro 0
+{+KC_LSFT}{+KC_LGUI}4{-KC_LSFT}{-KC_LGUI}
+
+Macro 1
+{+KC_LSFT}{+KC_LGUI}5{-KC_LSFT}{-KC_LGUI}
