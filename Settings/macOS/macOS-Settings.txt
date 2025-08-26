@@ -130,6 +130,7 @@ Logi Options+
 Karabiner
     Simple Modifications
         For all devices
+            Function keys > f13                                -> Application launch keys > Calculator
             Controls and symboles > grave_accent_and_tilde (`) -> Others > key_code::fn
             Modifier keys > right_shift                        -> Modifier keys > left_shift
         Apple Internal Keyboard
