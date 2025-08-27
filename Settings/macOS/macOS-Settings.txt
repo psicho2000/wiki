@@ -9,7 +9,7 @@
            Schieben zu "Installed for Current User"
        b) Alternativ: Kopieren nach "~/Library/Keyboard Layouts/"
     2. Logout and Login again
-    3. Note: Karabiner might be obstructing the key "non_us_backlash" (`~). If so, edit Karabiner settings:
+    3. Note: Karabiner might be obstructing the key "non_us_backlash" (`~). If so, temporarily edit Karabiner settings:
        Virtual Keyboard > Keyboard type: ANSI
 
 Systemeinstellungen
@@ -130,11 +130,13 @@ Logi Options+
 Karabiner
     Simple Modifications
         For all devices
-            Function keys > f13                                -> Application launch keys > Calculator
-            Controls and symboles > grave_accent_and_tilde (`) -> Others > key_code::fn
-            Modifier keys > right_shift                        -> Modifier keys > left_shift
+            Function keys > f13                               -> Application launch keys > Calculator
+            Controls and symbols > non_us_backslash           -> Others > key_code::fn
+            Modifier keys > right_shift                       -> Modifier keys > left_shift
         Apple Internal Keyboard
-            Modifier keys > caps_lock                          -> Controls and symbols > escape
+            Modifier keys > caps_lock                         -> Controls and symbols > escape
+            Controls and symbols > non_us_backslash           -> Controls and symbols > grave_accent_and_tilde (`)
+            Controls and symbols > grave_accent_and_tilde (`) -> Others > key_code::fn
     Complex Modifications
         Add your own rule
             Karabiner Umlaute.json (maps äöüÄÖUß€ to US International Layout on Windows)
@@ -142,7 +144,7 @@ Karabiner
             Karabiner Vim Arrows.json (maps  + h/j/k/l to arrows and  + i to Insert)
             Karabiner CapsLock.json (maps CapsLock incl. most modifiers to Escape, keeps Globe+CapsLock to CapsLock)
             Karabiner Youtube Scrolling.json (maps Ctrl+, to 5x , and Ctrl+Shift+, to 15x , - same for .)
-    Virtual Keyboard > Keyboard type: ANSI
+    Virtual Keyboard > Keyboard type: ISO
 
 Rectangle
     Tab 2
