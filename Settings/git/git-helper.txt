@@ -7,7 +7,7 @@ git config --global core.autocrlf true
 
 ###############################################################
 
-# stage and commit 
+# stage and commit
 git commit -am "commit message"
 
 # filter contents of a repository
@@ -56,6 +56,13 @@ git show --stat <commit>
 # create tag
 git tag -a v1.0.1
 git push --tags
+
+# unshallow: fetch complete history, if previously only partially fetched
+git fetch --unshallow
+
+# track another branch, if previously cloned via --single-branch
+git remote set-branches --add origin <remote branch-name>
+git fetch origin
 
 ##### REMARKS
 # <tab> <tab> enables auto-completion. Useful also to find out known repositories (which must have been fetched first).
