@@ -89,7 +89,7 @@
         "defaults": {
             "bellStyle": "none",
             "closeOnExit": "always",
-            "experimental.repositionCursorWithMouse": true,
+            "experimental.repositionCursorWithMouse": false,
             "font": {
                 "face": "MonaspiceNe Nerd Font",
                 "features": {
