@@ -306,3 +306,8 @@ Ukelele
     4. Relogin
     5. Systemeinstellungen > Keyboard > Texteingabe > Eingabequellen > Bearbeiten...
         + > Englisch > US International - Custom > Hinzufügen
+
+Kurzbefehle
+  https://www.icloud.com/shortcuts/2c5120d27dd549df8ca3dabe1c6b7af7
+    Rightclick > Symbol ändern > Keyboard
+    Rightclick > Bearbeiten > (i) > Tastaturkurzbefehl hinzufügen > Globe+Z
