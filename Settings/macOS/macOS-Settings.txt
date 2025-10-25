@@ -307,6 +307,23 @@ Ukelele
     5. Systemeinstellungen > Keyboard > Texteingabe > Eingabequellen > Bearbeiten...
         + > Englisch > US International - Custom > Hinzufügen
 
+Menüleiste konfigurieren
+* Hidden Bar installieren und konfigurieren
+* https://www.heise.de/ratgeber/Tipp-Mehr-Platz-fuer-Menueleistensymbole-in-macOS-9850600.html
+  ```
+  defaults -currentHost write -g NSStatusItemSpacing -int 6
+  defaults -currentHost write -g NSStatusItemSelectionPadding -int 6
+  killall ControlCenter
+  ```
+  Then relogin
+* To reset:
+  ```
+  defaults -currentHost delete -g NSStatusItemSpacing
+  defaults -currentHost delete -g NSStatusItemSelectionPadding
+  killall ControlCenter
+  ```
+  Then relogin
+
 Kurzbefehle
   https://www.icloud.com/shortcuts/2c5120d27dd549df8ca3dabe1c6b7af7
     Rightclick > Symbol ändern > Keyboard
