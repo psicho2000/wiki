@@ -26,39 +26,50 @@ Systemeinstellungen
         Zeigersteuerung > Trackpad-Optionen
             x Trackpad zum ziehen verwenden
             Zugstil: Mit drei Fingern bewegen
-    Kontrollzentrum
-        Stage Manager: Nicht in Menüleiste anzeigen
-        Andere Module
-            alle im Kontrollzentrum anzeigen
-            Batterie
+    Menüleiste
+        Menüleistensteuerung
+            Steuerung hinzufügen...
+                s. Kontrollzentrum.xlsx
+            Uhr > Uhroptionen
+                Datum anzeigen: immer
+                Wochentag anzeigen: x
+                Blinkende Trennzeichen: o
+                Uhrzeit mit Sekunden anzeigen: x
+            o Siri
+            o Spotlight
+            x WLAN
+            x Bluetooth
+            x Batterie > Batterieoptionen
                 x Prozent anzeigen
-            Schneller Benutzerwechsel
-                In Menüleisten anzeigen: Symbol
-        Uhr > Uhroptionen
-            Datum anzeigen: immer
-            Wochentag anzeigen: x
-            Uhrzeit mit Sekunden azeigen: x
-        Spotlight: Nicht in Menüleiste anzeigen
-        Time Machine: In Menüleiste anzeigen
-    Datenschutz & Sicherheit
-        Entwickler-Werkzeuge
-            x Terminal
+            x Fokus: Wenn aktiv anzeigen
+            x Bildschirmsynchronisierung: Wenn aktiv anzeigen
+            x Display: Wenn aktiv anzeigen
+            x Ton: Wenn aktiv anzeigen
+            x Jetzt läuft: Wenn aktiv anzeigen
+            x Schneller Benutzerwechsel: Symbol
+            x Time Machine
+            o VPN
+            o Wetter
+    Displays
+        Night Shift...
+            Zeitplan: Eigener
+            Von 22:00 bis 08:00
     Schreibtisch & Dock
         Schreibtisch und Stage Manager
-            Zum Anzeigen des Schreibtischs auf Hintergrundbild klicken: Nur in Stage Manager
-        Standard-Webbrowser: Google Chrome
+            Schreibtisch einblenden: Nur in Stage Manager
+            o Stage Manager
+        Widgets
+            Standard-Webbrowser: Google Chrome
         Fenster
             o Als Kacheln angezeigte Fenster haben Abstand
         Aktive Ecken...
             Rechts unten: Bildschirmschoner ein
-    Displays
-        Zeitplan: Eigener
-        Von 22:00 bis 08:00
+    Datenschutz & Sicherheit
+        Entwickler-Werkzeuge
+            x Terminal
     Tastatur
         Beim Drücken der Globe-Taste: Kein Aktion
         Tastaturkurzbefehle
-            Launchpad & Dock
-                Launchpad einblenden: 󰘵 󰘳 X (Opt+Cmd+X)
             Tastatur
                 o Ändern des Fokus mit der Tabulatortaste (vorher einmal mit Ctrl+F7 aktivieren)
                 o Tastatursteuerung ein- oder ausschalaten
@@ -67,9 +78,8 @@ Systemeinstellungen
             Eingabequellen
                 x Die vorherige Eingabequelle auswählen: 󰘴 󰘵 󱁐 (Ctrl+Opt+Space)
                 o Nächste Quelle aus dem Eingabemenü auswählen
-            App-Tastaturkurzbefehle
-                Alle Programme
-                    Hilfemenü anzeigen: 󰘶 󰘳 / (Shift+Cmd+Slash)
+            Spotlight
+                Apps anzeigen: 󰘵 󰘳 X (Opt+Cmd+X)
             Funktionstasten
                 x Die Tasten F1, F2 usw. als Standard-Funktionstasten verwenden
         Eingabequellen Bearbeiten...
@@ -86,7 +96,7 @@ Widgets
     Wetter | Uhr
       Kalender
     Bildschirmzeit
-      Battieren
+      Batterien
 
 Finder
     Allgemein
