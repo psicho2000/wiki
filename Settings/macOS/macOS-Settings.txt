@@ -53,7 +53,7 @@ Systemeinstellungen
     Displays
         Night Shift...
             Zeitplan: Eigener
-            Von 22:00 bis 08:00
+            Von 20:00 bis 08:00
     Schreibtisch & Dock
         Schreibtisch und Stage Manager
             Schreibtisch einblenden: Nur in Stage Manager
