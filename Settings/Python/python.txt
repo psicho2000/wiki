@@ -38,13 +38,16 @@ Remarks:
 VS Code Settings (Ctrl+,)
     Python > Linting > Pylint path: /usr/bin/pylint
 
+VS Code Extensions: see ../VS-Code/VS-Code.txt
+
 ---
 One time in project directory:
 ```bash
 python3 -m venv .venv
 mkdir .vscode
-echo "{\n    \"mypy.dmypyExecutable\": \"${PWD}/.venv/bin/dmypy\",\n    \"python.linting.pylintPath\": \"${PWD}/.venv/bin/pylint\"\n}" > .vscode/settings.json
+echo "{\n    \"mypy.dmypyExecutable\": \"${PWD}/.venv/bin/dmypy\",\n    \"python.linting.pylintPath\": \"${PWD}/.venv/bin/pylint\",\n    \"mypy-type-checker.preferDaemon\": true\n}" > .vscode/settings.json
 ```
+Restart VS Code afterwards.
 
 Before each run in project directory:
 ```bash
