@@ -1,0 +1,2 @@
+If storing file in iCloud Drive and using also via Keepassium:
+https://support.keepassium.com/kb/database-does-not-exist/#keepassxc
