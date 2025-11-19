@@ -4,6 +4,8 @@
 ; Start Explorer with Desktop activated (needs a Desktop Shortcut)
 ; #e::Run('D:\Installs\Desktop')
 
+; Map F13 to Obsidian
+F13::Run("`"\path\to\obsidian`"")
 ; Map F14 to KeePass
 F14::Run("`"\path\to\keepass`"")
 ; Map F15 to chat app
