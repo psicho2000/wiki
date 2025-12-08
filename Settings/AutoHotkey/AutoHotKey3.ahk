@@ -20,5 +20,11 @@ Capslock::Esc
 ^!Capslock::Capslock
 ^!Esc::Capslock         ; needed for Keychron
 
+; Remap AltGR+h/j/k/l to Arrows
+^!h::left
+^!j::down
+^!k::up
+^!l::right
+
 ; Remap left \| (<>|) to AltGR
 SC056::RAlt
