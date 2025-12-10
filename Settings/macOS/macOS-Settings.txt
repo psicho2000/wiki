@@ -99,25 +99,31 @@ Widgets
       Batterien
 
 Finder
-    Allgemein
-        Neue Finder-Fenster anzeigen: Schreibtisch
-    Seitenleiste
-        Favoriten
-            x Musik
-            x Personal (markus)
-            x Schreibtisch
-                Known issue: https://www.reddit.com/r/MacOS/comments/tad7e3/desktop_keeps_disappearing_from_finders_sidebar/
-        Orte
-            x MacBook Pro von Markus
-            x Festplatten
-        Tags
-            o Benutzte Tags
-    Erweitert
-        x Alle Dateinamensuffixe einblenden
-        Ordner oben anzeigen
-            x Beim Sortieren nach Namen in Fenstern
-            x Auf dem Schreibtisch
-        Bei Suchvorgängen: Aktuellen Ordnern durchsuchen
+    Einstellungen
+        Allgemein
+            Neue Finder-Fenster anzeigen: Schreibtisch
+        Seitenleiste
+            Favoriten
+                x Musik
+                x Personal (markus)
+                x Schreibtisch
+                    Known issue: https://www.reddit.com/r/MacOS/comments/tad7e3/desktop_keeps_disappearing_from_finders_sidebar/
+            Orte
+                x MacBook Pro von Markus
+                x Festplatten
+            Tags
+                o Benutzte Tags
+        Erweitert
+            x Alle Dateinamensuffixe einblenden
+            Ordner oben anzeigen
+                x Beim Sortieren nach Namen in Fenstern
+                x Auf dem Schreibtisch
+            Bei Suchvorgängen: Aktuellen Ordnern durchsuchen
+    Menü > Darstellung
+        Als Spalten (dann wird die folgende Option angezeigt)
+        Darstellungsoptionen einblenden
+            x Spaltengröße an Dateinamen anpassen
+
 
 Favoriten
     Finder: Favorisierte Ordner in Seitenleiste legen
