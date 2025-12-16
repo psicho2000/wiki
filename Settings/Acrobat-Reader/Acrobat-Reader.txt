@@ -23,3 +23,7 @@ Anzeige > Ein-/Ausblenden > Werkzeugleistenelemente (oder Rechtsklick auf Werkze
         x Drehen im UZS
         x Drehen gegen UZS
     Auswählen und Zoomen: alle an
+
+Sonstiges
+* Default für PDF-Dateien: Chrome
+* Acrobat-Plugin in Chrome deaktivieren
