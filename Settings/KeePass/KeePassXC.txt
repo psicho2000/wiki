@@ -1,2 +1,18 @@
 If storing file in iCloud Drive and using also via Keepassium:
 https://support.keepassium.com/kb/database-does-not-exist/#keepassxc
+
+Settings
+    General
+        Basic Settings
+            Startup
+                x Minimize window at application startup
+            Entry Management
+                x Auto-generate password for new entries
+                x Hide windows when copying to clipboard
+                    x Minimize
+            User Interface
+                Font size: Large
+                x Show passwords in color
+    Security
+        Timeouts
+            x Clear clipboard after 20 sec
