@@ -1,4 +1,6 @@
-## Anleitung Via
+## Anleitung Via (DEPRECATED)
+_Note: https://launcher.keychron.com is better maintained for Keychron/Lemokey products._
+
 1. Connect Keyboard using USB
 2. https://usevia.app/
 3. Settings > Show Design Tab: x
