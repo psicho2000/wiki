@@ -62,6 +62,7 @@
         }
     },
     "window.autoDetectColorScheme": true,
+    "window.autoDetectHighContrast": true,
     "window.restoreWindows": "none",
     "window.title": "${dirty}${activeEditorShort}${separator}${rootPath}",
     "window.zoomLevel": 2,
