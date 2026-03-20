@@ -222,6 +222,8 @@ iTerm2
         Profiles
             Colors
                 Configure a color scheme, e.g. Gruvbox dark
+                Bold: ✅ Use bright version of ANSI colors for bold text
+                    o Use custom color for bold text (off) # important for terraform; test via `terraform init`
             Text
                 Cursor: Blinking cursor
                 Font: CaskaydiaCove Nerd Font | Size: 18
