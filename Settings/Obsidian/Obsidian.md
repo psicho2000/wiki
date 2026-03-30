@@ -51,6 +51,7 @@
 ## Feature requests
 https://forum.obsidian.md/t/support-for-vaults-in-windows-subsystem-for-linux-wsl/8580/1
 https://github.com/mgmeyers/obsidian-kanban/issues/94
+https://github.com/dragonwocky/obsidian-tray/issues/65#issuecomment-4148980283
 
 ---
 
