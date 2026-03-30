@@ -34,8 +34,10 @@
         * Toggle window focus hotkey: Ctrl+Shift+Tab
         * Quick note hotkey: empty
     * Self-hosted LiveSync
-        * Install https://gitlab.com/psicho/couchdb
+        * Install CouchDB
+            * https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/setup_own_server.md
             * Open UI (see README) and create database `obsidian`
+            * cf. https://gitlab.com/vipc/docker-runner
         * Install Plugin on PC
             * Remote Database configuration
                 * enter URI, Username, Password, Database name
