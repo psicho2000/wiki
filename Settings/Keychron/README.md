@@ -115,6 +115,7 @@ Keys of the Custom tab are offset by 2, i.e.
 * https://docs.qmk.fm/#/keycodes
 * https://docs.keeb.io/via
 * Firmware: https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k5_pro
+* Hardware: https://github.com/Keychron/Keychron-Keyboards-Hardware-Design
 
 ## Keychron Doku
 * https://www.keychron.com/blogs/archived/how-to-use-via-to-program-your-keyboard
