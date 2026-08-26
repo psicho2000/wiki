@@ -50,8 +50,10 @@ Windows Settings (Win+I)
     Netzerk und Internet > Proxy
         o Einstellungen automatisch erkennen (aus)
     System
+        Strom und Akku
+            x Akkuprozentsatz
         Multitasking > Fenster andocken (SnapLayout / Snap Assistent)
-            o Beim Zeigen mti dem Mauszeiger auf Taskleisten-App, in der Task-Ansicht und biem Drücken von ALT+TAB meine angedockten Fenster anzeigen
+            o Beim Zeigen mit dem Mauszeiger auf Taskleisten-App, in der Task-Ansicht und beim Drücken von ALT+TAB meine angedockten Fenster anzeigen
         Benachrichtigungen und Aktionen > Schnelle Aktionen bearbeiten
     Personalisierung
         Hintergrund: Diashow
@@ -64,7 +66,10 @@ Windows Settings (Win+I)
         Datum und Zeit
             Uhrzeit und Datum in der Taskleiste anzeigen: x
                 x Sekunden in der Taskleistenuhr anzeigen
-    Datenschutz und Sicherheit > Windows durchsuchen
+                Zusätzliche Uhr 1
+                    Zeitzone UTC+00:00
+                    Anzeigename: UTC
+    Datenschutz und Sicherheit > Suche
         Erweitert
     Konten > Anmeldeoptionen
         Apps neu starten: Ein
@@ -77,10 +82,15 @@ US-International-Undead.7z > setup.exe ausführen
         1. regedit > HKLM\SYSTEM\ControlSet001\Control\Keyboard Layouts\ > gewünschtes Layout entfernen
         2. Markus.dll von %windir%\System32 und %windir%\SysWow64 entfernen
 
-Windows Settings > Zeit und Sprache > Sprache und Region
-    Deutsch (Deutschland) > Optionen
-        Tastatur hinzufügen: Englisch (USA, International) - Undead - Custom
-        Tastaturen in der Reihenfolge hinzufügen, so dass Primärtastatur oben in der Liste ist (in diese Eingabemethode wird nach jedem Login gewechselt)
+Windows Settings > Zeit und Sprache
+    Sprache und Region
+        Deutsch (Deutschland) > Optionen
+            Tastatur hinzufügen: Englisch (USA, International) - Undead - Custom
+            Tastaturen in der Reihenfolge hinzufügen, so dass Primärtastatur oben in der Liste ist (in diese Eingabemethode wird nach jedem Login gewechselt)
+    Eingabe > Erweiterte Tastatureinstellungen > Tastenkombinationen für Eingabesprache
+        Tastenkombination ändern
+            Eingabesprache wechseln: Nicht zugewiesen
+            Tastaturlayout wechseln: Nicht zugewiesen
 
 ### Computerkonfiguration
 =========================
@@ -100,12 +110,14 @@ Windows 10 Kontextmenü reaktvieren (geht nicht per .reg-file):
     explorer.exe
     ```
 
-Energieoptionen (Win+X, N)
+Energieoptionen (Win+R, `control`, Energieoptionen)
     Auswählen, was beim Drücken von Netzschaltern geschehen soll
         Einige Einstellungen sind momentan nicht verfügbar
-        Beim Drücken des Netzschalters: Ruhezustand
-        Beim Drücken der Energiespartaste: Energie sparen
-        Beim Zuklappen: Nichts unternehmen
+        Netzschalter-, Energiespartasten- und Zuklappeinstellungen
+            Beim Drücken des Netzschalters: Energie sparen
+            Beim Drücken der Energiespartaste: Energie sparen
+            Beim Zuklappen: Nichts unternehmen
+        Einstellungen für das Herunterfahren
             x Ruhezustand
 
 ### Dienste
@@ -114,8 +126,6 @@ Windows-Fehlerberichterstattungsdienst: deaktivieren
 
 ### Optional
 ============
-Bibliotheken konfigurieren
-
 weitere Benutzer hinzufügen
     Konten > Famile & weitere Kontakte > Diesem PC eine andere Person hinzufügen >
         Ich kenne die Anmeldeinformationen für diese Person nicht > Benutzer ohne Microsoft-Konto hinzufügen
