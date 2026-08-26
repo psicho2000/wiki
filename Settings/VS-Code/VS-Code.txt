@@ -31,6 +31,7 @@ Plugins
     fr43nk.seito-openfile
     eamodio.gitlens
     medo64.render-crlf
+    ms-vscode-remote.remote-wsl
     # Presentation
     # Syntax: https://marpit.marp.app/markdown
     # transitions only work when exported to html; favorite: cover explode fade fade-out glow implode reveal slide
