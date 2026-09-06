@@ -69,5 +69,32 @@
     "workbench.colorTheme": "Solarized Dark",
     "workbench.editor.enablePreview": false,
     "workbench.startupEditor": "newUntitledFile",
-    "zenMode.hideLineNumbers": false
+    "zenMode.hideLineNumbers": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.colorCustomizations": {
+        "contrastBorder": "#b7a47460",
+        "editor.lineHighlightBackground": "#b7a47460",
+        "editor.wordHighlightBackground": "#b7a47430",
+        "editor.wordHighlightBorder": "#b7a47430",
+        "editor.wordHighlightStrongBackground": "#b7a474b2",
+        "editor.wordHighlightStrongBorder": "#b7a474b2",
+        "editorUnicodeHighlight.border": "#ff0000dc",
+        "editorUnicodeHighlight.background": "#ff00005b"
+    },
+    "editor.unicodeHighlight.includeComments": true,
+    "editor.unicodeHighlight.nonBasicASCII": true,
+    "editor.unicodeHighlight.allowedCharacters": {
+        "ä": true,
+        "ö": true,
+        "ü": true,
+        "Ä": true,
+        "Ö": true,
+        "Ü": true,
+        "ß": true,
+        "ℹ️": true,
+        "⚠️": true,
+        "✅": true,
+        "💥": true,
+        "❌": true
+    }
 }
