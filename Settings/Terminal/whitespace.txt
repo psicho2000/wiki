@@ -1,0 +1,25 @@
+# Vim
+# * Use ga to get the ASCII code of a character
+# * Use :set list! (<leader>q) to toggle showing whitespace as defined in set listchars
+
+# Visual Studio Code
+# ```json
+# {
+#   "editor.renderWhitespace": "selection",
+#   "editor.unicodeHighlight.includeComments": true,
+#   "editor.unicodeHighlight.nonBasicASCII": true
+#   "workbench.colorCustomizations": {
+#     "editorUnicodeHighlight.border": "#ff0000dc",
+#     "editorUnicodeHighlight.background": "#ff00005b",
+#   },
+# }
+# ```
+
+Carriage Return Line Feed
+Line Feed
+	tabulator
+    spaces
+non-breaking space
+breaking space
+semicolon ;
+greece semicolon (question mark) ;
