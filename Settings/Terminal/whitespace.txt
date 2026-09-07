@@ -22,4 +22,4 @@ Line Feed
 non-breaking space
 breaking space
 semicolon ;
-greece semicolon (question mark) ;
+greek semicolon (question mark) ;
