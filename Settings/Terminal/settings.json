@@ -3,6 +3,10 @@
     "$schema": "https://aka.ms/terminal-profiles-schema",
     "actions": [
         {
+            "id": "Terminal.QuakeMode",
+            "keys": "ctrl+shift+`"
+        },
+        {
             "command": {
                 "action": "newTab"
             },

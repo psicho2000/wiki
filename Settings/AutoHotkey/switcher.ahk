@@ -4,7 +4,7 @@
 ; Requires AutoHotkey v2
 
 ;--------------------------------------------------------
-; Alt+` to switch between windows of the same application
+; Win+` to switch between windows of the same application
 ;--------------------------------------------------------
 
 ; This script piggybacks on the built-in Alt+Tab window switcher,
@@ -46,10 +46,7 @@ WS_CHILD := 0x40000000
 TempHiddenWindows := []
 OriginalExStyles := Map()
 
-!+`:: {
-  FilteredWindowSwitcher()
-}
-!`:: {
+#`:: {
   FilteredWindowSwitcher()
 }
 FilteredWindowSwitcher() {
