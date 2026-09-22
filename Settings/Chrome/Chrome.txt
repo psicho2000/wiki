@@ -39,6 +39,7 @@ chrome://flags/#omnibox-keyword-search-button: Disable
             I dont care about Cookies
             Vimium
             KeePassXC-Browser
+            No smooth scroll 3 (removes the scrolling on middle click behaviour)
         Backlog
             ChromeIPass                 (dazu KeePassHttp.plgx separat herunterladen und im KeePass-Verzeichnis unter Plugins speichern)
             Recent Tabs: https://chrome.google.com/webstore/detail/recent-tabs/ocllfmhjhfmogablefmibmjcodggknml
