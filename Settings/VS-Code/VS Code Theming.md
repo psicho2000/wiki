@@ -125,3 +125,19 @@ Works well with Everforest Dark
   }
 }
 ```
+
+## Modern UI
+
+With modern UI (`workbench.experimental.modernUI`) enabled, a few settings are necessary (themes do not support them yet):
+
+> ℹ️ `workbench.experimental.modernUIEditorTabStyle` is `connected` by default. It currently does not make use of `modernEditorTab` settings, therefore setting it to `pill`.
+
+Works well with Gruvbox Light Medium
+```json
+"workbench.experimental.modernUI": true,
+"workbench.experimental.modernUIEditorTabStyle": "pill",
+"workbench.colorCustomizations": {
+    "modernEditorTab.activeBackground": "#e8d8b4",
+    "modernEditorTab.inactiveBackground": "#fbf1cb"
+}
+```
