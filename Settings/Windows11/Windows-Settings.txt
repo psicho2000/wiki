@@ -50,6 +50,8 @@ Windows Settings (Win+I)
     Netzerk und Internet > Proxy
         o Einstellungen automatisch erkennen (aus)
     System
+        Bildschirm
+            o Einfache Cursorbewegung zwischen Anzeigen (verhindert, dass die Maus auf den Laptop-Bildschirm springt, wenn sie nahe an dessen Rand kommt)
         Strom und Akku
             x Akkuprozentsatz
         Multitasking > Fenster andocken (SnapLayout / Snap Assistent)
