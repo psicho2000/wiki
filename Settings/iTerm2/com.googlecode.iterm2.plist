@@ -99,7 +99,7 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
-		<key>0xf72c-0x40000-0x74</key>
+		<key>0xf72c-0x40000-0x74-0x1</key>
 		<dict>
 			<key>Action</key>
 			<integer>2</integer>
@@ -110,7 +110,7 @@
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
-		<key>0xf72c-0x60000-0x74</key>
+		<key>0xf72c-0x60000-0x74-0x1</key>
 		<dict>
 			<key>Action</key>
 			<integer>33</integer>
@@ -128,7 +128,7 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
-		<key>0xf72d-0x40000-0x79</key>
+		<key>0xf72d-0x40000-0x79-0x1</key>
 		<dict>
 			<key>Action</key>
 			<integer>0</integer>
@@ -139,7 +139,7 @@
 			<key>Version</key>
 			<integer>1</integer>
 		</dict>
-		<key>0xf72d-0x60000-0x79</key>
+		<key>0xf72d-0x60000-0x79-0x1</key>
 		<dict>
 			<key>Action</key>
 			<integer>34</integer>
@@ -524,7 +524,7 @@
 			</array>
 			<key>Keyboard Map</key>
 			<dict>
-				<key>0x20-0x20000-0x31</key>
+				<key>0x20-0x20000-0x31-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>12</integer>
@@ -537,7 +537,7 @@
 					<key>Version</key>
 					<integer>2</integer>
 				</dict>
-				<key>0x5a-0x120000-0x6</key>
+				<key>0x5a-0x120000-0x6-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -548,7 +548,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0x68-0x140000-0x4</key>
+				<key>0x68-0x140000-0x4-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -559,7 +559,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0x6b-0x140000-0x28</key>
+				<key>0x6b-0x140000-0x28-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -570,7 +570,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0x6c-0x140000-0x25</key>
+				<key>0x6c-0x140000-0x25-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -581,7 +581,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0x7a-0x100000-0x6</key>
+				<key>0x7a-0x100000-0x6-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -592,7 +592,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0x7f-0x100000-0x33</key>
+				<key>0x7f-0x100000-0x33-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -603,7 +603,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf702-0x280000-0x7b</key>
+				<key>0xf702-0x280000-0x7b-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -616,7 +616,7 @@
 					<key>Version</key>
 					<integer>2</integer>
 				</dict>
-				<key>0xf702-0x300000-0x7b</key>
+				<key>0xf702-0x300000-0x7b-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>11</integer>
@@ -627,7 +627,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf703-0x280000-0x7c</key>
+				<key>0xf703-0x280000-0x7c-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -640,7 +640,7 @@
 					<key>Version</key>
 					<integer>2</integer>
 				</dict>
-				<key>0xf703-0x300000-0x7c</key>
+				<key>0xf703-0x300000-0x7c-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>11</integer>
@@ -651,7 +651,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf709-0x40000-0x61</key>
+				<key>0xf709-0x40000-0x61-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -662,7 +662,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf70e-0x40000-0x67</key>
+				<key>0xf70e-0x40000-0x67-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -673,7 +673,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf70e-0x80000-0x67</key>
+				<key>0xf70e-0x80000-0x67-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -684,7 +684,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf70f-0x80000-0x6f</key>
+				<key>0xf70f-0x80000-0x6f-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -695,7 +695,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf728-0x100000-0x75</key>
+				<key>0xf728-0x100000-0x75-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -706,7 +706,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf728-0x80000-0x75</key>
+				<key>0xf728-0x80000-0x75-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -717,7 +717,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf72c-0x20000-0x74</key>
+				<key>0xf72c-0x20000-0x74-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -728,7 +728,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf72c-0xc0000-0x74</key>
+				<key>0xf72c-0xc0000-0x74-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -739,7 +739,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf72d-0x20000-0x79</key>
+				<key>0xf72d-0x20000-0x79-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -750,7 +750,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf72d-0xc0000-0x79</key>
+				<key>0xf72d-0xc0000-0x79-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
@@ -761,7 +761,7 @@
 					<key>Version</key>
 					<integer>1</integer>
 				</dict>
-				<key>0xf746-0x0-0x72</key>
+				<key>0xf746-0x0-0x72-0x1</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
