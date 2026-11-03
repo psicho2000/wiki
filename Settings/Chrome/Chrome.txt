@@ -4,6 +4,8 @@ Anschließend nur noch Settings in chrome://flags setzen.
 ----
 
 ... > Einstellungen
+    Darstellung
+        Mit Strg + Tabulatortaste zwischen den beiden zuletzt verwendeten Tabs wechseln: x
     Suchmaschine > Suchmaschinen verwalten
         Hinzufügen
             Bibleserver     b   https://www.bibleserver.com/LUT/%s
