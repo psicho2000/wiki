@@ -1,16 +1,15 @@
-General
-    Run at startup: Ein
-PowerToys Run
-    Open PowerToys Run: Ctrl + Alt + /
-    Maximum number of results: 10
-    Position und Darstellung > Bevorzugte Monitorposition: Monitor mit Fenster, das den Fokus hat
-Mausdienstprogramme
-    Aktivierungsmethode: 2x RightCtrl
-VideoConference Mute
-    Kamera stumm schalten: Win+Shift+V
-    Kamera: HD Pro Webcam C920
-    Überlagerungsbild: Bildverhältnis 16:9
-    Position der Symbolleiste: Links oben
-    Teams > Einstellungen > Geräte > Kamera: PowerToys VideoConference Mute
-Schnelle Akzentuierung
-    Aus
+Allgemein
+    Beim Start ausführen: Ein
+System
+    Heller Modus
+        Heller Modus: Ein
+        Zeitplan
+            Modus: Sonnenuntergang bis Sonnenaufgang
+            Standort: Ort festlegen
+    PowerToys Run
+        Anzahl der Ergebnisse, die vor dem scrollen angezeigt werden: 10
+Eingabe und Ausgabe
+    Mausdienstprogramme
+        Aktivierungsmethode: 2x RightCtrl
+    Schnelle Akzentuierung
+        Aus
